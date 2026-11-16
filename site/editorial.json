@@ -1,0 +1,24 @@
+{
+  "groups": [
+    "Base comum",
+    "Abordagens",
+    "Campos de atuação"
+  ],
+  "planned": {
+    "Base comum": [
+      "Prática informada por evidências"
+    ],
+    "Abordagens": [
+      "Abordagens fenomenológicas e existenciais",
+      "Terapia de Aceitação e Compromisso (ACT)",
+      "Terapia Comportamental Dialética (DBT)"
+    ],
+    "Campos de atuação": [
+      "Saúde coletiva e SUS",
+      "Psicologia escolar",
+      "Psicologia organizacional e do trabalho",
+      "Psicologia hospitalar",
+      "Avaliação psicológica"
+    ]
+  }
+}

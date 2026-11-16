@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#f7f7f2">
+<meta name="description" content="Mapas de estudo de Psicologia com percursos visuais, leituras gratuitas e acompanhamento de progresso.">
+<title>Trilhas da Psicologia</title>
+<link rel="icon" href="marca.svg" type="image/svg+xml">
+<script>
+  (() => {
+    let preference = 'auto';
+    try { preference = localStorage.getItem('trilhas-psicologia:tema') || 'auto'; } catch {}
+    const systemDark = matchMedia('(prefers-color-scheme: dark)').matches;
+    document.documentElement.dataset.theme = preference === 'dark' || (preference !== 'light' && systemDark) ? 'dark' : 'light';
+  })();
+</script>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="progress.css">
+<script type="module" src="app.js"></script>
+</head>
+<body>
+<a class="skip" href="#conteudo">Pular para o conteúdo</a>
+<header class="top"><div class="shell top-inner">
+<a href="#/" class="brand"><img src="marca.svg" alt="" width="34" height="34"><span>Trilhas da Psicologia</span></a>
+<nav aria-label="Principal"><a class="nav-link" href="#/" id="nav-catalogo">Mapas</a><a class="nav-link" href="#/progresso" id="nav-progresso">Meu progresso</a></nav>
+<button class="search-trigger" type="button" aria-label="Buscar mapas e tópicos"><span class="search-icon"></span><span>Buscar</span><kbd>/</kbd></button>
+<label class="theme-control"><span aria-hidden="true" id="theme-icon">◐</span><select id="theme-choice" aria-label="Tema de aparência"><option value="auto">Sistema</option><option value="light">Claro</option><option value="dark">Escuro</option></select></label>
+</div></header>
+<main tabindex="-1" id="conteudo"><div class="shell loading" role="status">Carregando mapas de estudo…</div></main>
+<footer><div class="shell foot"><a class="brand small" href="#/"><img src="marca.svg" alt="">Trilhas da Psicologia</a><a href="#/sobre">Sobre a curadoria</a></div></footer>
+<dialog id="search" aria-labelledby="search-title"><div class="dialoghead"><h2 id="search-title">Buscar no catálogo</h2><button class="close" aria-label="Fechar busca">×</button></div><div class="search-field"><span class="search-icon"></span><input type="search" id="query" aria-label="Buscar por mapa ou tópico" placeholder="Busque por mapa ou tópico…" autocomplete="off"></div><div id="results"></div></dialog>
+<dialog id="detail" aria-labelledby="detail-title"></dialog>
+</body>
+</html>

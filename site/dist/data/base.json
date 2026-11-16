@@ -1,0 +1,2869 @@
+{
+  "id": "base",
+  "title": "Base Comum",
+  "nodes": [
+    {
+      "id": "historia",
+      "title": "História da Psicologia no Brasil",
+      "body": "Quando a Psicologia ganhou espaço nas escolas, nas fábricas e nas universidades brasileiras, cada instituição trouxe perguntas próprias. Selecionar trabalhadores, compreender dificuldades escolares e estudar processos mentais deram origem a práticas e debates distintos. A história da profissão ajuda a situar a pluralidade de abordagens que encontramos hoje.",
+      "objective": "Escolha dois contextos de atuação mencionados por Furtado e explique como cada um influenciou as perguntas feitas por psicólogos.",
+      "resources": [
+        "historia-br",
+        "historia-video"
+      ],
+      "parent": null,
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "historia-br": "Acompanhe as passagens sobre educação, trabalho e regulamentação. Para uma delas, identifique uma instituição, a demanda que ela atendia e os participantes que aparecem na narrativa.",
+        "historia-video": "Assista ao registro da mostra dos 50 anos e escolha um marco que mereça investigação. Procure no artigo de Furtado o contexto em que ele ocorreu."
+      }
+    },
+    {
+      "id": "instituicoes-psicologia",
+      "title": "Onde se ensinava Psicologia",
+      "body": "Antes da criação de cursos próprios, saberes psicológicos já circulavam em escolas de formação docente, serviços de saúde e instituições de trabalho. A instituição influía tanto nas pessoas que podiam estudar quanto nas perguntas que ganhavam espaço.",
+      "objective": "Escolha duas instituições históricas e associe a cada uma um público, uma questão e uma atividade documentada.",
+      "resources": [
+        "bc-h-ensino",
+        "historia-br"
+      ],
+      "resourceGuides": {
+        "bc-h-ensino": "Siga a passagem das instituições de ensino e pesquisa aos cursos de extensão. Anote onde ocorria a formação e quem podia participar.",
+        "historia-br": "Na reconstrução de Odair Furtado, escolha uma instituição e identifique a demanda social à qual sua atividade respondia."
+      },
+      "parent": "historia",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "escolas-normais",
+      "title": "Escolas normais e laboratórios",
+      "body": "Nas escolas normais, destinadas à formação de professores, conhecimentos de Psicologia entraram no currículo. Laboratórios educacionais tornaram o estudo de processos psicológicos parte de projetos pedagógicos concretos. Há divergências entre historiadores sobre como datar os primeiros laboratórios.",
+      "objective": "Use o caso do Pedagogium para distinguir a fundação de uma instituição, a previsão de um laboratório e o registro de seu funcionamento.",
+      "resources": [
+        "bc-h-escola",
+        "bc-h-ensino"
+      ],
+      "resourceGuides": {
+        "bc-h-escola": "Localize o Pedagogium. A autora compara datas e tipos de documento ao discutir o início do laboratório.",
+        "bc-h-ensino": "Procure as escolas normais e acompanhe como a presença da Psicologia no ensino de professores ajudou a constituir um campo de formação."
+      },
+      "parent": "instituicoes-psicologia",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "psicotecnica-trabalho",
+      "title": "Psicotécnica e mundo do trabalho",
+      "body": "Seleção e orientação profissional foram espaços de atuação antes da regulamentação da profissão. Na seleção, uma instituição definia critérios para distribuir vagas. Na orientação, surgia a pergunta sobre a relação entre características, interesses e possibilidades de trabalho.",
+      "objective": "Compare os objetivos do serviço do Liceu de Artes e Ofícios com uma atividade do Instituto de Seleção e Orientação Profissional (ISOP).",
+      "resources": [
+        "bc-h-trabalho-hist",
+        "bc-h-ensino"
+      ],
+      "resourceGuides": {
+        "bc-h-trabalho-hist": "Leia a passagem sobre Roberto Mange e o Liceu de Artes e Ofícios. Avance até a criação do ISOP para comparar públicos e objetivos.",
+        "bc-h-ensino": "Localize o ISOP e a Estrada de Ferro Sorocabana. Observe como seleção e orientação se ligavam à formação de profissionais."
+      },
+      "parent": "instituicoes-psicologia",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "regulamentacao-1962",
+      "title": "O debate até 1962",
+      "body": "A regulamentação da profissão em 1962 foi precedida por propostas de associações, instituições de ensino e profissionais. A definição do currículo e das atividades que caberiam ao psicólogo esteve em disputa. Documentos de momentos diferentes permitem reconstruir essas escolhas.",
+      "objective": "Compare uma proposta anterior a 1962 com um ponto que entrou na discussão final sobre formação ou exercício profissional.",
+      "resources": [
+        "bc-h-regulacao",
+        "historia-video"
+      ],
+      "resourceGuides": {
+        "bc-h-regulacao": "Comece pelo anteprojeto de 1953. Identifique uma entidade que se manifestou e acompanhe o que mudou nas propostas posteriores.",
+        "historia-video": "Na mostra dos 50 anos, localize o marco de 1962. Volte ao artigo documental para identificar um debate que antecedeu a comemoração."
+      },
+      "parent": "historia",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "epistemologia",
+      "title": "Como se produz conhecimento",
+      "body": "Epistemologia é o estudo de como justificamos o que afirmamos conhecer. Ao investigar uma emoção, um pesquisador pode medir uma resposta corporal ou perguntar como a pessoa descreve a experiência. Cada escolha torna certos aspectos observáveis e exige uma justificativa para passar do dado à interpretação.",
+      "objective": "Formule duas perguntas sobre uma experiência de ansiedade cotidiana e identifique o tipo de dado que ajudaria a respondê-las.",
+      "resources": [
+        "epistemologia-br",
+        "curso-pesquisa",
+        "abib",
+        "bc-h-modelos"
+      ],
+      "parent": "historia",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "epistemologia-br": "Leia a discussão sobre as relações entre sujeito e objeto. Observe como os autores situam a participação de quem pesquisa na produção de conhecimento.",
+        "curso-pesquisa": "Comece pelo primeiro episódio, “O que é pesquisa”. Anote qual pergunta pode ser investigada e o que seria necessário para sustentar uma resposta.",
+        "abib": "Compare as passagens sobre Wundt e James para perceber por que projetos científicos diferentes formularam objetos distintos para a Psicologia.",
+        "bc-h-modelos": "Na aula 1 da Univesp, acompanhe o vínculo entre modelos do conhecimento e explicações psicológicas. Escolha um modelo e diga que pergunta ele permite fazer sobre uma criança que aprende."
+      }
+    },
+    {
+      "id": "modelos-conhecimento",
+      "title": "O que cada modelo procura explicar",
+      "body": "A mesma cena de aprendizagem pode levar a perguntas sobre a experiência de quem aprende ou sobre as relações que tornam a mudança possível. Uma pergunta ganha sentido dentro de uma teoria que escolhe o que observar e como justificar uma explicação.",
+      "objective": "Escolha uma situação de aprendizagem e formule duas perguntas orientadas por modelos diferentes. Explicite o que cada uma ajudaria a descobrir.",
+      "resources": [
+        "bc-h-modelos",
+        "abib"
+      ],
+      "resourceGuides": {
+        "bc-h-modelos": "Na aula 1 de Ulisses Araújo, acompanhe a passagem dos modelos epistemológicos aos modelos psicológicos. Anote uma implicação para o papel de quem aprende.",
+        "abib": "Compare as passagens sobre Wundt e William James. Em cada projeto, identifique o que se pode tomar como objeto de estudo e qual experiência conta como evidência."
+      },
+      "parent": "epistemologia",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "reflexividade",
+      "title": "O lugar de quem pesquisa",
+      "body": "A presença do pesquisador pode alterar o que as pessoas dizem, o que ele percebe e o que decide registrar. A reflexividade torna essas relações parte explícita da análise. Uma mesma observação pode ganhar outra leitura quando os interlocutores comentam o relato.",
+      "objective": "Escolha um caso do texto de Minayo e Guerriero. Descreva uma decisão do pesquisador e uma questão levantada por quem participou.",
+      "resources": [
+        "bc-h-reflexividade",
+        "epistemologia-br"
+      ],
+      "resourceGuides": {
+        "bc-h-reflexividade": "Leia o caso do retorno de Whyte a Corneville. Acompanhe o que o reencontro com os interlocutores acrescentou à discussão sobre a publicação.",
+        "epistemologia-br": "Localize a discussão sobre implicação. Identifique um aspecto da posição do pesquisador que possa orientar a interpretação das falas."
+      },
+      "parent": "epistemologia",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "memoria",
+      "title": "Processos psicológicos e memória",
+      "body": "Reconhecer uma música, contar o que aconteceu ontem e andar de bicicleta mobilizam formas diferentes de memória. Investigar um processo psicológico exige especificar a tarefa, o que a pessoa pôde aprender e como a lembrança foi avaliada. Uma dificuldade em recordar admite explicações diferentes conforme essas condições.",
+      "objective": "Compare lembrar o nome de uma música com saber tocá-la. Descreva uma observação que permitiria investigar cada habilidade.",
+      "resources": [
+        "sistemas-memoria",
+        "memoria-video",
+        "memoria-br",
+        "bc-h-memcrianca"
+      ],
+      "parent": "epistemologia",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "sistemas-memoria": "Comece pelos critérios que a autora usa para distinguir sistemas de memória. Examine como o desempenho em duas tarefas ajuda a pôr uma distinção à prova.",
+        "memoria-video": "Na entrevista com Izquierdo, escolha um exemplo sobre emoção e recordação. Formule uma pergunta que permita observar algo além da impressão de ter uma lembrança vívida.",
+        "memoria-br": "Leia a discussão de Izquierdo sobre a variedade de memórias. Escolha uma habilidade que se aprende pela prática e compare-a com um acontecimento que se consegue narrar.",
+        "bc-h-memcrianca": "Procure o exemplo da imitação imediata e da imitação após um intervalo. Observe como se pode estudar o que um bebê reteve antes que ele saiba explicar em palavras."
+      }
+    },
+    {
+      "id": "memoria-longo-prazo",
+      "title": "Lembrar fatos e executar habilidades",
+      "body": "Contar como foi a primeira aula de bicicleta e voltar a pedalar mobilizam aprendizagens observáveis de modos diferentes. Para investigar uma habilidade, interessa o que muda no desempenho. Para investigar uma lembrança relatável, é possível perguntar quais detalhes a pessoa recupera.",
+      "objective": "Descreva uma tarefa que avalie a aprendizagem de uma habilidade e outra que avalie a recordação das condições em que ela foi adquirida.",
+      "resources": [
+        "sistemas-memoria",
+        "bc-h-memcrianca"
+      ],
+      "resourceGuides": {
+        "sistemas-memoria": "Na discussão de sistemas declarativos e não declarativos, procure o raciocínio que permite comparar desempenhos em tarefas distintas.",
+        "bc-h-memcrianca": "Leia a descrição da memória implícita, incluindo hábitos e habilidades motoras. Compare o que se pode observar com o que a pessoa consegue verbalizar."
+      },
+      "parent": "memoria",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "episodios-conhecimentos",
+      "title": "Episódios e conhecimentos gerais",
+      "body": "Saber o nome de uma estação e lembrar onde se estava quando chegou a notícia de sua inauguração são exemplos de memória semântica e episódica. Uma lembrança autobiográfica pode envolver ambas, porque conhecimentos prévios ajudam a organizar os detalhes de um episódio.",
+      "objective": "Em um relato de viagem, identifique um detalhe situado no tempo e no espaço e um conhecimento que a pessoa pode recordar fora daquela ocasião.",
+      "resources": [
+        "bc-h-memcrianca",
+        "sistemas-memoria"
+      ],
+      "resourceGuides": {
+        "bc-h-memcrianca": "Leia os parágrafos sobre memória episódica, semântica e autobiográfica. Observe como o texto articula o evento vivido aos conhecimentos sobre si.",
+        "sistemas-memoria": "Procure a discussão de memória episódica e semântica. Relacione a distinção proposta a um tipo de tarefa que poderia investigá-la."
+      },
+      "parent": "memoria-longo-prazo",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "reconstrucao-lembranca",
+      "title": "Quando uma palavra ausente parece familiar",
+      "body": "Após ouvir uma lista de palavras relacionadas, alguém pode reconhecer uma palavra que associa todas elas, mesmo que não a tenha ouvido. A pesquisa distingue ter reconhecido uma associação de ter identificado corretamente a origem de uma lembrança.",
+      "objective": "Escolha uma lista do estudo brasileiro, identifique o item crítico ausente e explique como a tarefa registra um falso reconhecimento.",
+      "resources": [
+        "bc-h-falsas",
+        "bc-h-recordar"
+      ],
+      "resourceGuides": {
+        "bc-h-falsas": "No Estudo II, procure o exemplo do item “música” e compare seu resultado com o de outra lista. Confira no anexo como os materiais foram construídos.",
+        "bc-h-recordar": "Siga a lista associada à palavra “água”. Compare o que conta como erro numa prova de evocação livre e numa prova de reconhecimento."
+      },
+      "parent": "memoria-longo-prazo",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "memoria-trabalho",
+      "title": "Manter informação em uso",
+      "body": "Guardar por alguns segundos uma sequência de sons enquanto se tenta reproduzi-la é uma situação de memória de trabalho. O resultado depende do material utilizado e das operações pedidas. Repetir dígitos familiares e repetir uma palavra inventada são tarefas diferentes.",
+      "objective": "Explique por que seria útil controlar o número de sílabas ao comparar a repetição de palavras e pseudopalavras.",
+      "resources": [
+        "bc-h-trabalho",
+        "bc-h-memcrianca"
+      ],
+      "resourceGuides": {
+        "bc-h-trabalho": "Em Materiais e procedimento, compare as tarefas com palavras, pseudopalavras e dígitos. Veja nos resultados quais diferenças foram observadas entre os grupos.",
+        "bc-h-memcrianca": "Procure a descrição da alça fonológica e do esboço visuoespacial. Compare a retenção de uma sequência de sons com a de um padrão visual."
+      },
+      "parent": "memoria",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "atencao-seletiva",
+      "title": "Atenção seletiva e interferência",
+      "body": "Nomear a cor da tinta pode levar mais tempo quando a palavra escrita designa outra cor. Esse conflito permite investigar como uma resposta habitual, a leitura, interfere na atenção ao aspecto relevante para a tarefa. A interpretação depende de quais condições foram comparadas.",
+      "objective": "Explique por que pesquisadores comparam uma condição com conflito a uma condição de referência. Identifique a medida de desempenho usada no artigo.",
+      "resources": [
+        "bc-h-niteroi",
+        "bc-h-stroop"
+      ],
+      "resourceGuides": {
+        "bc-h-niteroi": "No método, leia a instrução dos diferentes cartões da versão Victoria. Observe como a comparação entre os cartões torna a interferência mensurável.",
+        "bc-h-stroop": "Na revisão, encontre as versões do Stroop usadas no Brasil e compare seus escores. Verifique se dois estudos que usam o mesmo nome aplicam a mesma tarefa."
+      },
+      "parent": "memoria",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "desenvolvimento",
+      "title": "Desenvolvimento ao longo da vida",
+      "body": "O desenvolvimento envolve mudanças físicas, cognitivas e sociais ao longo do tempo. Duas pessoas da mesma idade podem ter oportunidades diferentes de aprender, conviver ou exercer autonomia. Os estudos do curso de vida investigam como essas trajetórias se formam nas relações entre a pessoa e seu ambiente.",
+      "objective": "Use o exemplo de uma mudança de escola para descrever uma interação entre uma característica pessoal e uma condição do ambiente.",
+      "resources": [
+        "neri",
+        "desenvolvimento-br",
+        "bc-h-infancia"
+      ],
+      "parent": "epistemologia",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "neri": "Leia a apresentação do curso de vida e a seção sobre seleção, otimização e compensação. Observe como ganhos e perdas variam entre atividades e pessoas da mesma idade.",
+        "desenvolvimento-br": "Na discussão da abordagem bioecológica, identifique um exemplo de interação pessoa–contexto que mude ao longo da adolescência.",
+        "bc-h-infancia": "Na aula da Unesp/Univesp, escute como os docentes formulam a pergunta de Piaget sobre a construção do conhecimento. Compare o foco na infância com o olhar de curso de vida da primeira leitura."
+      }
+    },
+    {
+      "id": "contextos-desenvolvimento",
+      "title": "Pessoa, contexto e tempo",
+      "body": "O modelo bioecológico estuda como características da pessoa, interações recorrentes, ambientes e tempo participam de uma trajetória. Uma criança vive diretamente as relações da sala de aula. A relação entre sua escola e sua família também pode modificar a experiência escolar.",
+      "objective": "Use uma mudança de escola para distinguir o que se passa em um ambiente, o que ocorre entre ambientes e o que só aparece ao acompanhar a criança no tempo.",
+      "resources": [
+        "bc-h-ecologia",
+        "desenvolvimento-br"
+      ],
+      "resourceGuides": {
+        "bc-h-ecologia": "No exemplo da escola, identifique a relação na sala de aula, a comunicação com a família e uma decisão tomada fora da presença da criança.",
+        "desenvolvimento-br": "Localize a apresentação da abordagem bioecológica e observe como ela permite situar a experiência de um adolescente nos ambientes dos quais participa."
+      },
+      "parent": "desenvolvimento",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "processos-proximais",
+      "title": "Interações que se repetem e se transformam",
+      "body": "Um adulto e uma criança podem voltar à mesma história muitas vezes. Aos poucos, a criança antecipa falas, faz perguntas e passa a conduzir partes da leitura. A regularidade, a reciprocidade e a mudança de complexidade são centrais ao conceito de processo proximal.",
+      "objective": "Escolha uma atividade cotidiana e descreva o que seria preciso acompanhar ao longo de semanas para estudar um processo proximal.",
+      "resources": [
+        "bc-h-ecologia",
+        "desenvolvimento-br"
+      ],
+      "resourceGuides": {
+        "bc-h-ecologia": "Vá à seção Processo e procure os exemplos de brincadeira e leitura. Identifique o lugar que a reciprocidade e a duração ocupam no argumento.",
+        "desenvolvimento-br": "Na seção sobre Bronfenbrenner, relacione o componente processo às mudanças que ocorrem nas interações do adolescente ao longo do tempo."
+      },
+      "parent": "contextos-desenvolvimento",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "adolescencias-contexto",
+      "title": "Adolescências em contextos diferentes",
+      "body": "Mudanças corporais, expectativas familiares e oportunidades de estudo e trabalho participam da experiência adolescente. Um retrato da adolescência escrito para adultos também revela o que se espera dos jovens em determinado contexto histórico.",
+      "objective": "Compare uma afirmação sobre adolescentes presente nos livros analisados por Bock com a explicação oferecida por uma teoria discutida por Senna e Dessen.",
+      "resources": [
+        "bc-h-mudanca",
+        "desenvolvimento-br"
+      ],
+      "resourceGuides": {
+        "bc-h-mudanca": "Leia como foram selecionados os livros para pais e professores. Identifique uma generalização que a autora encontra neles e quais condições sociais ela deixa de considerar.",
+        "desenvolvimento-br": "Compare a visão da adolescência em duas teorias. Veja como cada uma explica a diversidade de trajetórias durante esse período."
+      },
+      "parent": "desenvolvimento",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "estrategias-envelhecimento",
+      "title": "Escolhas e adaptações na velhice",
+      "body": "Ao manter uma atividade importante, uma pessoa pode escolher quais objetivos priorizar, investir em prática ou recorrer a outro meio para continuar. O modelo de seleção, otimização e compensação relaciona essas estratégias aos recursos e às oportunidades disponíveis ao longo da vida.",
+      "objective": "Pense em alguém que deseja continuar tocando um instrumento. Dê um exemplo de seleção, um de otimização e um de compensação em torno desse objetivo.",
+      "resources": [
+        "neri",
+        "bc-h-soc"
+      ],
+      "resourceGuides": {
+        "neri": "Procure a seção dedicada à seleção, otimização e compensação. Observe como a distribuição de recursos entre metas muda com as circunstâncias.",
+        "bc-h-soc": "No método, localize o inventário SOC. Compare a escolha de uma meta por preferência com a seleção motivada por uma perda, tendo em vista a amostra estudada."
+      },
+      "parent": "desenvolvimento",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "conservacao-quantidade",
+      "title": "Como a criança explica uma transformação",
+      "body": "Duas porções iguais de líquido podem parecer diferentes quando uma delas passa para um copo mais alto e estreito. Na investigação piagetiana, a justificativa da criança ajuda a entender sua noção de conservação. O modo como o adulto formula a situação também influencia a resposta.",
+      "objective": "Compare a situação clássica com a situação de jogo descrita no estudo. Identifique o que mudou na apresentação e o que a criança foi convidada a explicar.",
+      "resources": [
+        "bc-h-infancia",
+        "bc-h-piaget"
+      ],
+      "resourceGuides": {
+        "bc-h-infancia": "Acompanhe as entrevistas do programa sobre Piaget. Observe por que o raciocínio da criança é uma questão para o pesquisador mesmo quando ele já conhece a resposta.",
+        "bc-h-piaget": "Leia a descrição da tarefa clássica e avance aos contextos de jogo. Separe a transformação física do material das mudanças na interação entre criança e pesquisador."
+      },
+      "parent": "desenvolvimento",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "metodos",
+      "title": "Métodos de pesquisa",
+      "body": "Em um estudo sobre acesso à universidade, um levantamento pode estimar quantos estudantes trabalham à noite. Entrevistas podem investigar como esses estudantes organizam o tempo de estudo. A escolha entre métodos quantitativos, qualitativos ou combinados depende da pergunta, da seleção dos participantes e da análise pretendida.",
+      "objective": "Proponha uma pergunta quantitativa e uma qualitativa sobre o mesmo tema. Justifique quem seria ouvido e qual material seria analisado.",
+      "resources": [
+        "coleta",
+        "metodos-br",
+        "curso-pesquisa"
+      ],
+      "parent": "epistemologia",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "coleta": "Na aula de Taitiâny Bonzanini, identifique como a pergunta orienta a escolha do instrumento. Decida o que você precisaria observar ou perguntar para investigar a rotina de estudo.",
+        "metodos-br": "Na discussão de Minayo e Sanches sobre a complementaridade entre abordagens, distinga uma pergunta sobre distribuição de uma pergunta sobre experiência. Relacione as duas ao exemplo do acesso à universidade.",
+        "curso-pesquisa": "Abra “Modalidades de Pesquisa em Educação”, a terceira aula. Compare campo e documentação como fontes de dados e depois examine os instrumentos na quarta aula."
+      }
+    },
+    {
+      "id": "selecao-participantes",
+      "title": "Quem participa da pesquisa?",
+      "body": "Uma investigação sobre a vida escolar pode querer estimar a frequência de uma experiência ou compreender como ela é vivida. Para estimar uma frequência, importa saber quem teve chance de entrar na amostra. Para compreender experiências, importa explicar por que aquelas pessoas podem falar sobre a pergunta.",
+      "objective": "Compare duas pesquisas e identifique a população de interesse, quem pôde participar e quem ficou de fora.",
+      "resources": [
+        "bc-m-pense",
+        "bc-m-universitarios"
+      ],
+      "resourceGuides": {
+        "bc-m-pense": "Nas notas técnicas da PeNSE, localize as etapas de ensino incluídas e o cadastro que serviu para escolher as escolas. Quem tem a mesma idade e está fora da escola aparece nessa pesquisa?",
+        "bc-m-universitarios": "Leia o método e a Tabela 1. Identifique o que os sete participantes tinham em comum e que experiências de outros universitários essa seleção deixa em aberto."
+      },
+      "parent": "metodos",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "amostragem-probabilistica",
+      "title": "Sorteio e conglomerados",
+      "body": "Em uma amostra probabilística, cada unidade elegível tem probabilidade conhecida e positiva de seleção. É possível sortear grupos em etapas. Na PeNSE 2019, as escolas foram as unidades do primeiro estágio, e as turmas, do segundo.",
+      "objective": "Desenhe os dois estágios da PeNSE e explique por que estudantes da mesma turma entram na amostra juntos.",
+      "resources": [
+        "bc-m-pense",
+        "bc-m-amostra"
+      ],
+      "resourceGuides": {
+        "bc-m-pense": "Na página 21 do PDF, procure o trecho sobre conglomerados em dois estágios. Anote o que foi selecionado em cada um.",
+        "bc-m-amostra": "Na Unidade 1, leia “Amostragem por Conglomerados”, depois do exemplo de estratos por porte de cidade. Compare sortear grupos com selecionar unidades de todos os estratos."
+      },
+      "parent": "selecao-participantes",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "amostragem-intencional",
+      "title": "Seleção intencional",
+      "body": "Uma pesquisa qualitativa pode procurar pessoas que viveram certa situação ou que oferecem perspectivas contrastantes. O leitor precisa entender a escolha dos participantes, o contexto e a razão de encerrar a coleta. A saturação é uma justificativa possível quando o método adotado a comporta.",
+      "objective": "Explique que experiência torna um participante relevante para uma pergunta. Indique um ponto de vista que mereceria ser ouvido também.",
+      "resources": [
+        "bc-m-saturacao",
+        "bc-m-qualidade"
+      ],
+      "resourceGuides": {
+        "bc-m-saturacao": "Na discussão das amostras intencionais, compare o valor de relatos recorrentes com o de um relato divergente. Procure como os autores justificam o encerramento da coleta.",
+        "bc-m-qualidade": "Nos critérios relativos aos participantes e à justificativa metodológica, identifique o que o relato de pesquisa precisa dizer para que o leitor avalie a escolha do grupo."
+      },
+      "parent": "selecao-participantes",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "entrevista-pesquisa",
+      "title": "Entrevista de pesquisa",
+      "body": "Na entrevista semiestruturada, a pessoa que pesquisa prepara questões centrais e pode pedir esclarecimentos a partir do que ouviu. O registro preserva tanto o relato como as condições em que a conversa ocorreu.",
+      "objective": "Formule uma pergunta de abertura sobre a adaptação à universidade e uma pergunta de seguimento que dependa do que a pessoa respondeu.",
+      "resources": [
+        "bc-m-aula-instrumentos",
+        "bc-m-universitarios"
+      ],
+      "resourceGuides": {
+        "bc-m-aula-instrumentos": "Abra o episódio de instrumentos e técnicas. No exemplo de pesquisa de campo, procure a diferença entre acompanhar uma situação e pedir que alguém a descreva.",
+        "bc-m-universitarios": "Em “Entrevista semiestruturada”, localize as perguntas norteadoras sobre como os estudantes lidam com situações conflitantes. Veja como as autoras descrevem a realização dos encontros."
+      },
+      "parent": "metodos",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "roteiro-entrevista",
+      "title": "Construção do roteiro",
+      "body": "Um roteiro orienta a escuta quando cada pergunta contribui para o objetivo e usa palavras familiares à pessoa entrevistada. Perguntas que pressupõem uma resposta podem estreitar o relato antes que a pessoa tenha descrito sua experiência.",
+      "objective": "Reescreva uma pergunta que antecipa a resposta e explique o que a nova formulação permite ouvir.",
+      "resources": [
+        "bc-m-roteiro",
+        "bc-m-universitarios"
+      ],
+      "resourceGuides": {
+        "bc-m-roteiro": "Na discussão do planejamento, examine um exemplo do autor à luz da linguagem, da ordem das perguntas e daquilo que se quer conhecer.",
+        "bc-m-universitarios": "Na seção sobre a entrevista, escolha uma das perguntas norteadoras transcritas. Indique que tipo de situação o participante poderia descrever e o que ainda caberia perguntar."
+      },
+      "parent": "entrevista-pesquisa",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "analise-tematica",
+      "title": "Dos trechos aos temas",
+      "body": "Na análise temática, o pesquisador lê o conjunto de relatos, propõe códigos e examina como eles podem compor padrões de sentido. Ao revisar um tema, volta aos trechos para decidir o que o sustenta e onde aparecem diferenças.",
+      "objective": "Escolha um tema de um estudo e explique como os trechos apresentados sustentam a interpretação.",
+      "resources": [
+        "bc-m-temas",
+        "bc-m-universitarios"
+      ],
+      "resourceGuides": {
+        "bc-m-temas": "Acompanhe as seis fases e o mapa temático que inclui “Cuidar com carinho”. Observe como os conceitos agrupados ajudam a dar sentido ao nome desse tema.",
+        "bc-m-universitarios": "Use a Tabela 2 para localizar o percurso de análise. Nos resultados, escolha uma fala citada e examine que relação as autoras estabelecem entre o relato e o tema."
+      },
+      "parent": "entrevista-pesquisa",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "correlacao",
+      "title": "Correlação e causalidade",
+      "body": "Se estudantes com viagens mais longas até o campus dormem menos, temos uma associação. Para investigar se o trajeto contribui para a redução do sono, é preciso considerar horários de trabalho, renda e outras explicações. O desenho da pesquisa determina quais dessas hipóteses podem ser examinadas.",
+      "objective": "Reescreva uma afirmação de causa em termos de associação e indique uma variável que poderia influenciar as duas medidas.",
+      "resources": [
+        "causas-unesp",
+        "correlacao-br"
+      ],
+      "parent": "metodos",
+      "relation": "prerequisite",
+      "lane": "left",
+      "resourceGuides": {
+        "causas-unesp": "No exemplo das vendas de sorvete e dos motociclistas, procure a variável que varia com a estação. Desenhe por que as duas quantidades podem crescer juntas.",
+        "correlacao-br": "Compare os pares de variáveis da Figura 1. Depois leia a discussão sobre causalidade e indique uma informação que o coeficiente não fornece."
+      }
+    },
+    {
+      "id": "dispersao",
+      "title": "Ler um gráfico de dispersão",
+      "body": "Cada ponto de um diagrama de dispersão representa duas medidas da mesma unidade. Antes de resumir a relação em um coeficiente, observe o sentido, a forma, os agrupamentos e os pontos afastados do restante.",
+      "objective": "Descreva duas nuvens de pontos da Figura 1 e indique o que se perderia ao apresentar apenas um coeficiente.",
+      "resources": [
+        "correlacao-br",
+        "bc-m-aula-correlacao"
+      ],
+      "resourceGuides": {
+        "correlacao-br": "Na Figura 1, siga primeiro V1 em relação a V2 e depois V1 em relação a V3. Compare a direção dos pontos e o sinal dos coeficientes.",
+        "bc-m-aula-correlacao": "Assista à explicação de correlação e regressão linear. Ao olhar uma representação de duas variáveis, diga o que a direção da relação informa e o que ainda depende do desenho do estudo."
+      },
+      "parent": "correlacao",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "confundimento",
+      "title": "Uma causa em comum",
+      "body": "Uma terceira variável pode influenciar tanto a exposição quanto o resultado. Nesse cenário, a associação observada mistura caminhos diferentes. Conhecer a ordem temporal e o contexto ajuda a propor que caminhos merecem ser investigados.",
+      "objective": "Desenhe um exemplo com uma causa comum e formule uma pergunta que ajudaria a verificar essa hipótese.",
+      "resources": [
+        "causas-unesp",
+        "bc-m-diagramas"
+      ],
+      "resourceGuides": {
+        "causas-unesp": "No exemplo do sorvete, identifique a variável proposta para explicar a associação. Desenhe duas setas saindo dessa causa comum.",
+        "bc-m-diagramas": "No exemplo de estresse ocupacional e obesidade, procure os caminhos que poderiam ligar as duas variáveis por um fator anterior. Registre um pressuposto que os dados sozinhos não resolvem."
+      },
+      "parent": "correlacao",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "diagramas-causais",
+      "title": "Desenhar hipóteses causais",
+      "body": "As setas de um diagrama causal registram suposições sobre o que influencia o quê. Se duas medidas se relacionam nos dois sentidos ao longo do tempo, é possível representar cada medida em momentos diferentes. Alterar uma seta modifica as hipóteses de ajuste e de interpretação.",
+      "objective": "Desenhe duas hipóteses para a relação entre tempo de sono e carga de estudo, indicando os momentos de observação.",
+      "resources": [
+        "bc-m-diagramas",
+        "causas-unesp"
+      ],
+      "resourceGuides": {
+        "bc-m-diagramas": "Compare a Figura 1a com a 1b. Localize as mesmas variáveis em tempos sucessivos e depois examine como o artigo constrói os diagramas de estresse ocupacional.",
+        "causas-unesp": "Reconstrua o desenho que explica a correlação do exemplo do sorvete. Mude a direção de uma seta e escreva qual afirmação passaria a ser feita."
+      },
+      "parent": "confundimento",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "evidencia",
+      "title": "Leitura crítica da evidência",
+      "body": "Ao ler uma conclusão sobre uma intervenção, procure quem participou, com o que ela foi comparada, qual resultado foi medido e por quanto tempo. Uma estimativa imprecisa ou obtida em outra população pode deixar uma pergunta em aberto. No sistema GRADE, a confiança é avaliada para cada desfecho de um conjunto de estudos.",
+      "objective": "Escolha um desfecho descrito no manual GRADE e identifique um fator capaz de reduzir a confiança na estimativa.",
+      "resources": [
+        "grade-ficha",
+        "exemplo-revisao",
+        "grade-br"
+      ],
+      "parent": "metodos",
+      "relation": "prerequisite",
+      "lane": "center",
+      "resourceGuides": {
+        "grade-ficha": "Na primeira página, identifique os fatores que podem reduzir a certeza. Nas páginas seguintes, veja como o julgamento de um desfecho altera a formulação da conclusão.",
+        "exemplo-revisao": "Leia a pergunta sobre TCC comparada com lista de espera e a pergunta sobre outros tratamentos. Confira que tipo de estudo e faixa etária foram incluídos antes de interpretar os resultados.",
+        "grade-br": "Procure no sumário as partes sobre risco de viés e imprecisão. Escolha um desfecho e distinga um problema de desenho de um intervalo de confiança pouco informativo."
+      }
+    },
+    {
+      "id": "pergunta-revisao",
+      "title": "A pergunta de uma revisão",
+      "body": "Para uma revisão sobre uma intervenção, participantes, intervenção, comparação e desfecho delimitam a pergunta. Comparar com uma lista de espera responde a algo diferente de comparar com outra intervenção. O leitor precisa identificar qual comparação sustenta a conclusão.",
+      "objective": "Escolha uma das comparações na revisão sobre ansiedade e descreva que pergunta ela responde.",
+      "resources": [
+        "bc-m-passos",
+        "exemplo-revisao"
+      ],
+      "resourceGuides": {
+        "bc-m-passos": "No quadro com o acrônimo PICOS, relacione cada componente à decisão de incluir ou excluir estudos. Observe onde os autores situam o tipo de estudo.",
+        "exemplo-revisao": "Na síntese em português, procure as comparações da TCC com lista de espera e com outras intervenções. Escreva uma pergunta diferente para cada comparador."
+      },
+      "parent": "evidencia",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "estrategia-busca",
+      "title": "Palavras e estratégia de busca",
+      "body": "Uma busca reproduzível registra bases, termos, combinações e data. Sinônimos ampliam as formas de encontrar um mesmo assunto; combinar conceitos restringe a busca a documentos em que eles se encontram.",
+      "objective": "Monte e registre duas consultas sobre ansiedade em estudantes. Compare a diferença ao acrescentar um sinônimo e ao exigir um segundo conceito.",
+      "resources": [
+        "bc-m-biblioteca",
+        "bc-m-busca"
+      ],
+      "resourceGuides": {
+        "bc-m-biblioteca": "Na parte sobre os operadores, veja como AND e OR combinam conjuntos. Refaça um exemplo com palavras da sua pergunta e anote as duas expressões.",
+        "bc-m-busca": "Em “Busca por estudos”, procure as decisões sobre bases, termos e registro da estratégia. Compare essas exigências com o que você precisaria guardar para repetir sua busca."
+      },
+      "parent": "pergunta-revisao",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "triagem-estudos",
+      "title": "Triagem e elegibilidade",
+      "body": "Depois da busca, a equipe examina títulos e resumos e, em seguida, verifica os textos completos à luz dos critérios de elegibilidade. Explicitar o motivo de exclusão e a resolução de discordâncias permite reconstituir como se chegou aos estudos incluídos.",
+      "objective": "Escreva um critério de elegibilidade e um motivo documentável para excluir um texto completo da sua revisão.",
+      "resources": [
+        "bc-m-busca",
+        "exemplo-revisao"
+      ],
+      "resourceGuides": {
+        "bc-m-busca": "Na seção sobre seleção, acompanhe um registro desde o título e resumo até o texto completo. Anote em que etapa se registra o motivo de exclusão e como se tratam discordâncias.",
+        "exemplo-revisao": "Na seção que pergunta quais estudos entraram na revisão, identifique o desenho, a idade e a condição dos participantes. Escolha um desses critérios e mostre como ele orienta a triagem."
+      },
+      "parent": "pergunta-revisao",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "imprecisao",
+      "title": "Imprecisão da estimativa",
+      "body": "Uma estimativa admite uma faixa de valores compatíveis com os dados e o modelo usado. Se essa faixa abrange efeitos que levariam a interpretações muito diferentes, a conclusão pede cautela. No GRADE, a imprecisão é avaliada por desfecho em um conjunto de estudos.",
+      "objective": "Escolha um desfecho e identifique se os limites do intervalo permitiriam interpretações diferentes sobre o tamanho do efeito.",
+      "resources": [
+        "grade-br",
+        "bc-m-intervalos"
+      ],
+      "resourceGuides": {
+        "grade-br": "No manual, procure “Imprecisão” e observe como tamanho da informação e intervalo de confiança entram no julgamento da certeza de um desfecho.",
+        "bc-m-intervalos": "Na discussão da Tabela 4, compare os intervalos do risco relativo dos estudos de Hall e de Ban. Qual deles admite um conjunto mais amplo de efeitos?"
+      },
+      "parent": "evidencia",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "rigor-qualitativo",
+      "title": "Rigor na pesquisa qualitativa",
+      "body": "Ao ler uma pesquisa de entrevistas, procure coerência entre a pergunta, a escolha de participantes e a análise. Relatos das condições da pesquisa e da participação do pesquisador ajudam a avaliar até onde a interpretação pode fazer sentido em outro contexto.",
+      "objective": "Escolha uma interpretação em um artigo e localize o relato, a decisão de análise e a característica do contexto que sustentam sua leitura.",
+      "resources": [
+        "bc-m-qualidade",
+        "bc-m-temas"
+      ],
+      "resourceGuides": {
+        "bc-m-qualidade": "Examine os critérios de reflexividade e transferibilidade. Transforme cada um em uma pergunta que possa ser feita a um artigo de Psicologia.",
+        "bc-m-temas": "Nas recomendações sobre avaliação de artigos com análise temática, observe que informações ajudam o leitor a acompanhar as decisões da análise. Compare-as com a apresentação dos temas nos exemplos."
+      },
+      "parent": "evidencia",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "etica",
+      "title": "Ética profissional",
+      "body": "O Código de Ética articula direitos das pessoas atendidas, responsabilidade profissional e cuidado com as informações obtidas no trabalho. Imagine que uma equipe peça acesso a um relato inteiro quando só precisa de uma informação para coordenar o atendimento. A análise ética começa pela finalidade do pedido e por quem pode ser afetado pela divulgação.",
+      "objective": "Localize os artigos 6º, 9º e 10 do Código e identifique as questões que a situação fictícia exige examinar.",
+      "resources": [
+        "etica-cfp",
+        "guia-sigilo"
+      ],
+      "parent": "evidencia",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "etica-cfp": "Comece pelo artigo 6º, alínea b, e pelos artigos 9º e 10. Use a finalidade do pedido da equipe para discutir o exemplo do tópico.",
+        "guia-sigilo": "Na seção sobre sigilo, observe como o guia relaciona a proteção da intimidade às dúvidas que surgem no trabalho de equipe."
+      }
+    },
+    {
+      "id": "sigilo",
+      "title": "Sigilo profissional",
+      "parent": "etica",
+      "lane": "left",
+      "relation": "related",
+      "body": "Uma pessoa pode contar algo durante um atendimento porque sabe a quem aquela conversa se destina. Quando outra pessoa pede acesso, surgem questões sobre a finalidade do pedido, a privacidade e as consequências de uma divulgação.",
+      "objective": "Compare duas situações fictícias: um pedido de informações da equipe e um pedido de alguém sem participação no cuidado. Que perguntas precisam ser feitas em cada situação?",
+      "resources": [
+        "etica-cfp",
+        "guia-sigilo"
+      ],
+      "resourceGuides": {
+        "etica-cfp": "Leia os artigos 9º e 10. Identifique o direito protegido pelo sigilo e o critério que o Código introduz para situações de conflito.",
+        "guia-sigilo": "Abra a seção de sigilo profissional na página 35. Escolha uma situação discutida no guia e dê nome aos interesses envolvidos."
+      }
+    },
+    {
+      "id": "informacao-na-equipe",
+      "title": "Informação compartilhada na equipe",
+      "parent": "sigilo",
+      "lane": "left",
+      "relation": "related",
+      "body": "Uma equipe pode precisar de informações para combinar responsabilidades e dar continuidade a um trabalho. A dúvida ética é o que cada destinatário precisa saber para cumprir essa tarefa.",
+      "objective": "Use o exemplo escolar da leitura para explicar qual informação ajuda a professora a acompanhar a escolarização e qual exporia a família sem contribuir para esse fim.",
+      "resources": [
+        "bc-e-escola",
+        "etica-cfp",
+        "bc-e-manual"
+      ],
+      "resourceGuides": {
+        "bc-e-escola": "Na devolutiva com a professora, identifique como as autoras relacionam a seleção das informações com a escolarização da criança.",
+        "etica-cfp": "Compare o artigo 6º, alínea b, com o artigo 12. Observe como a finalidade do trabalho orienta tanto a comunicação quanto o registro em equipe.",
+        "bc-e-manual": "Veja o modelo de prontuário multidisciplinar no apêndice 2 e reconheça os campos destinados ao trabalho compartilhado."
+      }
+    },
+    {
+      "id": "registro-psicologico",
+      "title": "Registro e prontuário",
+      "parent": "etica",
+      "lane": "right",
+      "relation": "related",
+      "body": "Um registro acompanha o trabalho ao longo do tempo. A demanda inicial, o percurso e os encaminhamentos ajudam a reconstruir o que se fez. O manual do CFP compara formas de registrar essas informações e explica seu acesso.",
+      "objective": "Compare a finalidade de um prontuário com a de um documento produzido para responder a um pedido externo.",
+      "resources": [
+        "bc-e-manual",
+        "guia-sigilo"
+      ],
+      "resourceGuides": {
+        "bc-e-manual": "Leia as seções 3.1 e 3.2. Use o apêndice 1 para localizar no modelo a demanda e os campos de acompanhamento.",
+        "guia-sigilo": "Na seção sobre registro documental, procure as orientações sobre o conteúdo registrado e sobre quem pode consultá-lo."
+      }
+    },
+    {
+      "id": "finalidade-documento",
+      "title": "Relatório ou laudo?",
+      "parent": "registro-psicologico",
+      "lane": "left",
+      "relation": "related",
+      "body": "Um serviço recebe dois pedidos: comunicar o trabalho já realizado e apresentar o resultado de uma avaliação psicológica. Antes de pensar na redação, é preciso entender a pergunta de quem solicitou o documento.",
+      "objective": "Associe cada pedido fictício a uma modalidade de documento e justifique sua escolha pelo objetivo.",
+      "resources": [
+        "bc-e-documentos",
+        "bc-e-dialogo"
+      ],
+      "resourceGuides": {
+        "bc-e-documentos": "Compare os artigos 11 e 13. Nas definições de relatório psicológico e laudo psicológico, procure a origem e a finalidade de cada um.",
+        "bc-e-dialogo": "Acompanhe a discussão do CFP sobre as diferenças entre documentos. Anote uma dúvida que o debate ajuda a resolver e confira a resposta no texto comentado."
+      }
+    },
+    {
+      "id": "entrevista-devolutiva",
+      "title": "Entrevista devolutiva",
+      "parent": "registro-psicologico",
+      "lane": "right",
+      "relation": "related",
+      "body": "Uma devolutiva cria espaço para explicar resultados, escutar como foram entendidos e discutir o que ainda precisa ser esclarecido. No exemplo escolar das leituras, a criança, a família e a professora participam de maneiras diferentes.",
+      "objective": "Compare as conversas descritas pelas autoras e formule uma pergunta que permita ao destinatário dizer como compreendeu o resultado.",
+      "resources": [
+        "bc-e-escola",
+        "bc-e-documentos"
+      ],
+      "resourceGuides": {
+        "bc-e-escola": "Vá à parte sobre devolutivas e acompanhe a passagem da conversa com a professora para a conversa com a família. Identifique onde aparece a participação da criança.",
+        "bc-e-documentos": "Leia o artigo 18 e o comentário que o acompanha para situar a devolutiva ligada à entrega de relatório e laudo."
+      }
+    },
+    {
+      "id": "supervisao",
+      "title": "Formação e supervisão",
+      "body": "O estágio integra uma situação real de trabalho ao projeto formativo da graduação. Orientação e supervisão ajudam o estudante a reconhecer seus limites, discutir as decisões que tomou e responder pelos registros junto à equipe responsável. O estudo autônomo de conceitos prepara perguntas que podem ser levadas a esses espaços.",
+      "objective": "Use os capítulos II e III da cartilha para distinguir as atribuições do estudante, da orientação acadêmica e da supervisão de campo.",
+      "resources": [
+        "estagios-cfp",
+        "supervisao-pesquisa"
+      ],
+      "parent": "etica",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "estagios-cfp": "Leia os capítulos II e III e compare as atribuições da orientação, da supervisão e do estudante. No capítulo IV, localize onde acontece o trabalho do serviço-escola.",
+        "supervisao-pesquisa": "No método, identifique os 14 participantes e as duas instituições. Nos resultados, escolha uma diferença ou semelhança entre as experiências de estágio."
+      }
+    },
+    {
+      "id": "papeis-no-estagio",
+      "title": "Quem acompanha o estágio?",
+      "parent": "supervisao",
+      "lane": "left",
+      "relation": "related",
+      "body": "O estágio reúne estudante, instituição de ensino e local de prática. A orientação acadêmica aproxima o trabalho do projeto do curso. A supervisão de campo acompanha as atividades no contexto em que elas acontecem.",
+      "objective": "Monte um quadro com os três participantes e identifique, nas fontes, uma responsabilidade de cada um.",
+      "resources": [
+        "estagios-cfp",
+        "bc-e-lei-estagio"
+      ],
+      "resourceGuides": {
+        "estagios-cfp": "Compare os capítulos II e III. Distinga as atribuições de orientação e supervisão dos direitos e deveres de quem estagia.",
+        "bc-e-lei-estagio": "Leia o artigo 3º, § 1º, e localize o professor orientador no artigo 7º e a supervisão da parte concedente no artigo 9º."
+      }
+    },
+    {
+      "id": "plano-de-atividades",
+      "title": "Plano de atividades do estágio",
+      "parent": "papeis-no-estagio",
+      "lane": "left",
+      "relation": "related",
+      "body": "O plano torna explícita a relação entre uma atividade e aquilo que o estágio pretende ensinar. A leitura de um plano também permite perguntar quem acompanha o trabalho e como se observa o que foi aprendido.",
+      "objective": "Escolha uma atividade fictícia de estágio e descreva seu objetivo formativo e uma maneira de acompanhá-la.",
+      "resources": [
+        "bc-e-lei-estagio",
+        "estagios-cfp"
+      ],
+      "resourceGuides": {
+        "bc-e-lei-estagio": "Leia o parágrafo único do artigo 7º sobre o plano de atividades. Identifique quem participa de sua elaboração e o que o texto prevê quando o percurso é avaliado.",
+        "estagios-cfp": "No capítulo III, consulte a parte sobre documentos obrigatórios. Relacione o plano de atividades ao termo de compromisso e à formação do estudante."
+      }
+    },
+    {
+      "id": "servico-escola",
+      "title": "Serviço-escola e comunidade",
+      "parent": "supervisao",
+      "lane": "right",
+      "relation": "related",
+      "body": "Em um serviço-escola, oferecer um serviço à população e formar estudantes são responsabilidades simultâneas. Horários, espaços e formas de acompanhamento têm consequências para quem busca o serviço e para quem está aprendendo.",
+      "objective": "A partir da cartilha, escolha uma atividade do serviço-escola e descreva o que ela demanda da instituição para atender à comunidade e sustentar a formação.",
+      "resources": [
+        "estagios-cfp",
+        "bc-e-manual"
+      ],
+      "resourceGuides": {
+        "estagios-cfp": "No capítulo IV, leia “Concepção e objetivo” e compare os exemplos de atividades e espaços com a ideia de serviço-escola apresentada no texto.",
+        "bc-e-manual": "Na seção 6.1, leia como o registro e sua guarda são discutidos no contexto de serviços-escola. Pergunte o que precisa continuar acessível mesmo quando uma turma termina o estágio."
+      }
+    },
+    {
+      "id": "conversa-de-supervisao",
+      "title": "A conversa de supervisão",
+      "parent": "supervisao",
+      "lane": "left",
+      "relation": "related",
+      "body": "Uma reunião de supervisão pode partir de uma pergunta que o estudante ainda não conseguiu resolver. Estagiários e supervisores nem sempre descrevem a mesma reunião da mesma maneira. Comparar seus pontos de vista ajuda a reconhecer o que favorece uma discussão formativa.",
+      "objective": "Escolha uma pergunta do questionário dos estagiários e a correspondente no instrumento dos supervisores. Explique por que as respostas podem divergir.",
+      "resources": [
+        "bc-e-perspectivas",
+        "supervisao-pesquisa"
+      ],
+      "resourceGuides": {
+        "bc-e-perspectivas": "Nos quadros 1 e 2, compare um item sobre a relação de supervisão nas duas versões do questionário. Depois veja como os autores interpretam as respostas.",
+        "supervisao-pesquisa": "Nos resultados, procure a avaliação que os participantes fazem de sua relação com quem supervisiona e do apoio recebido. Distinga o que foi perguntado da conclusão que seria possível tirar."
+      }
+    },
+    {
+      "id": "supervisao-em-grupo",
+      "title": "Aprender com os colegas",
+      "parent": "conversa-de-supervisao",
+      "lane": "right",
+      "relation": "related",
+      "body": "Na supervisão em grupo, um estudante também aprende ao ouvir dúvidas dos colegas. A diversidade de situações amplia a discussão, enquanto a divisão do tempo pode reduzir o espaço dedicado à pergunta de cada participante.",
+      "objective": "Compare um ganho e um limite do formato grupal. Indique se cada observação vem de um estudo empírico ou da síntese de várias publicações.",
+      "resources": [
+        "bc-e-grupo",
+        "supervisao-pesquisa"
+      ],
+      "resourceGuides": {
+        "bc-e-grupo": "Na discussão, compare a aprendizagem a partir das experiências dos colegas com as dificuldades relativas ao tempo de supervisão.",
+        "supervisao-pesquisa": "Localize o trecho sobre supervisão individual e grupal. Separe o que os participantes desta pesquisa informaram do que os autores recuperaram de estudos anteriores."
+      }
+    },
+    {
+      "id": "determinantes",
+      "title": "Determinantes sociais da saúde",
+      "body": "Moradia, jornada de trabalho e transporte influenciam a possibilidade de descansar e de acessar cuidados. A rede de apoio e as políticas públicas também participam desse processo. Examinar essas condições permite investigar como os recursos necessários à saúde se distribuem entre grupos e territórios.",
+      "objective": "Escolha uma barreira de acesso ao cuidado e descreva um fator social e um fator institucional que contribuam para ela.",
+      "resources": [
+        "fiocruz-dss",
+        "dss-entrevista"
+      ],
+      "parent": "etica",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "fiocruz-dss": "No esquema de determinantes, parta das condições de vida e de trabalho e chegue às condições mais amplas. Escolha uma barreira ao cuidado e procure em quais camadas ela se forma.",
+        "dss-entrevista": "Na conversa com Leonardo Costa de Castro, escolha um exemplo de relação entre saúde e condições de vida. Diferencie a experiência relatada das condições sociais que a tornam mais provável."
+      }
+    },
+    {
+      "id": "equidade-em-saude",
+      "title": "Desigualdades e equidade",
+      "body": "Em um município, dois bairros podem ter uma unidade de saúde e, ainda assim, oferecer condições diferentes para chegar a uma consulta. Frequência do ônibus, jornada de trabalho e disponibilidade de horários entram na comparação. Chamamos de iniquidades as desigualdades consideradas injustas e evitáveis.",
+      "objective": "Descreva uma diferença observável entre dois bairros fictícios. Explique que informação ajudaria a avaliar se essa diferença é evitável e injusta.",
+      "resources": [
+        "bc-t-equidade",
+        "fiocruz-dss"
+      ],
+      "resourceGuides": {
+        "bc-t-equidade": "Localize a definição de iniquidade e a discussão sobre a distância entre os determinantes mais gerais e a experiência de cada pessoa. Aplique a distinção ao exemplo dos dois bairros.",
+        "fiocruz-dss": "Use o esquema dos determinantes para localizar transporte, trabalho e serviço de saúde. Escolha uma condição que poderia mudar por ação coletiva."
+      },
+      "parent": "determinantes",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "indicadores-desigualdade",
+      "title": "Como comparar grupos",
+      "body": "Uma média municipal pode esconder trajetórias muito diferentes. Ao comparar proporções, é preciso dizer quais pessoas compõem cada grupo, o período de observação e o que se está contando. A diferença em pontos percentuais e a razão entre as proporções expressam a mesma distância de maneiras diferentes.",
+      "objective": "Leia um gráfico desagregado, identifique os denominadores e descreva a diferença observada sem atribuir uma causa que o gráfico não investigou.",
+      "resources": [
+        "bc-t-boletim",
+        "bc-t-medindo"
+      ],
+      "resourceGuides": {
+        "bc-t-boletim": "Nas figuras 3 e 4, escolha uma categoria de número de consultas de pré-natal e compare a distribuição segundo a raça/cor da mãe. Identifique o ano, a fonte e a categoria de informação ignorada.",
+        "bc-t-medindo": "Na seção V.5, p. 47, compare as medidas relativas e absolutas. Explique em que unidades apresentaria a diferença entre duas proporções e como apresentaria a razão entre elas."
+      },
+      "parent": "equidade-em-saude",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "territorio-vivido",
+      "title": "Território vivido",
+      "body": "Um rio pode servir de caminho para chegar à unidade de saúde e, em outra estação, tornar a viagem mais difícil. O território de uma equipe inclui os percursos, vínculos e relações de poder que dão sentidos distintos ao mesmo espaço para quem o habita.",
+      "objective": "Compare a delimitação de uma área de atendimento com um percurso narrado por quem vive ou trabalha nela.",
+      "resources": [
+        "bc-t-territorio",
+        "bc-t-tefe"
+      ],
+      "resourceGuides": {
+        "bc-t-territorio": "No tópico 6, leia a passagem sobre o território usado em Milton Santos e explore o infográfico sobre o território como espaço de vida. Escolha uma relação social que um mapa de ruas não registra.",
+        "bc-t-tefe": "Nas figuras 2 e 3 e nos relatos que as acompanham, procure como os agentes comunitários representam o acesso fluvial. Anote uma informação que depende da experiência de quem desenhou o percurso."
+      },
+      "parent": "determinantes",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "mapas-falantes",
+      "title": "Mapas feitos em grupo",
+      "body": "Ao construir um mapa em grupo, participantes escolhem o que merece aparecer e contam por que um trajeto, uma casa de apoio ou uma travessia importa. Quem fez o desenho e quem ficou fora da conversa também afetam o que se pode concluir.",
+      "objective": "Identifique os participantes, uma decisão sobre o desenho e uma pergunta que precisaria ser feita a outro grupo do território.",
+      "resources": [
+        "bc-t-tefe",
+        "bc-t-taua"
+      ],
+      "resourceGuides": {
+        "bc-t-tefe": "Leia a seção que acompanha a passagem das palavras aos desenhos e às narrativas. Observe nas figuras 2 e 3 quem desenhou e quem apresentou o mapa ao grupo.",
+        "bc-t-taua": "Siga as quatro etapas de Tauá até o redesenho das microáreas. Compare o objetivo do mapa produzido com o dos mapas narrados pelos agentes ribeirinhos em Tefé."
+      },
+      "parent": "territorio-vivido",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "acoes-intersetoriais",
+      "title": "Ações entre setores",
+      "body": "Quando uma dificuldade de cuidado envolve trabalho, renda ou transporte, uma equipe de saúde pode precisar construir uma resposta com serviços de outras áreas e com moradores. A ação conjunta exige combinar quem decide, quem assume cada tarefa e como o grupo acompanhará o resultado.",
+      "objective": "Mapeie, em um exemplo publicado, o problema compartilhado, dois participantes e uma decisão que precisa de negociação.",
+      "resources": [
+        "bc-t-intersetorial",
+        "bc-t-cab34"
+      ],
+      "resourceGuides": {
+        "bc-t-intersetorial": "Na sequência de cinco cartões, compare a complementaridade de setores com a articulação política na gestão pública. Identifique o que cada forma de trabalho pede dos participantes.",
+        "bc-t-cab34": "No caso da “casa dos 20” e na seção 3.2, procure as necessidades de trabalho, renda e proteção social. Distinga os contatos entre serviços de saúde daqueles que envolvem outras políticas."
+      },
+      "parent": "territorio-vivido",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "diversidade",
+      "title": "Diversidade e relações raciais",
+      "body": "A experiência de discriminação e as respostas das instituições fazem parte do contexto de vida das pessoas. Nos serviços de Psicologia, reconhecer desigualdades requer examinar quem encontra barreiras para chegar, ser ouvido ou permanecer em atendimento. As referências do CREPOP permitem estudar essa questão pelo recorte das relações raciais no Brasil.",
+      "objective": "Identifique no documento uma prática institucional que reproduza desigualdade racial e uma pergunta para investigá-la em um serviço fictício.",
+      "resources": [
+        "crepop-raciais",
+        "cfp-antirracismo"
+      ],
+      "parent": "determinantes",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "crepop-raciais": "No eixo sobre relações raciais na sociedade brasileira, identifique onde aparecem as instituições. Depois, consulte as orientações para a atuação e anote uma pergunta para investigar o acesso a um serviço.",
+        "cfp-antirracismo": "Comece pela discussão sobre raça na aula 1. Depois, compare sua anotação com o episódio 8, sobre saberes e práticas psicológicas antirracistas e decoloniais."
+      }
+    },
+    {
+      "id": "racismo-institucional",
+      "title": "Racismo institucional",
+      "body": "Uma rotina de atendimento pode distribuir tempo de espera, atenção e oportunidades de cuidado de maneira desigual. O estudo do racismo institucional examina como regras, decisões e omissões produzem esses padrões e como eles são percebidos por diferentes grupos.",
+      "objective": "Diferencie uma interação discriminatória de uma rotina institucional e formule uma pergunta que ajude a investigar a relação entre as duas.",
+      "resources": [
+        "bc-t-werneck",
+        "crepop-raciais"
+      ],
+      "resourceGuides": {
+        "bc-t-werneck": "Use a figura 2 para localizar os níveis interpessoal e institucional. Na discussão que se segue, procure como o funcionamento de uma organização pode distribuir oportunidades de forma desigual.",
+        "crepop-raciais": "Procure a discussão de racismo institucional na referência do CREPOP. Escolha uma situação descrita e indique quais decisões envolvem o serviço além da conduta de uma só pessoa."
+      },
+      "parent": "diversidade",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "quesito-raca-cor",
+      "title": "O quesito raça/cor",
+      "body": "A autodeclaração permite que a própria pessoa responda à pergunta sobre raça/cor. Quando a resposta é presumida ou o campo fica sem informação, a análise pode perder justamente as diferenças que o serviço precisa conhecer. Esse registro exige cuidado tanto na coleta quanto na interpretação.",
+      "objective": "Explique quem responde à pergunta e por que a quantidade de registros incompletos altera uma comparação entre grupos.",
+      "resources": [
+        "bc-t-coleta",
+        "bc-t-boletim"
+      ],
+      "resourceGuides": {
+        "bc-t-coleta": "Na cartilha de três páginas, localize a pergunta sugerida e as orientações sobre como registrar a resposta. Identifique a diferença entre perguntar e atribuir uma categoria pela aparência.",
+        "bc-t-boletim": "Comece na seção sobre o quesito raça/cor nos sistemas de vigilância. Procure as observações sobre qualidade da informação e relacione-as à categoria ignorada nos gráficos."
+      },
+      "parent": "racismo-institucional",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "acolhimento-lgbti",
+      "title": "Acolhimento da população LGBTQIA+",
+      "body": "A recepção, o cadastro e a conversa com a equipe são momentos diferentes da experiência de chegar a um serviço. Pessoas ouvidas em uma pesquisa no Rio de Janeiro relataram barreiras como o desrespeito ao nome social e perguntas invasivas. Suas propostas ajudam a investigar o funcionamento de uma unidade.",
+      "objective": "Compare uma diretriz profissional com uma barreira relatada pelos participantes da pesquisa e identifique em que momento do atendimento ela aparece.",
+      "resources": [
+        "bc-t-usuarios",
+        "bc-t-lgbt"
+      ],
+      "resourceGuides": {
+        "bc-t-usuarios": "Nos resultados das entrevistas, procure os discursos sobre a recepção, o uso do nome social e a capacitação das equipes. Anote quem foi ouvido e uma proposta dos participantes.",
+        "bc-t-lgbt": "No eixo 3, leia as diretrizes de atuação a partir da p. 84. Escolha uma orientação que dialogue com os relatos da pesquisa e explique em que rotina ela teria efeito."
+      },
+      "parent": "diversidade",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "sus",
+      "title": "SUS e trabalho em rede",
+      "body": "A Rede de Atenção Psicossocial reúne pontos de atenção que podem acompanhar uma mesma pessoa em momentos e contextos diferentes. Conhecer o território implica identificar os serviços disponíveis e como se comunicam com as pessoas e suas redes de apoio. A organização local dá sentido concreto ao desenho nacional.",
+      "objective": "Escolha dois pontos de atenção apresentados pelo Ministério da Saúde e descreva uma situação fictícia em que a continuidade do cuidado dependa da comunicação entre eles.",
+      "resources": [
+        "raps-ms",
+        "rede-desastres"
+      ],
+      "parent": "determinantes",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "raps-ms": "Identifique os pontos de atenção citados pelo Ministério. Escolha dois e explique que informação as equipes precisariam compartilhar para acompanhar uma mesma pessoa.",
+        "rede-desastres": "Assista à abertura da série e volte à apresentação da Fiocruz sobre a continuidade do cuidado. Identifique uma necessidade que permanece depois do momento agudo de um desastre."
+      }
+    },
+    {
+      "id": "atencao-primaria",
+      "title": "Atenção Primária e vínculo",
+      "body": "O acompanhamento na Atenção Primária pode começar quando alguém procura a unidade por outro motivo e relata uma dificuldade que atravessa seu cotidiano. O contato continuado com a pessoa, a família e outros serviços ajuda a equipe a entender o que mudou entre um encontro e outro.",
+      "objective": "Reconstrua dois momentos de um acompanhamento e identifique o que a equipe descobre por manter contato ao longo do tempo.",
+      "resources": [
+        "bc-t-cab34",
+        "bc-t-taua",
+        "bc-t-caps"
+      ],
+      "resourceGuides": {
+        "bc-t-cab34": "Leia o início do caso da “casa dos 20” e a seção 3.2. Observe como o conhecimento da equipe sobre a família muda quando ela começa a articular a rede de cuidados.",
+        "bc-t-taua": "Na experiência de Tauá, identifique como o trabalho dos agentes comunitários e o cadastro das famílias contribuem para conhecer a população acompanhada pela equipe.",
+        "bc-t-caps": "Vá à seção “Atenção Básica” e identifique seu papel na rede. Compare a proximidade com a comunidade com a função descrita na seção sobre CAPS."
+      },
+      "parent": "sus",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "apoio-matricial",
+      "title": "Apoio matricial",
+      "body": "Uma equipe que acompanha uma pessoa pode convidar outra a discutir o caso, participar de uma consulta ou construir uma ação conjunta. No apoio matricial, a contribuição especializada se combina com o conhecimento que a equipe de referência acumulou e com as responsabilidades que ela continua a exercer.",
+      "objective": "Compare uma discussão de caso com uma consulta conjunta e indique qual pergunta cada equipe levaria para o encontro.",
+      "resources": [
+        "bc-t-matriciamento",
+        "bc-t-aula-apoio"
+      ],
+      "resourceGuides": {
+        "bc-t-matriciamento": "Leia o início do guia e a parte sobre interconsulta e consulta conjunta. Procure quem pode participar e o que as equipes podem aprender com as perguntas umas das outras.",
+        "bc-t-aula-apoio": "Na webpalestra de Raquel Maia, acompanhe a apresentação do matriciamento na atenção primária. Confronte a explicação com um instrumento descrito no guia, como a discussão compartilhada de casos."
+      },
+      "parent": "atencao-primaria",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "caps-no-territorio",
+      "title": "CAPS e vida comunitária",
+      "body": "Os CAPS integram uma rede que acompanha pessoas em sofrimento psíquico intenso. Oficinas, encontros com familiares, atividades no território e trabalho com outros serviços podem fazer parte do acompanhamento. O sentido de uma atividade depende de como ela participa da vida da pessoa fora do serviço.",
+      "objective": "Escolha uma atividade de CAPS e explique que relação ela pode estabelecer com vínculos, circulação ou participação na comunidade.",
+      "resources": [
+        "bc-t-caps",
+        "bc-t-caps-cfp"
+      ],
+      "resourceGuides": {
+        "bc-t-caps": "Em “O que oferecem” e “Papel do CAPS”, localize uma atividade e um objetivo ligado à vida comunitária. Descreva como os dois podem se relacionar.",
+        "bc-t-caps-cfp": "No eixo sobre atuação profissional, procure o trecho sobre mapear instituições e formas de organização social do território. Relacione-o a uma atividade que ultrapasse o espaço físico do CAPS."
+      },
+      "parent": "sus",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "projeto-terapeutico-singular",
+      "title": "Projeto terapêutico singular",
+      "body": "Um projeto terapêutico singular reúne objetivos negociados, tarefas e momentos de revisão. A pessoa participa da definição do que importa para seu cotidiano. A equipe precisa explicitar como diferentes participantes podem sustentar o acordo e o que justificaria retomá-lo.",
+      "objective": "Reconheça em um roteiro de estudo um objetivo, as pessoas envolvidas e uma condição que indicaria a necessidade de reavaliá-lo.",
+      "resources": [
+        "bc-t-matriciamento",
+        "bc-t-cab34",
+        "bc-t-caps"
+      ],
+      "resourceGuides": {
+        "bc-t-matriciamento": "Na seção 2.1, leia o roteiro de discussão de casos em apoio matricial. Separe as perguntas que tratam das necessidades da pessoa e as que ajudam a combinar responsabilidades.",
+        "bc-t-cab34": "No capítulo 4, procure os momentos do PTS. Compare a definição de metas com a reavaliação e identifique onde a pessoa e a equipe entram na negociação.",
+        "bc-t-caps": "Em “O que acontece na chegada”, observe quando o projeto é elaborado e quem participa de sua construção."
+      },
+      "parent": "caps-no-territorio",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "acolhimento-caps",
+      "title": "O primeiro acolhimento",
+      "body": "A procura direta é um dos caminhos de chegada a um CAPS. Acolher envolve ouvir a demanda e construir um próximo passo, que pode incluir acompanhamento ali ou articulação com outra equipe. Esse encontro tem consequências para a continuidade do cuidado.",
+      "objective": "Compare dois percursos possíveis após o acolhimento inicial e indique quem precisaria se comunicar em cada um.",
+      "resources": [
+        "bc-t-caps",
+        "bc-t-caps-cfp"
+      ],
+      "resourceGuides": {
+        "bc-t-caps": "Leia “Procura direta” e “O que acontece na chegada”. Compare o que a página descreve quando a pessoa passa a ser acompanhada no CAPS e quando o cuidado segue em outro ponto da rede.",
+        "bc-t-caps-cfp": "Abra “O acolhimento”, p. 78. Observe o lugar da escuta e do vínculo e relacione a leitura ao que acontece depois da primeira conversa."
+      },
+      "parent": "caps-no-territorio",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "participacao-social",
+      "title": "Conselhos e conferências",
+      "body": "Conselhos de saúde acompanham políticas e ações em espaços permanentes de participação. Conferências reúnem diferentes segmentos para avaliar a situação de saúde e propor diretrizes. As pautas podem nascer de dificuldades concretas, como a distância até um serviço ou o funcionamento de uma unidade do bairro.",
+      "objective": "Identifique uma demanda apresentada por moradores em um conselho local e explique como a função desse espaço se distingue da de uma conferência.",
+      "resources": [
+        "bc-t-conselhos",
+        "bc-t-conferencia"
+      ],
+      "resourceGuides": {
+        "bc-t-conselhos": "Na lista de cinco filmes, abra Tefé ou Campina Grande. Identifique quem fala, que dificuldade aparece e como a comunidade leva a questão ao conselho local.",
+        "bc-t-conferencia": "Localize os grupos representados nas conferências e o objetivo desses encontros. Compare essa função com o trabalho cotidiano do conselho retratado no documentário."
+      },
+      "parent": "sus",
+      "relation": "related",
+      "lane": "left"
+    }
+  ],
+  "resources": [
+    {
+      "id": "historia-br",
+      "title": "50 anos de Psicologia no Brasil: a construção social de uma profissão",
+      "authors": "Odair Furtado",
+      "institution": "Psicologia: Ciência e Profissão",
+      "year": 2012,
+      "url": "https://scielo.br/j/pcp/a/zBttqHf9LpWdX8CHytGJG4x/?ilang=pt_BR&lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo histórico",
+      "access": "Leitura integral gratuita, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Artigo integral em HTML conferido, da identificação da autoria às referências.",
+      "rights": "CC BY 4.0 indicada pelo periódico.",
+      "caveat": "É uma interpretação da história da profissão escrita em 2012.",
+      "relevance": "Acompanhe como universidades, formação profissional e mundo do trabalho participaram da institucionalização da área.",
+      "nodes": [
+        "historia",
+        "instituicoes-psicologia"
+      ]
+    },
+    {
+      "id": "epistemologia-br",
+      "title": "Possibilidades e desafios da produção científica no campo da psicologia: algumas reflexões",
+      "authors": "Marilícia Witzler Antunes Ribeiro Palmieri e João Batista Martins",
+      "institution": "Psicologia em Estudo",
+      "year": 2008,
+      "url": "https://www.scielo.br/j/pe/a/wVMXMFmmKM54Rx84Z9sTHPn/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo teórico",
+      "access": "Leitura integral gratuita, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Artigo integral em HTML conferido, da identificação da autoria às referências.",
+      "rights": "Licença específica de reutilização não conferida. Consultar as condições do titular.",
+      "caveat": "Os autores defendem uma posição no debate epistemológico. Outras tradições adotam critérios diferentes.",
+      "relevance": "Observe como o papel do pesquisador e seus pressupostos orientam o que se considera dado em uma investigação.",
+      "nodes": [
+        "epistemologia",
+        "reflexividade"
+      ]
+    },
+    {
+      "id": "memoria-br",
+      "title": "Memórias",
+      "authors": "Ivan Izquierdo",
+      "institution": "Estudos Avançados, USP",
+      "year": 1989,
+      "url": "https://www.scielo.br/j/ea/a/RySVv73ft5r4qj9KP4F8xcB/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Revisão narrativa histórica",
+      "access": "Leitura integral gratuita, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Artigo integral em HTML conferido, da identificação da autoria às referências.",
+      "rights": "Licença específica de reutilização não conferida. Consultar as condições do titular.",
+      "caveat": "Panorama de 1989. Dados de neurociência refletem aquele período.",
+      "relevance": "Na seção sobre tipos de memória, procure o exemplo de uma habilidade aprendida. Compare a distinção que Izquierdo apresenta com os critérios discutidos por Guimarães.",
+      "nodes": [
+        "memoria"
+      ]
+    },
+    {
+      "id": "desenvolvimento-br",
+      "title": "Contribuições das teorias do desenvolvimento humano para a concepção contemporânea da adolescência",
+      "authors": "Sylvia Regina Carmo Magalhães Senna e Maria Auxiliadora Dessen",
+      "institution": "Psicologia: Teoria e Pesquisa",
+      "year": 2012,
+      "url": "https://www.scielo.br/j/ptp/a/fpKByLWpTT8BY4Yv9kRH6pB/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Revisão teórica",
+      "access": "Leitura integral gratuita, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Artigo integral em HTML conferido, da identificação da autoria às referências.",
+      "rights": "Licença específica de reutilização não conferida. Consultar as condições do titular.",
+      "caveat": "O texto se concentra na adolescência.",
+      "relevance": "Leia a parte sobre a abordagem bioecológica. Use o exemplo da adolescência para distinguir características pessoais, contextos de vida e mudanças ao longo do tempo.",
+      "nodes": [
+        "desenvolvimento",
+        "contextos-desenvolvimento",
+        "processos-proximais",
+        "adolescencias-contexto"
+      ]
+    },
+    {
+      "id": "metodos-br",
+      "title": "Quantitativo-qualitativo: oposição ou complementaridade?",
+      "authors": "Maria Cecília de Souza Minayo e Odécio Sanches",
+      "institution": "Cadernos de Saúde Pública, Fiocruz",
+      "year": 1993,
+      "url": "https://www.scielo.br/j/csp/a/Bgpmz7T7cNv8K9Hg4J9fJDb/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Debate metodológico",
+      "access": "Leitura integral gratuita, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto integral em HTML e o PDF da edição do periódico.",
+      "rights": "Licença específica de reutilização não conferida. Consultar as condições do titular.",
+      "caveat": "Debate de 1993 na saúde coletiva. Os exemplos e o vocabulário remetem ao contexto de publicação.",
+      "relevance": "Leia o argumento de Minayo e Sanches sobre as perguntas que cada método pode responder. Retome o exemplo de acesso à universidade e explique o que acrescentaria uma entrevista ao levantamento.",
+      "nodes": [
+        "metodos"
+      ]
+    },
+    {
+      "id": "correlacao-br",
+      "title": "Análise de correlação em estudos clínicos e experimentais",
+      "authors": "Hélio Amante Miot",
+      "institution": "Jornal Vascular Brasileiro",
+      "year": 2018,
+      "url": "https://www.scielo.br/j/jvb/a/YwjG3GsXpBFrZLQhFQG45Rb/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Editorial metodológico",
+      "access": "Leitura integral gratuita, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Artigo integral em HTML conferido, da identificação da autoria às referências.",
+      "rights": "Licença específica de reutilização não conferida. Consultar as condições do titular.",
+      "caveat": "Exemplos biomédicos ilustram princípios estatísticos transferíveis à pesquisa psicológica.",
+      "relevance": "Comece pela Figura 1 e pelo comentário sobre o alcance das correlações para discutir hipóteses causais.",
+      "nodes": [
+        "correlacao",
+        "dispersao"
+      ]
+    },
+    {
+      "id": "grade-br",
+      "title": "Diretrizes metodológicas: Sistema GRADE – manual de graduação da qualidade da evidência e força de recomendação para tomada de decisão em saúde",
+      "authors": "Ministério da Saúde, Departamento de Ciência e Tecnologia",
+      "institution": "Ministério da Saúde",
+      "year": 2014,
+      "url": "https://www.gov.br/conitec/pt-br/midias/artigos_publicacoes/diretrizes/sistema-grade.pdf/@@display-file/file",
+      "sourcePage": "https://www.gov.br/conitec/pt-br/midias/artigos_publicacoes/diretrizes/sistema-grade.pdf",
+      "language": "pt-BR",
+      "format": "Manual metodológico em PDF",
+      "access": "PDF integral gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Confirmados página de origem, PDF de 74 páginas e identificação do documento.",
+      "rights": "O PDF menciona uma licença Creative Commons. Reconferir os termos na edição para reutilizar.",
+      "caveat": "Edição brasileira de 2014. Serve à introdução ao método de avaliação de evidências sobre intervenções.",
+      "relevance": "No sumário, procure os capítulos sobre risco de viés e imprecisão. Para um desfecho, anote o que levaria a equipe da revisão a diminuir a confiança na estimativa.",
+      "nodes": [
+        "evidencia",
+        "imprecisao"
+      ]
+    },
+    {
+      "id": "etica-cfp",
+      "title": "Código de Ética Profissional do Psicólogo",
+      "authors": "Conselho Federal de Psicologia",
+      "institution": "CFP",
+      "year": 2005,
+      "url": "https://site.cfp.org.br/wp-content/uploads/2012/07/codigo-de-etica-psicologia-1.pdf",
+      "sourcePage": "https://site.cfp.org.br/documentos/confira-o-novo-codigo-de-etica-profissional-do-psicologo/",
+      "language": "pt-BR",
+      "format": "Código profissional em PDF",
+      "access": "PDF integral gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Página de origem e texto do Código em PDF de 20 páginas conferidos.",
+      "rights": "Licença específica de reutilização não conferida. Consultar as condições do titular.",
+      "caveat": "Consultar também as normas específicas aplicáveis à atividade em questão.",
+      "relevance": "Comece pelo artigo 6º, alínea b, sobre o trabalho com outros profissionais. Em seguida, leia os artigos 9º e 10 e examine o que justificaria compartilhar uma informação no exemplo deste tópico.",
+      "nodes": [
+        "etica",
+        "sigilo",
+        "informacao-na-equipe"
+      ]
+    },
+    {
+      "id": "estagios-cfp",
+      "title": "Documento de Orientação Sobre Estágios de Graduação em Psicologia",
+      "authors": "Conselho Federal de Psicologia e Associação Brasileira de Ensino de Psicologia",
+      "institution": "CFP e ABEP",
+      "year": 2024,
+      "url": "https://site.cfp.org.br/wp-content/uploads/2024/12/cartilha_estagio_WEB-1-1.pdf",
+      "sourcePage": "https://site.cfp.org.br/conselho-federal-lanca-cartilha-sobre-estagios-em-psicologia/",
+      "language": "pt-BR",
+      "format": "Cartilha de orientação em PDF",
+      "access": "PDF integral gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Documento, identificação institucional e capítulos conferidos no PDF.",
+      "rights": "Licença específica de reutilização não conferida. Consultar as condições do titular.",
+      "caveat": "Documento formativo publicado em 2024. Verificar normas posteriores e o projeto pedagógico da instituição ao tratar de requisitos atuais.",
+      "relevance": "Os capítulos II e III apresentam atribuições da orientação, da supervisão e do estudante. O capítulo IV descreve o serviço-escola.",
+      "nodes": [
+        "supervisao",
+        "papeis-no-estagio",
+        "plano-de-atividades",
+        "servico-escola"
+      ]
+    },
+    {
+      "id": "fiocruz-dss",
+      "title": "Determinação social da saúde",
+      "authors": "Escola Nacional de Saúde Pública Sergio Arouca",
+      "institution": "ENSP, Fiocruz",
+      "year": null,
+      "url": "https://ensino.ensp.fiocruz.br/TSA/tema-1-2.html",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Texto de módulo educacional",
+      "access": "Texto público em HTML, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conteúdo didático e explicações do esquema de determinantes acessíveis na página.",
+      "rights": "Licença específica de reutilização não conferida. Consultar as condições do titular.",
+      "caveat": "O texto do módulo está disponível. A reprodução integral dos vídeos complementares não foi testada.",
+      "relevance": "Explore as camadas do esquema e relacione condições de vida, redes sociais e acesso a serviços.",
+      "nodes": [
+        "determinantes",
+        "equidade-em-saude"
+      ]
+    },
+    {
+      "id": "crepop-raciais",
+      "title": "Relações raciais: referências técnicas para atuação de psicólogas/os",
+      "authors": "Conselho Federal de Psicologia, Conselhos Regionais de Psicologia e CREPOP",
+      "institution": "Sistema Conselhos de Psicologia",
+      "year": 2017,
+      "url": "https://crepop.cfp.org.br/wp-content/uploads/sites/34/2022/10/004-Crepop-Relacoes-Raciais-Referencias-tecnicas-para-atuacao-de-psicologas.pdf.pdf",
+      "sourcePage": "https://crepop.cfp.org.br/publicacoes/relacoes-raciais-referencias-tecnicas-para-a-atuacao-de-psicologasos/",
+      "language": "pt-BR",
+      "format": "Referência técnica em PDF",
+      "access": "PDF integral. A capa informa distribuição gratuita.",
+      "checkedAt": "2026-11-15",
+      "verification": "Capa, ficha editorial e corpo do texto conferidos no documento oficial.",
+      "rights": "A edição permite reprodução sem alterações, com citação da fonte.",
+      "caveat": "Desenvolve o recorte das relações raciais. Outros marcadores de diversidade requerem leituras próprias.",
+      "relevance": "Comece pelo eixo sobre as relações raciais na sociedade brasileira. Ao chegar às orientações para a atuação, escolha uma barreira institucional e identifique uma prática que poderia torná-la visível.",
+      "nodes": [
+        "diversidade",
+        "racismo-institucional"
+      ]
+    },
+    {
+      "id": "raps-ms",
+      "title": "Rede de Atenção Psicossocial (RAPS)",
+      "authors": "Ministério da Saúde",
+      "institution": "Departamento de Saúde Mental, Álcool e Outras Drogas",
+      "year": null,
+      "url": "https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Apresentação institucional",
+      "access": "Página integral gratuita, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Descrição da rede e das funções dos pontos de atenção acessíveis no portal oficial.",
+      "rights": "Licença específica de reutilização não conferida. Consultar as condições do titular.",
+      "caveat": "A página descreve a organização nacional. A composição concreta da rede varia conforme o território.",
+      "relevance": "Encontre a Atenção Primária e os Centros de Atenção Psicossocial (CAPS). Compare a função de cada um e identifique onde a comunicação entre as equipes sustentaria o cuidado.",
+      "nodes": [
+        "sus"
+      ]
+    },
+    {
+      "id": "historia-video",
+      "title": "Psicologia: 50 anos de profissão no Brasil",
+      "authors": "Conselho Regional de Psicologia de Santa Catarina (publicação do vídeo da mostra itinerante)",
+      "institution": "Conselhos de Psicologia · CRP-12",
+      "year": 2012,
+      "url": "https://www.youtube.com/watch?v=6IImL2Pzb0c",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Vídeo de exposição · 9 min",
+      "access": "Vídeo gratuito no canal do conselho regional.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o vídeo no canal do CRP-12, sua descrição como material da mostra, a data e a disponibilidade no player sem login.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "A mostra celebrou os cinquenta anos da regulamentação em 2012. O vídeo reflete o recorte daquela comemoração.",
+      "relevance": "Assista ao registro preparado para a mostra dos 50 anos. Escolha um marco da profissão e procure no artigo de Furtado quais instituições e grupos atuavam naquele período.",
+      "nodes": [
+        "historia",
+        "regulamentacao-1962"
+      ]
+    },
+    {
+      "id": "abib",
+      "title": "Epistemologia pluralizada e história da psicologia",
+      "authors": "José Antônio Damásio Abib",
+      "institution": "Scientiae Studia · Universidade de São Paulo",
+      "year": 2009,
+      "url": "https://www.scielo.br/j/ss/a/MD9ghFbpK9vvrMDCrYNgMgK/?format=html&lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de história e filosofia da ciência",
+      "access": "Texto integral gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos a autoria, o artigo completo e a discussão dos projetos científicos de Wundt e James.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "O autor argumenta a partir de uma perspectiva epistemológica específica.",
+      "relevance": "Compare os trechos sobre Wundt e William James. Identifique o que cada um aceita como investigação científica da experiência psicológica.",
+      "nodes": [
+        "epistemologia",
+        "modelos-conhecimento"
+      ]
+    },
+    {
+      "id": "curso-pesquisa",
+      "title": "Introdução à Metodologia da Pesquisa Científica · Pedagogia D-10",
+      "authors": "Equipe do curso de Pedagogia Unesp/Univesp",
+      "institution": "Universidade Estadual Paulista e Universidade Virtual do Estado de São Paulo",
+      "year": null,
+      "url": "https://www.youtube.com/watch?v=ksHmilEOdQI&list=PL8BBF8ABEAA751D1D",
+      "sourcePage": "https://www.youtube.com/playlist?list=PL8BBF8ABEAA751D1D",
+      "language": "pt-BR",
+      "format": "Playlist de disciplina · 6 aulas",
+      "access": "Seis aulas gratuitas no canal da Univesp, sem matrícula.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o título e os seis episódios da playlist original, a ordem dos módulos e a disponibilidade individual dos players sem login.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "Os exemplos vêm sobretudo da educação. As seis aulas foram publicadas em datas diferentes.",
+      "relevance": "Comece por “O que é pesquisa”. Para comparar desenhos, abra a terceira aula, “Modalidades de Pesquisa em Educação”. Na quarta, acompanhe os exemplos de instrumentos e técnicas de coleta.",
+      "nodes": [
+        "epistemologia",
+        "metodos"
+      ]
+    },
+    {
+      "id": "sistemas-memoria",
+      "title": "Como delimitar e descrever um sistema de memória humana?",
+      "authors": "Luísa Superbia Guimarães",
+      "institution": "Psicologia em Pesquisa · Universidade Federal de Juiz de Fora",
+      "year": 2020,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1982-12472020000200003&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Introdução à pesquisa em memória",
+      "access": "Texto integral gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos a autoria, o texto integral e os exemplos sobre critérios de delimitação dos sistemas de memória.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "O foco está nos critérios experimentais usados para distinguir sistemas de memória.",
+      "relevance": "Comece pela distinção entre memória declarativa e não declarativa. Depois procure a discussão das dissociações e observe o que duas tarefas experimentais permitem inferir sobre habilidades diferentes.",
+      "nodes": [
+        "memoria",
+        "memoria-longo-prazo",
+        "episodios-conhecimentos"
+      ]
+    },
+    {
+      "id": "memoria-video",
+      "title": "Memória · entrevista com Ivan Izquierdo",
+      "authors": "Ivan Izquierdo e Drauzio Varella",
+      "institution": "Canal de Drauzio Varella",
+      "year": 2019,
+      "url": "https://www.youtube.com/watch?v=SbsJh-W-lDc",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Entrevista com pesquisador · 49 min",
+      "access": "Entrevista completa gratuita no canal do entrevistador.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos título, participantes, tema, duração e acesso público no player do canal do entrevistador.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "Conversa de divulgação científica gravada em 2019. O artigo de Guimarães apresenta o detalhamento metodológico.",
+      "relevance": "Ao ouvir Izquierdo, escolha uma explicação sobre a relação entre emoção e lembrança. Compare-a com a tarefa que você escolheria para observar o que a pessoa recorda.",
+      "nodes": [
+        "memoria"
+      ]
+    },
+    {
+      "id": "neri",
+      "title": "O legado de Paul B. Baltes à Psicologia do Desenvolvimento e do Envelhecimento",
+      "authors": "Anita Liberalesso Neri",
+      "institution": "Temas em Psicologia",
+      "year": 2006,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1413-389X2006000100005&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Revisão teórica",
+      "access": "Texto integral gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o artigo integral, o paradigma do curso de vida e a discussão sobre plasticidade.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "A autora apresenta o modelo de Baltes e sua contribuição para o estudo da vida adulta e da velhice.",
+      "relevance": "Comece pelas características do desenvolvimento ao longo da vida. Observe o que os exemplos sobre ganhos, perdas e plasticidade acrescentam à comparação entre pessoas da mesma idade.",
+      "nodes": [
+        "desenvolvimento",
+        "estrategias-envelhecimento"
+      ]
+    },
+    {
+      "id": "coleta",
+      "title": "Metodologias para a Pesquisa em Educação · método de coleta de dados nas pesquisas qualitativas",
+      "authors": "Taitiâny Kárita Bonzanini",
+      "institution": "Universidade Virtual do Estado de São Paulo",
+      "year": 2021,
+      "url": "https://www.youtube.com/watch?v=vk0UFeH4mFo",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Videoaula · 10 min",
+      "access": "Videoaula gratuita no canal oficial da Univesp.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos título, docente, disciplina, duração e disponibilidade do player sem login.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "A aula foi preparada para licenciaturas e trabalha com exemplos de pesquisa em educação.",
+      "relevance": "Acompanhe a discussão sobre como escolher uma forma de coletar dados. Aplique essa escolha à pergunta que você formulou e explique por que o material obtido responderia a ela.",
+      "nodes": [
+        "metodos"
+      ]
+    },
+    {
+      "id": "causas-unesp",
+      "title": "Causalidade: a matemática usada para entender a ciência das causas e dos efeitos",
+      "authors": "Frank Emmert-Streib e Matthias Dehmer",
+      "institution": "Unesp Para Jovens · tradução de Frontiers for Young Minds",
+      "year": 2024,
+      "url": "https://parajovens.unesp.br/causalidade-a-matematica-usada-para-entender-a-ciencia-das-causas-e-dos-efeitos/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de divulgação com diagramas",
+      "access": "Texto integral gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos a versão integral em português, a autoria do original e os exemplos de hipóteses causais.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "A introdução usa exemplos simplificados. O texto de análise de correlação complementa a leitura com gráficos de dados.",
+      "relevance": "Comece pelo exemplo do sorvete. Desenhe as relações possíveis entre as variáveis e procure a que consegue explicar por que duas medidas mudam juntas.",
+      "nodes": [
+        "correlacao",
+        "confundimento",
+        "diagramas-causais"
+      ]
+    },
+    {
+      "id": "grade-ficha",
+      "title": "Graduando a certeza das evidências · GRADE",
+      "authors": "Núcleo de Avaliação de Tecnologias em Saúde e Núcleo de Evidências do Hospital Sírio-Libanês",
+      "institution": "PROADI-SUS e Agência Nacional de Saúde Suplementar",
+      "year": null,
+      "url": "https://www.gov.br/ans/pt-br/acesso-a-informacao/participacao-da-sociedade/atualizacao-do-rol-de-procedimentos/GRADE.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Guia ilustrado · PDF de 4 páginas",
+      "access": "Texto integral gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o PDF integral no portal da ANS, os quadros por desfecho e a autoria na última página.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "Material introdutório do projeto do triênio 2024–2026. A ficha resume a avaliação de evidências provenientes de revisões sistemáticas.",
+      "relevance": "Na primeira página, veja os critérios que podem diminuir a certeza. Na segunda e na terceira, compare a classificação de um desfecho com a linguagem usada para descrever a conclusão.",
+      "nodes": [
+        "evidencia"
+      ]
+    },
+    {
+      "id": "exemplo-revisao",
+      "title": "Terapia cognitivo-comportamental na ansiedade em crianças e adolescentes",
+      "authors": "A. C. James, T. Reardon, A. Soler, G. James e C. Creswell",
+      "institution": "Cochrane · tradução com apoio da Cochrane Portugal",
+      "year": 2020,
+      "url": "https://www.cochrane.org/pt/evidence/CD013162_cognitive-behavioural-therapy-anxiety-children-and-young-people",
+      "sourcePage": null,
+      "language": "pt-PT",
+      "format": "Síntese em linguagem simples",
+      "access": "Síntese completa em português disponível gratuitamente, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos a síntese em português, a autoria, as 87 pesquisas incluídas e a discussão sobre qualidade das evidências.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "É a síntese pública da revisão, com a busca encerrada no período descrito. A conclusão se refere às populações, comparações e desfechos ali estudados.",
+      "relevance": "Leia a seção sobre as comparações. Separe os estudos com lista de espera dos que compararam outras terapias e veja qual foi a confiança atribuída aos resultados.",
+      "nodes": [
+        "evidencia",
+        "pergunta-revisao",
+        "triagem-estudos"
+      ]
+    },
+    {
+      "id": "guia-sigilo",
+      "title": "Guia para o exercício profissional da Psicologia · sigilo e registro documental",
+      "authors": "Conselho Regional de Psicologia de Santa Catarina",
+      "institution": "Conselho Regional de Psicologia · 12ª Região",
+      "year": 2024,
+      "url": "https://site.crpsc.org.br/wp-content/uploads/2024/02/Cartilha-CRP-2024_atualizada.pdf#page=35",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Guia de orientação profissional em PDF",
+      "access": "Texto integral gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o guia integral, a edição e as páginas que discutem sigilo profissional e registro.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "É um guia regional de 2024. A redação do Código indicada neste tópico é a referência para identificar os artigos discutidos.",
+      "relevance": "Na página 35 do guia, leia as situações discutidas à luz dos artigos 9º a 11 do Código. Volte à seção sobre registro documental para analisar o pedido da equipe no exemplo.",
+      "nodes": [
+        "etica",
+        "sigilo",
+        "registro-psicologico"
+      ]
+    },
+    {
+      "id": "supervisao-pesquisa",
+      "title": "Estágio em Psicologia Clínica e supervisão em Serviços-Escola de Psicologia: caracterização e avaliação de estagiários",
+      "authors": "Rosina Forteski Glidden, Claudia Daiana Borges, Bruna Bisewski, Caio Fernando Zimmerman Corrêa e Crisley Fabiane Zastrow",
+      "institution": "Gerais: Revista Interinstitucional de Psicologia",
+      "year": 2023,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1983-82202023000200009&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Estudo empírico brasileiro",
+      "access": "Texto integral gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto integral, a caracterização dos participantes e os resultados sobre a experiência de supervisão.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "As respostas caracterizam a experiência dos participantes dos serviços estudados. A cartilha traz a perspectiva institucional.",
+      "relevance": "Leia “Método” e localize quem respondeu à pesquisa. Depois compare o que os estagiários relatam sobre a supervisão com as atribuições descritas na cartilha do CFP.",
+      "nodes": [
+        "supervisao",
+        "conversa-de-supervisao",
+        "supervisao-em-grupo"
+      ]
+    },
+    {
+      "id": "dss-entrevista",
+      "title": "Determinantes sociais da saúde · Ligado em Saúde",
+      "authors": "Bárbara Pereira entrevista Leonardo Costa de Castro",
+      "institution": "Canal Saúde · Fundação Oswaldo Cruz",
+      "year": 2023,
+      "url": "https://www.youtube.com/watch?v=J9_SnataZ2M",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Programa de entrevistas · 26 min",
+      "access": "Programa completo gratuito no canal do CEPI-DSS.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o entrevistado, a produção do Canal Saúde, a duração e a disponibilidade no canal do centro de estudos em determinantes sociais.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "O programa apresenta exemplos para divulgação. Os mecanismos e os indicadores variam entre territórios e grupos.",
+      "relevance": "Ouça como o pesquisador relaciona condições de vida e saúde. Escolha um exemplo de moradia, renda ou deslocamento e procure no esquema da ENSP onde as políticas públicas podem atuar.",
+      "nodes": [
+        "determinantes"
+      ]
+    },
+    {
+      "id": "cfp-antirracismo",
+      "title": "Psicologia no enfrentamento ao racismo",
+      "authors": "Conselho Federal de Psicologia e convidadas e convidados. Primeira aula com Fernanda Lopes, Eliane Silvia Costa e Vanessa Silva",
+      "institution": "Conselho Federal de Psicologia",
+      "year": 2022,
+      "url": "https://www.youtube.com/watch?v=On3H8i3qsWQ&list=PLnzjy4Y6S0COjv_yBQO4sJgMHoHA4U8mg",
+      "sourcePage": "https://site.cfp.org.br/cfp/comissao-de-direitos-humanos/campanhas-anteriores/2020-2022/serie-psicologia-no-enfrentamento-ao-racismo/",
+      "language": "pt-BR",
+      "format": "Playlist de formação · 11 aulas",
+      "access": "Aulas completas gratuitas no canal oficial do CFP.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos os onze títulos no programa do CFP, a playlist original e os onze players disponíveis sem login.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "A série reúne profissionais de diferentes áreas. A página do conselho apresenta o tema e os participantes de cada encontro.",
+      "relevance": "Comece pela pergunta da aula 1 sobre o sentido social de raça. Para relacioná-la à atuação em saúde, vá ao episódio 8, sobre saberes e práticas psicológicas antirracistas e decoloniais.",
+      "nodes": [
+        "diversidade"
+      ]
+    },
+    {
+      "id": "rede-desastres",
+      "title": "Desastres: o papel da Rede de Atenção Psicossocial",
+      "authors": "Fundação Oswaldo Cruz, com especialistas da saúde mental e da gestão de riscos de desastres",
+      "institution": "Fiocruz Brasília",
+      "year": 2024,
+      "url": "https://www.fiocruzbrasilia.fiocruz.br/fiocruz-lanca-serie-de-videos-do-papel-da-rede-de-atencao-psicossocial-em-desastres/",
+      "sourcePage": "https://www.youtube.com/watch?v=Qllet4xDczQ",
+      "language": "pt-BR",
+      "format": "Série de cinco vídeos · primeiro episódio de 8 min",
+      "access": "A página da Fiocruz reúne gratuitamente os cinco episódios completos.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o programa publicado pela Fiocruz e os cinco vídeos individuais disponíveis sem login no canal da instituição.",
+      "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
+      "caveat": "A série mostra a articulação da rede em desastres climáticos. O mapa nacional dos pontos de atenção está na página do Ministério da Saúde.",
+      "relevance": "Na página da Fiocruz, comece pelo episódio 1 e siga para os demais vídeos logo abaixo. Identifique uma ação que precisa continuar depois do primeiro atendimento às famílias atingidas.",
+      "nodes": [
+        "sus"
+      ]
+    },
+    {
+      "id": "bc-h-escola",
+      "title": "Contribuições para a construção da historiografia da Psicologia educacional e escolar no Brasil",
+      "authors": "Deborah Rosária Barbosa",
+      "institution": "Psicologia: Ciência e Profissão",
+      "year": 2012,
+      "url": "https://www.scielo.br/j/pcp/a/cB6yXc4HxJhk4FH8YPrnrNM/?lang=pt",
+      "sourcePage": "https://www.scielo.br/j/pcp/a/cB6yXc4HxJhk4FH8YPrnrNM/?lang=pt",
+      "language": "pt-BR",
+      "format": "Artigo de historiografia",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Periodização proposta pela autora, com discussão das escolas normais e do Pedagogium, conferida no texto integral.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "A divisão em períodos segue o problema da Psicologia escolar. Outros campos de atuação admitem marcos diferentes.",
+      "relevance": "Procure o Pedagogium e veja por que a autora discute a dificuldade de datar a criação de seu laboratório.",
+      "nodes": [
+        "escolas-normais"
+      ]
+    },
+    {
+      "id": "bc-h-ensino",
+      "title": "História da Psicologia no Brasil: uma narrativa por meio de seu ensino",
+      "authors": "Ana Maria Jacó-Vilela",
+      "institution": "Psicologia: Ciência e Profissão",
+      "year": 2012,
+      "url": "https://www.scielo.br/j/pcp/a/9KqzhPLhtm58PQNGQB39GLq/?lang=pt",
+      "sourcePage": "https://www.scielo.br/j/pcp/a/9KqzhPLhtm58PQNGQB39GLq/?lang=pt",
+      "language": "pt-BR",
+      "format": "Artigo histórico",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos no artigo os exemplos da formação em instituições de ensino e das atividades do ISOP.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "A autora reconstrói uma trajetória a partir do ensino. As experiências descritas estão situadas nas cidades e instituições estudadas.",
+      "relevance": "Localize os espaços de ensino e os cursos de extensão do ISOP. Pergunte quem podia estudar Psicologia em cada espaço.",
+      "nodes": [
+        "instituicoes-psicologia",
+        "escolas-normais",
+        "psicotecnica-trabalho"
+      ]
+    },
+    {
+      "id": "bc-h-trabalho-hist",
+      "title": "O desenvolvimento da orientação profissional no Brasil",
+      "authors": "Mônica Sparta",
+      "institution": "Revista Brasileira de Orientação Profissional",
+      "year": 2003,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1679-33902003000100002&script=sci_arttext",
+      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S1679-33902003000100002&script=sci_arttext",
+      "language": "pt-BR",
+      "format": "Revisão histórica",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Artigo integral conferido, incluindo o Serviço do Liceu de Artes e Ofícios, o ISOP e sua publicação de 1949.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "A retrospectiva foi publicada em 2003. O recorte aqui é a história das instituições de seleção e orientação profissional.",
+      "relevance": "Compare o serviço do Liceu de Artes e Ofícios de São Paulo com a atuação do Instituto de Seleção e Orientação Profissional no Rio.",
+      "nodes": [
+        "psicotecnica-trabalho"
+      ]
+    },
+    {
+      "id": "bc-h-regulacao",
+      "title": "A regulamentação da profissão Psicologia: documentos que explicitam o processo histórico",
+      "authors": "Marisa Todescan Dias da Silva Baptista",
+      "institution": "Psicologia: Ciência e Profissão",
+      "year": 2010,
+      "url": "https://www.scielo.br/j/pcp/a/MBTmvHRs7MZCZHBLyrTYX4x/?lang=pt",
+      "sourcePage": "https://www.scielo.br/j/pcp/a/MBTmvHRs7MZCZHBLyrTYX4x/?lang=pt",
+      "language": "pt-BR",
+      "format": "Pesquisa histórica documental",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos os anteprojetos discutidos desde os anos 1950, os pareceres e o debate sobre formação.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "Os documentos mostram propostas e disputas de seu período. A leitura tem finalidade histórica.",
+      "relevance": "Acompanhe o caminho do anteprojeto apresentado em 1953 até a regulamentação de 1962 e identifique os grupos que participaram do debate.",
+      "nodes": [
+        "regulamentacao-1962"
+      ]
+    },
+    {
+      "id": "bc-h-reflexividade",
+      "title": "Reflexividade como éthos da pesquisa qualitativa",
+      "authors": "Maria Cecília de Souza Minayo e Iara Coelho Zito Guerriero",
+      "institution": "Ciência & Saúde Coletiva",
+      "year": 2014,
+      "url": "https://www.scielo.br/j/csc/a/DgfNdVrZzZbN7rKTSQ8v4qR/?lang=pt",
+      "sourcePage": "https://www.scielo.br/j/csc/a/DgfNdVrZzZbN7rKTSQ8v4qR/?lang=pt",
+      "language": "pt-BR",
+      "format": "Ensaio com casos de pesquisa",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas as seções sobre a presença do pesquisador, o retorno de William Foote Whyte ao campo e os dilemas de Carolyn Ellis.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "Os dois casos discutidos vêm da pesquisa qualitativa e antropológica. A pertinência da comparação depende do desenho da investigação.",
+      "relevance": "Leia um dos dois casos finais. Observe como a relação mantida com os participantes altera as perguntas sobre a apresentação dos resultados.",
+      "nodes": [
+        "reflexividade"
+      ]
+    },
+    {
+      "id": "bc-h-memcrianca",
+      "title": "Neuropsicologia do desenvolvimento da memória: da pré-escola ao período escolar",
+      "authors": "Luciana Brooking Teresa Dias e J. Landeira-Fernandez",
+      "institution": "Neuropsicologia Latinoamericana",
+      "year": 2011,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S2075-94792011000100003&script=sci_arttext",
+      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S2075-94792011000100003&script=sci_arttext",
+      "language": "pt-BR",
+      "format": "Revisão narrativa",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto integral e os exemplos de memória declarativa, de memória implícita e de imitação após um intervalo.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "O artigo acompanha sobretudo a infância e apresenta modelos e estudos disponíveis até sua publicação.",
+      "relevance": "Leia a passagem sobre memória de longo prazo. Localize as diferenças entre recordar uma experiência, saber um fato e executar uma habilidade.",
+      "nodes": [
+        "memoria",
+        "memoria-longo-prazo",
+        "episodios-conhecimentos",
+        "memoria-trabalho"
+      ]
+    },
+    {
+      "id": "bc-h-trabalho",
+      "title": "Memória de trabalho fonológica, atenção visual e leitura em crianças de 5ª e 6ª séries do ensino fundamental",
+      "authors": "Fabiana Bernardes Rangel Barboza, Ricardo Basso Garcia e Cesar Galera",
+      "institution": "Estudos de Psicologia (Natal)",
+      "year": 2015,
+      "url": "https://www.scielo.br/j/epsic/a/6zRqMWQ6F63bSy73xbgpyJd/?format=html&lang=pt",
+      "sourcePage": "https://www.scielo.br/j/epsic/a/6zRqMWQ6F63bSy73xbgpyJd/?format=html&lang=pt",
+      "language": "pt-BR",
+      "format": "Estudo empírico",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o método, as tarefas com palavras, pseudopalavras e dígitos e a comparação dos grupos nos resultados.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "Os dados vêm de escolares de duas séries. O desempenho varia conforme o material e as condições da tarefa.",
+      "relevance": "Em Materiais e procedimento, descubra o que as crianças precisavam reter e reproduzir. Compare os resultados com palavras, pseudopalavras e dígitos.",
+      "nodes": [
+        "memoria-trabalho"
+      ]
+    },
+    {
+      "id": "bc-h-falsas",
+      "title": "Avanços metodológicos no estudo das falsas memórias: construção e normatização do procedimento de palavras associadas",
+      "authors": "Lilian Milnitsky Stein, Leandro da Fonte Feix e Gustavo Rohenkohl",
+      "institution": "Psicologia: Reflexão e Crítica",
+      "year": 2006,
+      "url": "https://www.scielo.br/j/prc/a/y7mkddw8LrZyfk7f69gPZJQ/?lang=pt",
+      "sourcePage": "https://www.scielo.br/j/prc/a/y7mkddw8LrZyfk7f69gPZJQ/?lang=pt",
+      "language": "pt-BR",
+      "format": "Estudo experimental",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos os dois estudos, as listas em português brasileiro e os resultados de reconhecimento de itens críticos.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "A tarefa usa associações entre palavras. Seus resultados não permitem julgar a veracidade de um relato autobiográfico individual.",
+      "relevance": "Vá ao Estudo II e procure o item crítico “música”. Reconstrua como uma resposta de reconhecimento pode ocorrer para uma palavra que estava ausente.",
+      "nodes": [
+        "reconstrucao-lembranca"
+      ]
+    },
+    {
+      "id": "bc-h-recordar",
+      "title": "Produção de memórias falsas com listas de associados: análise do efeito do nível de processamento e da natureza da prova de memória",
+      "authors": "Eduarda Pimentel Rodrigues e Pedro Barbas de Albuquerque",
+      "institution": "Psicologia USP",
+      "year": 2007,
+      "url": "https://www.scielo.br/j/pusp/a/sL9c4nnY33c8TY3Wb4Pf76k/?lang=pt",
+      "sourcePage": "https://www.scielo.br/j/pusp/a/sL9c4nnY33c8TY3Wb4Pf76k/?lang=pt",
+      "language": "pt-PT",
+      "format": "Revisão de estudos experimentais",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o exemplo de palavras associadas a água e a discussão de evocação livre e reconhecimento.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "O texto examina um paradigma de laboratório com listas. Situações cotidianas envolvem outros tipos de material, contexto e intervalo.",
+      "relevance": "Siga o exemplo de “água” e compare o que se pede ao participante na evocação livre e no reconhecimento.",
+      "nodes": [
+        "reconstrucao-lembranca"
+      ]
+    },
+    {
+      "id": "bc-h-stroop",
+      "title": "O paradigma de Stroop nos estudos brasileiros: uma revisão de escopo",
+      "authors": "Maria Eduarda de Oliveira Martins, Caio Marcos Garcia Tosi, Bernardo Peressoni Luz, Luiz Henrique Toresan, Chrissie Ferreira de Carvalho e Natália Martins Dias",
+      "institution": "Psicologia: Teoria e Prática",
+      "year": 2023,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1516-36872023000200302&script=sci_arttext&tlng=pt",
+      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S1516-36872023000200302&script=sci_arttext&tlng=pt",
+      "language": "pt-BR",
+      "format": "Revisão de escopo",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto em português, as versões da tarefa e a discussão de escores encontrados nos estudos brasileiros.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "A revisão mapeia usos de várias tarefas. Versões diferentes podem produzir medidas diferentes.",
+      "relevance": "Compare a versão clássica com a de Victoria. Observe o que é apresentado e quais escores os pesquisadores registram.",
+      "nodes": [
+        "atencao-seletiva"
+      ]
+    },
+    {
+      "id": "bc-h-niteroi",
+      "title": "Obtenção de dados normativos para desempenho no teste de Stroop num grupo de estudantes do ensino fundamental em Niterói",
+      "authors": "Maria Teresa Duncan",
+      "institution": "Jornal Brasileiro de Psiquiatria",
+      "year": 2006,
+      "url": "https://www.scielo.br/j/jbpsiq/a/txgyjfnbvQtnk4yYM4fJpQS/?lang=pt",
+      "sourcePage": "https://www.scielo.br/j/jbpsiq/a/txgyjfnbvQtnk4yYM4fJpQS/?lang=pt",
+      "language": "pt-BR",
+      "format": "Pesquisa com escolares",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o procedimento da versão Victoria, os grupos de estudantes e a discussão do efeito de interferência.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "Os resultados descrevem a amostra escolar estudada em Niterói. Uma pontuação isolada não define o funcionamento de uma pessoa.",
+      "relevance": "Identifique a instrução que exige nomear a cor da tinta. Compare as condições que introduzem estímulos concorrentes.",
+      "nodes": [
+        "atencao-seletiva"
+      ]
+    },
+    {
+      "id": "bc-h-ecologia",
+      "title": "Revisando a inserção ecológica: uma proposta de sistematização",
+      "authors": "Laíssa Eschiletti Prati, Maria Clara P. de Paula Couto, Andreína Moura, Michele Poletto e Sílvia H. Koller",
+      "institution": "Psicologia: Reflexão e Crítica",
+      "year": 2008,
+      "url": "https://www.scielo.br/j/prc/a/pQHgm4ZDsNygyttwybxrb7L/?lang=pt",
+      "sourcePage": "https://www.scielo.br/j/prc/a/pQHgm4ZDsNygyttwybxrb7L/?lang=pt",
+      "language": "pt-BR",
+      "format": "Artigo teórico-metodológico",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos os componentes do modelo PPCT, o exemplo da escola e a descrição das interações recíprocas no tempo.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "A inserção ecológica é uma forma de pesquisar o desenvolvimento orientada pela teoria bioecológica.",
+      "relevance": "Use o exemplo de uma escola para relacionar sala de aula, comunicação com a família e decisões que afetam a criança indiretamente.",
+      "nodes": [
+        "contextos-desenvolvimento",
+        "processos-proximais"
+      ]
+    },
+    {
+      "id": "bc-h-mudanca",
+      "title": "A adolescência como construção social: estudo sobre livros destinados a pais e educadores",
+      "authors": "Ana Mercês Bahia Bock",
+      "institution": "Psicologia Escolar e Educacional",
+      "year": 2007,
+      "url": "https://www.scielo.br/j/pee/a/LJkJzRzQ5YgbmhcnkKzVq3x/?lang=pt",
+      "sourcePage": "https://www.scielo.br/j/pee/a/LJkJzRzQ5YgbmhcnkKzVq3x/?lang=pt",
+      "language": "pt-BR",
+      "format": "Análise de publicações",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos os critérios de escolha dos livros, as categorias de análise e a discussão sobre as expectativas dos adultos.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "O corpus é composto por livros dirigidos a adultos. Suas afirmações sobre adolescentes não equivalem a depoimentos de jovens.",
+      "relevance": "Leia a descrição da escolha dos livros e identifique uma característica apresentada pelos autores como própria de todos os adolescentes.",
+      "nodes": [
+        "adolescencias-contexto"
+      ]
+    },
+    {
+      "id": "bc-h-soc",
+      "title": "Envelhecimento bem-sucedido, qualidade de vida e marcadores de resposta ao estresse fisiológico",
+      "authors": "Diego Souza, Raquel Wosiack, Márcio Marques, Daiane Berlese, Gilson Cunha e Geraldine Santos",
+      "institution": "Psicologia, Saúde & Doenças",
+      "year": 2022,
+      "url": "https://scielo.pt/scielo.php?pid=S1645-00862022000100047&script=sci_arttext",
+      "sourcePage": "https://scielo.pt/scielo.php?pid=S1645-00862022000100047&script=sci_arttext",
+      "language": "pt-BR",
+      "format": "Estudo transversal",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos os métodos, os tipos de seleção no inventário SOC e a caracterização de 193 participantes do sul do Brasil.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "O desenho transversal permite examinar associações na amostra. O estudo não estabelece quais estratégias causaram os resultados observados.",
+      "relevance": "Localize a descrição do inventário SOC e diferencie seleção eletiva e seleção baseada em perdas. Em seguida, observe qual delas predominou na amostra.",
+      "nodes": [
+        "estrategias-envelhecimento"
+      ]
+    },
+    {
+      "id": "bc-h-piaget",
+      "title": "As variáveis número de experimentadores e tipo de contexto alterando o desempenho de crianças em tarefas de conservação: o problema da padronização do método clínico em testagens clássicas",
+      "authors": "Angela Donato Oliva e Maria Lúcia Seidl de Moura",
+      "institution": "Estudos de Psicologia (Natal)",
+      "year": 1998,
+      "url": "https://www.scielo.br/j/epsic/a/J8DMcs6T5VQpmXSJjfMnmwm/?lang=pt",
+      "sourcePage": "https://www.scielo.br/j/epsic/a/J8DMcs6T5VQpmXSJjfMnmwm/?lang=pt",
+      "language": "pt-BR",
+      "format": "Pesquisa experimental",
+      "access": "Texto integral gratuito em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas a tarefa de conservação, sua apresentação em diferentes contextos e a discussão dos resultados.",
+      "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
+      "caveat": "Trata-se de um estudo sobre uma tarefa específica. Uma única resposta não basta para atribuir um estágio de desenvolvimento.",
+      "relevance": "Compare a apresentação clássica com a situação de jogo. Observe se a forma de apresentar a pergunta interfere na resposta da criança.",
+      "nodes": [
+        "conservacao-quantidade"
+      ]
+    },
+    {
+      "id": "bc-h-modelos",
+      "title": "Psicologia do Desenvolvimento · Aula 1: modelos epistemológicos e modelos psicológicos",
+      "authors": "Ulisses Araújo (docente) e Valéria Arantes (responsável pela disciplina)",
+      "institution": "Universidade Virtual do Estado de São Paulo",
+      "year": 2015,
+      "url": "https://www.youtube.com/watch?v=I__1zse1d8Q",
+      "sourcePage": "https://assets.univesp.br/blackboard/plano-de-ensino/disciplinas/RPD001.pdf",
+      "language": "pt-BR",
+      "format": "Videoaula em português · 16 min",
+      "access": "Aula completa e gratuita no canal oficial, sem login.",
+      "checkedAt": "2026-11-15",
+      "verification": "Identificados disciplina, ministrante e duração na publicação da Univesp. O player abriu sem login.",
+      "rights": "A aula é disponibilizada pela Univesp em seu canal oficial. Os direitos permanecem com os titulares.",
+      "caveat": "É uma aula introdutória de licenciatura sobre modelos do conhecimento e do desenvolvimento.",
+      "relevance": "Acompanhe a relação entre um modelo de conhecimento e a explicação que ele permite dar para a aprendizagem. Registre uma diferença entre modelos.",
+      "nodes": [
+        "epistemologia",
+        "modelos-conhecimento"
+      ]
+    },
+    {
+      "id": "bc-h-infancia",
+      "title": "D-11 · Introdução à Psicologia do Desenvolvimento",
+      "authors": "Univesp TV, com Zélia Ramozzi Chiarottino, Yves de La Taille e Maria Thereza Costa Coelho",
+      "institution": "Universidade Estadual Paulista e Universidade Virtual do Estado de São Paulo",
+      "year": 2010,
+      "url": "https://www.youtube.com/watch?v=5WA1pmu-pQ8",
+      "sourcePage": "https://acervodigital.unesp.br/handle/123456789/234",
+      "language": "pt-BR",
+      "format": "Aula com entrevistas em português · 18 min",
+      "access": "Aula completa e gratuita no canal oficial, sem login.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o registro no acervo educacional da Unesp e o vídeo público da Univesp, com as entrevistas sobre a teoria de Piaget.",
+      "rights": "O Acervo Digital da Unesp informa licença CC BY-NC-SA 4.0 para o vídeo.",
+      "caveat": "A apresentação privilegia a teoria piagetiana e menciona outras perspectivas brevemente.",
+      "relevance": "Nas entrevistas sobre Piaget, identifique por que interessam ao pesquisador as explicações formuladas pela criança.",
+      "nodes": [
+        "desenvolvimento",
+        "conservacao-quantidade"
+      ]
+    },
+    {
+      "id": "bc-m-pense",
+      "title": "Pesquisa nacional de saúde do escolar 2019",
+      "authors": "Instituto Brasileiro de Geografia e Estatística",
+      "institution": "IBGE",
+      "year": 2021,
+      "url": "https://biblioteca.ibge.gov.br/visualizacao/livros/liv101852.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Relatório de pesquisa · PDF",
+      "access": "Texto integral gratuito em português na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o PDF integral e o plano de amostragem da edição de 2019, na página 21 do arquivo.",
+      "rights": "Consulta pública na fonte indicada. A licença de reprodução não foi confirmada nesta curadoria.",
+      "caveat": "O levantamento descreve escolares. Jovens fora da escola ficam fora da população investigada.",
+      "relevance": "Nas notas técnicas, acompanhe como o IBGE passa do cadastro de escolas à seleção das turmas.",
+      "nodes": [
+        "selecao-participantes",
+        "amostragem-probabilistica"
+      ]
+    },
+    {
+      "id": "bc-m-amostra",
+      "title": "Estatística aplicada à administração",
+      "authors": "Marcelo Tavares",
+      "institution": "Universidade Federal de Santa Catarina · CAPES · Universidade Aberta do Brasil",
+      "year": 2014,
+      "url": "https://educapes.capes.gov.br/bitstream/capes/401407/1/PNAP%20-%20Bacharelado%20-%20Modulo%204%20-%20Estatistica%20Aplicada%20a%20Administracao%20-%203ed%202014%20-%20GRAFICA%20-%20atualizado.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Livro aberto · PDF",
+      "access": "Texto integral gratuito em português na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos a ficha da terceira edição e os exemplos de estratos e conglomerados na Unidade 1.",
+      "rights": "CC BY-NC-SA 3.0 Brasil, conforme a ficha da terceira edição.",
+      "caveat": "Os exercícios usam situações de administração pública. O desenho amostral precisa ser reconsiderado para cada população.",
+      "relevance": "Na Unidade 1, distinga população, amostra, estratos e conglomerados pelos exemplos de seleção.",
+      "nodes": [
+        "amostragem-probabilistica"
+      ]
+    },
+    {
+      "id": "bc-m-saturacao",
+      "title": "Amostragem por saturação em pesquisas qualitativas em saúde: contribuições teóricas",
+      "authors": "Bruno José Barcellos Fontanella, Janete Ricas e Egberto Ribeiro Turato",
+      "institution": "Cadernos de Saúde Pública · Fiocruz",
+      "year": 2008,
+      "url": "https://www.scielo.br/j/csp/a/Zbfsr8DcW5YNWVkymVByhrN/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo metodológico",
+      "access": "Texto integral gratuito em português na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o artigo em português, as passagens sobre amostras intencionais, repetição e diversidade dos relatos.",
+      "rights": "Consulta pública na fonte indicada. A licença de reprodução não foi confirmada nesta curadoria.",
+      "caveat": "A saturação discutida pelos autores é um critério possível de encerramento. Sua pertinência depende da pergunta e da tradição metodológica.",
+      "relevance": "Localize a discussão sobre tamanho da amostra e compare as razões para incluir pessoas diferentes ou encerrar a coleta.",
+      "nodes": [
+        "amostragem-intencional"
+      ]
+    },
+    {
+      "id": "bc-m-roteiro",
+      "title": "Considerações sobre a elaboração de roteiro para entrevista semi-estruturada",
+      "authors": "Eduardo José Manzini",
+      "institution": "Eduel · acervo do Grupo IDEA da UFSCar",
+      "year": 2003,
+      "url": "https://www.idea.ufscar.br/arquivos/metodologia/entrevistas/pdf-manzini-2003-elaboracao-roteiro-entrevista-semiestruturada.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Capítulo aberto · PDF",
+      "access": "Texto integral gratuito em português na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos a referência do capítulo, a discussão sobre o planejamento e os exemplos de formulação de perguntas.",
+      "rights": "Consulta pública na fonte indicada. A licença de reprodução não foi confirmada nesta curadoria.",
+      "caveat": "Os exemplos vêm da pesquisa em educação especial. É preciso adaptar a linguagem ao interlocutor e ao objetivo de cada estudo.",
+      "relevance": "Acompanhe como o autor avalia a linguagem e a sequência das perguntas antes da entrevista.",
+      "nodes": [
+        "roteiro-entrevista"
+      ]
+    },
+    {
+      "id": "bc-m-universitarios",
+      "title": "Vivências de universitários sobre timidez, assertividade, coping, impulsividade, drogas e suporte social: estudo qualitativo",
+      "authors": "Karoline Giele Martins de Aguiar, Ilana Andretta e Emanueli Ribeiro Beneton",
+      "institution": "Revista Brasileira de Terapias Cognitivas",
+      "year": 2025,
+      "url": "https://www.rbtc.org.br/detalhe_artigo.asp?id=494",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Pesquisa empírica · texto integral",
+      "access": "Texto integral gratuito em português na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos autoria, método, perguntas norteadoras, Tabela 2 e discussão dos resultados na publicação da revista.",
+      "rights": "Consulta pública na fonte indicada. A licença de reprodução não foi confirmada nesta curadoria.",
+      "caveat": "As sete pessoas entrevistadas eram universitárias em tratamento em um CAPS AD do Maranhão. A composição do grupo limita a transferência para outros contextos.",
+      "relevance": "Compare as perguntas da entrevista com a descrição da análise temática e os relatos apresentados nos resultados.",
+      "nodes": [
+        "selecao-participantes",
+        "entrevista-pesquisa",
+        "roteiro-entrevista",
+        "analise-tematica"
+      ]
+    },
+    {
+      "id": "bc-m-temas",
+      "title": "Pesquisa com análise qualitativa de dados: conhecendo a Análise Temática",
+      "authors": "Luciana Karine de Souza",
+      "institution": "Arquivos Brasileiros de Psicologia · PePSIC",
+      "year": 2019,
+      "url": "https://pepsic.scielo.org/scielo.php?script=sci_arttext&pid=S1809-52672019000200005",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo metodológico com mapas temáticos",
+      "access": "Texto integral gratuito em português na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas as seis fases, os exemplos com material brasileiro e os mapas que organizam os temas.",
+      "rights": "Consulta pública na fonte indicada. A licença de reprodução não foi confirmada nesta curadoria.",
+      "caveat": "O artigo apresenta a abordagem de Braun e Clarke conforme discutida em 2019. Outras formas de análise temática adotam procedimentos diferentes.",
+      "relevance": "Siga o percurso entre trechos, códigos e mapas de temas. Observe quando a autora retorna aos dados.",
+      "nodes": [
+        "analise-tematica",
+        "rigor-qualitativo"
+      ]
+    },
+    {
+      "id": "bc-m-qualidade",
+      "title": "Critérios de qualidade para artigos de pesquisa qualitativa",
+      "authors": "Naiana Dapieve Patias e Jean Von Hohendorff",
+      "institution": "Psicologia em Estudo · Universidade Estadual de Maringá",
+      "year": 2019,
+      "url": "https://periodicos.uem.br/ojs/index.php/PsicolEstud/article/download/43536/751375148997",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo metodológico · PDF",
+      "access": "Texto integral gratuito em português na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o PDF em português, as autorias e os critérios de reflexividade, justificação dos procedimentos e transferibilidade.",
+      "rights": "Consulta pública na fonte indicada. A licença de reprodução não foi confirmada nesta curadoria.",
+      "caveat": "É uma revisão não sistemática sobre diferentes propostas de qualidade. Os critérios precisam ser compatíveis com o desenho analisado.",
+      "relevance": "Na discussão dos critérios, procure as perguntas sobre a participação do pesquisador na interpretação e sobre aplicação a contextos semelhantes.",
+      "nodes": [
+        "amostragem-intencional",
+        "rigor-qualitativo"
+      ]
+    },
+    {
+      "id": "bc-m-diagramas",
+      "title": "Utilização de diagramas causais em epidemiologia: um exemplo de aplicação em situação de confusão",
+      "authors": "Taísa Rodrigues Cortes, Eduardo Faerstein e Claudio José Struchiner",
+      "institution": "Cadernos de Saúde Pública · Fiocruz",
+      "year": 2016,
+      "url": "https://www.scielo.br/j/csp/a/Jhxhtwdf3nnqcsFtJHC3Z7y/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo metodológico com diagramas",
+      "access": "Texto integral gratuito em português na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos a Figura 1 sobre a sequência temporal e o exemplo dos modelos hipotéticos de estresse ocupacional e obesidade.",
+      "rights": "Consulta pública na fonte indicada. A licença de reprodução não foi confirmada nesta curadoria.",
+      "caveat": "As relações representadas são hipóteses para discutir o ajuste de variáveis. O exemplo não demonstra um efeito do estresse sobre a obesidade.",
+      "relevance": "Leia primeiro como se interpreta uma seta e depois compare as hipóteses representadas nos diagramas do exemplo ocupacional.",
+      "nodes": [
+        "confundimento",
+        "diagramas-causais"
+      ]
+    },
+    {
+      "id": "bc-m-aula-correlacao",
+      "title": "Estatística · Correlação e Regressão Linear",
+      "authors": "Jediane Teixeira de Souza (responsável pela disciplina)",
+      "institution": "Univesp · Centro Paula Souza",
+      "year": 2021,
+      "url": "https://www.youtube.com/watch?v=uF78_zMorHU",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Videoaula · 14 min",
+      "access": "Vídeo gratuito no canal institucional da Univesp, acessível sem login na checagem.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o canal da Univesp, a identificação da disciplina, a duração de 14 min 32 s e o player público do episódio.",
+      "rights": "Consulta pública na fonte indicada. A licença de reprodução não foi confirmada nesta curadoria.",
+      "caveat": "A aula pertence à formação em Gestão Pública. As relações lineares discutidas não estabelecem a direção de um efeito causal.",
+      "relevance": "Ao assistir, distinga a medida de associação entre duas variáveis do uso de uma reta para representar sua relação.",
+      "nodes": [
+        "dispersao"
+      ]
+    },
+    {
+      "id": "bc-m-aula-instrumentos",
+      "title": "D-10 · Instrumentos e técnicas de pesquisa",
+      "authors": "Unesp e Univesp TV",
+      "institution": "Pedagogia Unesp/Univesp",
+      "year": 2014,
+      "url": "https://www.youtube.com/watch?v=8uezal3y6YU&list=PL8BBF8ABEAA751D1D",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Episódio de curso aberto · 12 min",
+      "access": "Vídeo gratuito no canal institucional da Univesp, acessível sem login na checagem.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o quarto item da playlist, o resumo dos quatro exemplos e o player público do vídeo de 11 min 44 s.",
+      "rights": "Consulta pública na fonte indicada. A licença de reprodução não foi confirmada nesta curadoria.",
+      "caveat": "A aula trabalha com pesquisa em educação. As escolhas apresentadas dependem do objetivo e do contexto estudado.",
+      "relevance": "No exemplo de pesquisa de campo, identifique que informação a equipe procura com a entrevista e que informação poderia obter pela observação.",
+      "nodes": [
+        "entrevista-pesquisa"
+      ]
+    },
+    {
+      "id": "bc-m-passos",
+      "title": "Revisões sistemáticas da literatura: passos para sua elaboração",
+      "authors": "Taís Freire Galvão e Mauricio Gomes Pereira",
+      "institution": "Epidemiologia e Serviços de Saúde",
+      "year": 2014,
+      "url": "https://www.scielo.br/j/ress/a/yPKRNymgtzwzWR8cpDmRWQr/?format=html&lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo metodológico",
+      "access": "Texto integral gratuito em português na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto integral, o quadro com os componentes da pergunta e a sequência de etapas da revisão.",
+      "rights": "Consulta pública na fonte indicada. A licença de reprodução não foi confirmada nesta curadoria.",
+      "caveat": "O artigo introduz revisões de intervenções. Perguntas sobre experiências, significados ou percursos exigem outros recortes.",
+      "relevance": "No quadro sobre o acrônimo PICOS, observe como o desenho do estudo pode fazer parte da definição da pergunta.",
+      "nodes": [
+        "pergunta-revisao"
+      ]
+    },
+    {
+      "id": "bc-m-busca",
+      "title": "Etapas de busca e seleção de artigos em revisões sistemáticas da literatura",
+      "authors": "Mauricio Gomes Pereira e Taís Freire Galvão",
+      "institution": "Epidemiologia e Serviços de Saúde · repositório da UnB",
+      "year": 2014,
+      "url": "https://repositorio.unb.br/bitstream/10482/29484/2/ARTIGO_EtapasBuscaSelecao.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo metodológico · PDF",
+      "access": "Texto integral gratuito em português na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o PDF integral, a seleção em duas etapas, o registro de exclusões e o tratamento das discordâncias.",
+      "rights": "Consulta pública na fonte indicada. A licença de reprodução não foi confirmada nesta curadoria.",
+      "caveat": "As ferramentas de busca podem mudar de interface. A rastreabilidade depende de descrever o que foi feito na revisão.",
+      "relevance": "Leia as seções sobre busca e seleção e identifique o que se registra antes e depois de ler o texto completo.",
+      "nodes": [
+        "estrategia-busca",
+        "triagem-estudos"
+      ]
+    },
+    {
+      "id": "bc-m-biblioteca",
+      "title": "Biblioteca Virtual em Saúde · Tutorial de pesquisa bibliográfica, versão reduzida",
+      "authors": "Centro Latino-Americano e do Caribe de Informação em Ciências da Saúde (BIREME)",
+      "institution": "Biblioteca Virtual em Saúde do Ministério da Saúde",
+      "year": 2009,
+      "url": "https://bvsms.saude.gov.br/bvs/publicacoes/apostila_biblioteca_virtual_saude_reduzida.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Tutorial de busca · PDF",
+      "access": "Texto integral gratuito em português na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o PDF integral, a versão de 2009 e as instruções para combinar palavras e descritores.",
+      "rights": "Licença de Documentação Livre GNU, versão 1.2 ou posterior, conforme a página de créditos.",
+      "caveat": "As imagens mostram uma versão anterior da BVS. Use os exemplos para entender a lógica das consultas.",
+      "relevance": "Na parte sobre operadores, teste como os resultados mudam ao reunir sinônimos ou exigir dois assuntos na mesma consulta.",
+      "nodes": [
+        "estrategia-busca"
+      ]
+    },
+    {
+      "id": "bc-m-intervalos",
+      "title": "Conceitos básicos de epidemiologia e estatística para a leitura de ensaios clínicos controlados",
+      "authors": "Evandro Silva Freire Coutinho e Geraldo Marcelo da Cunha",
+      "institution": "Revista Brasileira de Psiquiatria · autores da Fiocruz",
+      "year": 2005,
+      "url": "https://www.scielo.br/j/rbp/a/7G7GSZzCRgcPx8rkTjjmQmp/?format=html&lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo metodológico com exemplos numéricos",
+      "access": "Texto integral gratuito em português na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto em português, a Tabela 4 e os intervalos de confiança comparados pelos autores.",
+      "rights": "Consulta pública na fonte indicada. A licença de reprodução não foi confirmada nesta curadoria.",
+      "caveat": "Os ensaios citados servem como exemplos históricos para leitura estatística. Os resultados não são uma atualização sobre tratamentos.",
+      "relevance": "Na discussão da Tabela 4, compare a amplitude dos intervalos de confiança de dois ensaios e o que muda na interpretação.",
+      "nodes": [
+        "imprecisao"
+      ]
+    },
+    {
+      "id": "bc-e-manual",
+      "title": "Manual orientativo de registro e elaboração de documentos psicológicos",
+      "authors": "Conselho Federal de Psicologia",
+      "institution": "Conselho Federal de Psicologia",
+      "year": 2025,
+      "url": "https://site.cfp.org.br/wp-content/uploads/2025/11/Manual_Orientativo.pdf",
+      "sourcePage": "https://site.cfp.org.br/publicacao/manual-orientativo-de-registro-e-elaboracao-de-documentos-psicologicos/",
+      "language": "pt-BR",
+      "format": "Manual ilustrado em PDF",
+      "access": "Texto integral gratuito na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o capítulo 3, o quadro de modalidades de documentos, a seção de entrega e os apêndices sobre prontuários.",
+      "rights": "Acesso público para consulta. A reutilização segue as condições da fonte.",
+      "caveat": "Os modelos dos apêndices exemplificam a estrutura. A seleção do conteúdo depende da finalidade e do contexto.",
+      "relevance": "Compare no capítulo 3 para que servem os registros. No capítulo 4, escolha duas modalidades que respondem a pedidos diferentes.",
+      "nodes": [
+        "informacao-na-equipe",
+        "registro-psicologico",
+        "servico-escola"
+      ]
+    },
+    {
+      "id": "bc-e-documentos",
+      "title": "Resolução CFP nº 6/2019 comentada",
+      "authors": "Conselho Federal de Psicologia",
+      "institution": "Conselho Federal de Psicologia",
+      "year": 2019,
+      "url": "https://site.cfp.org.br/wp-content/uploads/2019/09/Resolu%C3%A7%C3%A3o-CFP-n-06-2019-comentada.pdf",
+      "sourcePage": "https://site.cfp.org.br/cfp-publica-versao-comentada-da-resolucao-sobre-a-elaboracao-de-documentos-escritos/",
+      "language": "pt-BR",
+      "format": "Texto comentado em PDF",
+      "access": "Texto integral gratuito na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos a distinção entre relatório e laudo e o artigo 18 sobre entrevista devolutiva.",
+      "rights": "Acesso público para consulta. A reutilização segue as condições da fonte.",
+      "caveat": "Comentários publicados em 2019. Para um documento profissional, é preciso consultar a norma aplicável à situação.",
+      "relevance": "Leia os artigos 11 e 13 com seus comentários. Identifique qual pergunta orienta um relatório e qual orienta um laudo.",
+      "nodes": [
+        "finalidade-documento",
+        "entrevista-devolutiva"
+      ]
+    },
+    {
+      "id": "bc-e-dialogo",
+      "title": "Diálogo Digital sobre elaboração de documentos psicológicos",
+      "authors": "Conselho Federal de Psicologia",
+      "institution": "Conselho Federal de Psicologia",
+      "year": 2019,
+      "url": "https://www.youtube.com/watch?v=_vxzMCysrGw",
+      "sourcePage": "https://site.cfp.org.br/cfp-publica-versao-comentada-da-resolucao-sobre-a-elaboracao-de-documentos-escritos/",
+      "language": "pt-BR",
+      "format": "Debate em vídeo · 52 min",
+      "access": "Vídeo completo disponível gratuitamente no canal do CFP.",
+      "checkedAt": "2026-11-15",
+      "verification": "Canal, título e reprodução pública conferidos. O CFP identifica a gravação como o debate de junho de 2019 que subsidiou a versão comentada.",
+      "rights": "Acesso público para consulta. A reutilização segue as condições da fonte.",
+      "caveat": "O debate examina dúvidas da época de publicação da resolução. O manual de 2025 permite retomar as orientações.",
+      "relevance": "Na discussão sobre as modalidades, anote uma diferença entre relatório e laudo e localize a explicação correspondente na resolução comentada.",
+      "nodes": [
+        "finalidade-documento"
+      ]
+    },
+    {
+      "id": "bc-e-escola",
+      "title": "Entrevistas em psicologia escolar: reflexões sobre o ensino e a prática",
+      "authors": "Silvia Maria Cintra da Silva, Maria José Ribeiro e Viviane Prado Buiatti Marçal",
+      "institution": "Psicologia Escolar e Educacional · PePSIC",
+      "year": 2004,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1413-85572004000100010&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Relato de ensino e prática em Psicologia Escolar",
+      "access": "Texto integral gratuito na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Texto integral conferido, com a seção que descreve a devolutiva com a criança, a família e a professora.",
+      "rights": "Acesso público para consulta. A reutilização segue as condições da fonte.",
+      "caveat": "O artigo descreve uma experiência de ensino em Psicologia Escolar. Suas escolhas fazem sentido dentro desse contexto.",
+      "relevance": "Na seção sobre a devolutiva, compare o que a professora precisa saber para ajudar na escolarização com os assuntos discutidos com a família.",
+      "nodes": [
+        "informacao-na-equipe",
+        "entrevista-devolutiva"
+      ]
+    },
+    {
+      "id": "bc-e-lei-estagio",
+      "title": "Lei do Estágio · Lei nº 11.788/2008",
+      "authors": "Brasil",
+      "institution": "Legislação Federal · Senado Federal",
+      "year": 2008,
+      "url": "https://legis.senado.leg.br/norma/582210/publicacao/35737524",
+      "sourcePage": "https://legis.senado.leg.br/norma/582210",
+      "language": "pt-BR",
+      "format": "Legislação federal · texto atualizado",
+      "access": "Texto integral gratuito na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Localizados a definição de estágio, as atribuições da instituição e da parte concedente e o trecho sobre o plano de atividades.",
+      "rights": "Acesso público para consulta. A reutilização segue as condições da fonte.",
+      "caveat": "A lei abrange diferentes cursos. O projeto pedagógico e as regras específicas da formação em Psicologia também orientam o estágio.",
+      "relevance": "Comece pelo artigo 3º, depois compare os artigos 7º e 9º sobre quem acompanha o estágio.",
+      "nodes": [
+        "papeis-no-estagio",
+        "plano-de-atividades"
+      ]
+    },
+    {
+      "id": "bc-e-perspectivas",
+      "title": "Supervisão em serviços-escola de Psicologia no Brasil: perspectivas dos supervisores e estagiários",
+      "authors": "Margareth da Silva Oliveira, Rodrigo Fernando Pereira, Ana Claudia Azevedo Peixoto, Marina Monzani da Rocha, Nancy Ramacciotti de Oliveira-Monteiro, Mônica Medeiros Kother Macedo e Edwiges Ferreira de Mattos Silvares",
+      "institution": "Psico · PUCRS",
+      "year": 2014,
+      "url": "https://revistaseletronicas.pucrs.br/revistapsico/article/download/15417/11714/72685",
+      "sourcePage": "https://revistaseletronicas.pucrs.br/revistapsico/article/view/15417",
+      "language": "pt-BR",
+      "format": "Pesquisa empírica em PDF",
+      "access": "Texto integral gratuito na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas as versões do questionário e a comparação entre perspectivas de estagiários e supervisores.",
+      "rights": "Acesso público para consulta. A reutilização segue as condições da fonte.",
+      "caveat": "O levantamento descreve percepções. As respostas não medem diretamente a aprendizagem nem os efeitos do atendimento.",
+      "relevance": "Compare o mesmo assunto nos questionários do estagiário e do supervisor. Veja que comportamentos da supervisão cada pessoa pode observar.",
+      "nodes": [
+        "conversa-de-supervisao"
+      ]
+    },
+    {
+      "id": "bc-e-grupo",
+      "title": "Supervisão grupal de estágio em psicologia clínica: revisão da literatura",
+      "authors": "Maíra Bonafé Sei e Ricardo da Silva Franco",
+      "institution": "Psicologia Ensino & Formação · PePSIC",
+      "year": 2017,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S2177-20612017000200009&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Revisão de literatura",
+      "access": "Texto integral gratuito na fonte indicada.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o objetivo, o recorte nacional e a discussão das possibilidades e dos limites da supervisão em grupo.",
+      "rights": "Acesso público para consulta. A reutilização segue as condições da fonte.",
+      "caveat": "Revisão de publicações brasileiras sobre supervisão clínica, com um número limitado de estudos sobre o formato grupal.",
+      "relevance": "Procure na discussão o que os estudantes aprendem com os relatos dos colegas e o que acontece quando o tempo de fala é curto.",
+      "nodes": [
+        "supervisao-em-grupo"
+      ]
+    },
+    {
+      "id": "bc-t-equidade",
+      "title": "A saúde e seus determinantes sociais",
+      "authors": "Paulo Marchiori Buss e Alberto Pellegrini Filho",
+      "institution": "Physis · UERJ",
+      "year": 2007,
+      "url": "https://www.scielo.br/j/physis/a/msNmfGf74RqZsbpKYXxNKhm/?format=html&lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo em HTML",
+      "access": "Conteúdo público em português, consultado sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto integral, a definição de iniquidade e os modelos que organizam os determinantes sociais.",
+      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
+      "caveat": "Os modelos organizam hipóteses sobre mecanismos. Para explicar um desfecho local, são necessários dados sobre a população e o contexto.",
+      "relevance": "Procure a definição de iniquidade no início do artigo e compare dois níveis do modelo de Dahlgren e Whitehead.",
+      "nodes": [
+        "equidade-em-saude"
+      ]
+    },
+    {
+      "id": "bc-t-medindo",
+      "title": "Medindo as desigualdades em saúde no Brasil: uma proposta de monitoramento",
+      "authors": "Solon Magalhães Vianna e colaboradores",
+      "institution": "Organização Pan-Americana da Saúde e Ipea",
+      "year": 2001,
+      "url": "https://bvsms.saude.gov.br/bvs/publicacoes/medindo_desigual.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Livro em PDF",
+      "access": "Texto integral gratuito em PDF, com acesso direto.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos a ficha catalográfica e o item V.5, que distingue medidas absolutas e relativas.",
+      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
+      "caveat": "As tabelas são históricas. Use os procedimentos de comparação, observando sempre o período e a fonte do indicador.",
+      "relevance": "Leia o item V.5 e identifique o que muda quando a distância entre dois grupos é expressa por diferença ou por razão.",
+      "nodes": [
+        "indicadores-desigualdade"
+      ]
+    },
+    {
+      "id": "bc-t-boletim",
+      "title": "Saúde da população negra · boletim epidemiológico especial, volume 1",
+      "authors": "Secretaria de Vigilância em Saúde e Ambiente",
+      "institution": "Ministério da Saúde",
+      "year": 2023,
+      "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/boletins/epidemiologicos/especiais/2023/boletim-epidemiologico-saude-da-populacao-negra-numero-especial-vol-1-out.2023/@@download/file/BE_saude_pop_negra_vol1_b.pdf",
+      "sourcePage": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/boletins/epidemiologicos/especiais/2023/boletim-epidemiologico-saude-da-populacao-negra-numero-especial-vol-1-out.2023/",
+      "language": "pt-BR",
+      "format": "Boletim epidemiológico em PDF",
+      "access": "Texto integral gratuito em PDF, com acesso direto.",
+      "checkedAt": "2026-11-15",
+      "verification": "Consultados a seção sobre o quesito raça/cor e os gráficos das consultas de pré-natal por raça/cor da mãe.",
+      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
+      "caveat": "As figuras distinguem períodos e fontes de registro. Uma diferença entre proporções não identifica sozinha seu mecanismo.",
+      "relevance": "Compare as figuras 3 e 4 sobre consultas de pré-natal e volte à discussão da qualidade do preenchimento de raça/cor.",
+      "nodes": [
+        "indicadores-desigualdade",
+        "quesito-raca-cor"
+      ]
+    },
+    {
+      "id": "bc-t-territorio",
+      "title": "Ambiente, espaço e território",
+      "authors": "Campus Virtual Fiocruz",
+      "institution": "Fundação Oswaldo Cruz",
+      "year": null,
+      "url": "https://mooc.campusvirtual.fiocruz.br/rea/dcnt/thiago/aula3/topico6/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Aula interativa com texto e infográfico",
+      "access": "Conteúdo público em português, consultado sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o tópico 6, o caso de Alto do Vale e a explicação de território usado.",
+      "rights": "O curso permite uso não comercial com respeito aos direitos dos autores.",
+      "caveat": "O caso foi construído para ensino no contexto das doenças crônicas em áreas de fronteira.",
+      "relevance": "Na comparação entre espaço e território, procure como redes de transporte e condições de moradia alteram a leitura de uma mesma área.",
+      "nodes": [
+        "territorio-vivido"
+      ]
+    },
+    {
+      "id": "bc-t-tefe",
+      "title": "Mapas falantes como recurso metodológico: a pesquisa em saúde num território amazônico",
+      "authors": "Julio César Schweickardt, Josiane Souza Medeiros e Fabiana Mânica Martins",
+      "institution": "Saúde em Redes · Rede Unida",
+      "year": 2022,
+      "url": "https://revista.redeunida.org.br/index.php/rede-unida/article/download/3481/947/10940",
+      "sourcePage": "https://revista.redeunida.org.br/index.php/rede-unida/article/view/3481",
+      "language": "pt-BR",
+      "format": "Artigo de pesquisa em PDF",
+      "access": "Texto integral gratuito em PDF, com acesso direto.",
+      "checkedAt": "2026-11-15",
+      "verification": "Consultados os encontros de produção dos mapas em Tefé, as narrativas e as figuras 2 e 3.",
+      "rights": "A revista indica a licença Creative Commons Atribuição 4.0, com citação da fonte.",
+      "caveat": "O trabalho descreve a experiência de equipes em territórios ribeirinhos. Os caminhos e os ciclos dos rios são próprios desse contexto.",
+      "relevance": "Leia como os agentes comunitários produziram e apresentaram os desenhos. Observe o que a narrativa acrescenta à imagem na figura 3.",
+      "nodes": [
+        "territorio-vivido",
+        "mapas-falantes"
+      ]
+    },
+    {
+      "id": "bc-t-taua",
+      "title": "A territorialização como macroprocesso fundamental para a organização da atenção primária",
+      "authors": "Anne Evelyn Gomes Serra",
+      "institution": "IdeiaSUS Fiocruz · Secretaria Municipal de Saúde de Tauá",
+      "year": 2023,
+      "url": "https://ideiasus.fiocruz.br/praticas/a-territorializacao-como-macroprocesso-fundamental-para-a-organizacao-da-atencao-primaria/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Relato de experiência em HTML",
+      "access": "Conteúdo público em português, consultado sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos os quatro passos do relato, a autoria e os desafios de definição de microáreas.",
+      "rights": "O portal autoriza uso não comercial com respeito aos direitos dos autores.",
+      "caveat": "É um relato de implementação do município de Tauá, no Ceará. A experiência descrita ocorreu em 2014.",
+      "relevance": "Siga as quatro etapas descritas no relato e identifique em qual delas as equipes redesenharam seus territórios.",
+      "nodes": [
+        "mapas-falantes",
+        "atencao-primaria"
+      ]
+    },
+    {
+      "id": "bc-t-intersetorial",
+      "title": "Cinco faces da intersetorialidade nas políticas públicas",
+      "authors": "Campus Virtual Fiocruz",
+      "institution": "Fundação Oswaldo Cruz",
+      "year": null,
+      "url": "https://mooc.campusvirtual.fiocruz.br/rea/dcnt/thiago/aula3/topico5/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Aula interativa em HTML",
+      "access": "Conteúdo público em português, consultado sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Acessados os cartões com cinco concepções e o exemplo didático de Alto do Vale.",
+      "rights": "O curso permite uso não comercial com respeito aos direitos dos autores.",
+      "caveat": "É uma apresentação conceitual no contexto de promoção da saúde, com um caso fictício.",
+      "relevance": "Compare os cartões sobre complementaridade de setores e articulação política. Identifique em qual situação as decisões passam a ser compartilhadas.",
+      "nodes": [
+        "acoes-intersetoriais"
+      ]
+    },
+    {
+      "id": "bc-t-werneck",
+      "title": "Racismo institucional e saúde da população negra",
+      "authors": "Jurema Werneck",
+      "institution": "Saúde e Sociedade · Universidade de São Paulo e Associação Paulista de Saúde Pública",
+      "year": 2016,
+      "url": "https://www.scielo.br/j/sausoc/a/bJdS7R46GV7PB3wV54qW7vm/?format=pdf&lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo em PDF",
+      "access": "Texto integral gratuito em PDF, com acesso direto.",
+      "checkedAt": "2026-11-15",
+      "verification": "Consultados o texto e a figura 2, que apresenta dimensões do racismo.",
+      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
+      "caveat": "É uma análise conceitual e histórica da saúde da população negra no Brasil. A identificação de barreiras em um serviço específico requer escuta e dados desse local.",
+      "relevance": "Use a figura 2 para reconhecer os planos institucional, interpessoal e internalizado. Relacione o primeiro às condições de acesso ao cuidado.",
+      "nodes": [
+        "racismo-institucional"
+      ]
+    },
+    {
+      "id": "bc-t-coleta",
+      "title": "Coleta da informação raça/cor: qual é sua raça/cor?",
+      "authors": "Secretaria Municipal da Saúde de São Paulo",
+      "institution": "Prefeitura de São Paulo",
+      "year": 2020,
+      "url": "https://prefeitura.sp.gov.br/documents/d/saude/v2-coleta_da_informacao_raca-pdf",
+      "sourcePage": "https://prefeitura.sp.gov.br/web/saude/w/atencao_basica/raca-cor",
+      "language": "pt-BR",
+      "format": "Material de formação em PDF · 3 páginas",
+      "access": "Texto integral gratuito em PDF, com acesso direto.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o documento de julho de 2020, a pergunta sugerida e a orientação sobre autodeclaração.",
+      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
+      "caveat": "O documento foi produzido para o município de São Paulo e usa dados demográficos de seu período.",
+      "relevance": "Leia como a pergunta é apresentada e quem declara a resposta. Discuta por que presumir a cor de outra pessoa prejudica o registro.",
+      "nodes": [
+        "quesito-raca-cor"
+      ]
+    },
+    {
+      "id": "bc-t-lgbt",
+      "title": "Referências técnicas para atuação de psicólogas, psicólogos e psicólogues em políticas públicas para população LGBTQIA+",
+      "authors": "Conselho Federal de Psicologia, Conselhos Regionais de Psicologia e CREPOP",
+      "institution": "Sistema Conselhos de Psicologia",
+      "year": 2023,
+      "url": "https://crepop.cfp.org.br/wp-content/uploads/sites/34/2023/06/RT_LGBT_crepop_Web.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Referência técnica em PDF",
+      "access": "Texto integral gratuito em PDF, com acesso direto.",
+      "checkedAt": "2026-11-15",
+      "verification": "Consultados o sumário, a discussão sobre nome social e o eixo 3 sobre atuação nos serviços.",
+      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
+      "caveat": "As diretrizes abrangem populações e políticas diversas. As experiências de acolhimento variam com os serviços e com os grupos ouvidos.",
+      "relevance": "Leia as diretrizes do eixo 3 a partir da p. 84 e escolha uma implicação para uma rotina de acolhimento.",
+      "nodes": [
+        "acolhimento-lgbti"
+      ]
+    },
+    {
+      "id": "bc-t-usuarios",
+      "title": "Percepções de usuários LGBTI+, que integram movimentos sociais, sobre o cuidado em saúde na atenção básica no município do Rio de Janeiro",
+      "authors": "Danielle Cristine Alves Rodrigues Pereira",
+      "institution": "Escola Politécnica de Saúde Joaquim Venâncio · Fiocruz",
+      "year": 2023,
+      "url": "https://arca.fiocruz.br/bitstreams/c39f0449-f09b-4e1c-a3fb-08f6b0b85eb6/download",
+      "sourcePage": "https://arca.fiocruz.br/items/256a32d9-03dd-4cf8-9837-8e07b8642af0",
+      "language": "pt-BR",
+      "format": "Dissertação em PDF",
+      "access": "Texto integral gratuito em PDF, com acesso direto.",
+      "checkedAt": "2026-11-15",
+      "verification": "Consultados o texto integral, a metodologia com trinta entrevistas e os discursos coletivos sobre o atendimento.",
+      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
+      "caveat": "O estudo ouviu pessoas ligadas a movimentos sociais no Rio de Janeiro. Os resultados dizem respeito a esse recorte.",
+      "relevance": "Nos resultados, procure os relatos sobre o uso do nome social e as propostas de mudança na recepção e na formação das equipes.",
+      "nodes": [
+        "acolhimento-lgbti"
+      ]
+    },
+    {
+      "id": "bc-t-caps",
+      "title": "Centros de Atenção Psicossocial (CAPS)",
+      "authors": "Ministério da Saúde",
+      "institution": "Departamento de Saúde Mental, Álcool e Outras Drogas",
+      "year": null,
+      "url": "https://www.gov.br/saude/pt-br/composicao/saes/desmad/raps/caps",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Página explicativa em HTML",
+      "access": "Conteúdo público em português, consultado sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas as seções sobre a chegada ao CAPS, o projeto terapêutico e a articulação com a Atenção Básica.",
+      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
+      "caveat": "A página oferece uma descrição nacional. A oferta de modalidades e atividades depende do território.",
+      "relevance": "Compare as seções “O que oferecem” e “O que acontece na chegada”. Observe como a equipe articula o cuidado após o primeiro contato.",
+      "nodes": [
+        "atencao-primaria",
+        "caps-no-territorio",
+        "projeto-terapeutico-singular",
+        "acolhimento-caps"
+      ]
+    },
+    {
+      "id": "bc-t-caps-cfp",
+      "title": "Referências técnicas para atuação de psicólogas(os) no CAPS – Centro de Atenção Psicossocial",
+      "authors": "Conselho Federal de Psicologia, Conselhos Regionais de Psicologia e CREPOP",
+      "institution": "Sistema Conselhos de Psicologia",
+      "year": 2022,
+      "url": "https://site.cfp.org.br/wp-content/uploads/2022/07/crepop_CAPS_web.pdf",
+      "sourcePage": "https://site.cfp.org.br/publicacao/referencias-tecnicas-para-atuacao-de-psicologasos-no-centro-de-atencao-psicossocial-caps/",
+      "language": "pt-BR",
+      "format": "Referência técnica revisada em PDF",
+      "access": "Texto integral gratuito em PDF, com acesso direto.",
+      "checkedAt": "2026-11-15",
+      "verification": "Consultados o eixo sobre atuação no CAPS e os trechos sobre atividades coletivas, território e acolhimento.",
+      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
+      "caveat": "O texto apresenta referências para o trabalho em equipe. As decisões sobre um projeto de cuidado exigem participação das pessoas envolvidas.",
+      "relevance": "No eixo sobre a atuação no CAPS, identifique como as ações do psicólogo se ligam às atividades coletivas e a outros pontos do território.",
+      "nodes": [
+        "caps-no-territorio",
+        "acolhimento-caps"
+      ]
+    },
+    {
+      "id": "bc-t-cab34",
+      "title": "Saúde mental · Cadernos de Atenção Básica, n.º 34",
+      "authors": "Ministério da Saúde · Departamento de Atenção Básica",
+      "institution": "Ministério da Saúde",
+      "year": 2013,
+      "url": "https://bvsms.saude.gov.br/bvs/publicacoes/cadernos_atencao_basica_34_saude_mental.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Caderno de formação em PDF",
+      "access": "Texto integral gratuito em PDF, com acesso direto.",
+      "checkedAt": "2026-11-15",
+      "verification": "Consultados o caso da “casa dos 20”, a seção 3.2 sobre a rede e o roteiro para a construção de projetos terapêuticos.",
+      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
+      "caveat": "O caderno foi publicado em 2013. Os casos ilustram o processo de trabalho e precisam ser lidos em seu contexto.",
+      "relevance": "Acompanhe os contatos feitos pela equipe no caso da “casa dos 20” e identifique o que muda quando ela passa a dividir o cuidado.",
+      "nodes": [
+        "acoes-intersetoriais",
+        "atencao-primaria",
+        "projeto-terapeutico-singular"
+      ]
+    },
+    {
+      "id": "bc-t-matriciamento",
+      "title": "Guia prático de matriciamento em saúde mental",
+      "authors": "Dulce Helena Chiaverini (org.) e colaboradores",
+      "institution": "Ministério da Saúde e CEPESC/UERJ",
+      "year": 2011,
+      "url": "https://bvsms.saude.gov.br/bvs/publicacoes/guia_pratico_matriciamento_saudemental.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Guia de formação em PDF",
+      "access": "Texto integral gratuito em PDF, com acesso direto.",
+      "checkedAt": "2026-11-15",
+      "verification": "Consultados o conceito de matriciamento, o roteiro de discussão de casos e a passagem sobre consulta conjunta.",
+      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
+      "caveat": "Os exemplos refletem a organização dos serviços no período da publicação. A leitura aqui se concentra nos mecanismos de colaboração.",
+      "relevance": "No capítulo sobre instrumentos, compare a discussão de um caso com a consulta conjunta. Identifique como cada equipe aprende com a outra.",
+      "nodes": [
+        "apoio-matricial",
+        "projeto-terapeutico-singular"
+      ]
+    },
+    {
+      "id": "bc-t-aula-apoio",
+      "title": "Matriciamento em saúde mental",
+      "authors": "Raquel Maia",
+      "institution": "Núcleo de Tecnologias e Educação a Distância em Saúde · Universidade Federal do Ceará",
+      "year": 2019,
+      "url": "https://www.youtube.com/watch?v=qjku45pk7mo",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Webpalestra em vídeo · 1 h 12 min",
+      "access": "Vídeo completo disponível sem cadastro no canal do NUTEDS/UFC.",
+      "checkedAt": "2026-11-15",
+      "verification": "O player confirmou o título, o acesso aberto e a duração de 1 h 11 min 33 s. A descrição identifica a palestrante e o foco na atenção primária.",
+      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
+      "caveat": "A organização das equipes descrita na aula reflete o período de gravação. Use o guia escrito para localizar os instrumentos de trabalho.",
+      "relevance": "Ouça a discussão de Raquel Maia sobre o apoio à atenção primária e procure uma situação que envolva corresponsabilidade.",
+      "nodes": [
+        "apoio-matricial"
+      ]
+    },
+    {
+      "id": "bc-t-conferencia",
+      "title": "Conferências de Saúde",
+      "authors": "Ministério da Saúde",
+      "institution": "Ministério da Saúde",
+      "year": null,
+      "url": "https://www.gov.br/saude/pt-br/acesso-a-informacao/participacao-social/conferencias/conferencias",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Apresentação institucional em HTML",
+      "access": "Conteúdo público em português, consultado sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas a explicação sobre conferências e a identificação dos segmentos participantes.",
+      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
+      "caveat": "A página descreve a participação em conferências. A experiência de um conselho local pode ser estudada na série documental.",
+      "relevance": "Identifique quem participa das conferências e qual é o papel das propostas na definição de diretrizes para a saúde.",
+      "nodes": [
+        "participacao-social"
+      ]
+    },
+    {
+      "id": "bc-t-conselhos",
+      "title": "Aqui tem Conselho Local de Saúde",
+      "authors": "Conselho Nacional de Saúde",
+      "institution": "Conselho Nacional de Saúde · IdeiaSUS Fiocruz",
+      "year": 2025,
+      "url": "https://ideiasus.fiocruz.br/postagem/serie-sobre-conselhos-locais-de-saude-chega-a-plataforma-ideiasus-fiocruz/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Série documental · 5 vídeos de 8 a 9 min",
+      "access": "Página pública com cinco episódios gratuitos, acessíveis sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos os cinco links oficiais e a disponibilidade dos cinco players, com as localidades identificadas nos títulos.",
+      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
+      "caveat": "Os relatos vêm de cinco localidades. A composição e a pauta de outros conselhos podem ser diferentes.",
+      "relevance": "Escolha o episódio de Tefé ou de Campina Grande e anote uma questão local que moradores e conselheiros levaram para a discussão.",
+      "nodes": [
+        "participacao-social"
+      ]
+    }
+  ]
+}

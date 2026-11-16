@@ -1,0 +1,58 @@
+[data-state="new"] {--state-ink:var(--muted); --state-paper:var(--soft)}
+[data-state="learning"] {--state-ink:#235c91; --state-paper:#e1effd}
+[data-state="done"] {--state-ink:#236448; --state-paper:#e2f2e7}
+[data-state="skip"] {--state-ink:#625a51; --state-paper:#efece7}
+:root[data-theme="dark"] [data-state="learning"] {--state-ink:#a7d2ff; --state-paper:#22394f}
+:root[data-theme="dark"] [data-state="done"] {--state-ink:#a4dfb8; --state-paper:#253e32}
+:root[data-theme="dark"] [data-state="skip"] {--state-ink:#d3c8b9; --state-paper:#37332f}
+
+.state-icon {
+  display:block; width:17px; height:17px; flex:none; fill:none; stroke:currentColor;
+  stroke-width:1.8; stroke-linecap:round; stroke-linejoin:round;
+}
+.study-options {border:0; padding:0; margin:0; min-inline-size:0}
+.study-options legend {margin-bottom:7px; padding:0; font-size:13px; font-weight:650}
+.study-options > div {display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:5px}
+.study-options label {position:relative; cursor:pointer}
+.study-options input {
+  position:absolute; width:1px; height:1px; padding:0; margin:-1px;
+  overflow:hidden; clip-path:inset(50%); border:0; white-space:nowrap;
+}
+.study-options label > span {
+  display:flex; align-items:center; justify-content:center; gap:5px; min-height:42px;
+  padding:6px 3px; border:1px solid var(--control); border-radius:6px;
+  background:var(--surface); color:var(--muted); font-size:13px; line-height:1.2;
+}
+.study-options label:hover > span {color:var(--state-ink); border-color:var(--state-ink)}
+.study-options input:checked + span {
+  border-color:var(--state-ink); box-shadow:inset 0 0 0 1px var(--state-ink);
+  color:var(--state-ink); background:var(--state-paper); font-weight:650;
+}
+.study-options input:checked + span .state-icon {
+  padding:2px; border-radius:4px; color:var(--state-paper); background:var(--state-ink); stroke-width:2.4;
+}
+.study-options input:focus-visible + span {outline:3px solid var(--focus); outline-offset:2px}
+.study-options + .storage {margin:6px 0 17px}
+.node[data-state]:not([data-state="new"]) {
+  color:var(--state-ink); background:var(--state-paper); border-color:var(--state-ink);
+}
+.node[data-state="skip"] {border-style:dashed}
+.node .progress-mark {
+  position:absolute; top:-9px; right:5px; display:grid; place-items:center;
+  width:22px; height:16px; border-radius:4px; background:var(--state-ink); color:var(--state-paper);
+}
+.progress-mark .state-icon {width:14px; height:14px; stroke-width:2.4}
+.pill.list-state {
+  display:inline-flex; align-items:center; gap:5px; flex:none; padding:3px 8px;
+  border-radius:4px; font-weight:600; color:var(--state-ink); background:var(--state-paper);
+}
+.pill.list-state .state-icon {width:15px; height:15px}
+.pill[data-state="new"] {background:transparent; font-weight:400}
+@media (max-width:460px) {
+  .study-options > div {grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (forced-colors:active) {
+  .study-options input:checked + span {outline:2px solid SelectedItem; outline-offset:-3px}
+  .study-options input:focus-visible + span {outline:3px solid Highlight; outline-offset:2px}
+  .progress-mark {border:1px solid CanvasText}
+}

@@ -1,0 +1,1963 @@
+{
+  "id": "analise-do-comportamento",
+  "title": "Análise do Comportamento",
+  "nodes": [
+    {
+      "id": "campo",
+      "title": "O que estuda a área",
+      "body": "Ao investigar como uma atividade muda conforme as circunstâncias, a Análise do Comportamento reúne perguntas de tipos diferentes. Há perguntas filosóficas sobre o que conta como explicação, perguntas experimentais sobre relações entre eventos e perguntas aplicadas sobre problemas que importam às pessoas.",
+      "objective": "Formule uma pergunta de cada tipo sobre o mesmo tema, como a participação em aula.",
+      "resources": [
+        "par-introducao",
+        "tourinho",
+        "metodos"
+      ],
+      "parent": null,
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "par-introducao": "Assista ao primeiro episódio e identifique a distinção entre pressupostos filosóficos e investigações empíricas.",
+        "tourinho": "No esquema de produção de conhecimento, localize investigação básica, reflexão conceitual e aplicação. Compare as perguntas que cada uma pode responder.",
+        "metodos": "Na discussão sobre métodos, procure como a pergunta de pesquisa orienta a escolha das unidades estudadas e do procedimento."
+      }
+    },
+    {
+      "id": "behaviorismo",
+      "title": "Behaviorismo radical",
+      "body": "Na interpretação behaviorista radical, pensamentos e sentimentos também fazem parte do que se busca compreender. O estudo considera as condições em que alguém aprende a agir, perceber e descrever o que sente, inclusive quando só a própria pessoa tem acesso direto ao evento.",
+      "objective": "Explique como o relato de uma sensação e a situação em que ele ocorre podem compor uma investigação.",
+      "resources": [
+        "carrara",
+        "par-introducao",
+        "tourinho"
+      ],
+      "parent": "campo",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "carrara": "Examine os sentidos atribuídos ao termo radical e identifique em que se distingue do behaviorismo metodológico.",
+        "par-introducao": "Na abertura da playlist, acompanhe o contraste entre formas de explicar o comportamento e anote onde entra a história de aprendizagem.",
+        "tourinho": "Procure a parte do texto dedicada ao trabalho conceitual. Identifique um exemplo de questão filosófica que afeta uma pesquisa."
+      }
+    },
+    {
+      "id": "eventos-privados",
+      "title": "Eventos públicos e privados",
+      "parent": "behaviorismo",
+      "body": "Só quem sente uma dor tem acesso direto àquela sensação. Ainda assim, as palavras usadas para descrevê-la se aprendem em situações que envolvem outras pessoas. A acessibilidade do evento e as condições em que o relato é aprendido são duas perguntas diferentes.",
+      "objective": "Dê um exemplo de pista pública que pode participar do ensino de uma palavra para um evento privado.",
+      "resourceGuides": {
+        "privados": "Procure os exemplos de aquisição do autoconhecimento. Identifique o acontecimento ao qual apenas o falante tem acesso e a pista disponível para a comunidade.",
+        "video-privados": "Na aula, a partir de 2min36s, anote um exemplo de como se ensina alguém a descrever sentimentos. Compare o acesso do falante com o do ouvinte."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "privados",
+        "video-privados"
+      ]
+    },
+    {
+      "id": "selecao-consequencias",
+      "title": "Seleção por consequências",
+      "parent": "behaviorismo",
+      "body": "Quando há variação, certos resultados podem tornar algumas formas de agir mais frequentes ao longo do tempo. Essa ideia permite perguntar por que uma prática se mantém e como a história de um organismo participa das mudanças em seu repertório.",
+      "objective": "Escolha uma prática de estudo e descreva a variação inicial e os resultados que poderiam mantê-la.",
+      "resourceGuides": {
+        "selecao": "Na tradução do artigo de Skinner, identifique o papel da variação e da seleção nos três domínios examinados.",
+        "mecanicismo": "Compare as concepções de causalidade discutidas pelos autores. Explique por que o resultado de uma ação passada pode ajudar a entender um padrão atual.",
+        "video-selecao": "O segundo episódio da playlist apresenta os níveis de seleção. Relacione cada um à escala de tempo em que a mudança ocorre."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "selecao",
+        "mecanicismo",
+        "video-selecao"
+      ]
+    },
+    {
+      "id": "historia-individuo-cultura",
+      "title": "Espécie, indivíduo e cultura",
+      "parent": "selecao-consequencias",
+      "body": "A sensibilidade a certos estímulos tem uma história evolutiva. Aprender uma resposta ao longo da vida exige outra escala de análise. A transmissão de práticas entre pessoas acrescenta perguntas sobre sua continuidade ao longo de gerações.",
+      "objective": "Descreva, para uma refeição compartilhada, uma pergunta sobre cada uma das três histórias.",
+      "resourceGuides": {
+        "selecao": "Nas seções sobre condicionamento operante e evolução de culturas, identifique o que é selecionado e como a mudança se conserva.",
+        "video-selecao": "Retome o contraste entre história da espécie, aprendizagem individual e história das práticas culturais. Construa um exemplo em que as três participam."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "selecao",
+        "video-selecao"
+      ]
+    },
+    {
+      "id": "respondente",
+      "title": "Aprendizagem respondente",
+      "body": "Um cheiro que antes passava despercebido pode provocar salivação depois de acompanhar repetidamente uma refeição. Esse exemplo ilustra o condicionamento respondente. A pergunta é como um estímulo adquire a função de eliciar uma resposta.",
+      "objective": "Identifique o estímulo que já eliciava salivação e aquele que adquiriu essa função no exemplo.",
+      "resources": [
+        "par-reflexos",
+        "cinema",
+        "video-reflexo"
+      ],
+      "parent": "campo",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "par-reflexos": "Na distinção entre reflexos inatos e aprendidos, desenhe um exemplo antes e depois do emparelhamento.",
+        "cinema": "Leia a seção sobre comportamentos respondente e operante no capítulo Laranja Mecânica. Na figura 1, localize o que muda na função de um estímulo.",
+        "video-reflexo": "Acompanhe o exemplo de relação estímulo–resposta da aula de sete minutos e assinale em que momento já há uma resposta reflexa."
+      }
+    },
+    {
+      "id": "pareamento-respondente",
+      "title": "Emparelhamento de estímulos",
+      "parent": "respondente",
+      "body": "O som de uma embalagem pode passar a eliciar salivação após acompanhar a oferta de alimento. É preciso identificar o que cada estímulo evocava antes da aprendizagem e verificar o que ocorre quando o som é apresentado sozinho depois dela.",
+      "objective": "Desenhe o antes e o depois do exemplo e nomeie estímulos e respostas em cada momento.",
+      "resourceGuides": {
+        "video-reflexo": "Acompanhe a explicação da relação reflexa e desenhe a mudança de função do estímulo que participa do emparelhamento.",
+        "cinema": "Na figura 1 do capítulo sobre Laranja Mecânica, identifique quais estímulos são apresentados juntos e a resposta observada antes e depois.",
+        "pavlov": "No método, compare as duas fotografias usadas no condicionamento diferencial e identifique a medida com que o pesquisador acompanhou a aquisição."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "video-reflexo",
+        "cinema",
+        "pavlov"
+      ]
+    },
+    {
+      "id": "extincao-respondente",
+      "title": "Extinção respondente",
+      "parent": "respondente",
+      "body": "Depois da aprendizagem, apresentar várias vezes o estímulo condicionado sem o estímulo incondicionado pode reduzir a resposta condicionada. O que se acompanha é a mudança na resposta eliciada pelo primeiro estímulo.",
+      "objective": "Compare duas séries imaginárias de apresentações do mesmo som e indique qual medida permitiria observar uma redução na resposta.",
+      "resourceGuides": {
+        "par-reflexos": "Na parte da aula dedicada à extinção, compare o que deixa de acompanhar o estímulo condicionado com a mudança na resposta.",
+        "pavlov": "Na introdução e no método do estudo com 57 adultos, identifique o que deixou de acompanhar as faces durante a extinção. Compare a medida de condutância da pele com a interpretação sobre medo."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "par-reflexos",
+        "pavlov"
+      ]
+    },
+    {
+      "id": "operante",
+      "title": "Aprendizagem operante",
+      "body": "Pense em duas portas iguais de uma biblioteca. Ao longo da semana, uma delas costuma abrir quando empurrada e a outra permanece trancada. A escolha de qual porta empurrar pode mudar com essa história. No estudo do comportamento operante, interessa acompanhar como as consequências modificam a probabilidade de novas respostas.",
+      "objective": "Descreva a ação, sua consequência e uma medida que permitiria observar se a escolha da porta mudou em novas visitas.",
+      "resources": [
+        "video-operante",
+        "cinema",
+        "lab-reforco",
+        "del-prette"
+      ],
+      "parent": "campo",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "video-operante": "Use a aula para identificar a relação entre ação e efeito ambiental e a importância de observar as ocorrências futuras.",
+        "cinema": "No capítulo Laranja Mecânica, compare a descrição de um comportamento operante com o exemplo de condicionamento respondente da figura 1.",
+        "lab-reforco": "Comece pelo exercício sobre variação e seleção na página impressa 11 e identifique quais mudanças seriam observáveis em uma sessão.",
+        "del-prette": "Escolha um exemplo do treino didático e separe a ocorrência atual da previsão que o texto faz para respostas futuras."
+      }
+    },
+    {
+      "id": "classe-respostas",
+      "title": "Ação e classe de respostas",
+      "parent": "operante",
+      "body": "Duas pessoas podem acender a luz com movimentos diferentes. Quando os dois movimentos produzem o mesmo efeito em condições semelhantes, o analista pode estudá-los como membros da mesma classe. A unidade escolhida precisa combinar com a pergunta de pesquisa.",
+      "objective": "Descreva duas formas distintas de acender a luz e um movimento parecido que ficaria fora da sua definição de classe.",
+      "resourceGuides": {
+        "operante-historia": "Acompanhe como Todorov distingue ocorrências individuais e operantes. Procure o critério que permite reunir respostas em uma classe.",
+        "matos": "Na discussão sobre a definição da unidade de análise, identifique o que uma descrição do movimento deixa de captar sobre sua função."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "operante-historia",
+        "matos"
+      ]
+    },
+    {
+      "id": "modelagem",
+      "title": "Modelagem por aproximações",
+      "parent": "operante",
+      "body": "Uma resposta final pode ser construída a partir de variações que já aparecem. Na modelagem, muda o critério usado para reforçar aproximações sucessivas. Avaliar a progressão exige dizer o que já ocorre e como se distinguirá a próxima aproximação.",
+      "objective": "Para uma tarefa fictícia de desenhar um círculo, indique um critério inicial e um intermediário observáveis.",
+      "resourceGuides": {
+        "modelagem": "Examine o exemplo de ensino e identifique o repertório inicial, a resposta final e a mudança entre critérios.",
+        "lab-reforco": "No exercício que começa na página impressa 19, compare os registros das aproximações com o planejamento feito antes da sessão."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "modelagem",
+        "lab-reforco"
+      ]
+    },
+    {
+      "id": "variar-responder",
+      "title": "Variação e repetição",
+      "parent": "modelagem",
+      "body": "Variar também pode depender de consequências. Em uma tarefa com sequências de teclas, a pessoa pode produzir padrões mais diferentes ou mais repetidos conforme o critério usado para pontuar as sequências.",
+      "objective": "Compare duas séries fictícias de teclas e diga qual medida revelaria variação entre tentativas.",
+      "resourceGuides": {
+        "variabilidade": "Na descrição da tarefa, identifique quando uma sequência produzia pontos. Compare os resultados de condições que exigiam variar ou repetir.",
+        "lab-reforco": "Retome o exercício de variação e seleção na página impressa 11. Mostre qual observação permitiria reconhecer uma mudança no conjunto de respostas."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "variabilidade",
+        "lab-reforco"
+      ]
+    },
+    {
+      "id": "esquemas",
+      "title": "Esquemas de reforçamento",
+      "parent": "operante",
+      "body": "Uma resposta pode produzir a consequência todas as vezes ou apenas em determinadas oportunidades. Os esquemas descrevem as condições para isso ocorrer. A contagem de respostas e o tempo desde a consequência anterior são dois critérios frequentes.",
+      "objective": "Classifique duas regras de uma tarefa, uma baseada em contagem e outra em tempo.",
+      "resourceGuides": {
+        "video-esquemas": "Compare as quatro combinações apresentadas na aula e organize-as pelo critério que dá acesso à consequência.",
+        "livro-puc": "Nos roteiros iniciados nas páginas impressas 30 e 33, distinga reforçamento contínuo de intermitente antes de comparar os esquemas."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "video-esquemas",
+        "livro-puc"
+      ]
+    },
+    {
+      "id": "razao",
+      "title": "Razão fixa e variável",
+      "parent": "esquemas",
+      "body": "Em esquemas de razão, a quantidade de respostas é relevante para a próxima consequência. O requisito pode permanecer constante ou mudar entre as oportunidades; neste último caso, descreve-se também a razão média.",
+      "objective": "Calcule a média dos requisitos 2, 4 e 6. Compare a sequência com um requisito fixo de quatro respostas.",
+      "resourceGuides": {
+        "video-esquemas": "Nos exemplos de razão, reconstrua a contagem que o esquema exige após cada consequência. Compare o requisito fixo com a média do variável.",
+        "livro-puc": "Nas questões sobre esquemas, procure como se descreve a exigência de respostas e por que ela difere de esperar um intervalo."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "video-esquemas",
+        "livro-puc"
+      ]
+    },
+    {
+      "id": "intervalo",
+      "title": "Intervalo fixo e variável",
+      "parent": "esquemas",
+      "body": "Nos esquemas de intervalo, a passagem do tempo torna uma consequência disponível. A primeira resposta que atende ao critério após esse período a produz. O intervalo pode ser constante ou variar de uma oportunidade à outra.",
+      "objective": "Trace uma linha do tempo para um intervalo fixo e marque a primeira resposta que o completa.",
+      "resourceGuides": {
+        "intervalos": "No experimento com humanos sob intervalo fixo, veja quais consequências foram usadas. Compare os registros antes de generalizar um padrão a todos os participantes.",
+        "video-esquemas": "Reveja a explicação dos esquemas de intervalo. Identifique o que acontece se o tempo previsto termina e ainda não ocorreu nova resposta."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "intervalos",
+        "video-esquemas"
+      ]
+    },
+    {
+      "id": "verbal",
+      "title": "Comportamento verbal",
+      "parent": "operante",
+      "body": "Pedir um copo de água, nomear um objeto e responder a uma pergunta envolvem outra pessoa que participa da produção de consequências. A análise descreve o que o falante faz, o contexto e a ação do ouvinte.",
+      "objective": "Descreva uma conversa breve indicando respostas do falante e do ouvinte e seus possíveis efeitos.",
+      "resourceGuides": {
+        "mando": "Comece pela definição e localize o papel da mediação de um ouvinte. Identifique um exemplo que ocorra sem fala vocal.",
+        "video-privados": "Na aula sobre linguagem e sentimentos, identifique como a resposta do ouvinte participa da aprendizagem do repertório de descrever a própria experiência."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "mando",
+        "video-privados"
+      ]
+    },
+    {
+      "id": "mando-tato",
+      "title": "Pedir e nomear",
+      "parent": "verbal",
+      "body": "A palavra “água” pode ocorrer quando alguém quer beber ou quando identifica o que há em um recipiente. A forma sonora é semelhante, mas os contextos e as consequências permitem analisar relações diferentes, entre elas mando e tato.",
+      "objective": "Construa dois episódios com a palavra “água” e descreva o que precisaria observar para distinguir suas funções.",
+      "resourceGuides": {
+        "mando": "Compare as seções sobre mando e tato. Em cada exemplo, identifique o estímulo antecedente e a contribuição do ouvinte.",
+        "empirico": "Procure a distinção que os autores fazem entre mando e justificativa. No exemplo com a palavra “água”, identifique que consequência o falante especifica ao pedir."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "mando",
+        "empirico"
+      ]
+    },
+    {
+      "id": "regras-instrucoes",
+      "title": "Regras e instruções",
+      "parent": "verbal",
+      "body": "Uma instrução pode mudar o comportamento antes que a pessoa experimente diretamente a consequência descrita. O seguimento de regras também tem uma história e pode mudar quando a instrução e as contingências encontradas divergem.",
+      "objective": "Escreva uma instrução para uma tarefa e indique como observar se ela continua sendo seguida após a mudança da regra da tarefa.",
+      "resourceGuides": {
+        "regras": "Compare os exemplos de comportamento instruído e modelado por contingências. Observe o que acontece quando a instrução deixa de corresponder à situação.",
+        "empirico": "Escolha uma regra com justificativa apresentada pelos autores. Separe o que o falante anuncia do que ocorre imediatamente após o ouvinte responder."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "regras",
+        "empirico"
+      ]
+    },
+    {
+      "id": "contingencia",
+      "title": "Tríplice contingência",
+      "body": "O que acontece antes de uma ação? O que a pessoa faz? Que mudança no ambiente depende dessa ação? Organizar essas informações ajuda a descrever em quais condições uma resposta costuma produzir determinada consequência. A dependência entre os eventos precisa ser investigada mesmo quando a ordem temporal é conhecida.",
+      "objective": "Monte um quadro de três termos para o exemplo da biblioteca. Indique uma informação que falta para sustentar sua interpretação.",
+      "resources": [
+        "del-prette",
+        "matos"
+      ],
+      "parent": "operante",
+      "relation": "prerequisite",
+      "lane": "center",
+      "resourceGuides": {
+        "del-prette": "Nos exemplos de análise de contingências, reorganize a descrição de um episódio em três colunas e anote como se verifica o efeito da consequência.",
+        "matos": "Na discussão sobre funções, escolha um exemplo para testar se identificar apenas antecedentes e consequentes basta para explicar o responder."
+      }
+    },
+    {
+      "id": "operacoes-motivadoras",
+      "title": "Operações motivadoras",
+      "parent": "contingencia",
+      "body": "Após uma longa caminhada, água pode ter mais valor como consequência e procurar um bebedouro pode ficar mais provável. A história em que procurar água produziu esse resultado precisa entrar na análise.",
+      "objective": "Diferencie o que muda no valor da água e o que muda na ocorrência de procurar um bebedouro.",
+      "resourceGuides": {
+        "motivacao": "Compare os efeitos alteradores de valor e de comportamento nos exemplos da autora. Identifique uma condição que aumente e outra que reduza a efetividade da consequência.",
+        "motivo2": "Leia a distinção entre operação estabelecedora e estímulo discriminativo. Compare estar com sede e ver uma placa indicando um bebedouro."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "motivacao",
+        "motivo2"
+      ]
+    },
+    {
+      "id": "contiguidade",
+      "title": "Dependência e proximidade",
+      "parent": "contingencia",
+      "body": "A chegada de uma mensagem logo depois de alguém tocar na tela não basta para dizer que o toque produziu a mensagem. Proximidade no tempo e dependência entre eventos podem coincidir, mas respondem a perguntas diferentes.",
+      "objective": "Indique que observações ajudariam a verificar se receber uma mensagem depende de tocar na tela.",
+      "resourceGuides": {
+        "livro-puc": "Use o roteiro iniciado na página impressa 26 para separar os dois conceitos nos exemplos de respostas e eventos subsequentes.",
+        "nao-contingencia": "Compare uma condição sem apresentações do estímulo a outra em que ele continua presente sem depender da resposta. Identifique o que ambas alteram."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "livro-puc",
+        "nao-contingencia"
+      ]
+    },
+    {
+      "id": "reforco",
+      "title": "Reforçamento e extinção",
+      "body": "Uma consequência tem função reforçadora quando sua relação com uma resposta aumenta a ocorrência futura dessa classe de respostas. No reforçamento negativo, a mudança envolve retirar, reduzir ou adiar um estímulo. Na extinção operante, deixa de ocorrer a consequência que antes mantinha a resposta.",
+      "objective": "Compare dois exemplos de reforçamento e um de extinção. Indique o que mudou no ambiente e como a frequência da ação poderia ser acompanhada.",
+      "resources": [
+        "lab-reforco",
+        "del-prette",
+        "video-consequencia"
+      ],
+      "parent": "contingencia",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "lab-reforco": "Compare os objetivos dos exercícios de reforçamento contínuo e de extinção, iniciados nas páginas impressas 25 e 30.",
+        "del-prette": "Use os quadros sobre consequências para diferenciar reforçamento positivo, negativo e extinção pelo que muda no responder.",
+        "video-consequencia": "Identifique por que chamar uma consequência de reforçadora depende de verificar seu efeito posterior."
+      }
+    },
+    {
+      "id": "reforco-positivo-negativo",
+      "title": "Reforço positivo e negativo",
+      "parent": "reforco",
+      "body": "Uma resposta pode tornar-se mais frequente tanto ao produzir algo quanto ao reduzir ou adiar um evento. Identificar a alteração ambiental é um passo. É a mudança posterior da classe de respostas que sustenta a interpretação de reforçamento.",
+      "objective": "Para cada um de dois episódios, indique a alteração no ambiente e a evidência de aumento futuro da resposta.",
+      "resourceGuides": {
+        "del-prette": "Nos quadros de contingências, compare os casos de reforçamento positivo e negativo. Localize a alteração no ambiente e a previsão sobre o responder.",
+        "video-consequencia": "Reveja o exemplo apresentado no vídeo e diga por que a aparência agradável da consequência, por si, não permite identificá-la como reforçadora."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "del-prette",
+        "video-consequencia"
+      ]
+    },
+    {
+      "id": "fuga-esquiva",
+      "title": "Fuga e esquiva",
+      "parent": "reforco-positivo-negativo",
+      "body": "Sair de um local barulhento pode reduzir um som que já começou. Escolher um caminho diferente pode adiar ou evitar o contato com esse som. A distinção entre fuga e esquiva depende do que acontece com o estímulo e de quando a ação ocorre.",
+      "objective": "Descreva os dois episódios em ordem temporal e identifique o dado que mostraria manutenção da resposta.",
+      "resourceGuides": {
+        "del-prette": "Nos exemplos de reforçamento negativo, descreva se o estímulo já se encontrava presente e como a resposta altera seu curso.",
+        "cinema": "No capítulo sobre Laranja Mecânica, procure a discussão de controle aversivo. Localize as relações entre respostas e mudanças na estimulação, distinguindo-as do condicionamento respondente."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "del-prette",
+        "cinema"
+      ]
+    },
+    {
+      "id": "extincao-operante",
+      "title": "Extinção operante",
+      "parent": "reforco",
+      "body": "Se uma resposta era mantida por certa consequência, interromper essa relação permite investigar a extinção operante. O registro pode mostrar oscilações e mudanças de forma antes de uma redução sustentada. A história anterior participa do resultado.",
+      "objective": "Compare o começo e o fim de um registro de extinção e descreva um efeito que a média da sessão esconderia.",
+      "resourceGuides": {
+        "extincao": "Separe a mudança feita na contingência dos efeitos comportamentais descritos na revisão. Veja por que as reações iniciais podem variar.",
+        "lab-reforco": "No exercício da página impressa 30, procure como o caderno orienta registrar a resposta e comparar o período de extinção ao de reforçamento."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "extincao",
+        "lab-reforco"
+      ]
+    },
+    {
+      "id": "punicao",
+      "title": "Punição e controle aversivo",
+      "parent": "reforco",
+      "body": "Os textos da área usam mais de uma definição de punição. Para acompanhar essa discussão, descreva o evento produzido pela resposta, as alternativas disponíveis e o que foi medido ao longo do tempo. Isso ajuda a interpretar efeitos imediatos e posteriores.",
+      "objective": "Aplique as duas definições discutidas na leitura a um episódio fictício. Liste as observações que ainda faltariam.",
+      "resourceGuides": {
+        "punicao": "Compare, nas formulações de Skinner e de outros autores discutidos, o papel da operação e do efeito na definição de punição.",
+        "etica": "Use a discussão sobre fins, meios e valores para identificar quem sofre os efeitos de uma consequência e quem avalia a conveniência de usá-la."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "punicao",
+        "etica"
+      ]
+    },
+    {
+      "id": "estimulos",
+      "title": "Controle de estímulos",
+      "body": "Uma placa de “aberto” pode aumentar a chance de alguém entrar em uma loja porque, em visitas anteriores, entrar nessa situação permitiu ser atendido. A discriminação se evidencia quando a resposta varia entre situações. A generalização aparece quando a resposta também ocorre diante de estímulos que compartilham características.",
+      "objective": "Elabore um exemplo de discriminação e outro de generalização. Em cada um, identifique o que o estudante observaria para diferenciar os dois processos.",
+      "resources": [
+        "hubner",
+        "lab-estimulos"
+      ],
+      "parent": "contingencia",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "hubner": "Compare discriminação simples e condicional antes de ler a exposição das relações de equivalência.",
+        "lab-estimulos": "Comece pelos exercícios de linha de base e treino de discriminação. Compare o modo de registrar o responder diante dos diferentes sinais."
+      }
+    },
+    {
+      "id": "discriminacao",
+      "title": "Discriminação de estímulos",
+      "parent": "estimulos",
+      "body": "Uma resposta pode ocorrer mais diante de um sinal do que de outro depois de produzir consequências diferentes em sua presença. O que se mede é a distribuição do responder nas situações comparadas.",
+      "objective": "Desenhe um registro com duas condições e explique que padrão sustentaria a hipótese de discriminação.",
+      "resourceGuides": {
+        "lab-estimulos": "Compare os exercícios de linha de base e treino discriminativo. Observe por que registrar as respostas em ambas as condições é necessário.",
+        "hubner": "Na introdução, diferencie o controle por um estímulo em uma discriminação simples daquele observado em relações condicionais."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "lab-estimulos",
+        "hubner"
+      ]
+    },
+    {
+      "id": "generalizacao",
+      "title": "Generalização de estímulos",
+      "parent": "estimulos",
+      "body": "Depois do ensino diante de um estímulo, pode haver respostas diante de outros com características semelhantes. Um gradiente descreve como o responder varia ao longo de uma dimensão, como tonalidade ou intensidade.",
+      "objective": "Escolha uma dimensão do estímulo e desenhe o gráfico esperado caso o responder varie com a distância até o valor treinado.",
+      "resourceGuides": {
+        "lab-estimulos": "Nos exercícios chamados Generalização de estímulos, compare o estímulo treinado aos valores usados no teste e a forma de registrar as respostas.",
+        "leitura": "Examine os testes de leitura de novas palavras. Identifique o que as palavras compartilham com o material treinado e por que esse teste responde a uma pergunta diferente da de um gradiente físico."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "lab-estimulos",
+        "leitura"
+      ]
+    },
+    {
+      "id": "equivalencia",
+      "title": "Equivalência de estímulos",
+      "parent": "estimulos",
+      "body": "Ensinar algumas relações entre estímulos pode ser seguido pela emergência de outras. Relacionar um som, uma palavra impressa e uma figura exige verificar quais relações foram ensinadas e quais aparecem em testes novos.",
+      "objective": "Faça um esquema com três estímulos e distinga as setas que representam ensino das que representam teste.",
+      "resourceGuides": {
+        "hubner": "Use os exemplos para separar reflexividade, simetria e transitividade. Marque quais relações o pesquisador precisa testar.",
+        "leitura": "No delineamento do ensino de leitura, acompanhe a passagem das relações diretamente treinadas aos testes de relações novas."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "hubner",
+        "leitura"
+      ]
+    },
+    {
+      "id": "pareamento-modelo",
+      "title": "Escolha conforme o modelo",
+      "parent": "equivalencia",
+      "body": "Em uma tentativa, um estímulo-modelo antecede a escolha entre comparações. O modelo muda qual comparação tem a função relevante naquela tentativa. Essa disposição ajuda a estudar discriminações condicionais.",
+      "objective": "Desenhe duas tentativas com as mesmas comparações, trocando apenas o modelo. Marque a escolha prevista em cada uma.",
+      "resourceGuides": {
+        "hubner": "Procure o exemplo de discriminação condicional e identifique a relação entre o estímulo-modelo e as comparações.",
+        "leitura": "Na seção de procedimento, reconstrua uma tentativa de pareamento. Diga o que teria de variar entre tentativas para que a posição não bastasse para acertar."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "hubner",
+        "leitura"
+      ]
+    },
+    {
+      "id": "relacoes-emergentes",
+      "title": "Testar relações emergentes",
+      "parent": "equivalencia",
+      "body": "Quando o estudante responde corretamente a uma relação que não recebeu ensino direto, é preciso examinar a história de treino e os controles da tarefa. Um teste de emergência ganha sentido pelo contraste com as relações efetivamente ensinadas.",
+      "objective": "Compare os dois estudos e identifique uma relação ensinada e uma testada em cada procedimento.",
+      "resourceGuides": {
+        "leitura2": "Siga a passagem do treino por discriminação simples para as sondas de relações emergentes e identifique quais resultados variaram entre os participantes.",
+        "leitura": "Separe os estímulos que fizeram parte do ensino e das provas de leitura. Compare a interpretação dos resultados com a do estudo por discriminação simples."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "leitura2",
+        "leitura"
+      ]
+    },
+    {
+      "id": "funcional",
+      "title": "Hipóteses de função",
+      "body": "Duas ações com a mesma aparência podem ter funções diferentes. Uma pessoa pode levantar a mão para pedir uma explicação ou para se oferecer como voluntária. A análise funcional pergunta que relações sustentam cada ação. Observações em contexto orientam hipóteses que podem ser revistas à luz de novos registros.",
+      "objective": "Para um episódio fictício, proponha duas hipóteses de função e descreva quais observações ajudariam a distingui-las.",
+      "resources": [
+        "matos",
+        "del-prette",
+        "avaliacao"
+      ],
+      "parent": "contingencia",
+      "relation": "prerequisite",
+      "lane": "center",
+      "resourceGuides": {
+        "matos": "Leia a discussão sobre relações funcionais e identifique que observação permitiria rejeitar a sua hipótese inicial.",
+        "del-prette": "Escolha uma contingência descrita no treino didático e explicite qual previsão se poderia confrontar com novos registros.",
+        "avaliacao": "Compare dois tipos de avaliação funcional e identifique o grau de evidência que se pode atribuir a cada conclusão."
+      }
+    },
+    {
+      "id": "fontes-avaliacao",
+      "title": "Fontes para avaliar a função",
+      "parent": "funcional",
+      "body": "Uma entrevista, um registro direto e uma comparação experimental produzem tipos diferentes de evidência. A escolha depende da pergunta, do contexto e das condições para observar. Cada fonte pode levar à revisão da hipótese inicial.",
+      "objective": "Formule uma hipótese e indique o que poderia ser aprendido por entrevista, por observação e por uma comparação planejada.",
+      "resourceGuides": {
+        "avaliacao": "Distinga os tipos de avaliação pelo modo de obter dados. Reúna um exemplo de cada tipo apresentado pelos autores.",
+        "matos": "Use a discussão da identificação de relações funcionais para explicar a diferença entre propor uma relação e acrescentar evidência a seu favor."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "avaliacao",
+        "matos"
+      ]
+    },
+    {
+      "id": "avaliacao-indireta",
+      "title": "Entrevista e relato",
+      "parent": "fontes-avaliacao",
+      "body": "Relatos podem revelar acontecimentos difíceis de observar e diferenças importantes entre situações. O que o informante lembra e como foram feitas as perguntas também precisam entrar na leitura do material.",
+      "objective": "Elabore duas perguntas sobre um episódio e indique qual observação direta ajudaria a confrontar a hipótese surgida.",
+      "resourceGuides": {
+        "avaliacao": "Na parte sobre avaliação indireta, identifique quem informa sobre o comportamento e quais limites os autores atribuem ao relato.",
+        "observacao": "Retome a passagem da observação livre ao registro sistemático e compare o que pode ser registrado diretamente ao que depende de outra pessoa contar."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "avaliacao",
+        "observacao"
+      ]
+    },
+    {
+      "id": "registro-abc",
+      "title": "Registro de episódios",
+      "parent": "fontes-avaliacao",
+      "body": "Um registro descritivo pode alinhar contexto, ação e consequência de vários episódios. A comparação ajuda a identificar recorrências e exceções. A proximidade temporal entre os eventos ainda deixa em aberto a relação de dependência.",
+      "objective": "Registre três episódios fictícios, inclua um contraexemplo e reformule a hipótese para acomodar os dados.",
+      "resourceGuides": {
+        "avaliacao": "Na avaliação descritiva, veja como foram organizadas observações de episódios e quais limitações permanecem ao interpretar uma covariação.",
+        "del-prette": "Escolha um exemplo dos quadros de três termos e separe a descrição de cada evento da interpretação sobre sua função."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "avaliacao",
+        "del-prette"
+      ]
+    },
+    {
+      "id": "pesquisa",
+      "title": "Pesquisa de caso único",
+      "body": "Nos delineamentos de caso único, o pesquisador mede repetidamente o comportamento de um participante e compara os resultados entre condições. A linha de base mostra como a medida variava antes da mudança programada. O desenho do estudo define quais explicações alternativas podem ser examinadas.",
+      "objective": "Na tabela de delineamentos do artigo, escolha dois desenhos e compare o que cada um permite concluir sobre mudança e variação ao longo do tempo.",
+      "resources": [
+        "sampaio",
+        "benitez",
+        "video-desenhos"
+      ],
+      "parent": "funcional",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "sampaio": "Compare os exemplos de reversão e linha de base múltipla. Assinale em cada um o que foi medido repetidamente e quando mudou a condição experimental.",
+        "benitez": "Observe como a discussão sobre educação inclusiva relaciona o desenho de pesquisa às condições de cada participante.",
+        "video-desenhos": "Comece aos 10min35s e compare as trajetórias individuais com uma comparação entre grupos. Escolha um dos três desenhos explicados depois."
+      }
+    },
+    {
+      "id": "medir-respostas",
+      "title": "Escolher a medida",
+      "parent": "pesquisa",
+      "body": "Contar respostas, medir quanto duram ou medir o tempo até seu início pode mostrar mudanças diferentes. Taxas permitem comparar observações de comprimentos diferentes quando a oportunidade de responder também é considerada.",
+      "objective": "Escolha entre contagem, taxa, latência e duração para responder a duas perguntas sobre a mesma atividade.",
+      "resourceGuides": {
+        "graduacao": "Na unidade 3.3, localize a definição da medida e da unidade de observação. Procure a informação que permite outra pessoa repetir o registro.",
+        "lab-reforco": "Compare os registros de frequência e os períodos observados nos exercícios. Para duas sessões de duração diferente, descreva como obter taxas comparáveis."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "graduacao",
+        "lab-reforco"
+      ]
+    },
+    {
+      "id": "concordancia",
+      "title": "Concordância entre observadores",
+      "parent": "medir-respostas",
+      "body": "Dois observadores podem registrar independentemente a mesma amostra e comparar seus resultados. A concordância depende do que se definiu como ocorrência, da janela de observação e da forma de calcular o índice.",
+      "objective": "Crie uma amostra curta em que dois registros tenham o mesmo total e discordem sobre o momento das ocorrências.",
+      "resourceGuides": {
+        "graduacao": "Na unidade 3.4, Fidedignidade, examine como as definições e o cálculo de concordância afetam a interpretação das medidas.",
+        "playlist-observacao": "Nas quatro primeiras aulas, em português, escolha uma categoria de interação e identifique quais critérios duas pessoas precisariam compartilhar para codificá-la."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "graduacao",
+        "playlist-observacao"
+      ]
+    },
+    {
+      "id": "linha-base",
+      "title": "Estabilidade e linha de base",
+      "parent": "pesquisa",
+      "body": "Antes de comparar condições, examine nível, tendência e variabilidade em uma série de medidas. Uma linha de base que já vinha mudando na direção esperada torna mais difícil atribuir uma mudança posterior à nova condição.",
+      "objective": "Compare duas séries fictícias de cinco pontos, uma com tendência e outra estável, e interprete o mesmo resultado após a mudança de condição.",
+      "resourceGuides": {
+        "sampaio": "Na seção sobre estados estáveis, identifique o papel da linha de base para interpretar mudanças posteriores.",
+        "educacao": "Use um gráfico de exemplo para indicar o nível e a direção do responder antes da introdução da intervenção."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "sampaio",
+        "educacao"
+      ]
+    },
+    {
+      "id": "desenhos",
+      "title": "Comparação entre condições",
+      "parent": "pesquisa",
+      "body": "Um delineamento organiza quando as condições se repetem ou mudam e qual resultado poderia sustentar a relação investigada. O desenho escolhido limita as conclusões, inclusive quando a mudança parece grande.",
+      "objective": "Escolha uma mudança reversível e outra duradoura. Justifique um desenho adequado para cada pergunta.",
+      "resourceGuides": {
+        "sampaio": "Use os exemplos para distinguir repetir condições de escalonar sua introdução ou alterar gradualmente um critério.",
+        "video-desenhos": "A partir de 10min35s, observe como se constrói a comparação dentro da trajetória de cada participante."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "sampaio",
+        "video-desenhos"
+      ]
+    },
+    {
+      "id": "reversao",
+      "title": "Reversão e retirada",
+      "parent": "desenhos",
+      "body": "Em um desenho ABAB, registram-se medidas repetidas de uma mesma unidade em fases de linha de base e intervenção. O efeito pode ser mais interpretável quando as mudanças acompanham introduções e retiradas repetidas. Retirar uma condição útil pode ser inviável ou inadequado.",
+      "objective": "Leia um gráfico ABAB e explique qual comparação se perderia se terminasse logo depois da primeira fase B.",
+      "resourceGuides": {
+        "video-desenhos": "A partir de 14min21s, identifique as quatro fases do exemplo de reversão e acompanhe o mesmo participante ao longo delas.",
+        "sampaio": "Na discussão de reversão e retirada, identifique uma condição de reversibilidade e uma limitação prática desse desenho."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "video-desenhos",
+        "sampaio"
+      ]
+    },
+    {
+      "id": "base-multipla",
+      "title": "Linha de base múltipla",
+      "parent": "desenhos",
+      "body": "O pesquisador pode introduzir uma mudança em momentos diferentes para comportamentos, contextos ou participantes. Uma relação fica mais plausível quando o comportamento de cada série muda ao se introduzir a condição correspondente.",
+      "objective": "Desenhe três séries escalonadas. Identifique qual padrão enfraqueceria a interpretação de efeito.",
+      "resourceGuides": {
+        "educacao": "Leia os exemplos de linha de base múltipla em educação. Observe quais séries continuam em linha de base quando a primeira recebe a intervenção.",
+        "video-desenhos": "Aos 23min02s, compare os momentos de introdução. Identifique por que o resultado é avaliado em cada série."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "educacao",
+        "video-desenhos"
+      ]
+    },
+    {
+      "id": "mudanca-criterio",
+      "title": "Mudança de critério",
+      "parent": "desenhos",
+      "body": "Quando a pergunta envolve mudanças graduais, o critério para produzir uma consequência pode mudar por etapas. A relação fica mais plausível se a medida acompanha sucessivos critérios, considerando sua variação inicial.",
+      "objective": "Sobreponha três critérios a uma série fictícia de dados e descreva o padrão que seria compatível com controle experimental.",
+      "resourceGuides": {
+        "sampaio": "Procure o delineamento de mudança de critério e identifique que comparação o distingue de uma simples sequência de metas.",
+        "video-desenhos": "Na explicação a partir de 26min03s, indique o que muda entre fases e que dado se espera acompanhar cada mudança."
+      },
+      "relation": "related",
+      "lane": "left",
+      "resources": [
+        "sampaio",
+        "video-desenhos"
+      ]
+    },
+    {
+      "id": "aplicacao",
+      "title": "Relevância social e resultados",
+      "body": "Uma mudança de frequência pode ser mensurável e ainda ter pouca importância na vida de quem participa. A pesquisa aplicada também pergunta quem considera a mudança relevante, se ela aparece em outros ambientes e quais dados mostram sua duração. Essas perguntas orientam a interpretação de um resultado específico.",
+      "objective": "Escolha um resultado do estudo de revisão e identifique a dimensão avaliada, os critérios adotados e o limite da conclusão.",
+      "resources": [
+        "validade-social",
+        "aplicada",
+        "benitez"
+      ],
+      "parent": "pesquisa",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "validade-social": "Vá à página impressa 10, página 23 do PDF, e identifique as três perguntas de Wolf. Aplique-as a um objetivo fictício escolhido com uma comunidade.",
+        "aplicada": "Localize o debate sobre os critérios da pesquisa aplicada. Procure o que permite associar uma mudança demonstrada à questão social que motivou o estudo.",
+        "benitez": "Na discussão sobre uso de delineamentos em educação inclusiva, indique uma medida de desempenho e a repercussão educacional que precisaria ser avaliada."
+      }
+    },
+    {
+      "id": "ensino-leitura",
+      "title": "Aprendizagem da leitura",
+      "parent": "aplicacao",
+      "body": "Uma pergunta aplicada é o que uma pessoa consegue ler depois do ensino de certas palavras e relações. Importa examinar a aprendizagem diretamente ensinada e a leitura de material novo. Duas pessoas podem apresentar padrões diferentes mesmo quando recebem o mesmo programa.",
+      "objective": "Compare um resultado individual com o resultado do grupo e identifique uma informação pedagógica que a média omite.",
+      "resourceGuides": {
+        "leitura": "Na descrição dos testes, procure uma medida que dependa de palavras novas. Acompanhe as diferenças individuais nos resultados.",
+        "leitura2": "Compare as respostas após o ensino de leitura textual com os testes de relações emergentes. Escolha um resultado cuja interpretação exija conhecer o procedimento.",
+        "historico": "Leia a discussão da instrução programada nas décadas de 1960 e 1970. Distinga seu percurso no ensino brasileiro da estratégia de pareamento com o modelo estudada nos dois experimentos."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "leitura",
+        "leitura2",
+        "historico"
+      ]
+    },
+    {
+      "id": "escolhas-eticas",
+      "title": "Quem escolhe os objetivos?",
+      "parent": "aplicacao",
+      "body": "Decidir o que medir inclui uma decisão sobre o que vale a pena mudar. Participantes e profissionais podem atribuir significados diferentes à mesma meta, à maneira de alcançá-la e aos resultados produzidos.",
+      "objective": "Para um objetivo educacional fictício, descreva como o estudante avaliaria a relevância da mudança e indique um possível desacordo com o avaliador.",
+      "resourceGuides": {
+        "etica": "Na discussão dos valores dos envolvidos, identifique uma situação de conflito e a proposta de colaboração dos autores.",
+        "validade-social": "Na página impressa 10, página 23 do PDF, separe as perguntas sobre a importância dos objetivos, a aceitabilidade dos procedimentos e a relevância dos efeitos."
+      },
+      "relation": "related",
+      "lane": "right",
+      "resources": [
+        "etica",
+        "validade-social"
+      ]
+    },
+    {
+      "id": "praticas-em-comunidade",
+      "title": "Comportamento e comunidade",
+      "parent": "aplicacao",
+      "lane": "right",
+      "relation": "related",
+      "body": "Um projeto pode mudar condições compartilhadas por muitas pessoas, como a sinalização de um restaurante ou a coleta de resíduos de um bairro. A análise acompanha ações observáveis e a participação de quem convive com o problema.",
+      "objective": "Compare duas intervenções ambientais quanto à ação estudada, à mudança feita no ambiente e à participação da comunidade.",
+      "resources": [
+        "participacao-comunitaria",
+        "descartar-no-restaurante"
+      ],
+      "resourceGuides": {
+        "participacao-comunitaria": "Leia o relato sobre coleta de resíduos discutido por Castro e Lacerda Júnior. Distinga as decisões dos moradores da contribuição da equipe.",
+        "descartar-no-restaurante": "No método, identifique o que os observadores registraram a cada descarte. Compare a intervenção sobre as lixeiras com a organização comunitária descrita no outro texto."
+      }
+    },
+    {
+      "id": "metas-da-comunidade",
+      "title": "Quem define as metas?",
+      "parent": "praticas-em-comunidade",
+      "lane": "left",
+      "relation": "related",
+      "body": "Uma equipe e os moradores podem avaliar de maneiras diferentes o que torna uma intervenção relevante. Investigar quem trouxe a demanda, quem escolheu a meta e quem pôde alterá-la ajuda a compreender a participação comunitária.",
+      "objective": "No caso relatado, identifique uma decisão da comunidade e uma pergunta que falta fazer sobre a aceitabilidade da intervenção.",
+      "resources": [
+        "participacao-comunitaria",
+        "validade-social"
+      ],
+      "resourceGuides": {
+        "participacao-comunitaria": "Compare a comissão de moradores e o conselho comunitário nos estudos discutidos pelos autores. Quem propunha soluções e quem decidia como colocá-las em prática?",
+        "validade-social": "Na parte sobre validade social, separe objetivo, procedimento e efeito. Use os três critérios para formular perguntas que os moradores poderiam responder."
+      }
+    },
+    {
+      "id": "observar-praticas-ambientais",
+      "title": "Dizer e fazer na educação ambiental",
+      "parent": "praticas-em-comunidade",
+      "lane": "right",
+      "relation": "related",
+      "body": "Uma criança pode explicar como separar resíduos e encontrar dificuldades para fazê-lo. Uma equipe de extensão distinguiu essas ações durante uma mostra escolar. Em outro estudo, os pesquisadores observaram diretamente o descarte no restaurante universitário.",
+      "objective": "Escreva duas medidas distintas, uma para a explicação verbal e outra para a ação observada. Indique qual delas foi coletada em cada estudo.",
+      "resources": [
+        "mostra-ambiental",
+        "descartar-no-restaurante"
+      ],
+      "resourceGuides": {
+        "mostra-ambiental": "Compare as questões de avaliação com a dinâmica da reciclagem. Localize quais sugestões da Psicologia chegaram a ser incorporadas à mostra.",
+        "descartar-no-restaurante": "Na folha de registro da página 135, cruze o tipo de resíduo com a lixeira escolhida. Explique que informação essa observação acrescenta ao que uma pessoa poderia relatar."
+      }
+    }
+  ],
+  "resources": [
+    {
+      "id": "tourinho",
+      "title": "A produção de conhecimento em psicologia: a análise do comportamento",
+      "authors": "Emmanuel Zagury Tourinho",
+      "institution": "Psicologia: Ciência e Profissão",
+      "year": 2003,
+      "url": "https://www.scielo.br/j/pcp/a/ZQ8f35gvDdhxJNy3hbqqRxM/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo conceitual",
+      "access": "Leitura integral gratuita em HTML, sem cadastro na consulta.",
+      "checkedAt": "2026-11-16",
+      "verification": "Texto integral em português, com discussão filosófica e referências.",
+      "rights": "CC BY 4.0 informada pelo periódico.",
+      "caveat": "O autor apresenta uma interpretação da área e explicita a existência de divergências entre analistas do comportamento.",
+      "relevance": "Localize o esquema que aproxima produção conceitual, investigação empírica e aplicação. Escolha um exemplo e formule uma pergunta para cada uma dessas frentes.",
+      "nodes": [
+        "campo",
+        "behaviorismo"
+      ]
+    },
+    {
+      "id": "del-prette",
+      "title": "Treino didático de análise de contingências e previsão de intervenções sobre as consequências do responder",
+      "authors": "Giovana Del Prette",
+      "institution": "Perspectivas em Análise do Comportamento",
+      "year": 2011,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S2177-35482011000100006&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo didático",
+      "access": "Leitura integral gratuita em HTML, sem cadastro na consulta.",
+      "checkedAt": "2026-11-16",
+      "verification": "Texto integral com exercícios, exemplos hipotéticos, quadros de contingências e referências.",
+      "rights": "O periódico indica licença Creative Commons Atribuição, salvo exceções.",
+      "caveat": "Os exemplos clínicos são hipotéticos e se destinam à formação. A plausibilidade de uma hipótese requer verificação.",
+      "relevance": "Os exercícios passam de uma descrição com três termos para hipóteses que consideram consequências concorrentes.",
+      "nodes": [
+        "operante",
+        "contingencia",
+        "reforco",
+        "reforco-positivo-negativo",
+        "fuga-esquiva",
+        "funcional",
+        "registro-abc"
+      ]
+    },
+    {
+      "id": "hubner",
+      "title": "Controle de estímulos e relações de equivalência",
+      "authors": "Maria Martha Costa Hübner",
+      "institution": "Revista Brasileira de Terapia Comportamental e Cognitiva",
+      "year": 2006,
+      "url": "https://rbtcc.com.br/RBTCC/article/download/22/11/68",
+      "sourcePage": "https://rbtcc.com.br/RBTCC/pt_BR/article/view/22",
+      "language": "pt-BR",
+      "format": "Artigo didático em PDF",
+      "access": "PDF gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos a edição da revista, a autoria e o PDF integral de oito páginas.",
+      "rights": "Licença de reprodução não confirmada no PDF. O mapa aponta para o periódico.",
+      "caveat": "O texto avança até relações de equivalência. Para este tópico, priorize as explicações iniciais sobre controle de estímulos.",
+      "relevance": "Comece pelas páginas 95 a 98. Compare discriminação simples e condicional antes de seguir para os estudos de equivalência de estímulos.",
+      "nodes": [
+        "estimulos",
+        "discriminacao",
+        "equivalencia",
+        "pareamento-modelo"
+      ]
+    },
+    {
+      "id": "benitez",
+      "title": "Delineamento experimental em Análise do Comportamento: discussão sobre o seu uso em intervenções educacionais inclusivas",
+      "authors": "Priscila Benitez, Camila Domeniconi e Ricardo M. Bondioli",
+      "institution": "Psicologia USP",
+      "year": 2019,
+      "url": "https://www.scielo.br/j/pusp/a/X5QG4JsckZRzPqwVbpcj95d/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo metodológico",
+      "access": "Leitura integral gratuita em HTML, sem cadastro na consulta.",
+      "checkedAt": "2026-11-16",
+      "verification": "Texto integral em português, com tabela comparativa de delineamentos e discussão de seus limites no contexto escolar.",
+      "rights": "Artigo de acesso aberto com licença Creative Commons indicada no periódico. Consulte os termos na fonte.",
+      "caveat": "A discussão considera a educação inclusiva e limites específicos desse ambiente para estabelecer controle experimental.",
+      "relevance": "Use a primeira tabela para comparar linha de base múltipla, reversão e outros delineamentos aplicados.",
+      "nodes": [
+        "pesquisa",
+        "aplicacao"
+      ]
+    },
+    {
+      "id": "aplicada",
+      "title": "Análise do comportamento aplicada: Interface entre ciência e prática?",
+      "authors": "Dante Marino Malavazzi, Fani Eta Korn Malerbi, Giovana Del Prette, Roberto Alves Banaco e Roberta Kovac",
+      "institution": "Perspectivas em Análise do Comportamento",
+      "year": 2011,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S2177-35482011000200007&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Pesquisa de revisão de literatura",
+      "access": "Leitura integral gratuita em HTML, sem cadastro na consulta.",
+      "checkedAt": "2026-11-16",
+      "verification": "Texto integral em HTML, incluindo método, resultados, critérios de classificação e discussão.",
+      "rights": "O periódico indica licença Creative Commons Atribuição, salvo exceções.",
+      "caveat": "A análise cobre uma seleção de artigos de um periódico entre 2004 e 2010. Suas proporções descrevem esse recorte.",
+      "relevance": "Expõe os critérios usados para classificar pesquisas aplicadas e permite discutir como se avaliam relevância, efeitos e generalização.",
+      "nodes": [
+        "aplicacao"
+      ]
+    },
+    {
+      "id": "par-introducao",
+      "title": "Introdução à Análise do Comportamento",
+      "authors": "Instituto Par",
+      "institution": "Instituto Par",
+      "year": 2023,
+      "url": "https://www.youtube.com/watch?v=DvG5-Xsw2jo&list=PLBFCfaYNXAAaWlJIoNiffrvmtGF2PkkUe",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Playlist · 3 aulas",
+      "access": "Reprodução gratuita no canal original, sem login na consulta.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos os títulos e a disponibilidade anônima das três gravações no canal do Instituto Par.",
+      "rights": "O portal encaminha ao material original. A licença de redistribuição não foi confirmada.",
+      "caveat": "Série introdutória. As três gravações foram publicadas entre 2023 e 2024.",
+      "relevance": "Comece pela aula 1, sobre comportamento e causalidade. Na aula 2, compare as histórias da espécie, da pessoa e da cultura. A terceira apresenta os reflexos.",
+      "nodes": [
+        "campo",
+        "behaviorismo"
+      ]
+    },
+    {
+      "id": "par-reflexos",
+      "title": "Comportamento respondente (reflexos)",
+      "authors": "Instituto Par",
+      "institution": "Instituto Par",
+      "year": 2024,
+      "url": "https://www.youtube.com/watch?v=KC2zmzTUBaM",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Videoaula · 39 min",
+      "access": "Reprodução gratuita no canal original, sem login na consulta.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos título, descrição, duração e acesso sem autenticação no player do canal.",
+      "rights": "O portal encaminha ao material original. A licença de redistribuição não foi confirmada.",
+      "caveat": "Exposição introdutória de um processo específico de aprendizagem.",
+      "relevance": "A aula 3 passa dos reflexos inatos aos aprendidos. Anote o que elicia a resposta antes e depois do emparelhamento e observe o que muda na extinção respondente.",
+      "nodes": [
+        "respondente",
+        "extincao-respondente"
+      ]
+    },
+    {
+      "id": "carrara",
+      "title": "Em que sentido(s) é radical o Behaviorismo Radical?",
+      "authors": "Kester Carrara e Bruno Angelo Strapasson",
+      "institution": "Acta Comportamentalia",
+      "year": 2014,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S0188-81452014000100008&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo histórico e conceitual",
+      "access": "Texto integral disponível gratuitamente na fonte.",
+      "checkedAt": "2026-11-16",
+      "verification": "Texto integral consultado no PePSIC, incluindo as quatro dimensões da discussão.",
+      "rights": "O portal encaminha ao material original. A licença de redistribuição não foi confirmada.",
+      "caveat": "Os autores defendem uma interpretação do termo a partir de fontes históricas.",
+      "relevance": "Leia a reconstrução histórica do adjetivo “radical” e compare os diferentes usos do termo. Identifique onde os autores situam os eventos privados nesse debate.",
+      "nodes": [
+        "behaviorismo"
+      ]
+    },
+    {
+      "id": "cinema",
+      "title": "Laranja Mecânica: uma análise behaviorista radical",
+      "authors": "Ana Karina C. R. de-Farias, Michela Rodrigues Ribeiro, Cristiano Coelho e Elisa Tavares Sanabio-Heck",
+      "institution": "Instituto Walden4 · Skinner vai ao cinema",
+      "year": 2014,
+      "url": "https://www.walden4.com.br/livros/pdfs/de_farias_ribeiro_2014_skinner_1.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Capítulo de livro · PDF",
+      "access": "Texto integral disponível gratuitamente na fonte.",
+      "checkedAt": "2026-11-16",
+      "verification": "Consultados a segunda edição no site da editora, o sumário e a discussão que acompanha a Figura 1.",
+      "rights": "O portal encaminha ao material original. A licença de redistribuição não foi confirmada.",
+      "caveat": "O capítulo usa cenas de ficção para ilustrar os conceitos. A leitura pode ser feita sem assistir ao filme.",
+      "relevance": "Vá ao capítulo “Laranja Mecânica”, na página impressa 24. Na seção “Comportamentos Respondente e Operante”, acompanhe a Figura 1 e compare o emparelhamento de estímulos com a relação entre uma resposta e sua consequência.",
+      "nodes": [
+        "respondente",
+        "pareamento-respondente",
+        "operante",
+        "fuga-esquiva"
+      ]
+    },
+    {
+      "id": "lab-reforco",
+      "title": "O estudo de processos comportamentais básicos no laboratório I",
+      "authors": "M. Luisa Guedes, Roberto A. Banaco, M. Amalia Andery, Nilza Micheletto, Tereza M. A. P. Sério, Paula S. Gioia, Fátima P. Assis e Marcelo Benvenuti",
+      "institution": "Laboratório de Psicologia Experimental · PUC-SP",
+      "year": 2011,
+      "url": "https://www.pucsp.br/sites/default/files/download/processos-basicos-no-laboratorio-I-2020-final-a.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Caderno didático · PDF",
+      "access": "Texto integral disponível gratuitamente na fonte.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o sumário e os exercícios sobre reforçamento contínuo e extinção no PDF da PUC-SP.",
+      "rights": "O portal encaminha ao material original. A licença de redistribuição não foi confirmada.",
+      "caveat": "Caderno de laboratório com animais. Para este tópico, a proposta é interpretar as medidas e os registros apresentados.",
+      "relevance": "Comece por “Manutenção de uma resposta – reforçamento contínuo”, na página impressa 25. Passe à seção de extinção e observe o que se mede para comparar as duas fases.",
+      "nodes": [
+        "operante",
+        "modelagem",
+        "variar-responder",
+        "reforco",
+        "extincao-operante",
+        "medir-respostas"
+      ]
+    },
+    {
+      "id": "lab-estimulos",
+      "title": "O estudo de processos comportamentais básicos no laboratório II",
+      "authors": "M. Luisa Guedes, Roberto A. Banaco, M. Amalia Andery, Nilza Micheletto, Tereza M. A. P. Sério, Paula S. Gioia, Fátima P. Assis e Marcelo Benvenuti",
+      "institution": "Laboratório de Psicologia Experimental · PUC-SP",
+      "year": null,
+      "url": "https://www.pucsp.br/sites/default/files/download/posgraduacao/programas/psicologia-experimental/processos-basicos-lab-3.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Caderno didático · PDF",
+      "access": "Texto integral disponível gratuitamente na fonte.",
+      "checkedAt": "2026-11-16",
+      "verification": "Consultados o enunciado e as tabelas de registro do exercício 2 na publicação institucional.",
+      "rights": "O portal encaminha ao material original. A licença de redistribuição não foi confirmada.",
+      "caveat": "Material de laboratório. Os exercícios apresentam condições experimentais distintas das situações cotidianas.",
+      "relevance": "No exercício 2, “Estabelecimento de uma discriminação”, compare as colunas de respostas nos períodos de reforçamento e de extinção. Observe o papel do estímulo que sinaliza cada período.",
+      "nodes": [
+        "estimulos",
+        "discriminacao",
+        "generalizacao"
+      ]
+    },
+    {
+      "id": "matos",
+      "title": "Análise funcional do comportamento",
+      "authors": "Maria Amélia Matos",
+      "institution": "Estudos de Psicologia (Campinas) · PUC-Campinas",
+      "year": 1999,
+      "url": "https://periodicos.puc-campinas.edu.br/estpsi/article/download/6563/4207/42764",
+      "sourcePage": "https://periodicos.puc-campinas.edu.br/estpsi/article/view/6563",
+      "language": "pt-BR",
+      "format": "Artigo teórico · PDF",
+      "access": "Texto integral disponível gratuitamente na fonte.",
+      "checkedAt": "2026-11-16",
+      "verification": "Consultados o texto completo e a sequência de passos na revista da PUC-Campinas.",
+      "rights": "O portal encaminha ao material original. A licença de redistribuição não foi confirmada.",
+      "caveat": "Trata dos fundamentos e do método de análise funcional. A explicação proposta para um exemplo precisa de observações que a sustentem.",
+      "relevance": "Leia a discussão sobre a unidade funcional e os passos da análise. Selecione um exemplo e identifique o que foi observado e que relação entre eventos ainda precisa ser investigada.",
+      "nodes": [
+        "classe-respostas",
+        "contingencia",
+        "funcional",
+        "fontes-avaliacao"
+      ]
+    },
+    {
+      "id": "sampaio",
+      "title": "Uma introdução aos delineamentos experimentais de sujeito único",
+      "authors": "Angelo Augusto Silva Sampaio, Flávia Henriques Baião de Azevedo, Luciana Roberta Donola Cardoso, Camila de Lima, Mateus Brasileiro Reis Pereira e Maria Amalia Pie Abib Andery",
+      "institution": "Interação em Psicologia · UFPR",
+      "year": 2008,
+      "url": "https://revistas.ufpr.br/psicologia/article/download/9537/9218/0",
+      "sourcePage": "https://revistas.ufpr.br/psicologia/article/view/9537",
+      "language": "pt-BR",
+      "format": "Artigo didático · PDF",
+      "access": "Texto integral disponível gratuitamente na fonte.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o PDF integral, os esquemas dos delineamentos e a discussão de vantagens e limitações.",
+      "rights": "O portal encaminha ao material original. A licença de redistribuição não foi confirmada.",
+      "caveat": "Apresenta a lógica de diferentes desenhos. A possibilidade de reversão e a estabilidade das medidas variam conforme o fenômeno estudado.",
+      "relevance": "Acompanhe as figuras sobre reversão e linha de base múltipla. Localize em cada gráfico quando a condição muda e escreva que comparação sustenta a interpretação dos autores.",
+      "nodes": [
+        "pesquisa",
+        "linha-base",
+        "desenhos",
+        "reversao",
+        "mudanca-criterio"
+      ]
+    },
+    {
+      "id": "validade-social",
+      "title": "Caracterização e avaliação da psicologia comportamental comunitária por meio de artigos publicados no JABA entre 1999 e 2018",
+      "authors": "Lia Ivete Cavalcante Costa",
+      "institution": "Programa de Psicologia Experimental · PUC-SP",
+      "year": 2018,
+      "url": "https://www.pucsp.br/sites/default/files/download/posgraduacao/programas/psicologia-experimental/lia-costa.pdf#page=23",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Dissertação · PDF",
+      "access": "Texto integral disponível gratuitamente na fonte.",
+      "checkedAt": "2026-11-16",
+      "verification": "A discussão começa no fim da página impressa 9. As três perguntas de Wolf aparecem juntas na página impressa 10, página 23 do PDF.",
+      "rights": "O exemplar autoriza a reprodução para fins acadêmicos e científicos. Consulte a declaração da autora no arquivo.",
+      "caveat": "A dissertação investiga artigos de um periódico. A seção indicada apresenta os critérios de validade social usados na análise.",
+      "relevance": "Na página impressa 10 (página 23 do PDF), identifique como se distinguem a relevância das metas, a aceitação do procedimento e a importância dos resultados.",
+      "nodes": [
+        "aplicacao",
+        "escolhas-eticas",
+        "metas-da-comunidade"
+      ]
+    },
+    {
+      "id": "selecao",
+      "title": "Seleção por conseqüências",
+      "authors": "B. F. Skinner",
+      "institution": "Revista Brasileira de Terapia Comportamental e Cognitiva",
+      "year": 2007,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1517-55452007000100010&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo clássico traduzido",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "Proposta teórica publicada em inglês em 1981 e em português em 2007.",
+      "relevance": "Nas três seções, identifique a unidade que muda ao longo de gerações, durante a vida e nas práticas de um grupo.",
+      "nodes": [
+        "selecao-consequencias",
+        "historia-individuo-cultura"
+      ]
+    },
+    {
+      "id": "mecanicismo",
+      "title": "Do mecanicismo ao selecionismo: uma breve contextualização da transição do behaviorismo radical",
+      "authors": "Robson Nascimento da Cruz, Eduardo Neves Pedrosa de Cillo",
+      "institution": "Psicologia: Teoria e Pesquisa",
+      "year": 2008,
+      "url": "https://www.scielo.br/j/ptp/a/PMYvvLbTjqC5gnLSCkwLNyq/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de história conceitual",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "A reconstrução histórica apresenta uma interpretação da trajetória de Skinner.",
+      "relevance": "Acompanhe a passagem de uma explicação mecânica para uma explicação probabilística da mudança de comportamento.",
+      "nodes": [
+        "selecao-consequencias"
+      ]
+    },
+    {
+      "id": "privados",
+      "title": "Questões referentes à causalidade e eventos privados no Behaviorismo Radical",
+      "authors": "Maura Alves Nunes Gongora, José Antônio Damásio Abib",
+      "institution": "Revista Brasileira de Terapia Comportamental e Cognitiva",
+      "year": 2001,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1517-55452001000100002&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo conceitual",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "Os autores discutem a causalidade a partir de uma leitura contextualista.",
+      "relevance": "Procure os exemplos de pistas públicas usadas para ensinar uma pessoa a relatar o que sente.",
+      "nodes": [
+        "eventos-privados"
+      ]
+    },
+    {
+      "id": "etica",
+      "title": "O sistema ético skinneriano e conseqüências para a prática dos analistas do comportamento",
+      "authors": "Alexandre Dittrich, José Antônio Damásio Abib",
+      "institution": "Psicologia: Reflexão e Crítica",
+      "year": 2004,
+      "url": "https://www.scielo.br/j/prc/a/qpFVPMqHPkGgy44wLyTjdst/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo conceitual",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "O debate filosófico orienta perguntas e não substitui o código de ética profissional.",
+      "relevance": "Na discussão sobre a prática profissional, identifique quem participa da escolha de objetivos e quais valores podem entrar em conflito.",
+      "nodes": [
+        "punicao",
+        "escolhas-eticas"
+      ]
+    },
+    {
+      "id": "graduacao",
+      "title": "Como elaborar uma pesquisa na graduação",
+      "authors": "Paula Suzana Gioia e equipe da disciplina Projeto Supervisionado de Pesquisa III",
+      "institution": "PUC-SP · Laboratório de Psicologia Experimental",
+      "year": 2017,
+      "url": "https://www.pucsp.br/sites/default/files/download/posgraduacao/programas/psicologia-experimental/como_elaborar_uma_pesquisa_na_graduacao.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Caderno didático · PDF",
+      "access": "PDF integral aberto no portal da instituição.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "O roteiro foi produzido para a graduação e seus exercícios dependem da pergunta de pesquisa.",
+      "relevance": "Use o índice para acessar a unidade sobre delineamentos ou a unidade de fidedignidade e trabalhar com os exemplos apresentados.",
+      "nodes": [
+        "medir-respostas",
+        "concordancia"
+      ]
+    },
+    {
+      "id": "extincao",
+      "title": "Propriedade aversiva da extinção operante de comportamentos positivamente reforçados",
+      "authors": "André Amaral Bravin, Lincoln da Silva Gimenes",
+      "institution": "Acta Comportamentalia",
+      "year": 2013,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S0188-81452013000100008&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de revisão",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "A revisão distingue efeitos possíveis de efeitos inevitáveis.",
+      "relevance": "Compare a retirada da relação de reforçamento com as mudanças transitórias que podem ocorrer no responder.",
+      "nodes": [
+        "extincao-operante"
+      ]
+    },
+    {
+      "id": "punicao",
+      "title": "Duas formulações comportamentais de punição: definição, explicação e algumas implicações",
+      "authors": "Paulo César Morales Mayer, Maura Alves Nunes Gongora",
+      "institution": "Acta Comportamentalia",
+      "year": 2011,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S0188-81452011000400003&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo conceitual",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "A divergência teórica integra a própria questão examinada.",
+      "relevance": "Compare as duas maneiras de definir punição discutidas pelos autores e o que cada uma exige observar.",
+      "nodes": [
+        "punicao"
+      ]
+    },
+    {
+      "id": "motivacao",
+      "title": "Operações motivadoras: definição e compreensão do conceito no contexto aplicado",
+      "authors": "Ana Paula Basqueira",
+      "institution": "Espectro · Universidade Federal de São Carlos",
+      "year": 2024,
+      "url": "https://www.espectro.ufscar.br/index.php/1979/article/download/44/22",
+      "sourcePage": "https://www.espectro.ufscar.br/index.php/1979/article/view/44",
+      "language": "pt-BR",
+      "format": "Artigo didático · PDF",
+      "access": "PDF integral aberto no portal da instituição.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "A revista informa licença Creative Commons Atribuição-NãoComercial 4.0.",
+      "caveat": "Os exemplos têm função didática e incluem contextos de intervenção específicos.",
+      "relevance": "Distinga os efeitos sobre o valor de uma consequência e sobre o comportamento que a produziu anteriormente.",
+      "nodes": [
+        "operacoes-motivadoras"
+      ]
+    },
+    {
+      "id": "motivo2",
+      "title": "O conceito de operação estabelecedora na análise do comportamento",
+      "authors": "Caio F. Miguel",
+      "institution": "Psicologia: Teoria e Pesquisa",
+      "year": 2000,
+      "url": "https://www.scielo.br/j/ptp/a/3TjCn7CwgDDrGdtgCMzwfLq/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo conceitual",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "A terminologia histórica do artigo antecede a categoria mais ampla de operações motivadoras.",
+      "relevance": "Compare os exemplos de operações estabelecedoras com os de estímulos discriminativos.",
+      "nodes": [
+        "operacoes-motivadoras"
+      ]
+    },
+    {
+      "id": "leitura",
+      "title": "Ensino de leitura e escrita através do pareamento com o modelo e seus efeitos sobre medidas de inteligência",
+      "authors": "José Gonçalves Medeiros, Sonia Aparecida Teixeira",
+      "institution": "Estudos de Psicologia (Natal)",
+      "year": 2000,
+      "url": "https://www.scielo.br/j/epsic/a/tYNpjXVGLVtSF3hXLtCTcWf/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Pesquisa empírica",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "O resultado é circunscrito aos participantes e às medidas examinadas.",
+      "relevance": "Compare relações ensinadas no pareamento com o modelo com a leitura de palavras que os alunos ainda não tinham treinado.",
+      "nodes": [
+        "generalizacao",
+        "equivalencia",
+        "pareamento-modelo",
+        "relacoes-emergentes",
+        "ensino-leitura"
+      ]
+    },
+    {
+      "id": "leitura2",
+      "title": "Relações emergentes após ensino de comportamento textual por meio do procedimento de discriminação simples em crianças",
+      "authors": "Heloísa Cursi Campos, Nilza Micheletto",
+      "institution": "Psicologia: teoria e prática",
+      "year": 2010,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1516-36872010000200006&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Pesquisa empírica",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "O procedimento e as medidas diferem de outros programas de ensino de leitura.",
+      "relevance": "Examine o ensino por discriminação simples e os testes de relações emergentes realizados com as crianças.",
+      "nodes": [
+        "relacoes-emergentes",
+        "ensino-leitura"
+      ]
+    },
+    {
+      "id": "educacao",
+      "title": "Delineamentos intrassujeitos na avaliação de práticas psicoeducacionais baseadas em evidência",
+      "authors": "Jackeline Joyce de Santana Santos, Ana Carolina Sella, Daniela Mendonça Ribeiro",
+      "institution": "Psicologia em Estudo",
+      "year": 2019,
+      "url": "https://www.scielo.br/j/pe/a/LK3wrLM5NPJZXqpvJybBfQL/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo metodológico",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "As decisões sobre o desenho dependem da pergunta e da possibilidade de reverter a mudança.",
+      "relevance": "Use os exemplos com gráficos para examinar mudanças de nível entre condições e a lógica de introduções escalonadas.",
+      "nodes": [
+        "linha-base",
+        "base-multipla"
+      ]
+    },
+    {
+      "id": "regras",
+      "title": "Comportamento governado por regras",
+      "authors": "Maria Amélia Matos",
+      "institution": "Revista Brasileira de Terapia Comportamental e Cognitiva",
+      "year": 2001,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1517-55452001000200007&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo didático",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "Os exemplos educacionais e experimentais discutem diferentes histórias de aprendizagem.",
+      "relevance": "Compare os casos em que alguém aprende por instrução e aqueles em que aprende por contato direto com os resultados.",
+      "nodes": [
+        "regras-instrucoes"
+      ]
+    },
+    {
+      "id": "mando",
+      "title": "Uma introdução ao comportamento verbal",
+      "authors": "Romariz da Silva Barros",
+      "institution": "Revista Brasileira de Terapia Comportamental e Cognitiva",
+      "year": 2003,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1517-55452003000100008&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo introdutório",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "O artigo apresenta a classificação funcional de Skinner.",
+      "relevance": "Compare a descrição dos operantes verbais e identifique o que o ouvinte faz em cada exemplo.",
+      "nodes": [
+        "verbal",
+        "mando-tato"
+      ]
+    },
+    {
+      "id": "empirico",
+      "title": "Seleção do comportamento por justificativas constituintes de regras",
+      "authors": "Luiz Carlos de Albuquerque, Carla Cristina Paiva Paracampo",
+      "institution": "Temas em Psicologia",
+      "year": 2017,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1413-389X2017000400023&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo conceitual",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "A explicação pelo papel das justificativas é a proposta teórica dos autores.",
+      "relevance": "Nos exemplos de instruções, separe o que a regra anuncia das consequências que ocorrem imediatamente após a resposta.",
+      "nodes": [
+        "mando-tato",
+        "regras-instrucoes"
+      ]
+    },
+    {
+      "id": "observacao",
+      "title": "A prática da observação sistemática para a formação do(a) psicólogo(a): relato de experiência",
+      "authors": "Gabriela de Paula Feriani, Camila Vassallo de Melo, Wanderlei Abadio de Oliveira, Letícia Lovato Dellazzana-Zanon",
+      "institution": "Aletheia",
+      "year": 2021,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1413-03942021000200016&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Relato de experiência",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "O texto relata um estágio e não testa eficácia de uma intervenção.",
+      "relevance": "Siga a passagem das primeiras observações livres ao registro sistemático na formação das duas alunas.",
+      "nodes": [
+        "avaliacao-indireta"
+      ]
+    },
+    {
+      "id": "avaliacao",
+      "title": "Avaliação Funcional como Procedimento para o Comportamento Alimentar: Definição, Tipos e Exemplos",
+      "authors": "João Manoel Rodrigues Neto, Nathália Ferrer Cassiano",
+      "institution": "Psicologia: Ciência e Profissão",
+      "year": 2026,
+      "url": "https://www.scielo.br/j/pcp/a/jR5YCMzqrjJRsCq9gkkwZ9S/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo metodológico",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "Os exemplos se referem a comportamento alimentar e ilustram métodos de investigação.",
+      "relevance": "Acompanhe os exemplos de avaliação indireta, descritiva e experimental e a evidência que cada um produz.",
+      "nodes": [
+        "funcional",
+        "fontes-avaliacao",
+        "avaliacao-indireta",
+        "registro-abc"
+      ]
+    },
+    {
+      "id": "operante-historia",
+      "title": "A evolução do conceito de operante",
+      "authors": "João Cláudio Todorov",
+      "institution": "Psicologia: Teoria e Pesquisa",
+      "year": 2002,
+      "url": "https://www.scielo.br/j/ptp/a/ZYjPPLddBNgYWxnV7G7x6Nf/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo conceitual",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "A história do conceito requer distinguir as definições examinadas da proposta do autor.",
+      "relevance": "Localize o exemplo que distingue uma ocorrência singular de uma classe de respostas e compare as definições históricas.",
+      "nodes": [
+        "classe-respostas"
+      ]
+    },
+    {
+      "id": "variabilidade",
+      "title": "Variabilidade comportamental em humanos: efeitos de regras e contingências",
+      "authors": "Maria Helena Leite Hunziker, Vanessa Pik Quen Lee, Christiane Cardoso Ferreira, Adriana Pinto da Silva, Flávia Capelossi Caramori",
+      "institution": "Psicologia: Teoria e Pesquisa",
+      "year": 2002,
+      "url": "https://www.scielo.br/j/ptp/a/BNKBSVCdDMpLVnN5bywn9yc/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Pesquisa experimental",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "O estudo utilizou uma tarefa experimental com participantes humanos.",
+      "relevance": "Compare os grupos e as sequências de respostas quando variar ou repetir produzia consequências diferentes.",
+      "nodes": [
+        "variar-responder"
+      ]
+    },
+    {
+      "id": "intervalos",
+      "title": "Desempenho em FI com humanos: efeito do tipo de reforçador",
+      "authors": "Carlos Eduardo Costa, Roberto Alves Banaco, Rodrigo Morande Becker",
+      "institution": "Temas em Psicologia",
+      "year": 2005,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1413-389X2005000100004&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Pesquisa experimental",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "As condições experimentais delimitam a generalidade do resultado.",
+      "relevance": "Identifique o esquema de intervalo fixo e compare padrões de respostas obtidos sob consequências diferentes.",
+      "nodes": [
+        "intervalo"
+      ]
+    },
+    {
+      "id": "nao-contingencia",
+      "title": "Extinção e estímulos independentes da resposta: efeitos de relações de não-contingência sobre o comportamento",
+      "authors": "Alessandra da Silva Souza, Josele Abreu-Rodrigues",
+      "institution": "Psicologia: Reflexão e Crítica",
+      "year": 2012,
+      "url": "https://www.scielo.br/j/prc/a/r9hdhdqm4bNvkVK7hMvxgzK/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de revisão",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "As conclusões dependem da história de reforçamento e dos procedimentos comparados.",
+      "relevance": "Compare suspender o reforçador com continuar apresentando o estímulo independentemente de respostas.",
+      "nodes": [
+        "contiguidade"
+      ]
+    },
+    {
+      "id": "metodos",
+      "title": "Métodos de pesquisa em análise do comportamento",
+      "authors": "Maria Amalia Pie Abib Andery",
+      "institution": "Psicologia USP",
+      "year": 2010,
+      "url": "https://www.scielo.br/j/pusp/a/zgpnh58bStXMQjZg3MN8CZf/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo metodológico",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "O texto discute princípios de investigação e sua relação com práticas de pesquisa.",
+      "relevance": "Acompanhe a discussão sobre a dimensão temporal dos dados e a escolha de procedimentos para perguntas diferentes.",
+      "nodes": [
+        "campo"
+      ]
+    },
+    {
+      "id": "livro-puc",
+      "title": "Para ler Ciência e Comportamento Humano: roteiros de leitura",
+      "authors": "Laboratório de Psicologia Experimental da PUC-SP",
+      "institution": "PUC-SP · Programa de Psicologia Experimental",
+      "year": 2009,
+      "url": "https://www.pucsp.br/sites/default/files/download/posgraduacao/programas/psicologia-experimental/ciencia_comportamento_humano_2009.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Roteiro de estudo · PDF",
+      "access": "PDF integral aberto no portal da instituição.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "O caderno acompanha a leitura de Skinner. As definições, exemplos e questões do roteiro estão disponíveis no PDF.",
+      "relevance": "Use as páginas 26 a 35 para comparar contingência, modelagem e os diferentes critérios para reforçamento.",
+      "nodes": [
+        "esquemas",
+        "razao",
+        "contiguidade"
+      ]
+    },
+    {
+      "id": "historico",
+      "title": "A recepção da instrução programada como abordagem da análise do comportamento no Brasil nos anos 1960 e 1970",
+      "authors": "Eustáquio José de Souza Jr, Rodrigo Lopes Miranda, Sérgio Dias Cirino",
+      "institution": "História, Ciências, Saúde-Manguinhos",
+      "year": 2018,
+      "url": "https://www.scielo.br/j/hcsm/a/cgQDQCQVFmn7wqVRFCc3fss/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Pesquisa histórica",
+      "access": "Texto integral aberto em português no periódico.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "Link para o texto publicado pelo periódico ou pela universidade. Os direitos de reprodução seguem os termos da fonte.",
+      "caveat": "O estudo documenta um período histórico e não mede resultados de aprendizagem atuais.",
+      "relevance": "Examine as propostas de instrução programada e quem participou de sua circulação no Brasil.",
+      "nodes": [
+        "ensino-leitura"
+      ]
+    },
+    {
+      "id": "modelagem",
+      "title": "Modelagem como procedimento para o ensino de novos comportamentos",
+      "authors": "André Luíz Ferreira",
+      "institution": "Espectro · Universidade Federal de São Carlos",
+      "year": 2023,
+      "url": "https://www.espectro.ufscar.br/index.php/1979/article/download/29/10",
+      "sourcePage": "https://www.espectro.ufscar.br/index.php/1979/article/view/29",
+      "language": "pt-BR",
+      "format": "Artigo didático · PDF",
+      "access": "PDF integral aberto no portal da instituição.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o texto integral em português, a autoria e o trecho indicado no guia de estudo.",
+      "rights": "A revista informa licença Creative Commons Atribuição-NãoComercial 4.0.",
+      "caveat": "O artigo ilustra um procedimento de ensino em uma publicação especializada.",
+      "relevance": "Acompanhe o exemplo de ensino em etapas e identifique quais aproximações recebem reforço em cada critério.",
+      "nodes": [
+        "modelagem"
+      ]
+    },
+    {
+      "id": "pavlov",
+      "title": "Investigação dos efeitos do comportamento verbal durante a extinção pós-recuperação sobre o retorno do medo",
+      "authors": "Pedro Fonseca Zuccolo",
+      "institution": "Instituto de Psicologia · Universidade de São Paulo",
+      "year": 2018,
+      "url": "https://teses.usp.br/teses/disponiveis/47/47132/tde-01022019-103752/publico/zuccolo_corrigida.pdf",
+      "sourcePage": "https://teses.usp.br/teses/disponiveis/47/47132/tde-01022019-103752/pt-br.html",
+      "language": "pt-BR",
+      "format": "Tese de doutorado · PDF",
+      "access": "Texto integral disponível gratuitamente na Biblioteca Digital de Teses e Dissertações da USP.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o documento de 91 páginas, o procedimento de condicionamento diferencial e o teste de retorno das respostas.",
+      "rights": "A USP autoriza a consulta e o download para estudo e pesquisa nos termos da página do trabalho.",
+      "caveat": "Pesquisa experimental com adultos. A condutância da pele é a medida usada nesta tarefa.",
+      "relevance": "Acompanhe a transição do condicionamento para a extinção e identifique em que momentos as respostas foram comparadas.",
+      "nodes": [
+        "pareamento-respondente",
+        "extincao-respondente"
+      ]
+    },
+    {
+      "id": "video-selecao",
+      "title": "Noção de mundo e ser humano",
+      "authors": "Instituto Par",
+      "institution": "Instituto Par",
+      "year": 2023,
+      "url": "https://www.youtube.com/watch?v=pGbKg2UCXsI&list=PLBFCfaYNXAAaWlJIoNiffrvmtGF2PkkUe",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Videoaula · episódio 2 da playlist",
+      "access": "Aula pública no canal responsável, disponível sem login na verificação.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o player público do vídeo no YouTube, seu canal e o assunto apresentado.",
+      "rights": "O mapa remete ao vídeo no canal que o publicou.",
+      "caveat": "Aula de introdução. O guia indica uma pergunta para aprofundar com as leituras do tópico.",
+      "relevance": "Compare a história de uma espécie, a história de aprendizagem de um indivíduo e a transmissão de uma prática.",
+      "nodes": [
+        "selecao-consequencias",
+        "historia-individuo-cultura"
+      ]
+    },
+    {
+      "id": "video-operante",
+      "title": "Princípios básicos: comportamento operante",
+      "authors": "Marco Antônio Amaral Chequer",
+      "institution": "Comportamento",
+      "year": 2012,
+      "url": "https://www.youtube.com/watch?v=aIdckgIwbg8",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Videoaula · 5 min",
+      "access": "Aula pública no canal responsável, disponível sem login na verificação.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o player público do vídeo no YouTube, seu canal e o assunto apresentado.",
+      "rights": "O mapa remete ao vídeo no canal que o publicou.",
+      "caveat": "Aula de introdução. O guia indica uma pergunta para aprofundar com as leituras do tópico.",
+      "relevance": "Identifique a ação, o efeito sobre o ambiente e a evidência necessária para saber se a ação se torna mais provável.",
+      "nodes": [
+        "operante"
+      ]
+    },
+    {
+      "id": "video-reflexo",
+      "title": "Princípios básicos: comportamento reflexo",
+      "authors": "Marco Antônio Amaral Chequer",
+      "institution": "Comportamento",
+      "year": 2012,
+      "url": "https://www.youtube.com/watch?v=n5dfmEu-y8A",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Videoaula · 7 min",
+      "access": "Aula pública no canal responsável, disponível sem login na verificação.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o player público do vídeo no YouTube, seu canal e o assunto apresentado.",
+      "rights": "O mapa remete ao vídeo no canal que o publicou.",
+      "caveat": "Aula de introdução. O guia indica uma pergunta para aprofundar com as leituras do tópico.",
+      "relevance": "Localize a relação entre estímulo e resposta reflexa. Distinga as relações que já existiam daquelas adquiridas com a experiência.",
+      "nodes": [
+        "respondente",
+        "pareamento-respondente"
+      ]
+    },
+    {
+      "id": "video-desenhos",
+      "title": "Desenhos experimentais de sujeito único",
+      "authors": "Marcos Lima",
+      "institution": "Canal de Marcos Lima",
+      "year": 2024,
+      "url": "https://www.youtube.com/watch?v=2O_zA2f5p7A",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Videoaula · 41 min",
+      "access": "Aula pública no canal responsável, disponível sem login na verificação.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o player público do vídeo no YouTube, seu canal e o assunto apresentado.",
+      "rights": "O mapa remete ao vídeo no canal que o publicou.",
+      "caveat": "Exposição de desenhos experimentais para a psicologia, com exemplos que vão além da Análise do Comportamento.",
+      "relevance": "Aos 14min21s em diante, compare os desenhos de reversão, linha de base múltipla e mudança de critério.",
+      "nodes": [
+        "pesquisa",
+        "desenhos",
+        "reversao",
+        "base-multipla",
+        "mudanca-criterio"
+      ]
+    },
+    {
+      "id": "video-consequencia",
+      "title": "Conceito: consequência reforçadora",
+      "authors": "Instituto Walden4",
+      "institution": "Instituto Walden4",
+      "year": 2014,
+      "url": "https://www.youtube.com/watch?v=2d8TkGm1mC8",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Videoaula · 5 min",
+      "access": "Aula pública no canal responsável, disponível sem login na verificação.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o player público do vídeo no YouTube, seu canal e o assunto apresentado.",
+      "rights": "O mapa remete ao vídeo no canal que o publicou.",
+      "caveat": "Aula de introdução. O guia indica uma pergunta para aprofundar com as leituras do tópico.",
+      "relevance": "Identifique a medida de comportamento necessária para decidir se uma consequência funcionou como reforçadora.",
+      "nodes": [
+        "reforco",
+        "reforco-positivo-negativo"
+      ]
+    },
+    {
+      "id": "video-esquemas",
+      "title": "Princípios básicos: esquemas de reforçamento",
+      "authors": "Marco Antônio Amaral Chequer",
+      "institution": "Comportamento",
+      "year": 2012,
+      "url": "https://www.youtube.com/watch?v=N_uc-fzpxvk",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Videoaula · 14 min",
+      "access": "Aula pública no canal responsável, disponível sem login na verificação.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o player público do vídeo no YouTube, seu canal e o assunto apresentado.",
+      "rights": "O mapa remete ao vídeo no canal que o publicou.",
+      "caveat": "Aula de introdução. O guia indica uma pergunta para aprofundar com as leituras do tópico.",
+      "relevance": "Diferencie as quatro combinações de razão ou intervalo com critérios fixos ou variáveis.",
+      "nodes": [
+        "esquemas",
+        "razao",
+        "intervalo"
+      ]
+    },
+    {
+      "id": "video-privados",
+      "title": "Comportamento verbal sob controle de estímulos privados | Semana de Psicologia USP 2021",
+      "authors": "Gabriela Jacques de Moraes Dalgalarrondo",
+      "institution": "Semana de Psicologia USP",
+      "year": 2021,
+      "url": "https://www.youtube.com/watch?v=hRUO37RLDys",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Aula gravada · 1 h 28 min · com Libras",
+      "access": "Aula pública no canal responsável, disponível sem login na verificação.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidos o player público do vídeo no YouTube, seu canal e o assunto apresentado.",
+      "rights": "O mapa remete ao vídeo no canal que o publicou.",
+      "caveat": "A gravação inclui a aula e o debate do evento.",
+      "relevance": "Acompanhe a aula entre 2min36s e 58min54s. Examine como outras pessoas participam do ensino de nomes para o que alguém sente.",
+      "nodes": [
+        "eventos-privados",
+        "verbal"
+      ]
+    },
+    {
+      "id": "playlist-observacao",
+      "title": "Categorização de comportamentos para a pesquisa de processos em psicoterapia",
+      "authors": "Denis Roberto Zamignani, Bárbara Miras e equipe",
+      "institution": "Instituto Par",
+      "year": 2022,
+      "url": "https://www.youtube.com/watch?v=RLvQywP7t7c&list=PLBFCfaYNXAAaZGh9j1zUO-0LQ7yiC0DZI",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Playlist · quatro aulas em português",
+      "access": "Aula pública no canal responsável, disponível sem login na verificação.",
+      "checkedAt": "2026-11-16",
+      "verification": "Conferidas a lista e as quatro gravações iniciais em português. Os cinco tutoriais adicionais são em inglês.",
+      "rights": "O mapa remete ao vídeo no canal que o publicou.",
+      "caveat": "A playlist começa com quatro aulas em português. Os cinco tutoriais adicionais são em inglês.",
+      "relevance": "Comece pelas quatro aulas do Instituto Par sobre categorização das interações. Os cinco tutoriais complementares são em inglês.",
+      "nodes": [
+        "concordancia"
+      ]
+    },
+    {
+      "id": "participacao-comunitaria",
+      "title": "A relação Psicologia Comunitária e Behaviorismo: das críticas às propostas de diálogo",
+      "authors": "Thales Cavalcanti e Castro e Fernando Lacerda Júnior",
+      "institution": "Estudos e Pesquisas em Psicologia · UERJ",
+      "year": 2014,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1808-42812014000300003&script=sci_arttext",
+      "sourcePage": "https://www.e-publicacoes.uerj.br/revispsi/article/view/13879",
+      "language": "pt-BR",
+      "format": "Artigo teórico",
+      "access": "Artigo integral gratuito em português, acessível pelo link.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos os relatos discutidos, a participação dos moradores nas decisões e as críticas dos autores.",
+      "rights": "A publicação oferece acesso público ao artigo. Consulte a fonte para as condições de reprodução.",
+      "caveat": "O artigo discute estudos anteriores. Para interpretar os resultados, diferencie o que aconteceu em cada projeto da avaliação que os autores fazem dele.",
+      "relevance": "Compare quem definiu as metas nos dois trabalhos de intervenção comunitária discutidos no texto.",
+      "nodes": [
+        "praticas-em-comunidade",
+        "metas-da-comunidade"
+      ]
+    },
+    {
+      "id": "descartar-no-restaurante",
+      "title": "Efeitos de sinalização por meio de legendas sobre o comportamento de separar lixo em restaurante de uma universidade pública",
+      "authors": "José Gonçalves Medeiros, Adriana Boschi Moreira, Marina Teixeira Martins, Mônica Girardi Cerutti e Sabine Heumann",
+      "institution": "Psicologia: Teoria e Prática · Universidade Presbiteriana Mackenzie",
+      "year": 2010,
+      "url": "https://editorarevistas.mackenzie.br/ptp/article/download/2899/2547/10780",
+      "sourcePage": "https://editorarevistas.mackenzie.br/ptp/article/view/2899",
+      "language": "pt-BR",
+      "format": "Pesquisa de campo · PDF",
+      "access": "Artigo integral gratuito em português, acessível pelo link.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas as três sessões, a folha de registro dos observadores e a discussão dos resultados.",
+      "rights": "A publicação oferece acesso público ao artigo. Consulte a fonte para as condições de reprodução.",
+      "caveat": "As observações foram feitas em um restaurante universitário. Interpretar a permanência de uma mudança exigiria acompanhamento em outros momentos.",
+      "relevance": "Siga as condições de cada sessão e identifique a unidade usada para registrar o descarte.",
+      "nodes": [
+        "praticas-em-comunidade",
+        "observar-praticas-ambientais"
+      ]
+    },
+    {
+      "id": "mostra-ambiental",
+      "title": "Contribuições da psicologia a um projeto de educação ambiental",
+      "authors": "Anne Carolynne Bogo, Felipe Boldo Martins e Carolina Laurenti",
+      "institution": "Estudos Interdisciplinares em Psicologia · UEL",
+      "year": 2020,
+      "url": "https://ojs.uel.br/revistas/uel/index.php/eip/article/download/215/27994/205070",
+      "sourcePage": "https://ojs.uel.br/revistas/uel/index.php/eip/article/view/215",
+      "language": "pt-BR",
+      "format": "Relato de extensão · PDF",
+      "access": "Artigo integral gratuito em português, acessível pelo link.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o diário de campo, a dinâmica da reciclagem e a descrição das propostas efetivamente incorporadas.",
+      "rights": "O periódico identifica o artigo com a licença Creative Commons Atribuição 4.0 Internacional.",
+      "caveat": "O relato distingue sugestões e atividades implementadas. A mudança na mostra não mede, por si, o descarte fora da escola.",
+      "relevance": "Compare a resposta verbal a uma pergunta com o que se pode observar durante a dinâmica de reciclagem.",
+      "nodes": [
+        "observar-praticas-ambientais"
+      ]
+    }
+  ]
+}

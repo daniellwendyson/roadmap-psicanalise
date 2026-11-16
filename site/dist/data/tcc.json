@@ -1,0 +1,2024 @@
+{
+  "id": "tcc",
+  "title": "Terapia Cognitivo-Comportamental",
+  "nodes": [
+    {
+      "id": "origens",
+      "title": "Origens e modelos",
+      "body": "As terapias cognitivas e comportamentais reúnem tradições com histórias próprias. Modelos de aprendizagem explicam como experiências e consequências influenciam ações. Na terapia cognitiva de Beck, o significado atribuído a uma situação ajuda a explicar a resposta da pessoa. A trilha começa por essas ideias, passa à formulação de hipóteses e só então examina técnicas.",
+      "objective": "Distinguir uma explicação baseada em aprendizagem de uma explicação baseada na interpretação da experiência.",
+      "resources": [
+        "knapp",
+        "litcc-intro",
+        "epistemologia"
+      ],
+      "parent": null,
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "knapp": "Comece por “Fundamento histórico e filosófico das TCC” para situar as tradições. Em “Fundamentos teóricos”, localize as diferenças entre pensamentos automáticos, regras e crenças centrais.",
+        "litcc-intro": "Comece pela apresentação da liga. Depois leia a seção histórica de Knapp e Beck para situar essa definição entre as diferentes terapias cognitivas e comportamentais.",
+        "epistemologia": "Leia a comparação das gerações comportamentais e cognitivas. Relacione cada período à pergunta que procurava responder."
+      }
+    },
+    {
+      "id": "beck-depressao",
+      "title": "A tríade cognitiva",
+      "body": "No estudo da depressão, Beck descreveu interpretações negativas sobre si, o mundo e o futuro. Uma reprovação pode ganhar três sentidos diferentes dependendo de qual dessas dimensões a pessoa põe em palavras.",
+      "objective": "Separar as três dimensões em uma vinheta e identificar qual delas precisaria de mais informação.",
+      "resources": [
+        "depressao",
+        "knapp"
+      ],
+      "resourceGuides": {
+        "depressao": "Na abertura sobre a teoria cognitiva da depressão, identifique as três perspectivas e como podem aparecer juntas.",
+        "knapp": "Localize a discussão de Beck sobre a depressão e diferencie uma interpretação de um dado observado."
+      },
+      "parent": "origens",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "ondas-da-tcc",
+      "title": "As gerações das TCCs",
+      "body": "A divisão em ondas ajuda a localizar mudanças de pergunta. As terapias comportamentais estudaram relações de aprendizagem, as cognitivas deram destaque ao significado e parte das abordagens posteriores voltou o foco ao contexto e à função da experiência.",
+      "objective": "Comparar o objeto de investigação de duas tradições e encontrar um exemplo brasileiro de pesquisa.",
+      "resources": [
+        "epistemologia",
+        "ondas"
+      ],
+      "resourceGuides": {
+        "epistemologia": "Vá à discussão das três ondas. Compare como as autoras explicam o papel do pensamento em cada período.",
+        "ondas": "Nos resultados, procure uma abordagem identificada como de terceira geração e veja em qual contexto foi estudada."
+      },
+      "parent": "origens",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "modelo",
+      "title": "Modelo cognitivo",
+      "body": "Uma resposta curta numa conversa pode parecer hostil a quem esperava acolhimento. A interpretação pode acompanhar tristeza, tensão no corpo e afastamento. No modelo cognitivo, contexto, pensamentos, emoções, sensações físicas e ações se influenciam. A mesma mensagem admite outros significados.",
+      "objective": "Separar os cinco elementos do exemplo e propor uma segunda interpretação compatível com o que foi observado.",
+      "resources": [
+        "litcc-serie",
+        "knapp",
+        "telepsi-modelo"
+      ],
+      "parent": "origens",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "litcc-serie": "Comece pelo episódio que abre a playlist, sobre o modelo cognitivo. Guarde as aulas sobre o diagrama para quando chegar à formulação.",
+        "knapp": "Em “Fundamentos teóricos”, identifique como um significado atribuído a uma situação participa da resposta emocional.",
+        "telepsi-modelo": "Assista como exemplo de comunicação ao público. Identifique uma ideia do modelo que o vídeo apresenta em linguagem simples e formule uma pergunta para saber como outra pessoa a entendeu."
+      }
+    },
+    {
+      "id": "episodio-cognitivo",
+      "title": "Situação, emoção e ação",
+      "body": "Uma estudante recebe uma mensagem pedindo uma conversa. Pode interpretar o convite como crítica, sentir apreensão e adiar a resposta. Outra leitura do mesmo convite pode levar a outra ação.",
+      "objective": "Descrever um mesmo episódio com duas interpretações plausíveis e distinguir o acontecimento de cada reação.",
+      "resources": [
+        "telepsi-modelo",
+        "litcc-serie"
+      ],
+      "resourceGuides": {
+        "telepsi-modelo": "Assista ao vídeo breve do HCPA e reconte o episódio da mensagem com as suas palavras.",
+        "litcc-serie": "Comece pela aula sobre o modelo cognitivo. Reescreva seu exemplo com uma coluna para cada parte do episódio."
+      },
+      "parent": "modelo",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "ciclos-manutencao",
+      "title": "Ciclos de manutenção",
+      "body": "Ao evitar uma apresentação, a pessoa pode sentir alívio e continuar sem saber como seria sua participação. A sequência entre previsão, alívio e evitação ajuda a explicar por que uma dificuldade volta a ocorrer.",
+      "objective": "Ligar em um esquema a interpretação, a ação e uma consequência que pode manter uma dificuldade.",
+      "resources": [
+        "exposicao-social",
+        "caso-toc"
+      ],
+      "resourceGuides": {
+        "exposicao-social": "Localize a descrição da atenção voltada para si e das estratégias de segurança. Desenhe o ciclo a partir de um exemplo.",
+        "caso-toc": "Na fundamentação e na Tabela 1, acompanhe como a expectativa de contaminação e a neutralização se relacionam no caso publicado."
+      },
+      "parent": "modelo",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "pensamentos",
+      "title": "Pensamentos automáticos",
+      "body": "Palavras ou imagens podem surgir rapidamente e ocupar a atenção. ‘Ela ficou irritada comigo’ é um possível pensamento diante da mensagem curta. A frase expressa uma inferência sobre a outra pessoa. Identificar o pensamento permite perguntar o que o sustenta e se há informação faltando.",
+      "objective": "Diferenciar a mensagem observada, o pensamento sobre ela e a emoção que o acompanha.",
+      "resources": [
+        "litcc-pensamentos",
+        "slides-registro",
+        "knapp",
+        "aula-pensamentos"
+      ],
+      "parent": "modelo",
+      "relation": "prerequisite",
+      "lane": "left",
+      "resourceGuides": {
+        "litcc-pensamentos": "Use a aula para reconhecer o que caracteriza um pensamento automático. Volte ao exemplo da mensagem curta e separe a frase que foi lida da interpretação de quem a recebeu.",
+        "slides-registro": "No exemplo de registro de pensamentos, separe o que ocorreu da interpretação que apareceu. Nos slides 19 a 22, compare a previsão do experimento com o que pôde ser observado.",
+        "knapp": "Na exposição do modelo cognitivo, procure em que nível estão os pensamentos ligados a episódios específicos.",
+        "aula-pensamentos": "Comece pelas definições e pelo registro de três colunas antes da parte sobre modificação de pensamentos."
+      }
+    },
+    {
+      "id": "registro-pensamentos",
+      "title": "Registro de um episódio",
+      "body": "Um registro começa por uma situação delimitada. A descrição de um fato, a frase ou imagem que surgiu e a emoção associada ocupam campos diferentes, mesmo quando parecem uma única experiência.",
+      "objective": "Preencher três campos com uma cena fictícia e indicar o que ainda faltaria perguntar à pessoa.",
+      "resources": [
+        "slides-registro",
+        "alta",
+        "litcc-pensamentos"
+      ],
+      "resourceGuides": {
+        "slides-registro": "Abra o exemplo do registro e acompanhe a passagem da descrição da situação para a identificação do pensamento.",
+        "alta": "Na Tabela 1, separe o que acontece durante a leitura do texto, a reação emocional e a conclusão sobre competência.",
+        "litcc-pensamentos": "Use o episódio da aula para escrever um pensamento em discurso direto."
+      },
+      "parent": "pensamentos",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "examinar-evidencias",
+      "title": "Evidências e alternativas",
+      "body": "Uma interpretação pode estar bem apoiada, ser parcialmente verdadeira ou depender de informação ausente. Registrar fatos favoráveis e contrários ajuda a construir uma leitura proporcional ao que se sabe.",
+      "objective": "Redigir uma resposta alternativa que reconheça tanto os fatos favoráveis quanto os contrários à primeira interpretação.",
+      "resources": [
+        "depressao",
+        "telepsi-flexibilidade",
+        "alta"
+      ],
+      "resourceGuides": {
+        "depressao": "Na seção sobre registro de pensamentos, identifique as colunas de evidência, alternativa e intensidade emocional.",
+        "telepsi-flexibilidade": "Assista ao vídeo sobre flexibilidade e proponha uma segunda explicação para o episódio que você registrou.",
+        "alta": "Acompanhe na Tabela 1 como os dados levantados sustentam a resposta anotada no cartão."
+      },
+      "parent": "registro-pensamentos",
+      "relation": "prerequisite",
+      "lane": "left"
+    },
+    {
+      "id": "imagens-mentais",
+      "title": "Pensamentos em imagens",
+      "body": "Um pensamento pode chegar em forma de cena, como imaginar o rosto de alguém desapontado antes de falar em público. A descrição do que aparece, o significado atribuído e a emoção que acompanha a cena são informações distintas.",
+      "objective": "Descrever uma imagem antecipatória em uma vinheta e distinguir a cena imaginada do que de fato aconteceu.",
+      "resources": [
+        "casos-imagens",
+        "aula-pensamentos"
+      ],
+      "resourceGuides": {
+        "casos-imagens": "Leia a introdução e escolha um caso. Identifique a imagem relatada e o significado que a pessoa atribuiu a ela.",
+        "aula-pensamentos": "Vá à parte “Imagens mentais” e observe que tipo de pergunta permite descrever a cena em maior detalhe."
+      },
+      "parent": "pensamentos",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "crencas",
+      "title": "Crenças e regras",
+      "body": "Crenças centrais são ideias amplas sobre si, os outros ou o mundo. Regras e suposições intermediárias organizam expectativas em situações específicas. Uma interpretação pontual pode sugerir uma dessas regras. Para sustentá-la como hipótese, é preciso investigar outros episódios e ouvir como a pessoa os compreende.",
+      "objective": "Construir um exemplo fictício com uma crença central, uma regra condicional e um pensamento ligado a uma situação.",
+      "resources": [
+        "formulacao",
+        "knapp",
+        "litcc-diagrama",
+        "caso-toc"
+      ],
+      "parent": "modelo",
+      "relation": "prerequisite",
+      "lane": "right",
+      "resourceGuides": {
+        "formulacao": "Leia “A Conceitualização Cognitiva”. Compare um pensamento situado, uma regra do tipo “se... então” e uma crença central. Depois procure “diagrama” para acompanhar o que o cliente e o terapeuta podem revisar juntos.",
+        "knapp": "Comece por “Fundamento histórico e filosófico das TCC” para situar as tradições. Em “Fundamentos teóricos”, localize as diferenças entre pensamentos automáticos, regras e crenças centrais.",
+        "litcc-diagrama": "Veja como a professora apresenta o diagrama. Ao ler o artigo de Neufeld e Cavenage, localize onde caberiam nele um pensamento situado, uma regra e uma crença central.",
+        "caso-toc": "Na Tabela 1, compare a linha sobre crença central com as suposições e as estratégias compensatórias da participante."
+      }
+    },
+    {
+      "id": "regras-condicionais",
+      "title": "Regras e suposições",
+      "body": "Uma regra como “preciso acertar sempre” pode vir acompanhada de uma previsão condicional, por exemplo, “se eu errar, vou decepcionar alguém”. O mesmo comportamento pode fazer sentido por regras diferentes para pessoas diferentes.",
+      "objective": "Identificar no estudo de caso uma regra, uma previsão e a estratégia usada para lidar com ela.",
+      "resources": [
+        "formulacao",
+        "caso-toc"
+      ],
+      "resourceGuides": {
+        "formulacao": "Na quinta etapa, leia a discussão das frases condicionais e das estratégias compensatórias.",
+        "caso-toc": "Na Tabela 1, ligue uma suposição condicional a uma situação concreta descrita pela participante."
+      },
+      "parent": "crencas",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "crencas-centrais",
+      "title": "Crenças centrais",
+      "body": "Crenças centrais expressam ideias abrangentes sobre si, outras pessoas e o mundo. Uma hipótese de incompetência, por exemplo, exige investigar quando aparece, quando perde força e que significado tem para a pessoa.",
+      "objective": "Comparar episódios antes de propor uma hipótese de crença central e indicar uma exceção que vale investigar.",
+      "resources": [
+        "formulacao",
+        "alta"
+      ],
+      "resourceGuides": {
+        "formulacao": "Na quinta etapa, observe como as autoras verificam com o cliente se o significado se repete em outras áreas da vida.",
+        "alta": "Na Figura 3 e no texto ao redor, examine como informações favoráveis e desfavoráveis à crença entram no processamento."
+      },
+      "parent": "crencas",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "seta-descendente",
+      "title": "Seta descendente",
+      "body": "A seta descendente investiga o significado pessoal de um pensamento. Diante da previsão de errar em público, por exemplo, uma pessoa pode temer humilhação e outra pode se preocupar com o impacto de uma informação incorreta.",
+      "objective": "Escrever duas continuações possíveis de uma conversa sobre o mesmo pensamento e mostrar onde as hipóteses divergem.",
+      "resources": [
+        "depressao",
+        "formulacao"
+      ],
+      "resourceGuides": {
+        "depressao": "Leia a seção intitulada “Seta descendente” e procure a distinção entre a veracidade do pensamento e seu significado.",
+        "formulacao": "Nas etapas de identificação de significados e de crenças, observe como a dupla verifica a hipótese com o cliente."
+      },
+      "parent": "crencas-centrais",
+      "relation": "prerequisite",
+      "lane": "left"
+    },
+    {
+      "id": "formulacao",
+      "title": "Formulação colaborativa",
+      "body": "A conceitualização cognitiva organiza o que se sabe sobre o contexto de vida, os padrões recorrentes e os fatores que podem manter uma dificuldade. O terapeuta compartilha as hipóteses com a pessoa, que pode reconhecer padrões, corrigi-los ou trazer dados que os contradigam. A formulação muda ao longo do acompanhamento.",
+      "objective": "Explicitar uma hipótese de manutenção em uma vinheta e apontar uma informação que exigiria revisá-la.",
+      "resources": [
+        "formulacao",
+        "litcc-formulacao",
+        "litcc-diagrama"
+      ],
+      "parent": "modelo",
+      "relation": "prerequisite",
+      "lane": "center",
+      "resourceGuides": {
+        "formulacao": "Leia as etapas de construção colaborativa e observe quando as autoras verificam se o cliente reconhece o padrão proposto.",
+        "litcc-formulacao": "Comece pela definição de formulação de caso. Ao terminar, procure no artigo sobre conceitualização um exemplo de dado novo que poderia levar a rever uma hipótese.",
+        "litcc-diagrama": "Veja como a professora apresenta o diagrama. Ao ler o artigo de Neufeld e Cavenage, localize onde caberiam nele um pensamento situado, uma regra e uma crença central."
+      }
+    },
+    {
+      "id": "diagrama-caso",
+      "title": "Diagrama de conceitualização",
+      "body": "O diagrama coloca episódios atuais ao lado da história de aprendizagem, de crenças e de estratégias recorrentes. Quando uma célula fica vazia, ela pode registrar uma pergunta que ainda precisa de resposta.",
+      "objective": "Reconstruir um diagrama do caso apresentado e sinalizar quais conexões dependem de inferência.",
+      "resources": [
+        "litcc-diagrama",
+        "caso-toc"
+      ],
+      "resourceGuides": {
+        "litcc-diagrama": "Comece pela aula sobre como ler o diagrama. Depois localize onde um episódio específico entra no esquema.",
+        "caso-toc": "Na Tabela 1, escolha um dos três episódios e percorra sua coluna antes de comparar os padrões entre colunas."
+      },
+      "parent": "formulacao",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "rever-hipoteses",
+      "title": "Revisão de hipóteses",
+      "body": "Uma formulação pode perder força quando surge um episódio que ela não explica. Perguntar como a própria pessoa entende a exceção ajuda a decidir se é preciso acrescentar contexto, restringir a hipótese ou substituí-la.",
+      "objective": "Indicar um dado que enfraqueceria a hipótese inicial e formular uma pergunta para esclarecer a exceção.",
+      "resources": [
+        "estagio-ampliado",
+        "litcc-formulacao"
+      ],
+      "resourceGuides": {
+        "estagio-ampliado": "Procure a discussão do empirismo colaborativo e da necessidade de retificar a conceitualização com o paciente.",
+        "litcc-formulacao": "Retome a definição apresentada na aula e use uma situação nova para identificar que parte da formulação precisaria mudar."
+      },
+      "parent": "formulacao",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "alianca",
+      "title": "Relação terapêutica",
+      "body": "A colaboração se apoia em vínculo, metas negociadas e abertura para discordar. Na formulação, perguntar se uma explicação faz sentido dá à pessoa a oportunidade de corrigir o terapeuta. A escuta da resposta influencia o rumo da conversa e permite reparar mal-entendidos.",
+      "objective": "Identificar em um diálogo fictício uma oportunidade de pedir feedback e reformular a hipótese em conjunto.",
+      "resources": [
+        "empatia",
+        "alianca-inventario",
+        "alianca-ufjf"
+      ],
+      "parent": "formulacao",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "empatia": "Leia os resultados e a discussão sobre as formas de comunicar empatia. Compare a perspectiva da pessoa atendida com o que o terapeuta imagina ter comunicado.",
+        "alianca-inventario": "Veja os itens do inventário agrupados em categorias nos resultados. Escolha um que descreva a colaboração e identifique o comportamento concreto a que ele se refere.",
+        "alianca-ufjf": "Comece na página impressa 16. Ao chegar ao caso de Augusto, descubra o que a dupla precisou pôr em palavras para continuar trabalhando."
+      }
+    },
+    {
+      "id": "metas-tarefas-vinculo",
+      "title": "Metas, tarefas e vínculo",
+      "body": "Uma pessoa pode confiar no terapeuta e ainda discordar do que foi escolhido para o encontro. Separar vínculo, objetivos e tarefas ajuda a localizar exatamente sobre o que a dupla precisa conversar.",
+      "objective": "Distinguir, numa fala fictícia, se há um desacordo sobre o objetivo, a atividade ou a relação.",
+      "resources": [
+        "alianca-ufjf",
+        "alianca-inventario"
+      ],
+      "resourceGuides": {
+        "alianca-ufjf": "Na discussão do Inventário de Aliança de Trabalho, compare as perguntas sobre tarefas, objetivos e vínculo.",
+        "alianca-inventario": "Nos itens apresentados, escolha um comportamento que ilustre colaboração e outro que ilustre o vínculo."
+      },
+      "parent": "alianca",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "ruptura-reparo",
+      "title": "Rupturas e reparação",
+      "body": "Quando a pessoa contesta uma proposta ou começa a se afastar da conversa, o contexto ajuda a interpretar o que aconteceu. Reconhecer a contribuição do terapeuta e perguntar pelo impacto abre espaço para renegociar o trabalho.",
+      "objective": "Localizar em uma vinheta o momento de tensão, uma tentativa de reparação e a resposta dada pela pessoa.",
+      "resources": [
+        "alianca-ufjf",
+        "rupturas-3rs"
+      ],
+      "resourceGuides": {
+        "alianca-ufjf": "Vá às páginas impressas 27 e 28 e acompanhe o que muda no diálogo sobre o caso de Augusto.",
+        "rupturas-3rs": "Compare um marcador de afastamento com um de confrontação. Nas vinhetas, veja como a equipe identifica tentativas de reparação."
+      },
+      "parent": "alianca",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "avaliacao",
+      "title": "Avaliação e acompanhamento",
+      "body": "A avaliação inicial reúne queixa, contexto, história e recursos disponíveis. Durante o acompanhamento, objetivos definidos em conjunto orientam a comparação entre momentos. Relatos, participação em atividades e medidas apropriadas podem mostrar mudanças diferentes. A interpretação depende das condições em que os dados foram produzidos.",
+      "objective": "Para uma meta fictícia, escolher um indicador observável e explicar uma limitação dele.",
+      "resources": [
+        "avaliacao-inicial",
+        "monitoramento"
+      ],
+      "parent": "formulacao",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "avaliacao-inicial": "Leia o Quadro 1. Identifique quais perguntas investigam a queixa e o contexto e quais abrem espaço para explicar a psicoterapia e combinar os próximos passos.",
+        "monitoramento": "Nos resultados, leia as categorias sobre instrumentos e sobre o impacto do feedback. Compare medir uma mudança com conversar sobre o que aquela medida significa para a pessoa."
+      }
+    },
+    {
+      "id": "entrevista-inicial",
+      "title": "A primeira entrevista",
+      "body": "Além da queixa, a entrevista investiga expectativas, recursos disponíveis e o que a pessoa gostaria de mudar. Duas pessoas que evitam reuniões podem ter dificuldades e objetivos bastante diferentes.",
+      "objective": "Transformar uma queixa em perguntas sobre contexto, recursos pessoais e uma mudança que teria valor para a pessoa.",
+      "resources": [
+        "avaliacao-inicial",
+        "formulacao"
+      ],
+      "resourceGuides": {
+        "avaliacao-inicial": "No Quadro 1, procure as categorias sobre queixa inicial, metas e recursos disponíveis.",
+        "formulacao": "Na etapa inicial da conceitualização, observe o que as autoras precisam conhecer da vida do cliente para começar a formular hipóteses."
+      },
+      "parent": "avaliacao",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "acompanhar-mudanca",
+      "title": "Indicadores de mudança",
+      "body": "Um escore, um relato sobre uma semana difícil e a volta a uma atividade valorizada podem contar partes diferentes da mesma história. Registrar a situação em que cada medida foi obtida ajuda a interpretar a trajetória.",
+      "objective": "Comparar uma medida repetida e um relato do caso publicado, anotando o que cada fonte acrescenta.",
+      "resources": [
+        "monitoramento",
+        "estudo-compras"
+      ],
+      "resourceGuides": {
+        "monitoramento": "Nos resultados, compare as finalidades atribuídas à medição repetida e ao feedback para o cliente.",
+        "estudo-compras": "Em “Resultados da terapia”, confronte os relatos da participante com as medidas de evolução ao longo dos encontros."
+      },
+      "parent": "avaliacao",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "sessao",
+      "title": "Sessão e psicoeducação",
+      "body": "Ao combinar a pauta, a dupla define o que merece atenção naquele encontro. A psicoeducação traduz um modelo em linguagem compreensível e abre espaço para que a pessoa diga o que reconhece em sua experiência. Resumir o que ficou decidido ajuda a verificar se os objetivos fazem sentido para ambos.",
+      "objective": "Descrever como pauta, explicação do modelo e feedback cumprem funções diferentes numa sessão.",
+      "resources": [
+        "avaliacao-inicial",
+        "telepsi-modelo",
+        "fobia-social",
+        "escala-supervisao"
+      ],
+      "parent": "avaliacao",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "avaliacao-inicial": "Leia o Quadro 1. Identifique quais perguntas investigam a queixa e o contexto e quais abrem espaço para explicar a psicoterapia e combinar os próximos passos.",
+        "telepsi-modelo": "Assista como exemplo de comunicação ao público. Identifique uma ideia do modelo que o vídeo apresenta em linguagem simples e formule uma pergunta para saber como outra pessoa a entendeu.",
+        "fobia-social": "Em “Psicoeducação”, veja como o artigo apresenta o modelo de ansiedade social. Na parte sobre exposição ao vivo, escolha um exemplo e separe a situação temida da expectativa de quem participa.",
+        "escala-supervisao": "No quadro com os itens traduzidos, compare os exemplos que descrevem negociação de agenda e pedido de feedback."
+      }
+    },
+    {
+      "id": "agenda-feedback",
+      "title": "Agenda e feedback",
+      "body": "Uma pauta compartilhada dá à dupla a chance de escolher o que cabe no encontro. Feedback também pode mudar a pauta no meio da sessão quando um assunto urgente aparece ou uma explicação ficou pouco clara.",
+      "objective": "Propor uma pauta para dois objetivos concorrentes e uma pergunta que permita à pessoa mudar a prioridade.",
+      "resources": [
+        "escala-supervisao",
+        "avaliacao-inicial"
+      ],
+      "resourceGuides": {
+        "escala-supervisao": "No quadro de itens, compare as descrições de agenda e de feedback. Identifique uma ação observável em cada uma.",
+        "avaliacao-inicial": "No Quadro 1, leia os itens sobre metas e avaliação da sessão. Repare em que momentos se dá espaço às prioridades do cliente."
+      },
+      "parent": "sessao",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "psicoeducacao-exemplo",
+      "title": "Explicar com um exemplo",
+      "body": "A psicoeducação parte de uma situação reconhecível. Depois de explicar a relação entre interpretação e ansiedade, pedir que a pessoa descreva outro episódio ajuda a descobrir que parte da explicação fez sentido.",
+      "objective": "Explicar um conceito com um exemplo cotidiano e escrever uma pergunta para conferir como ele foi compreendido.",
+      "resources": [
+        "telepsi-modelo",
+        "fobia-social"
+      ],
+      "resourceGuides": {
+        "telepsi-modelo": "Observe como o vídeo curto apresenta o modelo a um público geral. Reconte a explicação usando outra situação.",
+        "fobia-social": "Localize “Psicoeducação”. Observe quais aspectos da ansiedade social são apresentados e como se ligam às situações temidas."
+      },
+      "parent": "sessao",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "descoberta",
+      "title": "Descoberta guiada",
+      "body": "Na descoberta guiada, perguntas abertas ajudam a examinar uma interpretação e a considerar outras explicações. O diálogo pode explorar evidências, consequências e perspectivas deixadas de lado. A reavaliação ganha sentido quando a pessoa participa da investigação e pode manter sua conclusão caso as evidências a sustentem.",
+      "objective": "Transformar uma pergunta que induz uma resposta em uma pergunta aberta sobre a evidência disponível.",
+      "resources": [
+        "padesky",
+        "socratico"
+      ],
+      "parent": "sessao",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "padesky": "Procure a passagem sobre a revisão da “tarefa de casa”. Padesky usa esse momento para mostrar como praticar perguntas investigativas e aprender com a resposta da pessoa.",
+        "socratico": "Leia a discussão das perguntas e dos significados que a pessoa atribui ao que aconteceu. Escolha uma pergunta do texto e imagine duas respostas plausíveis que levariam a caminhos diferentes."
+      }
+    },
+    {
+      "id": "perguntas-abertas",
+      "title": "Perguntas que investigam",
+      "body": "Uma pergunta aberta permite que a resposta mude a direção da conversa. Explorar o que uma pessoa percebeu em uma reunião pode revelar tanto uma previsão equivocada como um episódio real de discriminação.",
+      "objective": "Reescrever uma pergunta que induz à concordância e propor dois rumos possíveis a partir da resposta.",
+      "resources": [
+        "padesky",
+        "socratico",
+        "estagio-ampliado"
+      ],
+      "resourceGuides": {
+        "padesky": "Encontre a passagem sobre descoberta guiada e revisão das tarefas. Observe o que a terapeuta quer descobrir com a pessoa.",
+        "socratico": "Nos exemplos de perguntas, escolha uma que explore significado e outra que procure informações observáveis.",
+        "estagio-ampliado": "No relato do atendimento a adolescentes, procure a dificuldade dos estagiários em formular perguntas que esclareçam o funcionamento cognitivo."
+      },
+      "parent": "descoberta",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "comparar-explicacoes",
+      "title": "Comparar explicações",
+      "body": "Ao considerar interpretações diferentes, vale perguntar que observação favoreceria cada uma. Duas explicações podem continuar plausíveis quando a informação disponível é limitada.",
+      "objective": "Elaborar duas hipóteses para uma situação ambígua e indicar um dado que ajudaria a distingui-las.",
+      "resources": [
+        "telepsi-flexibilidade",
+        "socratico"
+      ],
+      "resourceGuides": {
+        "telepsi-flexibilidade": "Use o vídeo do HCPA para pensar em duas perspectivas para o mesmo episódio.",
+        "socratico": "Na discussão dos questionamentos, escolha uma pergunta que permita examinar a evidência para mais de uma interpretação."
+      },
+      "parent": "descoberta",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "experimentos",
+      "title": "Experimentos comportamentais",
+      "body": "Um experimento comportamental investiga uma previsão explícita por meio de uma observação combinada. A previsão inicial e os resultados possíveis precisam estar claros para que a experiência gere aprendizagem. Ao interpretar o resultado, vale distinguir o que realmente aconteceu das explicações que continuam em aberto.",
+      "objective": "Em um exemplo educacional, distinguir previsão, observação e explicações alternativas para o resultado.",
+      "resources": [
+        "slides-registro",
+        "experiencia-algarve",
+        "exposicao-social",
+        "experimento"
+      ],
+      "parent": "descoberta",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "slides-registro": "No exemplo de registro de pensamentos, separe o que ocorreu da interpretação que apareceu. Nos slides 19 a 22, compare a previsão do experimento com o que pôde ser observado.",
+        "experiencia-algarve": "Na Tabela 2, identifique como a experiência foi planejada para estudar uma previsão específica de ansiedade social.",
+        "exposicao-social": "Vá a “Exposição”. Relacione uma previsão temida aos comportamentos de segurança e veja o que as autoras chamam de experiências comportamentais.",
+        "experimento": "Na demonstração de 20 minutos, acompanhe a negociação de um teste de previsão. Anote o que a dupla espera que aconteça e qual observação ajudaria a interpretar o resultado."
+      }
+    },
+    {
+      "id": "previsao-observavel",
+      "title": "Previsão observável",
+      "body": "“Todo mundo vai me julgar” mistura uma previsão com algo que outras pessoas podem apenas pensar. Um estudo de ansiedade social transformou parte dessa expectativa numa pergunta sobre a atenção recebida em uma situação delimitada.",
+      "objective": "Identificar no estudo uma previsão, um resultado que poderia contrariá-la e o que fica fora da observação.",
+      "resources": [
+        "slides-registro",
+        "exposicao-social",
+        "experiencia-algarve"
+      ],
+      "resourceGuides": {
+        "experiencia-algarve": "Leia “Objetivos e Hipóteses” e a Tabela 2 para ver como a previsão foi convertida num procedimento de observação.",
+        "slides-registro": "Nos slides 19 a 22, localize a expectativa inicial e reformule-a em termos que possam ser observados.",
+        "exposicao-social": "Na apresentação das experiências comportamentais, procure o que é combinado para examinar uma expectativa social."
+      },
+      "parent": "experimentos",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "interpretar-teste",
+      "title": "Interpretar o resultado",
+      "body": "Uma experiência pode surpreender e ainda deixar perguntas em aberto. A percepção de ter sido observado, a estimativa de quantas pessoas olharam e a confiança em uma crença são informações diferentes.",
+      "objective": "Separar observação, interpretação e pergunta pendente nos resultados de uma experiência publicada.",
+      "resources": [
+        "slides-registro",
+        "caso-ansiedade-social",
+        "experiencia-algarve"
+      ],
+      "resourceGuides": {
+        "experiencia-algarve": "Nos resultados por participante, compare o que foi medido antes e depois. Volte à discussão para localizar as limitações.",
+        "slides-registro": "Retome o desfecho do exemplo dos slides 19 a 22 e compare o que aconteceu com a previsão original.",
+        "caso-ansiedade-social": "Na descrição dos encontros, compare a avaliação do próprio desempenho com o retorno recebido das outras pessoas."
+      },
+      "parent": "previsao-observavel",
+      "relation": "prerequisite",
+      "lane": "left"
+    },
+    {
+      "id": "ensaio-comportamental",
+      "title": "Ensaio e feedback",
+      "body": "Ensaiar uma fala serve para praticar uma habilidade. Testar a previsão sobre a reação do interlocutor exige definir também o que será observado. Uma simulação pode servir aos dois propósitos se cada pergunta estiver clara.",
+      "objective": "Distinguir o objetivo de praticar uma fala do objetivo de testar uma previsão de rejeição.",
+      "resources": [
+        "caso-ansiedade-social",
+        "fobia-social"
+      ],
+      "resourceGuides": {
+        "caso-ansiedade-social": "Procure a discussão do ensaio comportamental e do feedback. Identifique o aspecto do desempenho que o paciente avaliou.",
+        "fobia-social": "Compare as seções de treino de habilidades sociais e exposição ao vivo. Que informação cada atividade ajuda a obter?"
+      },
+      "parent": "experimentos",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "ativacao",
+      "title": "Ativação comportamental",
+      "body": "Na depressão, o afastamento de atividades pode reduzir oportunidades de contato, realização ou prazer. A ativação comportamental investiga essa relação entre rotina, ambiente e humor. A escolha de atividades depende das barreiras concretas e daquilo que tem significado para a pessoa.",
+      "objective": "Explicar em uma vinheta como a redução de atividades pode manter um círculo de afastamento.",
+      "resources": [
+        "telepsi-ativacao",
+        "ativacao-artigo",
+        "depressao",
+        "ativacao-secad"
+      ],
+      "parent": "descoberta",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "telepsi-ativacao": "Assista à explicação para o público. Depois leia, na revisão sobre depressão, como se examina a relação entre humor, rotina e atividades significativas.",
+        "ativacao-artigo": "Comece pela apresentação do protocolo usado na clínica-escola. Procure a discussão da análise funcional para ver como obstáculos no ambiente e consequências das atividades orientam a leitura da rotina.",
+        "depressao": "Em “Ativação comportamental”, observe como atividades, barreiras e humor são examinados na depressão. Em “Prevenção de recaídas”, veja como os ganhos são retomados ao encerrar o tratamento.",
+        "ativacao-secad": "Acompanhe o caso de B., começando pelo registro no Quadro 1 e chegando ao planejamento das atividades."
+      }
+    },
+    {
+      "id": "diario-atividades",
+      "title": "Diário de atividades",
+      "body": "Um diário relaciona o que foi feito a circunstâncias e consequências. A mesma atividade pode trazer prazer, exigir muito esforço ou gerar a sensação de ter conseguido algo difícil. Esses aspectos podem variar entre dias.",
+      "objective": "Interpretar um trecho do diário de B. e formular uma pergunta sobre um período que ficou pouco explicado.",
+      "resources": [
+        "ativacao-secad",
+        "depressao"
+      ],
+      "resourceGuides": {
+        "ativacao-secad": "Vá ao Quadro 1, sobre o monitoramento de B. Compare atividade, humor e o que a equipe ainda precisaria perguntar.",
+        "depressao": "Na parte sobre atividades, localize o papel das avaliações de prazer e domínio. Compare-as com o registro de uma ação realizada."
+      },
+      "parent": "ativacao",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "valores-passos",
+      "title": "Valores e passos graduais",
+      "body": "Uma atividade ganha sentido em relação ao que importa para aquela pessoa. Cultivar amizades, por exemplo, pode começar por uma ação pequena e viável mesmo quando deslocamento, dinheiro ou energia são limitados.",
+      "objective": "Distinguir um valor pessoal de uma ação concreta e comparar o custo de duas alternativas coerentes com ele.",
+      "resources": [
+        "ativacao-secad",
+        "ativacao-artigo",
+        "telepsi-ativacao"
+      ],
+      "resourceGuides": {
+        "ativacao-secad": "No Quadro 2 e em “Planejamento de atividades de ativação”, veja como os valores de B. se traduzem em escolhas concretas.",
+        "ativacao-artigo": "Procure os domínios de valores e a análise funcional. Observe por que duas atividades semelhantes podem ter efeitos distintos.",
+        "telepsi-ativacao": "Use o vídeo como introdução e pense em como explicar uma atividade significativa a alguém que está começando a estudar o tema."
+      },
+      "parent": "ativacao",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "exposicao",
+      "title": "Princípios de exposição",
+      "body": "A evitação pode trazer alívio imediato e restringir a oportunidade de aprender sobre uma situação temida. A exposição estuda o que se aprende no contato planejado e consentido com situações relevantes, considerando riscos reais. Aprender sobre esse mecanismo exige distinguir a presença de desconforto da presença de perigo.",
+      "objective": "Diferenciar evitação, alívio de curto prazo e aprendizagem em um exemplo apresentado pela fonte.",
+      "resources": [
+        "exposicao-social",
+        "fobia-social",
+        "aprendizagem-exposicao"
+      ],
+      "parent": "descoberta",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "exposicao-social": "Vá a “Exposição”. Relacione uma previsão temida aos comportamentos de segurança e veja o que as autoras chamam de experiências comportamentais.",
+        "fobia-social": "Em “Psicoeducação”, veja como o artigo apresenta o modelo de ansiedade social. Na parte sobre exposição ao vivo, escolha um exemplo e separe a situação temida da expectativa de quem participa.",
+        "aprendizagem-exposicao": "Leia a abertura e a discussão das implicações clínicas. Por que uma aprendizagem observada numa situação poderia, ou não, aparecer diante de outro estímulo relacionado? Diferencie o resultado experimental da hipótese sobre a clínica."
+      }
+    },
+    {
+      "id": "hierarquia-situacoes",
+      "title": "Hierarquia de situações",
+      "body": "Falar em uma reunião pequena e apresentar um trabalho para um auditório podem envolver receios diferentes. Para compreender uma hierarquia é preciso saber qual desfecho a pessoa teme e que característica de cada situação modifica sua expectativa.",
+      "objective": "Comparar duas situações de uma hierarquia publicada e identificar qual dimensão muda entre elas.",
+      "resources": [
+        "fobia-social",
+        "caso-toc"
+      ],
+      "resourceGuides": {
+        "fobia-social": "Na seção de exposição ao vivo, procure como as situações sociais são organizadas e qual receio torna cada uma difícil.",
+        "caso-toc": "Depois da Tabela 1, leia a passagem sobre a construção colaborativa da hierarquia. Compare o que variou de uma situação a outra."
+      },
+      "parent": "exposicao",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "prevencao-respostas",
+      "title": "Prevenção de respostas no TOC",
+      "body": "No TOC, rituais e pedidos repetidos de confirmação podem ocupar parte do ciclo de medo e alívio. A exposição com prevenção de respostas investiga a relação entre situação, expectativa e ritual. Os casos publicados também descrevem como a família pode participar desse ciclo.",
+      "objective": "Reconhecer em um relato de caso o estímulo temido, a expectativa e o ritual associado.",
+      "resources": [
+        "caso-toc",
+        "acomodacao-familiar"
+      ],
+      "resourceGuides": {
+        "caso-toc": "Leia o trecho que se segue ao diagrama e identifique o que as autoras chamam de exposição e o que chamam de prevenção de respostas.",
+        "acomodacao-familiar": "Na descrição da acomodação, identifique um exemplo de participação familiar no ritual e compare-o com as observações do relato clínico."
+      },
+      "parent": "hierarquia-situacoes",
+      "relation": "prerequisite",
+      "lane": "left"
+    },
+    {
+      "id": "comportamentos-seguranca",
+      "title": "Comportamentos de segurança",
+      "body": "Olhar apenas para as anotações durante uma fala pode ter funções diferentes. Se a pessoa acredita que isso impediu uma humilhação, a experiência deixa em aberto o que teria ocorrido em outras condições. Cuidados necessários diante de um risco real têm outra função.",
+      "objective": "Distinguir uma estratégia orientada por um risco concreto de uma estratégia ligada à previsão estudada no artigo.",
+      "resources": [
+        "exposicao-social",
+        "experiencia-algarve",
+        "caso-toc"
+      ],
+      "resourceGuides": {
+        "exposicao-social": "Na parte sobre exposição, identifique um comportamento de segurança e a consequência temida a que ele se relaciona.",
+        "experiencia-algarve": "Procure “comportamentos de segurança” no método e compare sua medição com a da própria expectativa de ser observado.",
+        "caso-toc": "Na Tabela 1, identifique uma estratégia compensatória e examine qual consequência a participante esperava evitar."
+      },
+      "parent": "exposicao",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "entre-sessoes",
+      "title": "Atividades entre sessões",
+      "body": "Atividades combinadas entre encontros ligam uma pergunta da sessão à rotina da pessoa. Podem envolver observação ou prática. Na retomada, investigar o que foi possível, o que dificultou e o que se aprendeu ajuda a ajustar o plano e a formulação.",
+      "objective": "Examinar uma atividade descrita na leitura e indicar sua ligação com a meta, sua viabilidade e como o aprendizado seria discutido.",
+      "resources": [
+        "estudo-compras",
+        "padesky"
+      ],
+      "parent": "exposicao",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "estudo-compras": "Leia a Tabela 3 e o relato da participante sobre as tarefas de casa. Em “Resultados da terapia”, compare a experiência relatada com as medidas coletadas antes, durante e depois do tratamento.",
+        "padesky": "Procure a passagem sobre a revisão da “tarefa de casa”. Padesky usa esse momento para mostrar como praticar perguntas investigativas e aprender com a resposta da pessoa."
+      }
+    },
+    {
+      "id": "combinar-atividade",
+      "title": "Combinar uma atividade",
+      "body": "Uma atividade combinada começa com uma pergunta que importa para a pessoa e um contexto em que ela pode observá-la. Antes de encerrar o encontro, é possível investigar como a proposta cabe na semana e como retomá-la na conversa seguinte.",
+      "objective": "Descrever a finalidade de uma atividade na linguagem da pessoa e antecipar uma barreira concreta à sua realização.",
+      "resources": [
+        "avaliacao-inicial",
+        "estudo-compras"
+      ],
+      "resourceGuides": {
+        "avaliacao-inicial": "No Quadro 1, encontre o item sobre tarefa de casa e relacione-o à investigação de expectativas e recursos do cliente.",
+        "estudo-compras": "Na entrevista da participante, veja como ela entendeu a finalidade das atividades propostas entre as sessões."
+      },
+      "parent": "entre-sessoes",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "revisar-atividade",
+      "title": "Retomar a experiência",
+      "body": "Uma atividade feita parcialmente também oferece informação. Falta de tempo, vergonha de escrever e uma proposta pouco clara pedem investigações diferentes. Retomar o que aconteceu permite ajustar o próximo compromisso.",
+      "objective": "Converter uma cobrança sobre a tarefa numa pergunta que revele o que facilitou ou dificultou sua realização.",
+      "resources": [
+        "padesky",
+        "ativacao-secad"
+      ],
+      "resourceGuides": {
+        "padesky": "Procure a revisão da tarefa de casa. Identifique a pergunta que ajuda a aprender com a experiência da pessoa.",
+        "ativacao-secad": "Na parte sobre monitoramento, observe como se revisa um registro incompleto e que informações ainda merecem ser investigadas."
+      },
+      "parent": "entre-sessoes",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "solucao-problemas",
+      "title": "Solução de problemas",
+      "body": "Quando a dificuldade é concreta, como a falta de transporte para uma atividade valorizada, pode ser mais útil ampliar as opções de ação. O estudo envolve descrever o problema, comparar alternativas viáveis e observar o resultado do plano escolhido.",
+      "objective": "Para uma barreira fictícia, comparar duas soluções possíveis pelos seus custos e pelo que seria necessário para avaliá-las.",
+      "resources": [
+        "telepsi-problemas",
+        "alta"
+      ],
+      "resourceGuides": {
+        "telepsi-problemas": "Assista ao vídeo do HCPA e use um problema específico, com começo e fim, para acompanhar a proposta.",
+        "alta": "Procure a sequência para resolução de problemas, da descrição inicial à avaliação da ação escolhida. Compare duas alternativas pelo critério de viabilidade."
+      },
+      "parent": "revisar-atividade",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "manutencao",
+      "title": "Manutenção e prevenção de recaída",
+      "body": "Na etapa de manutenção, a dupla revê mudanças, estratégias aprendidas e circunstâncias que ainda criam dificuldades. Pensar em sinais de mudança e apoios disponíveis dá continuidade ao estudo sobre autonomia. Uma oscilação pontual e um retorno persistente de dificuldades têm implicações distintas.",
+      "objective": "Identificar nos exemplos do artigo de preparação para alta um sinal que merece atenção, um recurso aprendido e uma forma de rever as estratégias.",
+      "resources": [
+        "alta",
+        "depressao",
+        "ativacao-secad"
+      ],
+      "parent": "entre-sessoes",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "alta": "Leia a vinheta em forma de diálogo e a Tabela 1. Observe como a dupla revê o que foi aprendido e como diferencia uma dificuldade que reaparece de um retorno mais persistente dos sintomas.",
+        "depressao": "Em “Ativação comportamental”, observe como atividades, barreiras e humor são examinados na depressão. Em “Prevenção de recaídas”, veja como os ganhos são retomados ao encerrar o tratamento.",
+        "ativacao-secad": "No fim do capítulo, procure a proposta de registrar o que ajudou para consultar caso os problemas retornem."
+      }
+    },
+    {
+      "id": "ferramentas-alta",
+      "title": "Cartões e recursos de apoio",
+      "body": "Um cartão pode reunir uma lembrança de algo aprendido, um indício que a sustenta e uma ação que já funcionou. O conteúdo precisa fazer sentido para a pessoa em uma situação concreta, como reler um texto difícil e concluir rapidamente que perdeu a capacidade de estudar.",
+      "objective": "Explicar como uma observação reunida durante o acompanhamento pode se tornar uma lembrança útil quando a dificuldade reaparece.",
+      "resources": [
+        "alta",
+        "ativacao-secad"
+      ],
+      "resourceGuides": {
+        "alta": "Na Tabela 1, siga a passagem das evidências levantadas para a formulação do cartão de enfrentamento.",
+        "ativacao-secad": "Localize a orientação sobre o manual após o atendimento. Compare o registro de estratégias que já ajudaram com o recurso curto apresentado na outra leitura."
+      },
+      "parent": "manutencao",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "espacamento-alta",
+      "title": "Espaçamento e sinais de retorno",
+      "body": "Ao espaçar os encontros, a dupla pode observar o que a pessoa consegue fazer sozinha e em que situações precisaria retomar o suporte. Uma dificuldade pontual, a volta persistente dos sintomas e uma mudança importante no contexto merecem interpretações diferentes.",
+      "objective": "Localizar nas leituras uma medida de manutenção e uma circunstância que justificaria rever o plano de acompanhamento.",
+      "resources": [
+        "alta",
+        "depressao"
+      ],
+      "resourceGuides": {
+        "alta": "Procure a discussão sobre espaçamento das sessões e autoterapia. Observe como se selecionam as estratégias já aprendidas.",
+        "depressao": "Em “Prevenção de recaídas”, identifique a população e a fase do tratamento nos estudos sobre sessões de reforço."
+      },
+      "parent": "manutencao",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "cultura",
+      "title": "Adaptação cultural",
+      "body": "Linguagem, expectativas familiares, raça, território e acesso a serviços influenciam o significado de uma dificuldade e as atividades possíveis. Adaptar uma intervenção envolve ouvir a população e explicitar quais componentes foram modificados e com que propósito. A revisão indicada documenta adaptações com jovens latino-americanos.",
+      "objective": "Localizar na revisão uma adaptação específica, a população envolvida e uma limitação para generalizá-la.",
+      "resources": [
+        "adaptacao-idosos",
+        "cultura-latam"
+      ],
+      "parent": "manutencao",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "adaptacao-idosos": "Na Tabela 2, escolha uma expressão ou um exemplo alterado para o contexto brasileiro. Compare o que a tradução literal preservaria com o que a equipe quis tornar compreensível aos idosos.",
+        "cultura-latam": "Nos resultados, procure os exemplos de facilitadores bilíngues, experiência de migração e familismo. Escolha um estudo e identifique quem participou e qual componente foi modificado."
+      }
+    },
+    {
+      "id": "equivalencia-linguagem",
+      "title": "Linguagem e equivalência",
+      "body": "Uma palavra pode estar corretamente traduzida e ainda ser estranha a quem usará o material. Entrevistas, revisão por especialistas e aplicação piloto permitem descobrir que termos e exemplos mudam de sentido entre contextos.",
+      "objective": "Comparar uma adaptação de intervenção com a de um instrumento e identificar como cada equipe verificou a compreensão.",
+      "resources": [
+        "adaptacao-idosos",
+        "escala-supervisao"
+      ],
+      "resourceGuides": {
+        "adaptacao-idosos": "Na Tabela 2, escolha uma mudança de vocabulário ou exemplo e explique a diferença prática para o público idoso.",
+        "escala-supervisao": "Nos métodos, acompanhe a passagem da tradução para a aplicação piloto. Observe o que essa etapa acrescenta à avaliação pelos especialistas."
+      },
+      "parent": "cultura",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "familia-contexto",
+      "title": "Família e contexto social",
+      "body": "Envolver a família pode ter finalidades diferentes, como melhorar a comunicação ou tornar o cuidado mais acessível. Horários de trabalho, idioma, migração, redes de apoio e expectativas variam entre famílias da mesma comunidade.",
+      "objective": "Comparar dois exemplos e explicar que necessidade de cada grupo orientou a participação familiar.",
+      "resources": [
+        "cultura-latam",
+        "estagio-ampliado"
+      ],
+      "resourceGuides": {
+        "cultura-latam": "Nos resultados, procure componentes voltados a famílias e o contexto de migração. Escolha um estudo e identifique quem participou.",
+        "estagio-ampliado": "No trecho sobre o equipamento público para adolescentes, localize as intervenções com responsáveis e o motivo de incluir o território na formulação."
+      },
+      "parent": "cultura",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "supervisao",
+      "title": "Supervisão e formação",
+      "body": "Na supervisão, terapeuta e supervisor refletem sobre atendimentos e discutem feedback sobre competências em desenvolvimento. Uma gravação autorizada, uma simulação ou uma formulação podem revelar dificuldades que o relato sozinho deixa pouco visíveis. As leituras abordam o estágio brasileiro e comparam critérios de formação de supervisores em vários países.",
+      "objective": "Escolher uma competência descrita no artigo e explicar que tipo de observação permitiria discuti-la em supervisão.",
+      "resources": [
+        "estagio",
+        "supervisao-br",
+        "estagio-ampliado"
+      ],
+      "parent": "manutencao",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "estagio": "Procure a discussão do feedback sobre a atuação do estagiário. Escolha uma habilidade descrita e identifique qual trecho de uma sessão simulada poderia servir de base para a supervisão.",
+        "supervisao-br": "Em “Resultados e discussão”, compare o que duas organizações exigem de um supervisor. Distinga experiência clínica, preparação para ensinar e uso de feedback.",
+        "estagio-ampliado": "Leia como se articulam estágio, conceitualização e supervisão em serviço-escola e em um equipamento público."
+      }
+    },
+    {
+      "id": "treino-supervisionado",
+      "title": "Da teoria à simulação",
+      "body": "Conhecer a definição de colaboração e demonstrá-la numa conversa exigem habilidades distintas. Uma simulação permite observar uma intervenção curta, discutir as escolhas e tentar de novo com outro modo de perguntar.",
+      "objective": "Escolher uma habilidade e descrever o trecho de uma simulação em que um supervisor conseguiria observá-la.",
+      "resources": [
+        "estagio",
+        "estagio-ampliado"
+      ],
+      "resourceGuides": {
+        "estagio": "Procure as estratégias de ensino e feedback na supervisão clínica. Identifique que situação daria ao estagiário a chance de praticar.",
+        "estagio-ampliado": "Leia a seção que diferencia saber o conteúdo e saber fazer. Compare o papel da observação com o da discussão do caso."
+      },
+      "parent": "supervisao",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "feedback-competencias",
+      "title": "Feedback sobre competências",
+      "body": "“Você precisa ser mais colaborativo” deixa o estudante sem saber o que mudar. É mais específico apontar uma pergunta feita, a resposta que ela recebeu e como a pessoa participou da decisão seguinte.",
+      "objective": "Redigir uma devolutiva com uma observação, uma pergunta reflexiva e uma habilidade para praticar na próxima simulação.",
+      "resources": [
+        "escala-supervisao",
+        "supervisao-br"
+      ],
+      "resourceGuides": {
+        "escala-supervisao": "Compare as descrições de feedback e agenda no quadro de itens. Localize um comportamento que possa ser observado e discutido.",
+        "supervisao-br": "Nos resultados e na discussão, veja como avaliação de competência e feedback aparecem na preparação dos supervisores."
+      },
+      "parent": "supervisao",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "evidencia",
+      "title": "Resultados e limites da evidência",
+      "body": "Que resultado foi medido e com qual comparação? Uma revisão Cochrane de 2020 encontrou benefício da TCC em crianças e adolescentes com transtornos de ansiedade frente à espera ou à ausência de tratamento. A comparação com outras terapias teve maior incerteza. O contexto, a data da revisão e a qualidade dos estudos limitam a conclusão.",
+      "objective": "Identificar população, comparador e desfecho na síntese, depois explicar por que mudar o comparador muda a conclusão possível.",
+      "resources": [
+        "evidencia-ansiedade",
+        "estudo-compras",
+        "grade"
+      ],
+      "parent": "manutencao",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "evidencia-ansiedade": "Comece pelas questões da revisão. Compare a conclusão frente à lista de espera com a comparação entre tratamentos ativos. Procure onde os autores situam a incerteza dos resultados.",
+        "estudo-compras": "Leia a Tabela 3 e o relato da participante sobre as tarefas de casa. Em “Resultados da terapia”, compare a experiência relatada com as medidas coletadas antes, durante e depois do tratamento.",
+        "grade": "Comece pelo fluxo do sistema GRADE e identifique por que o julgamento da confiança precisa indicar o desfecho em questão."
+      }
+    },
+    {
+      "id": "comparadores",
+      "title": "O que se está comparando?",
+      "body": "Uma comparação entre TCC e lista de espera responde a uma pergunta diferente da comparação entre duas terapias ativas. Definir população, intervenção, comparação e desfecho ajuda a verificar para quem e para qual pergunta o resultado vale.",
+      "objective": "Reconstruir a pergunta de uma revisão e comparar suas conclusões para dois grupos de comparação.",
+      "resources": [
+        "evidencia-ansiedade",
+        "grade"
+      ],
+      "resourceGuides": {
+        "evidencia-ansiedade": "Na síntese pública, encontre separadamente as comparações com espera e com outros tratamentos. Observe qual desfecho está sendo discutido.",
+        "grade": "Procure a explicação de PICO. Escreva os quatro componentes para a comparação escolhida na revisão."
+      },
+      "parent": "evidencia",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "certeza-desfecho",
+      "title": "Certeza por desfecho",
+      "body": "Uma estimativa de benefício e a confiança nessa estimativa são informações diferentes. Poucos participantes, perdas ou resultados muito diferentes entre os estudos podem reduzir a confiança. A avaliação acompanha um desfecho e uma comparação definidos.",
+      "objective": "Explicar por que uma conclusão sobre remissão ao fim do tratamento pode ter confiança diferente de outra sobre seguimento.",
+      "resources": [
+        "grade",
+        "evidencia-ansiedade"
+      ],
+      "resourceGuides": {
+        "grade": "No Quadro 4, localize os fatores de redução da confiança. Leia a explicação de imprecisão antes de voltar à revisão.",
+        "evidencia-ansiedade": "Localize as observações dos autores sobre qualidade da evidência, comparadores e acompanhamento. Indique uma pergunta que segue aberta."
+      },
+      "parent": "comparadores",
+      "relation": "prerequisite",
+      "lane": "left"
+    },
+    {
+      "id": "pesquisa-caso-unico",
+      "title": "Pesquisas de caso único",
+      "body": "Acompanhar uma pessoa em profundidade permite descrever a sequência de mudanças. Um relato sistemático de psicoterapia e um experimento com medidas repetidas e fases planejadas oferecem tipos diferentes de evidência.",
+      "objective": "Comparar o desenho de dois estudos e identificar que explicações alternativas os dados de cada um ainda admitem.",
+      "resources": [
+        "estudo-compras",
+        "experiencia-algarve",
+        "caso-ansiedade-social"
+      ],
+      "resourceGuides": {
+        "estudo-compras": "Em “Método” e na discussão, identifique como foram combinados os registros das sessões, os resultados clínicos e a perspectiva da participante.",
+        "experiencia-algarve": "Na Tabela 2, localize as fases previstas. Compare o que uma linha de base repetida acrescenta à leitura do resultado.",
+        "caso-ansiedade-social": "Compare a avaliação inicial com o seguimento. Aponte uma mudança descrita e outra explicação que o relato sozinho não permite afastar."
+      },
+      "parent": "evidencia",
+      "relation": "related",
+      "lane": "right"
+    }
+  ],
+  "resources": [
+    {
+      "id": "knapp",
+      "title": "Fundamentos, modelos conceituais, aplicações e pesquisa da terapia cognitiva",
+      "authors": "Paulo Knapp e Aaron T. Beck",
+      "institution": "Revista Brasileira de Psiquiatria",
+      "year": 2008,
+      "url": "https://www.scielo.br/j/rbp/a/HLpWbYk4bJHY39sfJfRJwtn/?lang=pt",
+      "sourcePage": "https://www.scielo.br/j/rbp/a/HLpWbYk4bJHY39sfJfRJwtn/?lang=pt",
+      "language": "pt-BR",
+      "format": "Revisão narrativa",
+      "access": "Texto completo em HTML, gratuito e sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos texto do artigo, seção sobre técnicas e referências.",
+      "rights": "CC BY-NC 4.0 informada na página.",
+      "caveat": "Leitura histórica de 2008. Para resultados de tratamentos, consulte revisões sobre a população e o comparador de interesse.",
+      "relevance": "Comece por “Fundamento histórico e filosófico das TCC” para situar as tradições. Em “Fundamentos teóricos”, localize as diferenças entre pensamentos automáticos, regras e crenças centrais.",
+      "nodes": [
+        "origens",
+        "beck-depressao",
+        "modelo",
+        "pensamentos",
+        "crencas"
+      ]
+    },
+    {
+      "id": "formulacao",
+      "title": "Conceitualização cognitiva de caso: Uma proposta de sistematização a partir da prática clínica e da formação de terapeutas cognitivo-comportamentais",
+      "authors": "Carmem Beatriz Neufeld e Carla Cristina Cavenage",
+      "institution": "Revista Brasileira de Terapias Cognitivas",
+      "year": 2010,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1808-56872010000200002&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo teórico com proposta didática",
+      "access": "Texto integral gratuito em português no PePSIC.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o HTML integral, as definições dos três níveis cognitivos e a discussão sobre como trabalhar o diagrama com o cliente.",
+      "rights": "Licença de reutilização não confirmada. Consultar o titular antes de reproduzir.",
+      "caveat": "Artigo de sistematização didática e clínica. A proposta pode ser examinada criticamente como uma forma de organizar hipóteses.",
+      "relevance": "Leia “A Conceitualização Cognitiva”. Compare um pensamento situado, uma regra do tipo “se... então” e uma crença central. Depois procure “diagrama” para acompanhar o que o cliente e o terapeuta podem revisar juntos.",
+      "nodes": [
+        "crencas",
+        "regras-condicionais",
+        "crencas-centrais",
+        "seta-descendente",
+        "formulacao",
+        "entrevista-inicial"
+      ]
+    },
+    {
+      "id": "experimento",
+      "title": "Developing a Behavioural Experiment (CBT Clinical Demonstration)",
+      "authors": "Centre for Clinical Interventions (Austrália Ocidental)",
+      "institution": "Centre for Clinical Interventions (Austrália Ocidental)",
+      "year": 2019,
+      "url": "https://www.youtube.com/watch?v=wKPPf9YNv5c",
+      "sourcePage": "https://www.cci.health.wa.gov.au/Training/Demonstration-Videos",
+      "language": "en",
+      "format": "Vídeo demonstrativo",
+      "access": "Vídeo público, listado pela instituição e com página acessível no YouTube.",
+      "checkedAt": "2026-11-15",
+      "verification": "O player público do YouTube informou disponibilidade sem login. Conferidos canal, descrição e duração da demonstração.",
+      "rights": "Licença de reutilização não confirmada. Consultar o titular antes de reproduzir.",
+      "caveat": "Demonstração em inglês com papéis encenados. A leitura em português do tópico contém um exemplo escrito.",
+      "relevance": "Na demonstração de 20 minutos, acompanhe a negociação de um teste de previsão. Anote o que a dupla espera que aconteça e qual observação ajudaria a interpretar o resultado.",
+      "nodes": [
+        "experimentos"
+      ]
+    },
+    {
+      "id": "cultura-latam",
+      "title": "Intervenções Cognitivo-Comportamentais para jovens latino-americanos: uma revisão de escopo",
+      "authors": "Camila Alves de-Amorim, Nilton dos-Anjos e Carmem Beatriz Neufeld",
+      "institution": "Revista Brasileira de Terapias Cognitivas",
+      "year": 2024,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1808-56872024000100700&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Revisão de escopo",
+      "access": "Artigo integral gratuito em português no PePSIC.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos a revisão completa em HTML, os estudos incluídos e os exemplos de adaptação de intervenções.",
+      "rights": "Licença de reutilização não confirmada. Consultar o titular antes de reproduzir.",
+      "caveat": "Mapeia literatura envolvendo jovens latino-americanos. O desenho da revisão limita inferências causais sobre os efeitos das adaptações.",
+      "relevance": "Nos resultados, procure os exemplos de facilitadores bilíngues, experiência de migração e familismo. Escolha um estudo e identifique quem participou e qual componente foi modificado.",
+      "nodes": [
+        "cultura",
+        "familia-contexto"
+      ]
+    },
+    {
+      "id": "supervisao-br",
+      "title": "Critérios para acreditação/certificação e formação do supervisor de Terapia Cognitivo-Comportamental ao redor do mundo e as implicações para o contexto brasileiro",
+      "authors": "Isabela Maria Freitas Ferreira, Nazaré de Oliveira Almeida, Janaína Bianca Barletta, Fabiana Maris Versuti e Carmem Beatriz Neufeld",
+      "institution": "Revista Brasileira de Terapias Cognitivas",
+      "year": 2021,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1808-56872021000100007&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Estudo documental",
+      "access": "Artigo integral gratuito em português no PePSIC.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos em HTML o método, a comparação entre organizações e a discussão sobre supervisão no Brasil.",
+      "rights": "Licença de reutilização não confirmada. Consultar o titular antes de reproduzir.",
+      "caveat": "Descreve documentos consultados para o artigo de 2021. A verificação das normas brasileiras atuais exige consulta própria ao órgão responsável.",
+      "relevance": "Em “Resultados e discussão”, compare o que duas organizações exigem de um supervisor. Distinga experiência clínica, preparação para ensinar e uso de feedback.",
+      "nodes": [
+        "supervisao",
+        "feedback-competencias"
+      ]
+    },
+    {
+      "id": "evidencia-ansiedade",
+      "title": "Terapia cognitivo-comportamental na ansiedade em crianças e adolescentes",
+      "authors": "A. C. James, T. Reardon, A. Soler, G. James e C. Creswell",
+      "institution": "Cochrane",
+      "year": 2020,
+      "url": "https://www.cochrane.org/pt/evidence/CD013162_cognitive-behavioural-therapy-anxiety-children-and-young-people",
+      "sourcePage": "https://www.cochrane.org/pt/evidence/CD013162_cognitive-behavioural-therapy-anxiety-children-and-young-people",
+      "language": "pt",
+      "format": "Síntese pública de revisão sistemática",
+      "access": "Síntese gratuita em português, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos a tradução portuguesa, a data, a comparação dos tratamentos e os limites da evidência. A verificação se refere à síntese pública.",
+      "rights": "Licença de reutilização não confirmada. Consultar o titular antes de reproduzir.",
+      "caveat": "Resultados específicos de transtornos de ansiedade em crianças e adolescentes. Revisão publicada em 2020.",
+      "relevance": "Comece pelas questões da revisão. Compare a conclusão frente à lista de espera com a comparação entre tratamentos ativos. Procure onde os autores situam a incerteza dos resultados.",
+      "nodes": [
+        "evidencia",
+        "comparadores",
+        "certeza-desfecho"
+      ]
+    },
+    {
+      "id": "avaliacao-inicial",
+      "title": "Instrumento de apoio para a primeira entrevista em psicoterapia cognitivo-comportamental",
+      "authors": "Sheila Giardini Murta e Sheila Giovana Morais Rocha",
+      "institution": "Psicologia Clínica",
+      "year": 2014,
+      "url": "https://www.scielo.br/j/pc/a/g5nZmckkNbgCY8hyW5KsSCG/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo com roteiro de entrevista",
+      "access": "Texto integral gratuito, aberto sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o artigo em português, o quadro IAPEC-TCC e a discussão do seu uso em formação.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "Roteiro de apoio à aprendizagem da entrevista inicial. O artigo discute seu uso junto à supervisão.",
+      "relevance": "Leia o Quadro 1. Identifique quais perguntas investigam a queixa e o contexto e quais abrem espaço para explicar a psicoterapia e combinar os próximos passos.",
+      "nodes": [
+        "avaliacao",
+        "entrevista-inicial",
+        "sessao",
+        "agenda-feedback",
+        "combinar-atividade"
+      ]
+    },
+    {
+      "id": "monitoramento",
+      "title": "Monitoramento de progresso em psicoterapia e implicações clínicas: uma revisão de escopo",
+      "authors": "Matheus da Costa Magalhães, Maria Amélia Penido, Luiz Fellipe Dias da Rocha e Pedro Paulo Salustiano dos-Santos",
+      "institution": "Revista Brasileira de Terapias Cognitivas",
+      "year": 2025,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1808-56872025000101402&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Revisão de escopo",
+      "access": "Texto integral gratuito, aberto sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto completo, as quatro categorias dos resultados e a discussão de achados divergentes sobre feedback.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "Os estudos abrangem diferentes psicoterapias, instrumentos e contextos de atendimento.",
+      "relevance": "Nos resultados, leia as categorias sobre instrumentos e sobre o impacto do feedback. Compare medir uma mudança com conversar sobre o que aquela medida significa para a pessoa.",
+      "nodes": [
+        "avaliacao",
+        "acompanhar-mudanca"
+      ]
+    },
+    {
+      "id": "alianca-inventario",
+      "title": "Desenvolvimento de um inventário cognitivo-comportamental para avaliação da aliança terapêutica",
+      "authors": "Mara Livia de Araújo e Renata Ferrarez Fernandes Lopes",
+      "institution": "Revista Brasileira de Terapias Cognitivas",
+      "year": 2015,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1808-56872015000200004&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Estudo de desenvolvimento de instrumento",
+      "access": "Texto integral gratuito, aberto sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto, os participantes, os itens e a análise descritiva no periódico.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "Estudo inicial de instrumento. A reflexão sobre os itens não habilita a usar o inventário como medida clínica validada para qualquer população.",
+      "relevance": "Veja os itens do inventário agrupados em categorias nos resultados. Escolha um que descreva a colaboração e identifique o comportamento concreto a que ele se refere.",
+      "nodes": [
+        "alianca",
+        "metas-tarefas-vinculo"
+      ]
+    },
+    {
+      "id": "empatia",
+      "title": "Empatia e relação terapêutica na psicoterapia cognitiva: uma revisão sistemática",
+      "authors": "Julia Santos Martins, Luna Singulani Oliveira, Rosa Cristina da Costa Vasconcelos e Ana Lúcia Novais Carvalho",
+      "institution": "Revista Brasileira de Terapias Cognitivas",
+      "year": 2018,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1808-56872018000100007&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Revisão sistemática",
+      "access": "Texto integral gratuito, aberto sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos os objetivos, a seleção de trabalhos e a discussão do artigo integral.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "Os estudos selecionados diferem na forma de avaliar empatia e relação terapêutica.",
+      "relevance": "Leia os resultados e a discussão sobre as formas de comunicar empatia. Compare a perspectiva da pessoa atendida com o que o terapeuta imagina ter comunicado.",
+      "nodes": [
+        "alianca"
+      ]
+    },
+    {
+      "id": "padesky",
+      "title": "Entrevista com Christine Padesky",
+      "authors": "Christine Padesky, entrevistada por André Luiz Moreno, responsável pela tradução",
+      "institution": "Revista Brasileira de Terapias Cognitivas",
+      "year": 2021,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1808-56872021000200010&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Entrevista traduzida",
+      "access": "Texto integral gratuito, aberto sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas as perguntas, a resposta sobre revisar tarefas e a identificação da tradução na íntegra da entrevista.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "Relato de uma formadora sobre sua prática de ensino e uso de perguntas.",
+      "relevance": "Procure a passagem sobre a revisão da “tarefa de casa”. Padesky usa esse momento para mostrar como praticar perguntas investigativas e aprender com a resposta da pessoa.",
+      "nodes": [
+        "descoberta",
+        "perguntas-abertas",
+        "entre-sessoes",
+        "revisar-atividade"
+      ]
+    },
+    {
+      "id": "socratico",
+      "title": "A relevância da técnica de questionamento socrático na prática Cognitivo-Comportamental",
+      "authors": "Camila Elidia Messias dos Santos e Francisco de Assis Medeiros",
+      "institution": "Archives of Health Investigation",
+      "year": 2017,
+      "url": "https://www.archhealthinvestigation.com.br/ArcHI/article/download/1940/pdf/7438",
+      "sourcePage": "https://www.archhealthinvestigation.com.br/ArcHI/article/view/1940",
+      "language": "pt-BR",
+      "format": "Artigo de revisão em PDF",
+      "access": "PDF integral gratuito no portal do periódico.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o PDF de cinco páginas, a autoria e os exemplos de perguntas no corpo do artigo.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "Revisão conceitual. Os exemplos de perguntas dependem da situação e da resposta de quem participa.",
+      "relevance": "Leia a discussão das perguntas e dos significados que a pessoa atribui ao que aconteceu. Escolha uma pergunta do texto e imagine duas respostas plausíveis que levariam a caminhos diferentes.",
+      "nodes": [
+        "descoberta",
+        "perguntas-abertas",
+        "comparar-explicacoes"
+      ]
+    },
+    {
+      "id": "slides-registro",
+      "title": "Reestruturação cognitiva dos pensamentos automáticos",
+      "authors": "Mateus Lopes de Carvalho",
+      "institution": "Curso de Psicologia da Anhanguera · Repositório Cogna",
+      "year": null,
+      "url": "https://repositorio.pgsscogna.com.br/bitstream/123456789/60550/1/Aula_Reestrutura%C3%A7%C3%A3o_cognitiva_de_pensamentos_autom%C3%A1ticos.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Aula em slides · PDF",
+      "access": "Slides integrais gratuitos no repositório institucional.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos a identificação do professor, o PDF de 42 páginas e o exemplo de experimento nos slides 19 a 22.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "Material de uma disciplina de graduação. A comparação é um exemplo didático.",
+      "relevance": "No exemplo de registro de pensamentos, separe o que ocorreu da interpretação que apareceu. Nos slides 19 a 22, compare a previsão do experimento com o que pôde ser observado.",
+      "nodes": [
+        "pensamentos",
+        "registro-pensamentos",
+        "experimentos",
+        "previsao-observavel",
+        "interpretar-teste"
+      ]
+    },
+    {
+      "id": "ativacao-artigo",
+      "title": "Ativação comportamental: apresentando um protocolo integrador no tratamento da depressão",
+      "authors": "Paulo Roberto Abreu e Juliana Helena dos Santos Silvério Abreu",
+      "institution": "Revista Brasileira de Terapia Comportamental e Cognitiva",
+      "year": 2017,
+      "url": "https://rbtcc.com.br/RBTCC/article/download/1065/535",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo teórico em PDF",
+      "access": "PDF integral gratuito na revista.",
+      "checkedAt": "2026-11-15",
+      "verification": "PDF integral de 22 páginas aberto no periódico. Conferidos autoria, apresentação do protocolo e discussão funcional.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "Os autores descrevem um protocolo integrador para depressão unipolar. Trata-se de uma proposta teórico-clínica.",
+      "relevance": "Comece pela apresentação do protocolo usado na clínica-escola. Procure a discussão da análise funcional para ver como obstáculos no ambiente e consequências das atividades orientam a leitura da rotina.",
+      "nodes": [
+        "ativacao",
+        "valores-passos"
+      ]
+    },
+    {
+      "id": "depressao",
+      "title": "Terapia cognitivo-comportamental da depressão",
+      "authors": "Vania Bitencourt Powell, Neander Abreu, Irismar Reis de Oliveira e Donna Sudak",
+      "institution": "Revista Brasileira de Psiquiatria",
+      "year": 2008,
+      "url": "https://www.scielo.br/j/rbp/a/XD3SXdNxQPMwj6gc4WRjqSB/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Revisão narrativa",
+      "access": "Texto integral gratuito, aberto sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o artigo completo e as duas seções sobre ativação e prevenção de recaídas.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "Revisão de 2008 sobre depressão. As afirmações sobre eficácia se referem à literatura disponível à época.",
+      "relevance": "Em “Ativação comportamental”, observe como atividades, barreiras e humor são examinados na depressão. Em “Prevenção de recaídas”, veja como os ganhos são retomados ao encerrar o tratamento.",
+      "nodes": [
+        "beck-depressao",
+        "examinar-evidencias",
+        "seta-descendente",
+        "ativacao",
+        "diario-atividades",
+        "manutencao",
+        "espacamento-alta"
+      ]
+    },
+    {
+      "id": "exposicao-social",
+      "title": "Perturbação de ansiedade social: abordagem terapêutica com terapia cognitivo-comportamental",
+      "authors": "Catarina Cativo e Vera Barata",
+      "institution": "Psicologia, Saúde & Doenças",
+      "year": 2021,
+      "url": "https://scielo.pt/scielo.php?pid=S1645-00862021000300857&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-PT",
+      "format": "Artigo de revisão",
+      "access": "Texto integral gratuito, aberto sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o HTML integral em português, o tópico de exposição e a discussão das previsões e dos comportamentos de segurança.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "O exemplo é de ansiedade social. A revisão não abrange todas as indicações ou todos os modelos de exposição.",
+      "relevance": "Vá a “Exposição”. Relacione uma previsão temida aos comportamentos de segurança e veja o que as autoras chamam de experiências comportamentais.",
+      "nodes": [
+        "ciclos-manutencao",
+        "experimentos",
+        "previsao-observavel",
+        "exposicao",
+        "comportamentos-seguranca"
+      ]
+    },
+    {
+      "id": "fobia-social",
+      "title": "Terapia cognitivo-comportamental da fobia social",
+      "authors": "Lígia M. Ito, Miréia C. Roso, Shilpee Tiwari, Philip C. Kendall e Fernando R. Asbahr",
+      "institution": "Revista Brasileira de Psiquiatria",
+      "year": 2008,
+      "url": "https://www.scielo.br/j/rbp/a/8jL85kwBNNpFkYv5w5DDnKq/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Revisão narrativa",
+      "access": "Texto integral gratuito, aberto sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto em português e a discussão sobre exposição ao vivo e por imaginação.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "O artigo apresenta concepções de exposição usadas em 2008 e exemplos para ansiedade social.",
+      "relevance": "Em “Psicoeducação”, veja como o artigo apresenta o modelo de ansiedade social. Na parte sobre exposição ao vivo, escolha um exemplo e separe a situação temida da expectativa de quem participa.",
+      "nodes": [
+        "sessao",
+        "psicoeducacao-exemplo",
+        "ensaio-comportamental",
+        "exposicao",
+        "hierarquia-situacoes"
+      ]
+    },
+    {
+      "id": "alta",
+      "title": "Guia de preparação para alta em psicoterapia: contribuições da Terapia Cognitivo-Comportamental",
+      "authors": "Aline Ferreira Freitas, Joana Bender Remus, Weridiane Lehmkuhl Luz e Fernanda Machado Lopes",
+      "institution": "Revista Brasileira de Terapias Cognitivas",
+      "year": 2022,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1808-56872022000200195&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Revisão teórica com exemplos",
+      "access": "Texto integral gratuito, aberto sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto completo, a Tabela 1 e o diálogo sobre preparação para o encerramento.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "O artigo propõe um guia e traz exemplos fictícios. A alta é uma decisão contextual e compartilhada.",
+      "relevance": "Leia a vinheta em forma de diálogo e a Tabela 1. Observe como a dupla revê o que foi aprendido e como diferencia uma dificuldade que reaparece de um retorno mais persistente dos sintomas.",
+      "nodes": [
+        "registro-pensamentos",
+        "examinar-evidencias",
+        "crencas-centrais",
+        "solucao-problemas",
+        "manutencao",
+        "ferramentas-alta",
+        "espacamento-alta"
+      ]
+    },
+    {
+      "id": "estudo-compras",
+      "title": "Terapia cognitivo-comportamental para compras compulsivas: um estudo de caso sistemático",
+      "authors": "Maríndia Brandtner e Fernanda Barcellos Serralta",
+      "institution": "Psicologia: Teoria e Pesquisa",
+      "year": 2016,
+      "url": "https://www.scielo.br/j/ptp/a/ZNDsFLRPZcFXRkYZy9VhTrr/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Estudo de caso sistemático",
+      "access": "Texto integral gratuito, aberto sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto completo, o estudo de um caso, as medidas de acompanhamento e os achados de processo.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "Estudo de uma pessoa. A melhora observada não permite atribuir causalidade a uma técnica específica.",
+      "relevance": "Leia a Tabela 3 e o relato da participante sobre as tarefas de casa. Em “Resultados da terapia”, compare a experiência relatada com as medidas coletadas antes, durante e depois do tratamento.",
+      "nodes": [
+        "acompanhar-mudanca",
+        "entre-sessoes",
+        "combinar-atividade",
+        "evidencia",
+        "pesquisa-caso-unico"
+      ]
+    },
+    {
+      "id": "adaptacao-idosos",
+      "title": "Passos iniciais da adaptação ao Brasil de intervenção cognitivo-comportamental para idosos depressivos",
+      "authors": "Heloisa Gonçalves Ferreira e Lucas Ramalho de Almeida",
+      "institution": "Contextos Clínicos",
+      "year": 2020,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1983-34822020000200010&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Estudo de adaptação cultural",
+      "access": "Texto integral gratuito, aberto sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto integral, o método e a Tabela 2 com os exemplos de equivalência cultural.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "O estudo trata das etapas iniciais de adaptação. Seus resultados não demonstram eficácia clínica do manual adaptado.",
+      "relevance": "Na Tabela 2, escolha uma expressão ou um exemplo alterado para o contexto brasileiro. Compare o que a tradução literal preservaria com o que a equipe quis tornar compreensível aos idosos.",
+      "nodes": [
+        "cultura",
+        "equivalencia-linguagem"
+      ]
+    },
+    {
+      "id": "estagio",
+      "title": "A importância da supervisão de estágio clínico para o desenvolvimento de competências em terapia cognitivo-comportamental",
+      "authors": "Janaína Bianca Barletta, Ana Lucia Barreto da Fonseca e Zenith Nara Costa Delabrida",
+      "institution": "Psicologia: Teoria e Prática",
+      "year": 2012,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1516-36872012000300013&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Revisão teórica",
+      "access": "Texto integral gratuito, aberto sem cadastro na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto integral e a discussão sobre competências do estagiário e uso de feedback pelo supervisor.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "Discussão teórica centrada na formação em estágio clínico.",
+      "relevance": "Procure a discussão do feedback sobre a atuação do estagiário. Escolha uma habilidade descrita e identifique qual trecho de uma sessão simulada poderia servir de base para a supervisão.",
+      "nodes": [
+        "supervisao",
+        "treino-supervisionado"
+      ]
+    },
+    {
+      "id": "litcc-intro",
+      "title": "O que é terapia cognitivo-comportamental?",
+      "authors": "Emily Oliveira",
+      "institution": "Liga de Terapias Cognitivo-Comportamentais da USP de Ribeirão Preto",
+      "year": 2024,
+      "url": "https://www.youtube.com/watch?v=8vLjiH-H58s",
+      "sourcePage": "https://www.youtube.com/channel/UC7-15hmpMoR2hTmVeeMipbg/videos",
+      "language": "pt-BR",
+      "format": "Videoaula · 3 min 48 s",
+      "access": "Vídeo gratuito no YouTube, sem login na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos título, canal e duração no player público do YouTube, que indicou disponibilidade sem login.",
+      "rights": "Consulta pelo player do canal responsável. Licença de reutilização não confirmada.",
+      "caveat": "Introdução breve de divulgação universitária.",
+      "relevance": "Comece pela apresentação da liga. Depois leia a seção histórica de Knapp e Beck para situar essa definição entre as diferentes terapias cognitivas e comportamentais.",
+      "nodes": [
+        "origens"
+      ]
+    },
+    {
+      "id": "litcc-serie",
+      "title": "O básico da TCC",
+      "authors": "Thaís Cristine, Débora Salgado, Maria Fernanda Martins e Ana Carolina Miranda",
+      "institution": "Liga de Terapias Cognitivo-Comportamentais da USP de Ribeirão Preto",
+      "year": null,
+      "url": "https://www.youtube.com/watch?v=HCyAjDZOaVA&list=PLYaserBgh10MGfyIbdh8WtAP8XafTisy2",
+      "sourcePage": "https://www.youtube.com/playlist?list=PLYaserBgh10MGfyIbdh8WtAP8XafTisy2",
+      "language": "pt-BR",
+      "format": "Playlist · 4 aulas em português",
+      "access": "Vídeo gratuito no YouTube, sem login na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos os quatro vídeos do índice da playlist e a disponibilidade anônima de cada aula no player, com título e duração.",
+      "rights": "Consulta pelo player do canal responsável. Licença de reutilização não confirmada.",
+      "caveat": "Série introdutória de vídeos curtos, publicada em 2024 e 2025.",
+      "relevance": "O link abre a aula de Thaís Cristine sobre o modelo cognitivo. Depois selecione, na mesma lista, a aula de Débora Salgado sobre pensamentos automáticos e as duas aulas sobre conceitualização.",
+      "nodes": [
+        "modelo",
+        "episodio-cognitivo"
+      ]
+    },
+    {
+      "id": "litcc-pensamentos",
+      "title": "O que são pensamentos automáticos?",
+      "authors": "Débora Salgado",
+      "institution": "Liga de Terapias Cognitivo-Comportamentais da USP de Ribeirão Preto",
+      "year": 2025,
+      "url": "https://www.youtube.com/watch?v=j9GjjHvmieI",
+      "sourcePage": "https://www.youtube.com/playlist?list=PLYaserBgh10MGfyIbdh8WtAP8XafTisy2",
+      "language": "pt-BR",
+      "format": "Videoaula · 3 min 32 s",
+      "access": "Vídeo gratuito no YouTube, sem login na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos título, canal e duração no player público do YouTube, que indicou disponibilidade sem login.",
+      "rights": "Consulta pelo player do canal responsável. Licença de reutilização não confirmada.",
+      "caveat": "Introdução ao conceito para estudantes.",
+      "relevance": "Use a aula para reconhecer o que caracteriza um pensamento automático. Volte ao exemplo da mensagem curta e separe a frase que foi lida da interpretação de quem a recebeu.",
+      "nodes": [
+        "pensamentos",
+        "registro-pensamentos"
+      ]
+    },
+    {
+      "id": "litcc-diagrama",
+      "title": "O que é diagrama de conceitualização cognitiva?",
+      "authors": "Maria Fernanda Martins",
+      "institution": "Liga de Terapias Cognitivo-Comportamentais da USP de Ribeirão Preto",
+      "year": 2024,
+      "url": "https://www.youtube.com/watch?v=wzOT-PW1gYA",
+      "sourcePage": "https://www.youtube.com/playlist?list=PLYaserBgh10MGfyIbdh8WtAP8XafTisy2",
+      "language": "pt-BR",
+      "format": "Videoaula · 11 min 49 s",
+      "access": "Vídeo gratuito no YouTube, sem login na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos título, canal e duração no player público do YouTube, que indicou disponibilidade sem login.",
+      "rights": "Consulta pelo player do canal responsável. Licença de reutilização não confirmada.",
+      "caveat": "O diagrama representa hipóteses que podem mudar ao longo da avaliação.",
+      "relevance": "Veja como a professora apresenta o diagrama. Ao ler o artigo de Neufeld e Cavenage, localize onde caberiam nele um pensamento situado, uma regra e uma crença central.",
+      "nodes": [
+        "crencas",
+        "formulacao",
+        "diagrama-caso"
+      ]
+    },
+    {
+      "id": "litcc-formulacao",
+      "title": "Formulação de caso e conceitualização cognitiva",
+      "authors": "Ana Carolina Miranda",
+      "institution": "Liga de Terapias Cognitivo-Comportamentais da USP de Ribeirão Preto",
+      "year": 2025,
+      "url": "https://www.youtube.com/watch?v=lIeIEKoW_bo",
+      "sourcePage": "https://www.youtube.com/playlist?list=PLYaserBgh10MGfyIbdh8WtAP8XafTisy2",
+      "language": "pt-BR",
+      "format": "Videoaula · 7 min 08 s",
+      "access": "Vídeo gratuito no YouTube, sem login na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos título, canal e duração no player público do YouTube, que indicou disponibilidade sem login.",
+      "rights": "Consulta pelo player do canal responsável. Licença de reutilização não confirmada.",
+      "caveat": "Aula introdutória sobre formulação e conceitualização.",
+      "relevance": "Comece pela definição de formulação de caso. Ao terminar, procure no artigo sobre conceitualização um exemplo de dado novo que poderia levar a rever uma hipótese.",
+      "nodes": [
+        "formulacao",
+        "rever-hipoteses"
+      ]
+    },
+    {
+      "id": "telepsi-modelo",
+      "title": "Modelo cognitivo",
+      "authors": "Equipe do projeto TelePSI",
+      "institution": "Hospital de Clínicas de Porto Alegre",
+      "year": 2020,
+      "url": "https://www.youtube.com/watch?v=enc7YNNZLxk",
+      "sourcePage": "https://telepsi.hcpa.edu.br/v%C3%ADdeos-de-psicoeduca%C3%A7%C3%A3o",
+      "language": "pt-BR",
+      "format": "Vídeo de psicoeducação · 2 min 20 s",
+      "access": "Vídeo gratuito no YouTube, sem login na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos título, canal e duração no player público do YouTube, que indicou disponibilidade sem login.",
+      "rights": "Consulta pelo player do canal responsável. Licença de reutilização não confirmada.",
+      "caveat": "Peça breve de psicoeducação produzida no contexto da pandemia.",
+      "relevance": "Assista como exemplo de comunicação ao público. Identifique uma ideia do modelo que o vídeo apresenta em linguagem simples e formule uma pergunta para saber como outra pessoa a entendeu.",
+      "nodes": [
+        "modelo",
+        "episodio-cognitivo",
+        "sessao",
+        "psicoeducacao-exemplo"
+      ]
+    },
+    {
+      "id": "telepsi-ativacao",
+      "title": "Ativação comportamental",
+      "authors": "Equipe do projeto TelePSI",
+      "institution": "Hospital de Clínicas de Porto Alegre",
+      "year": 2020,
+      "url": "https://www.youtube.com/watch?v=TXh3O4nEjpY",
+      "sourcePage": "https://telepsi.hcpa.edu.br/v%C3%ADdeos-de-psicoeduca%C3%A7%C3%A3o",
+      "language": "pt-BR",
+      "format": "Vídeo de psicoeducação · 1 min 53 s",
+      "access": "Vídeo gratuito no YouTube, sem login na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos título, canal e duração no player público do YouTube, que indicou disponibilidade sem login.",
+      "rights": "Consulta pelo player do canal responsável. Licença de reutilização não confirmada.",
+      "caveat": "Apresentação breve. O artigo do tópico aprofunda a formulação clínica.",
+      "relevance": "Assista à explicação para o público. Depois leia, na revisão sobre depressão, como se examina a relação entre humor, rotina e atividades significativas.",
+      "nodes": [
+        "ativacao",
+        "valores-passos"
+      ]
+    },
+    {
+      "id": "aprendizagem-exposicao",
+      "title": "Estudos de pesquisa básica sobre transferência de extinção e suas implicações para as terapias baseadas em exposição",
+      "authors": "Leandro S. Boldrin, Daniel Afonso Assaz e Paula Debert",
+      "institution": "Acta Comportamentalia · Repositório da Universidade de São Paulo",
+      "year": 2020,
+      "url": "https://repositorio.usp.br/directbitstream/063bc0c7-5036-44eb-ae6a-9226bb22b54a/3009777.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Revisão de pesquisa experimental em PDF",
+      "access": "PDF integral gratuito na USP.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o PDF do repositório, autoria, escopo dos estudos de transferência e discussão das implicações para exposição.",
+      "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
+      "caveat": "Revisão de pesquisa básica. Os experimentos descritos não são ensaios de eficácia clínica.",
+      "relevance": "Leia a abertura e a discussão das implicações clínicas. Por que uma aprendizagem observada numa situação poderia, ou não, aparecer diante de outro estímulo relacionado? Diferencie o resultado experimental da hipótese sobre a clínica.",
+      "nodes": [
+        "exposicao"
+      ]
+    },
+    {
+      "id": "ondas",
+      "title": "Terapias cognitivo-comportamentais de terceira geração no Brasil: revisão de escopo",
+      "authors": "Natália Ferreira Souza e Walter Lisboa",
+      "institution": "Revista Brasileira de Terapias Cognitivas · UFS",
+      "year": 2023,
+      "url": "https://pepsic.scielo.org/scielo.php?lang=pt&pid=S1808-56872023000100074&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Revisão de escopo",
+      "access": "Texto integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas a introdução histórica, a seleção dos 16 trabalhos e a discussão.",
+      "rights": "Link para leitura na fonte. Não foi confirmada licença específica para reprodução.",
+      "caveat": "Reúne estudos heterogêneos localizados em três bases. O número de estudos por abordagem não mede eficácia comparativa.",
+      "relevance": "Na introdução, localize o que se entende por terceira geração. Nos resultados, identifique quais intervenções foram efetivamente pesquisadas no Brasil.",
+      "nodes": [
+        "ondas-da-tcc"
+      ]
+    },
+    {
+      "id": "epistemologia",
+      "title": "Epistemologia da terapia cognitivo-comportamental: casamento, amizade ou separação entre as teorias?",
+      "authors": "Arianne de Sá Barbosa, Lauren Bulcão Terroso e Irani Iracema de Lima Argimon",
+      "institution": "Boletim da Academia Paulista de Psicologia",
+      "year": 2014,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1415-711X2014000100006&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Ensaio histórico e conceitual",
+      "access": "Texto integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas a discussão sobre as três ondas e a conclusão das autoras.",
+      "rights": "Link para leitura na fonte. Não foi confirmada licença específica para reprodução.",
+      "caveat": "É uma interpretação histórica. As fronteiras entre gerações e abordagens são debatidas.",
+      "relevance": "Compare as posições atribuídas à aprendizagem, à cognição e ao contexto em cada período.",
+      "nodes": [
+        "origens",
+        "ondas-da-tcc"
+      ]
+    },
+    {
+      "id": "caso-toc",
+      "title": "A conceitualização cognitiva no transtorno obsessivo compulsivo: relato de caso",
+      "authors": "Mariana Bandeira Formiga, Melyssa Kellyane Cavalcanti Galdino, Nilse Chiapetti e Caroline Mello Lucena Cavalcanti Gomes",
+      "institution": "Revista Brasileira de Terapias Cognitivas",
+      "year": 2012,
+      "url": "https://pepsic.scielo.org/pdf/rbtc/v8n1/v8n1a09.pdf",
+      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S1808-56872012000100009&script=sci_arttext",
+      "language": "pt-BR",
+      "format": "Relato de caso · PDF",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas a seção de conceituação, a Tabela 1 e a descrição da exposição com prevenção de respostas.",
+      "rights": "Link para leitura na fonte. Não foi confirmada licença específica para reprodução.",
+      "caveat": "Relato individual com classificação diagnóstica da época. Os procedimentos do caso pressupõem avaliação profissional.",
+      "relevance": "Na Tabela 1, acompanhe três episódios da mesma pessoa e veja que observações sustentam a hipótese das autoras.",
+      "nodes": [
+        "ciclos-manutencao",
+        "crencas",
+        "regras-condicionais",
+        "diagrama-caso",
+        "hierarquia-situacoes",
+        "prevencao-respostas",
+        "comportamentos-seguranca"
+      ]
+    },
+    {
+      "id": "alianca-ufjf",
+      "title": "Relação terapêutica na terapia cognitivo-comportamental",
+      "authors": "Laisa Marcorela Andreoli Sartes, Bianca Aparecida Ribeiro Singulane e Nathálya Soares Ribeiro",
+      "institution": "Editora UFJF · Selo Aldeia",
+      "year": 2023,
+      "url": "https://www2.ufjf.br/editora/wp-content/uploads/sites/113/2023/08/Pesquisa-e-pr%C3%A1tica-em-sa%C3%BAde.pdf#page=16",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Capítulo de livro aberto · PDF",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos autoria no sumário, capítulo a partir da página impressa 16 e diálogo sobre a ruptura.",
+      "rights": "Link para leitura na fonte. Não foi confirmada licença específica para reprodução.",
+      "caveat": "Capítulo introdutório de uma coletânea. O caso é uma ilustração didática.",
+      "relevance": "Comece na página impressa 16. As páginas 27 e 28 introduzem o caso de Augusto e a conversa sobre um momento de tensão.",
+      "nodes": [
+        "alianca",
+        "metas-tarefas-vinculo",
+        "ruptura-reparo"
+      ]
+    },
+    {
+      "id": "rupturas-3rs",
+      "title": "O sistema 3RS para avaliação de rupturas e resoluções da aliança: pesquisa e prática clínica",
+      "authors": "Patrícia Dotta, Heitor Marques Holland, Plinio José Simon Neto, Eduarda Duarte de Barcellos e Fernanda Barcellos Serralta",
+      "institution": "Gerais: Revista Interinstitucional de Psicologia",
+      "year": 2022,
+      "url": "https://periodicos.ufmg.br/index.php/gerais/article/view/49405/39649",
+      "sourcePage": "https://periodicos.ufmg.br/index.php/gerais/article/view/49405/",
+      "language": "pt-BR",
+      "format": "Artigo de método com vinhetas · PDF",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o artigo de 17 páginas, os exemplos de marcadores e as estratégias de reparação.",
+      "rights": "CC BY 4.0 informada na página da revista.",
+      "caveat": "O sistema estuda processos relacionais entre abordagens. A vinheta analisada vem de uma psicoterapia psicanalítica.",
+      "relevance": "Encontre os marcadores de afastamento e de confrontação. Observe como as autoras e os autores distinguem um sinal de uma ruptura e a tentativa de repará-la.",
+      "nodes": [
+        "ruptura-reparo"
+      ]
+    },
+    {
+      "id": "estagio-ampliado",
+      "title": "Supervisão em terapias cognitivo-comportamentais: trilhando outros caminhos além do serviço-escola",
+      "authors": "Conceição Reis de Sousa e Ricardo da Costa Padovani",
+      "institution": "Psico-USF",
+      "year": 2015,
+      "url": "https://www.scielo.br/j/pusf/a/w5RS7nqKBRxmsSB9qjn6scP/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Relato de experiência de formação",
+      "access": "Texto integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas a discussão sobre conceitualização e a descrição do estágio em dois serviços.",
+      "rights": "Link para leitura na fonte. Não foi confirmada licença específica para reprodução.",
+      "caveat": "Descreve uma experiência de formação em um contexto específico. Seus procedimentos não são requisitos gerais de certificação.",
+      "relevance": "Comece por “Evoluindo do ‘Saber que’ para o ‘Saber como’”. Veja como o supervisor examina junto ao estagiário a hipótese sobre um caso.",
+      "nodes": [
+        "rever-hipoteses",
+        "perguntas-abertas",
+        "familia-contexto",
+        "supervisao",
+        "treino-supervisionado"
+      ]
+    },
+    {
+      "id": "escala-supervisao",
+      "title": "Adaptação transcultural da Cognitive Therapy Rating Scale (Escala de Avaliação em Terapia Cognitivo-Comportamental) para o contexto brasileiro",
+      "authors": "André Luiz Moreno e Diogo Araújo de Sousa",
+      "institution": "Revista Brasileira de Terapias Cognitivas",
+      "year": 2020,
+      "url": "https://pepsic.scielo.org/pdf/rbtc/v16n2/v16n2a05.pdf",
+      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S1808-56872020000200005&script=sci_arttext",
+      "language": "pt-BR",
+      "format": "Estudo de adaptação transcultural · PDF",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas as etapas de equivalência, tradução, estudo piloto e versão brasileira.",
+      "rights": "Link para leitura na fonte. Não foi confirmada licença específica para reprodução.",
+      "caveat": "O trabalho descreve adaptação transcultural. Os autores discutem a necessidade de evidências psicométricas adicionais.",
+      "relevance": "Consulte o método e o quadro com os itens da escala. Identifique uma habilidade observável em sessão e como se verificou a compreensão do termo em português.",
+      "nodes": [
+        "sessao",
+        "agenda-feedback",
+        "equivalencia-linguagem",
+        "feedback-competencias"
+      ]
+    },
+    {
+      "id": "experiencia-algarve",
+      "title": "Eficácia de uma experiência comportamental na redução de sintomatologia de ansiedade social: estudo experimental de caso único",
+      "authors": "Filipa Santos Correia",
+      "institution": "Universidade do Algarve",
+      "year": 2024,
+      "url": "https://sapientia.ualg.pt/server/api/core/bitstreams/7d176bb3-7fa8-4e0a-a61f-2f9401f2820c/content",
+      "sourcePage": "https://sapientia.ualg.pt/entities/publication/97f1cd3c-8ec4-4e4d-87ca-00001d6635c3",
+      "language": "pt-PT",
+      "format": "Dissertação de mestrado · PDF",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "O texto integral foi consultado na versão indexada. O repositório da universidade demorou a responder no teste de acesso direto.",
+      "rights": "A autora autoriza cópia e distribuição educacional ou científica não comercial com crédito, conforme a declaração no PDF.",
+      "caveat": "O estudo acompanhou quatro participantes selecionados por sintomas e crença específica. Os resultados não estabelecem eficácia para toda pessoa com ansiedade social.",
+      "relevance": "Comece em “Objetivos e Hipóteses”. Na Tabela 2, compare a linha de base, a experiência e o acompanhamento.",
+      "nodes": [
+        "experimentos",
+        "previsao-observavel",
+        "interpretar-teste",
+        "comportamentos-seguranca",
+        "pesquisa-caso-unico"
+      ]
+    },
+    {
+      "id": "ativacao-secad",
+      "title": "Ativação comportamental na depressão",
+      "authors": "Denigés Maurel Regis Neto, Bárbara Mohor Goulart Corrêa e Roberto Alves Banaco",
+      "institution": "Sociedade Brasileira de Psicologia · Artmed Panamericana/SECAD",
+      "year": 2021,
+      "url": "https://portal.secad.artmed.com.br/artigo/ativacao-comportamental-na-depressao",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Capítulo de educação continuada",
+      "access": "Texto integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos texto, discussão do caso B., quadro de valores e referências até o fim do capítulo.",
+      "rights": "Link para leitura na fonte. Não foi confirmada licença específica para reprodução.",
+      "caveat": "O capítulo público pertence a um programa comercial. O exemplo clínico ilustra decisões condicionadas à realidade de uma pessoa.",
+      "relevance": "Procure o caso de B. e os trechos sobre a relação entre valores, escolhas de atividades e obstáculos da rotina.",
+      "nodes": [
+        "ativacao",
+        "diario-atividades",
+        "valores-passos",
+        "revisar-atividade",
+        "manutencao",
+        "ferramentas-alta"
+      ]
+    },
+    {
+      "id": "grade",
+      "title": "Diretrizes metodológicas: Sistema GRADE",
+      "authors": "Ministério da Saúde, Departamento de Ciência e Tecnologia",
+      "institution": "Biblioteca Virtual em Saúde do Ministério da Saúde",
+      "year": 2015,
+      "url": "https://bvsms.saude.gov.br/bvs/publicacoes/diretrizes_metodologicas_sistema_grade_1ed.pdf",
+      "sourcePage": "https://www.gov.br/conitec/pt-br/midias/artigos_publicacoes/diretrizes/sistema-grade.pdf",
+      "language": "pt-BR",
+      "format": "Manual de metodologia · PDF",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o fluxograma, o Quadro 4 e a seção de imprecisão da primeira reimpressão.",
+      "rights": "CC BY-NC-SA 4.0 indicada na ficha da obra.",
+      "caveat": "Manual metodológico geral. Use-o para interpretar evidência por desfecho e verifique o contexto de cada revisão de psicoterapia.",
+      "relevance": "Localize a definição de PICO e o Quadro 4. Escolha um motivo de redução da confiança e veja a qual desfecho ele se aplica.",
+      "nodes": [
+        "evidencia",
+        "comparadores",
+        "certeza-desfecho"
+      ]
+    },
+    {
+      "id": "acomodacao-familiar",
+      "title": "Repercussão da acomodação familiar no tratamento do transtorno obsessivo-compulsivo",
+      "authors": "Jacqueline Bahlis Fernandes, Letícia Rosito Pinto Kruel e Débora Cassiane Finkler",
+      "institution": "Revista Brasileira de Terapias Cognitivas",
+      "year": 2015,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1808-56872015000100007&script=sci_arttext",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de revisão",
+      "access": "Texto integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto integral e os exemplos de participação da família na manutenção dos rituais.",
+      "rights": "Link para leitura na fonte. Não foi confirmada licença específica para reprodução.",
+      "caveat": "A revisão trata de TOC e de participação familiar. A necessidade de apoio varia de pessoa para pessoa.",
+      "relevance": "Localize os exemplos de acomodação e depois a discussão de sua relação com o tratamento cognitivo-comportamental.",
+      "nodes": [
+        "prevencao-respostas"
+      ]
+    },
+    {
+      "id": "caso-ansiedade-social",
+      "title": "Transtorno de ansiedade social: um estudo de caso",
+      "authors": "Juliana de Lima Muller, Clarissa Marceli Trentini e Adriana Mokwa Zanini",
+      "institution": "Contextos Clínicos · Unisinos",
+      "year": 2015,
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1983-34822015000100008&script=sci_arttext",
+      "sourcePage": "https://revistas.unisinos.br/index.php/contextosclinicos/article/view/ctc.2015.81.07",
+      "language": "pt-BR",
+      "format": "Estudo de caso com seguimento",
+      "access": "Texto integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas a descrição dos encontros e as avaliações final e de seguimento.",
+      "rights": "CC BY 3.0, conforme a versão publicada do artigo.",
+      "caveat": "Descreve uma pessoa e uma combinação de procedimentos. Não permite isolar o efeito de cada técnica.",
+      "relevance": "Na descrição dos encontros, observe como o participante avaliou seu desempenho social. Compare seu relato com as medidas de seguimento.",
+      "nodes": [
+        "interpretar-teste",
+        "ensaio-comportamental",
+        "pesquisa-caso-unico"
+      ]
+    },
+    {
+      "id": "casos-imagens",
+      "title": "Uso de imagens para a reestruturação cognitiva: relato de caso",
+      "authors": "Lia Silvia Kunzler, Maria Cecília Ferreira-de-Lima e Yu Hua Feng",
+      "institution": "Revista Brasileira de Terapias Cognitivas",
+      "year": 2020,
+      "url": "https://pepsic.scielo.org/pdf/rbtc/v16n2/v16n2a07.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Série de casos clínicos · PDF",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos o texto e os três casos, incluindo o uso do desenho e a discussão de imagens mentais.",
+      "rights": "Link para leitura na fonte. Não foi confirmada licença específica para reprodução.",
+      "caveat": "Três relatos ilustrativos. Atribuir uma mudança a um componente isolado exigiria outro desenho de estudo.",
+      "relevance": "Leia a introdução sobre imagens espontâneas antes dos casos. Depois veja como a descrição verbal ou o desenho dão acesso ao significado de uma cena.",
+      "nodes": [
+        "imagens-mentais"
+      ]
+    },
+    {
+      "id": "aula-pensamentos",
+      "title": "Identificando e flexibilizando pensamentos automáticos",
+      "authors": "Thaís Sanches Silva",
+      "institution": "Centro de Estudos em Terapia Cognitivo-Comportamental (CETCC)",
+      "year": 2023,
+      "url": "https://www.cetcc.com.br/storage/file/169825838265395dce7ce41.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Aula em slides · PDF",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidas a agenda, a apresentação de registros de três e cinco colunas e a seção sobre imagens mentais.",
+      "rights": "Link para leitura na fonte. Não foi confirmada licença específica para reprodução.",
+      "caveat": "Aula para formação. As descrições de pensamentos disfuncionais referem-se aos exemplos selecionados e não definem todo pensamento automático.",
+      "relevance": "Procure “Imagens mentais” e compare as perguntas sobre a cena com os campos reservados a pensamentos e emoções no registro.",
+      "nodes": [
+        "pensamentos",
+        "imagens-mentais"
+      ]
+    },
+    {
+      "id": "telepsi-flexibilidade",
+      "title": "Flexibilidade cognitiva",
+      "authors": "Equipe do projeto TelePSI",
+      "institution": "Hospital de Clínicas de Porto Alegre",
+      "year": 2020,
+      "url": "https://www.youtube.com/watch?v=5SomrKU4nNo",
+      "sourcePage": "https://telepsi.hcpa.edu.br/v%C3%ADdeos-de-psicoeduca%C3%A7%C3%A3o",
+      "language": "pt-BR",
+      "format": "Vídeo de psicoeducação · 1 min 57 s",
+      "access": "Vídeo gratuito no YouTube, sem login na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos a página de origem do TelePSI, o título, o canal, a duração e a disponibilidade no player público sem login.",
+      "rights": "Consulta pelo player do canal responsável. Licença de reutilização não confirmada.",
+      "caveat": "Peça breve de psicoeducação produzida no contexto da pandemia.",
+      "relevance": "Assista à apresentação sobre flexibilidade cognitiva e separe reconhecer uma segunda interpretação de ter evidências para adotá-la.",
+      "nodes": [
+        "examinar-evidencias",
+        "comparar-explicacoes"
+      ]
+    },
+    {
+      "id": "telepsi-problemas",
+      "title": "Resolução de problemas",
+      "authors": "Equipe do projeto TelePSI",
+      "institution": "Hospital de Clínicas de Porto Alegre",
+      "year": 2020,
+      "url": "https://www.youtube.com/watch?v=KZmtZn0lV1g",
+      "sourcePage": "https://telepsi.hcpa.edu.br/v%C3%ADdeos-de-psicoeduca%C3%A7%C3%A3o",
+      "language": "pt-BR",
+      "format": "Vídeo de psicoeducação · 2 min 52 s",
+      "access": "Vídeo gratuito no YouTube, sem login na consulta.",
+      "checkedAt": "2026-11-15",
+      "verification": "Conferidos a página de origem do TelePSI, o título, o canal, a duração e a disponibilidade no player público sem login.",
+      "rights": "Consulta pelo player do canal responsável. Licença de reutilização não confirmada.",
+      "caveat": "Peça breve de psicoeducação produzida no contexto da pandemia.",
+      "relevance": "Comece pelo vídeo sobre resolução de problemas. Imagine um obstáculo cotidiano e compare o que muda quando ele é descrito de maneira específica.",
+      "nodes": [
+        "solucao-problemas"
+      ]
+    }
+  ]
+}
