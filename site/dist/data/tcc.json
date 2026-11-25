@@ -8,8 +8,8 @@
       "body": "As terapias cognitivas e comportamentais reúnem tradições com histórias próprias. Modelos de aprendizagem explicam como experiências e consequências influenciam ações. Na terapia cognitiva de Beck, o significado atribuído a uma situação ajuda a explicar a resposta da pessoa. A trilha começa por essas ideias, passa à formulação de hipóteses e só então examina técnicas.",
       "objective": "Distinguir uma explicação baseada em aprendizagem de uma explicação baseada na interpretação da experiência.",
       "resources": [
-        "knapp",
         "litcc-intro",
+        "knapp",
         "epistemologia"
       ],
       "parent": null,
@@ -17,7 +17,7 @@
       "lane": "center",
       "resourceGuides": {
         "knapp": "Comece por “Fundamento histórico e filosófico das TCC” para situar as tradições. Em “Fundamentos teóricos”, localize as diferenças entre pensamentos automáticos, regras e crenças centrais.",
-        "litcc-intro": "Comece pela apresentação da liga. Depois leia a seção histórica de Knapp e Beck para situar essa definição entre as diferentes terapias cognitivas e comportamentais.",
+        "litcc-intro": "Comece pela aula de introdução da liga da USP. Depois leia o início do artigo de Knapp e Beck para situar o surgimento da terapia cognitiva.",
         "epistemologia": "Leia a comparação das gerações comportamentais e cognitivas. Relacione cada período à pergunta que procurava responder."
       }
     },
@@ -428,7 +428,7 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
-        "avaliacao-inicial": "Leia o Quadro 1. Identifique quais perguntas investigam a queixa e o contexto e quais abrem espaço para explicar a psicoterapia e combinar os próximos passos.",
+        "avaliacao-inicial": "Vá ao checklist da primeira entrevista. Localize onde a equipe explica a terapia e onde pede a avaliação da sessão.",
         "telepsi-modelo": "Assista como exemplo de comunicação ao público. Identifique uma ideia do modelo que o vídeo apresenta em linguagem simples e formule uma pergunta para saber como outra pessoa a entendeu.",
         "fobia-social": "Em “Psicoeducação”, veja como o artigo apresenta o modelo de ansiedade social. Na parte sobre exposição ao vivo, escolha um exemplo e separe a situação temida da expectativa de quem participa.",
         "escala-supervisao": "No quadro com os itens traduzidos, compare os exemplos que descrevem negociação de agenda e pedido de feedback."
@@ -732,15 +732,15 @@
       "body": "Atividades combinadas entre encontros ligam uma pergunta da sessão à rotina da pessoa. Podem envolver observação ou prática. Na retomada, investigar o que foi possível, o que dificultou e o que se aprendeu ajuda a ajustar o plano e a formulação.",
       "objective": "Examinar uma atividade descrita na leitura e indicar sua ligação com a meta, sua viabilidade e como o aprendizado seria discutido.",
       "resources": [
-        "estudo-compras",
-        "padesky"
+        "padesky",
+        "estudo-compras"
       ],
       "parent": "exposicao",
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
         "estudo-compras": "Leia a Tabela 3 e o relato da participante sobre as tarefas de casa. Em “Resultados da terapia”, compare a experiência relatada com as medidas coletadas antes, durante e depois do tratamento.",
-        "padesky": "Procure a passagem sobre a revisão da “tarefa de casa”. Padesky usa esse momento para mostrar como praticar perguntas investigativas e aprender com a resposta da pessoa."
+        "padesky": "Procure a passagem sobre tarefas de casa. Depois veja no estudo de caso como uma atividade acompanhou o que foi discutido na sessão."
       }
     },
     {
@@ -1250,13 +1250,13 @@
       "authors": "Christine Padesky, entrevistada por André Luiz Moreno, responsável pela tradução",
       "institution": "Revista Brasileira de Terapias Cognitivas",
       "year": 2021,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S1808-56872021000200010&script=sci_arttext",
+      "url": "https://rbtc.org.br/detalhe_artigo.asp?id=341",
       "sourcePage": null,
       "language": "pt-BR",
       "format": "Entrevista traduzida",
       "access": "Texto integral gratuito, aberto sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidas as perguntas, a resposta sobre revisar tarefas e a identificação da tradução na íntegra da entrevista.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferida a entrevista integral em português no site da revista, incluindo a avaliação de tarefas de casa.",
       "rights": "Link para leitura na fonte original. Licença de reprodução não confirmada.",
       "caveat": "Relato de uma formadora sobre sua prática de ensino e uso de perguntas.",
       "relevance": "Procure a passagem sobre a revisão da “tarefa de casa”. Padesky usa esse momento para mostrar como praticar perguntas investigativas e aprender com a resposta da pessoa.",
@@ -1944,13 +1944,13 @@
       "authors": "Lia Silvia Kunzler, Maria Cecília Ferreira-de-Lima e Yu Hua Feng",
       "institution": "Revista Brasileira de Terapias Cognitivas",
       "year": 2020,
-      "url": "https://pepsic.scielo.org/pdf/rbtc/v16n2/v16n2a07.pdf",
+      "url": "https://rbtc.org.br/imageBank/pdf/v16n2a07.pdf",
       "sourcePage": null,
       "language": "pt-BR",
       "format": "Série de casos clínicos · PDF",
       "access": "PDF integral gratuito, sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto e os três casos, incluindo o uso do desenho e a discussão de imagens mentais.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferido PDF integral na Revista Brasileira de Terapias Cognitivas, com os três casos.",
       "rights": "Link para leitura na fonte. Não foi confirmada licença específica para reprodução.",
       "caveat": "Três relatos ilustrativos. Atribuir uma mudança a um componente isolado exigiria outro desenho de estudo.",
       "relevance": "Leia a introdução sobre imagens espontâneas antes dos casos. Depois veja como a descrição verbal ou o desenho dão acesso ao significado de uma cena.",

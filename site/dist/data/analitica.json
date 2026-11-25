@@ -8,6 +8,7 @@
       "body": "No hospital Burghölzli, em Zurique, a equipe de Jung estudou como as pessoas respondiam a uma lista de palavras. Atrasos, esquecimentos e mudanças na resposta levantaram uma pergunta sobre o papel dos afetos. Esses experimentos antecederam a colaboração com Freud e ajudam a entender de onde veio a psicologia analítica.",
       "objective": "Na tese de Perrone, identifique o que a equipe conseguia observar e qual explicação Jung propôs para essas observações.",
       "resources": [
+        "serbena-inconsciente",
         "wahba",
         "perrone",
         "debate-libido"
@@ -18,7 +19,8 @@
       "resourceGuides": {
         "wahba": "Leia a apresentação da escola de Zurique. Depois procure “equação pessoal” e acompanhe como a autora relaciona a posição de quem observa ao conhecimento produzido.",
         "perrone": "Comece pela seção sobre o hospital Burghölzli. Acompanhe como as experiências com palavras deram origem a uma hipótese sobre a autonomia dos complexos.",
-        "debate-libido": "Depois do histórico de Zurique, leia em Pinto como a elaboração da teoria da libido modificou a colaboração com Freud."
+        "debate-libido": "Depois do histórico de Zurique, leia em Pinto como a elaboração da teoria da libido modificou a colaboração com Freud.",
+        "serbena-inconsciente": "Leia a introdução. Ela conta como Jung se aproximou de Freud e em que pontos a teoria dos dois começou a divergir."
       }
     },
     {
@@ -185,7 +187,6 @@
       "objective": "Na tese, localize um episódio dos experimentos de associação e separe o comportamento registrado da interpretação proposta pelos pesquisadores.",
       "resources": [
         "perrone",
-        "bonfatti",
         "pa-video-complexos",
         "associacao-merten"
       ],
@@ -194,7 +195,6 @@
       "lane": "left",
       "resourceGuides": {
         "perrone": "Comece pela seção sobre o hospital Burghölzli. Acompanhe como as experiências com palavras deram origem a uma hipótese sobre a autonomia dos complexos.",
-        "bonfatti": "Use a abertura para conhecer os complexos. Mais adiante, localize a diferença entre o padrão teórico e suas formas particulares de expressão.",
         "pa-video-complexos": "Acompanhe como Serbena aproxima personagens dos sonhos e teoria dos complexos. Depois, formule com suas palavras o que um complexo acrescenta à leitura de uma imagem onírica.",
         "associacao-merten": "Consulte a história dos estudos de associação em Zurique e acompanhe um dos indicadores ligados a um possível complexo."
       }
@@ -394,7 +394,7 @@
       "body": "Jung propôs que certos padrões organizariam a experiência para além da história pessoal. Chamou essas disposições de arquétipos e situou-as no inconsciente coletivo. Já a imagem arquetípica ganha uma forma particular em uma narrativa, um sonho ou uma obra. A leitura de Ana Urpia permite perguntar o que se perde quando uma imagem é separada de sua história cultural.",
       "objective": "Diferencie a disposição hipotética da imagem concreta e identifique um dado cultural que mudaria sua leitura da imagem.",
       "resources": [
-        "bonfatti",
+        "serbena-inconsciente",
         "urpia",
         "pa-video-arquetipos"
       ],
@@ -402,9 +402,9 @@
       "relation": "prerequisite",
       "lane": "center",
       "resourceGuides": {
-        "bonfatti": "Use a abertura para conhecer os complexos. Mais adiante, localize a diferença entre o padrão teórico e suas formas particulares de expressão.",
         "urpia": "Acompanhe o percurso entre as noções de inconsciente pessoal, coletivo e ancestralidade. Identifique as ressalvas da autora sobre o olhar europeu para as Áfricas.",
-        "pa-video-arquetipos": "Use a apresentação de Magaldi para situar como Jung concebeu o arquétipo. Ao ler o texto do tópico, procure distinguir o conceito teórico das imagens concretas usadas para ilustrá-lo."
+        "pa-video-arquetipos": "Use a apresentação de Magaldi para situar como Jung concebeu o arquétipo. Ao ler o texto do tópico, procure distinguir o conceito teórico das imagens concretas usadas para ilustrá-lo.",
+        "serbena-inconsciente": "Leia a seção “Arquétipo”. Separe a ideia de um padrão da imagem concreta pela qual ele aparece."
       }
     },
     {
@@ -413,12 +413,12 @@
       "body": "Na formulação junguiana, o arquétipo é um padrão teórico de organização. Uma imagem arquetípica é uma expressão particular que ganha forma em determinada pessoa, época e cultura. Comparar imagens semelhantes exige atender também às diferenças entre elas.",
       "objective": "Distinguir, em um exemplo publicado, a imagem documentada do padrão sugerido para explicá-la.",
       "resources": [
-        "bonfatti",
+        "serbena-inconsciente",
         "pa-video-arquetipos"
       ],
       "resourceGuides": {
-        "bonfatti": "Procure a distinção entre o arquétipo em si e sua expressão. Que aspectos de uma imagem particular dependem de sua história?",
-        "pa-video-arquetipos": "Após a introdução de Magaldi, escolha uma imagem mencionada e indique qual parte é exemplo e qual parte é uma proposição teórica."
+        "pa-video-arquetipos": "Após a introdução de Magaldi, escolha uma imagem mencionada e indique qual parte é exemplo e qual parte é uma proposição teórica.",
+        "serbena-inconsciente": "Compare o arquétipo em si com a imagem que toma forma em um sonho ou mito."
       },
       "parent": "arquetipos",
       "relation": "related",
@@ -557,9 +557,9 @@
       "body": "Na psicologia analítica, uma imagem pode ganhar valor de símbolo quando expressa algo cujo sentido ainda se está tentando compreender. Pense numa ponte que reaparece nos desenhos de uma pessoa. As mudanças entre os desenhos, o momento de vida e as lembranças que a ponte provoca podem orientar a investigação.",
       "objective": "Descreva a imagem da ponte antes de interpretá-la. Depois, formule duas perguntas que ajudariam a compreender o sentido particular que ela poderia ter.",
       "resources": [
+        "pa-video-simbolos",
         "penna",
-        "santanna",
-        "pa-video-simbolos"
+        "santanna"
       ],
       "parent": "arquetipos",
       "relation": "sequence",
@@ -567,7 +567,7 @@
       "resourceGuides": {
         "penna": "Compare o que a pesquisadora considera diretamente observável com o sentido atribuído a uma imagem durante a investigação.",
         "santanna": "Compare as perguntas que as três escolas fazem a uma imagem. Em seguida, observe como os profissionais entrevistados descrevem sua própria prática.",
-        "pa-video-simbolos": "Acompanhe a explicação sobre a função do símbolo e o lugar que os opostos podem ocupar numa mesma imagem. Em seguida, confronte o exemplo do professor com a definição do texto do tópico."
+        "pa-video-simbolos": "Veja a explicação de como uma imagem pode ganhar sentido para quem a vive. Depois leia um exemplo nos textos abaixo."
       }
     },
     {
@@ -665,12 +665,12 @@
       "body": "A hipótese de compensação pergunta que relação o sonho mantém com a atitude de vigília: ele pode contrapô-la, modificá-la ou acompanhá-la. A comparação depende de conhecer tanto o relato do sonho quanto a situação de quem sonhou.",
       "objective": "Esboçar duas hipóteses para a mesma imagem e indicar que informação da vigília ajudaria a examiná-las.",
       "resources": [
-        "compensa",
+        "dornelas",
         "seminarios"
       ],
       "resourceGuides": {
-        "compensa": "Na discussão da função compensatória, compare os modos pelos quais um sonho pode se relacionar com a atitude consciente.",
-        "seminarios": "Escolha um sonho discutido nos seminários e localize em que ponto o diálogo recorre ao contexto da vida consciente."
+        "seminarios": "Escolha um sonho discutido nos seminários e localize em que ponto o diálogo recorre ao contexto da vida consciente.",
+        "dornelas": "Procure a passagem que relaciona compensação e atitude consciente. Observe o que um sonho contrastante poderia tornar visível."
       },
       "parent": "sonhos",
       "relation": "related",
@@ -756,7 +756,7 @@
         "padua"
       ],
       "resourceGuides": {
-        "fordham": "Na comparação entre Jung e Fordham, procure qual lacuna sobre a infância os autores procuram preencher.",
+        "fordham": "Leia a parte sobre Fordham e Neumann. Identifique qual questão da infância cada autor acrescenta à teoria junguiana.",
         "padua": "No panorama da escola desenvolvimentista, identifique a ênfase atribuída às relações iniciais e compare-a com outra vertente."
       },
       "parent": "escolas",
@@ -773,7 +773,7 @@
         "santanna"
       ],
       "resourceGuides": {
-        "fordham": "Procure “deintegração” e “reintegração” na exposição do self primário. Identifique o que a interação com o ambiente acrescenta ao modelo.",
+        "fordham": "Na parte sobre Fordham, observe a sequência de deintegração e reintegração e o lugar da interação com o ambiente.",
         "santanna": "Na apresentação da escola desenvolvimentista, leia as passagens sobre Fordham e desenvolvimento do ego. Compare o vocabulário com o do artigo sobre o self primário."
       },
       "parent": "desenvolvimentista",
@@ -1062,28 +1062,6 @@
       ]
     },
     {
-      "id": "bonfatti",
-      "title": "Acerca do conceito de arquétipo na psicologia analítica: breves considerações",
-      "authors": "Paulo Bonfatti, Cátia Cristina de Carvalho Nogueira, Kamilla Marina de Almeida Telles e Murilo de Almeida Campista Sousa",
-      "institution": "Analecta / Centro de Ensino Superior de Juiz de Fora",
-      "year": 2018,
-      "url": "https://seer.uniacademia.edu.br/index.php/ANL/article/viewFile/1793/1138",
-      "sourcePage": null,
-      "language": "pt-BR",
-      "format": "Artigo de introdução em PDF",
-      "access": "PDF integral gratuito no periódico.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos os autores, a edição 4(4) de 2018 e o percurso do estudo das associações verbais à definição de arquétipo.",
-      "rights": "A publicação disponibiliza consulta gratuita. A licença de reprodução deste item não foi verificada.",
-      "caveat": "Introdução baseada em revisão bibliográfica. A discussão do conceito é mais extensa que a apresentação dos experimentos.",
-      "relevance": "Use a abertura para conhecer os complexos. Mais adiante, localize a diferença entre o padrão teórico e suas formas particulares de expressão.",
-      "nodes": [
-        "complexos",
-        "arquetipos",
-        "forma-imagem"
-      ]
-    },
-    {
       "id": "santos",
       "title": "A psicologia analítica e sombra em confronto com o sujeito",
       "authors": "Douglas Manoel Antonio de Abreu Pestana Santos",
@@ -1153,13 +1131,13 @@
       "authors": "Paulo Afrânio Sant’Anna",
       "institution": "Psicologia USP / Universidade de São Paulo",
       "year": 2005,
-      "url": "https://www.scielo.br/j/pusp/a/5zPRytQhPB446kZQy8YjnmH/?format=pdf&lang=pt",
+      "url": "https://www.redalyc.org/pdf/3051/305128452003.pdf",
       "sourcePage": null,
       "language": "pt-BR",
       "format": "Artigo de pesquisa em PDF",
       "access": "PDF integral gratuito na SciELO.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto sobre as escolas clássica, desenvolvimentista e arquetípica e os trechos sobre entrevistas com psicoterapeutas brasileiros.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferido o PDF integral de Psicologia USP no repositório acadêmico Redalyc.",
       "rights": "A publicação disponibiliza consulta gratuita. A licença de reprodução deste item não foi verificada.",
       "caveat": "O artigo discute imagens por meio de três orientações e de depoimentos colhidos em um contexto específico.",
       "relevance": "Compare as perguntas que as três escolas fazem a uma imagem. Em seguida, observe como os profissionais entrevistados descrevem sua própria prática.",
@@ -1192,7 +1170,8 @@
       "relevance": "Leia a descrição do trabalho com um sonho e procure onde entram os significados trazidos por quem sonhou e os paralelos culturais.",
       "nodes": [
         "sonhos",
-        "contexto-sonho"
+        "contexto-sonho",
+        "compensacao"
       ]
     },
     {
@@ -1501,20 +1480,23 @@
       "authors": "Carlos Augusto Serbena",
       "institution": "Revista da Abordagem Gestáltica",
       "year": 2010,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S1809-68672010000100010&script=sci_arttext",
+      "url": "https://pepsic.scielo.org/pdf/rag/v16n1/v16n1a10.pdf",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Artigo teórico",
+      "format": "Artigo de introdução · PDF de 7 páginas",
       "access": "Texto integral gratuito no PePSIC.",
-      "checkedAt": "2026-11-15",
-      "verification": "Consultados o texto integral e os parágrafos da introdução sobre a relação entre o ego e a psique.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o PDF do periódico em português e os trechos sobre história, arquétipos e símbolos.",
       "rights": "O artigo está disponível para leitura no periódico. A licença de reprodução não foi verificada.",
       "caveat": "O autor apresenta essas distinções a partir do referencial de Jung.",
       "relevance": "Na introdução, procure “inconsciente pessoal”. Leia desde o parágrafo anterior até a discussão da consciência do ego. Que parte de uma experiência pode escapar à percepção imediata de quem a vive?",
       "nodes": [
+        "origens",
         "ego",
         "campo-consciencia",
         "pessoal-coletivo",
+        "arquetipos",
+        "forma-imagem",
         "mito-contexto",
         "signo-simbolo"
       ]
@@ -1737,26 +1719,6 @@
       ]
     },
     {
-      "id": "compensa",
-      "title": "O aspecto compensatório dos sonhos na psicologia analítica",
-      "authors": "Renan de Campos Coelho e Paulo Ferreira Bonfatti",
-      "institution": "Cadernos de Psicologia / UniAcademia",
-      "year": 2021,
-      "url": "https://seer.uniacademia.edu.br/index.php/cadernospsicologia/article/download/3148/2148",
-      "sourcePage": null,
-      "language": "pt-BR",
-      "format": "Revisão de literatura · PDF",
-      "access": "PDF integral de acesso gratuito.",
-      "verification": "Conferidas as páginas 276 a 298, a discussão da função compensatória e as ressalvas à adoção de uma regra geral.",
-      "rights": "Consulta gratuita na fonte de publicação. A licença de reutilização não foi confirmada.",
-      "caveat": "Revisão da literatura junguiana. A função compensatória é tratada como hipótese teórica.",
-      "checkedAt": "2026-11-15",
-      "relevance": "Acompanhe a discussão sobre a atitude consciente e as diferentes relações que uma imagem onírica pode manter com ela.",
-      "nodes": [
-        "compensacao"
-      ]
-    },
-    {
       "id": "serie-caso",
       "title": "Imagens arquetípicas na série de sonhos de um caso de bulimia nervosa",
       "authors": "Maria do Desterro de Figueiredo, Carlos Augusto Serbena, Jessica Caroline dos Santos e Rosana Bento Radominski",
@@ -1841,20 +1803,20 @@
     },
     {
       "id": "fordham",
-      "title": "O self primário e suas repercussões na psicoterapia infantil: contribuições de Fordham à psicologia analítica",
-      "authors": "Ana Maria Vieira Monteiro e Paulo Ferreira Bonfatti",
-      "institution": "Cadernos de Psicologia / UniAcademia",
+      "title": "Noções de infância na psicologia analítica e possíveis convergências",
+      "authors": "Maíra Meira Nunes e Carlos Augusto Serbena",
+      "institution": "Revista Brasileira de Psicoterapia",
       "year": 2021,
-      "url": "https://seer.uniacademia.edu.br/index.php/cadernospsicologia/article/viewFile/3182/2182",
+      "url": "https://rbp.celg.org.br/detalhe_artigo.asp?id=394",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Revisão de literatura · PDF",
-      "access": "PDF integral de acesso gratuito.",
-      "verification": "Conferidos o PDF em português e a apresentação dos conceitos de self primário e reintegração na formulação de Fordham.",
-      "rights": "Consulta gratuita na fonte de publicação. A licença de reutilização não foi confirmada.",
-      "caveat": "Revisão da proposta de Fordham. O modelo não fornece uma escala de desenvolvimento infantil.",
-      "checkedAt": "2026-11-15",
-      "relevance": "Compare a ideia de self primário à compreensão inicial de Jung sobre a vida psíquica da criança.",
+      "format": "Artigo de revisão",
+      "access": "Artigo integral gratuito em português.",
+      "verification": "Conferidos o texto e a seção sobre Fordham e Neumann no periódico.",
+      "rights": "Consulta aberta na revista. O mapa remete à publicação.",
+      "caveat": "Revisão narrativa que coloca teorias em diálogo com pesquisas de desenvolvimento. Os conceitos de Fordham pertencem a seu referencial clínico.",
+      "checkedAt": "2026-11-25",
+      "relevance": "Na seção sobre Fordham, leia como a ideia de self primário procura explicar o início da relação entre o bebê e o ambiente.",
       "nodes": [
         "desenvolvimentista",
         "self-primario"

@@ -8,14 +8,16 @@
       "body": "No fim do século XIX, a investigação da histeria aproximou Freud do trabalho de Charcot e Breuer. O método catártico buscava recordar, sob hipnose, situações associadas ao sintoma. Compare a reconstrução histórica desse período com o relato retrospectivo que Freud apresentou em suas conferências.",
       "objective": "Distinguir o lugar da hipnose e da recordação no método catártico do lugar da fala no método que Freud desenvolveu depois.",
       "resources": [
-        "psi-historia-inconsciente",
-        "psi-carvalho",
+        "psi-nascimento",
         "psi-video-origens",
-        "psi-freud-1"
+        "psi-hipnose-interpretacao"
       ],
       "parent": null,
       "relation": "sequence",
-      "lane": "center"
+      "lane": "center",
+      "resourceGuides": {
+        "psi-nascimento": "Comece pela introdução na p. 88. Ela situa Charcot e Breuer na trajetória de Freud. Nas considerações finais, veja onde ele se afasta dos dois."
+      }
     },
     {
       "id": "charcot-breuer",
@@ -23,12 +25,11 @@
       "body": "Freud acompanhou as demonstrações de Charcot em Paris. Em Viena, tomou contato com outro uso da hipnose no relato de Breuer sobre Anna O. Os dois encontros colocaram problemas diferentes para a explicação da histeria.",
       "objective": "Distinguir a demonstração de Charcot da investigação que Breuer descreveu no caso de Anna O.",
       "resources": [
-        "psi-construcao-histeria",
-        "psi-historia-inconsciente"
+        "psi-nascimento",
+        "psi-hipnose-interpretacao"
       ],
       "resourceGuides": {
-        "psi-construcao-histeria": "Leia em sequência as seções dedicadas a Charcot e a Breuer. A que pergunta sobre a histeria cada um buscava responder?",
-        "psi-historia-inconsciente": "Na reconstrução dos anos anteriores à associação livre, procure o contraste entre a sugestão hipnótica e a rememoração de uma cena."
+        "psi-nascimento": "Leia separadamente os trechos dedicados a Charcot e a Breuer. Compare a demonstração da hipnose com o relato de Anna O."
       },
       "parent": "origens",
       "relation": "related",
@@ -40,12 +41,12 @@
       "body": "Na hipótese catártica, recordar uma cena e expressar o afeto ligado a ela podiam modificar um sintoma. Os relatos de Breuer e Freud permitem acompanhar a formulação dessa hipótese e os impasses do método.",
       "objective": "Reconstituir a sequência entre lembrança, afeto e sintoma na explicação catártica.",
       "resources": [
-        "psi-construcao-histeria",
-        "psi-carvalho"
+        "psi-hipnose-interpretacao",
+        "psi-nascimento"
       ],
       "resourceGuides": {
-        "psi-construcao-histeria": "Na seção sobre Breuer, identifique a função atribuída ao ato de narrar e a divergência posterior sobre os estados hipnoides.",
-        "psi-carvalho": "Em “O percurso de Freud até a associação livre”, acompanhe as dificuldades que aparecem quando a pessoa não entra em hipnose."
+        "psi-nascimento": "No trecho sobre o trabalho de Breuer, procure a sequência entre lembrar um acontecimento, expressar o afeto e o alívio descrito no caso.",
+        "psi-hipnose-interpretacao": "Na p. 3, acompanhe a sequência entre lembrar um acontecimento, expressar o afeto e o efeito que o método pretendia produzir."
       },
       "parent": "origens",
       "relation": "related",
@@ -58,12 +59,15 @@
       "objective": "Explicar, com um exemplo inventado, a diferença entre uma associação feita por quem fala e uma interpretação oferecida por quem escuta.",
       "resources": [
         "psi-video-livre",
-        "psi-associacao-hist",
-        "psi-freud-3"
+        "psi-carvalho",
+        "psi-hipnose-interpretacao"
       ],
       "parent": "origens",
       "relation": "sequence",
-      "lane": "center"
+      "lane": "center",
+      "resourceGuides": {
+        "psi-video-livre": "Acompanhe a explicação do que muda quando a pessoa diz o que lhe ocorre, inclusive o que parece fora de assunto."
+      }
     },
     {
       "id": "regra-fundamental",
@@ -75,7 +79,7 @@
         "psi-associacao-hist"
       ],
       "resourceGuides": {
-        "psi-video-livre": "Acompanhe a passagem em que Dunker diferencia a regra de falar do que ocorre da procura deliberada por uma lembrança.",
+        "psi-video-livre": "Localize a regra de dizer o que aparece, mesmo que pareça constrangedor ou pouco importante.",
         "psi-associacao-hist": "Na discussão do período de 1900 a 1905, observe por que Freud relaciona ideias aparentemente fortuitas a cadeias de associações."
       },
       "parent": "associacao",
@@ -94,7 +98,10 @@
       ],
       "parent": "associacao",
       "relation": "prerequisite",
-      "lane": "center"
+      "lane": "center",
+      "resourceGuides": {
+        "psi-miranda": "Comece pela vinheta da introdução. Veja a pergunta que ela provoca e como o texto chega ao conceito de recalque."
+      }
     },
     {
       "id": "recalque-originario",
@@ -106,7 +113,7 @@
         "psi-sentidos-inconsciente"
       ],
       "resourceGuides": {
-        "psi-miranda": "Localize a explicação dos dois tempos do recalque e identifique o papel da fixação no primeiro.",
+        "psi-miranda": "Busque “recalque originário”. Diferencie a fixação inicial do destino das representações que depois se ligam a ela.",
         "psi-sentidos-inconsciente": "Na passagem sobre o inconsciente originário, procure o que dá apoio à hipótese de um núcleo que nunca chegou à consciência."
       },
       "parent": "inconsciente",
@@ -123,7 +130,7 @@
         "psi-sintoma-freud"
       ],
       "resourceGuides": {
-        "psi-miranda": "Na discussão da fobia de animal, siga a substituição da figura paterna e a transformação do afeto em angústia.",
+        "psi-miranda": "Siga o argumento sobre o destino da representação e do afeto quando o recalque não impede a formação do sintoma.",
         "psi-sintoma-freud": "Em “O sintoma e os caminhos de sua satisfação”, encontre a relação entre retorno, substituição e satisfação."
       },
       "parent": "inconsciente",
@@ -136,13 +143,16 @@
       "body": "O conteúdo manifesto é o sonho tal como se consegue contá-lo. Freud chama de pensamentos latentes as cadeias de ideias que reconstrói a partir das associações do sonhador. Na condensação, uma imagem reúne elementos de várias cadeias. No deslocamento, um detalhe de pouca aparência ganha destaque.",
       "objective": "Escolha duas associações no relato de Freud sobre a refeição com espinafre. Mostre que elementos do sonho elas ligam e onde é possível reconhecer condensação ou deslocamento.",
       "resources": [
+        "psi-cinema-sonho",
         "psi-freud-sonho-pt",
-        "psi-censura-sonhos",
-        "psi-sonhos"
+        "psi-censura-sonhos"
       ],
       "parent": "inconsciente",
       "relation": "related",
-      "lane": "left"
+      "lane": "left",
+      "resourceGuides": {
+        "psi-cinema-sonho": "No trecho sobre a linguagem onírica, veja quais transformações Freud chamou de trabalho do sonho. Depois compare com a montagem de um filme."
+      }
     },
     {
       "id": "manifesto-latente",
@@ -150,12 +160,12 @@
       "body": "O relato lembrado ao despertar é o ponto de partida. Em Sobre o sonho, as associações de Freud acrescentam ideias que não aparecem explicitamente no relato inicial.",
       "objective": "Separar, no exemplo de Freud, um detalhe lembrado de uma associação que surge ao examiná-lo.",
       "resources": [
-        "psi-freud-sonho-pt",
-        "psi-sonho-ligacao"
+        "psi-cinema-sonho",
+        "psi-freud-sonho-pt"
       ],
       "resourceGuides": {
         "psi-freud-sonho-pt": "Na seção II, leia o sonho da mesa e acompanhe a série de ideias ligada ao espinafre. Anote onde termina o relato e começam as associações.",
-        "psi-sonho-ligacao": "Na discussão inicial de Freud, procure a distinção entre o texto do sonho e seus pensamentos e siga o argumento sobre as vias de ligação."
+        "psi-cinema-sonho": "No trecho sobre o sonho em Freud, separe aquilo que a pessoa conta ao acordar dos pensamentos que surgem durante as associações."
       },
       "parent": "sonhos",
       "relation": "related",
@@ -167,12 +177,14 @@
       "body": "Uma figura ou uma palavra do sonho pode reunir traços de várias pessoas, lembranças ou expressões. A leitura das associações permite reconstruir como esses elementos se cruzam.",
       "objective": "Mostrar como mais de uma cadeia associativa contribui para uma única figura onírica.",
       "resources": [
+        "psi-cinema-sonho",
         "psi-freud-sonho-pt",
         "psi-sonho-linguagem"
       ],
       "resourceGuides": {
         "psi-freud-sonho-pt": "Na seção IV, acompanhe como as figuras compostas conservam detalhes de várias pessoas. Escolha dois traços e identifique de onde vêm.",
-        "psi-sonho-linguagem": "Procure o exemplo da palavra “colidouescapo”. Identifique como a leitura de suas partes abre caminhos diferentes de associação."
+        "psi-sonho-linguagem": "Procure o exemplo da palavra “colidouescapo”. Identifique como a leitura de suas partes abre caminhos diferentes de associação.",
+        "psi-cinema-sonho": "Busque “condensação”. Observe o que permite a uma imagem curta reunir mais de uma linha de pensamento."
       },
       "parent": "sonhos",
       "relation": "related",
@@ -184,12 +196,13 @@
       "body": "Um detalhe que domina o relato pode ocupar um lugar secundário nos pensamentos reconstruídos. Freud chama de deslocamento essa mudança de intensidade entre elementos ligados pelas associações.",
       "objective": "Identificar o que ganha e o que perde destaque no exemplo de um sonho.",
       "resources": [
+        "psi-cinema-sonho",
         "psi-freud-sonho-pt",
-        "psi-sonho-ligacao"
+        "psi-trabalho-sonho-usp"
       ],
       "resourceGuides": {
         "psi-freud-sonho-pt": "Na seção V, retome o exemplo do propileno e acompanhe as ligações com amil e propileus. Em que ponto muda o foco do relato?",
-        "psi-sonho-ligacao": "Na parte sobre Freud, localize a discussão das intensidades psíquicas e veja como Green relaciona seu deslocamento à sobredeterminação."
+        "psi-cinema-sonho": "Busque “deslocamento”. Repare como o destaque de um elemento no relato pode ser diferente da importância que ele tem nas associações."
       },
       "parent": "sonhos",
       "relation": "related",
@@ -201,12 +214,13 @@
       "body": "Um pensamento pode ganhar expressão visual em uma cena. Essa transformação impõe dificuldades quando o sonho precisa figurar uma relação lógica, uma alternativa ou uma negação.",
       "objective": "Reconhecer uma relação de pensamento transformada em sequência de imagens na teoria freudiana.",
       "resources": [
+        "psi-cinema-sonho",
         "psi-freud-sonho-pt",
-        "psi-sonho-linguagem"
+        "psi-trabalho-sonho-usp"
       ],
       "resourceGuides": {
         "psi-freud-sonho-pt": "Leia a seção VI sobre a figuração de relações de causa e efeito. A nota 23 explica a escolha do tradutor para o termo alemão.",
-        "psi-sonho-linguagem": "Procure a passagem sobre figurabilidade e acompanhe como palavras e expressões podem fornecer imagens à cena do sonho."
+        "psi-cinema-sonho": "Na explicação da “figurabilidade”, veja como a passagem de uma ideia abstrata para uma imagem permite representá-la numa cena."
       },
       "parent": "sonhos",
       "relation": "related",
@@ -218,12 +232,16 @@
       "body": "Freud propôs dois modelos para pensar o aparelho psíquico. A primeira tópica distingue inconsciente, pré-consciente e consciente. A segunda descreve relações entre isso, eu e supereu. Como uma defesa do eu pode operar inconscientemente, os termos das duas séries não coincidem um a um.",
       "objective": "Montar um quadro que compare a pergunta respondida por cada modelo e explicar por que o eu pode ter atividades inconscientes.",
       "resources": [
-        "psi-topicas-pt",
+        "psi-topicas-uece",
+        "psi-video-topica",
         "psi-sentidos-inconsciente"
       ],
       "parent": "inconsciente",
       "relation": "sequence",
-      "lane": "center"
+      "lane": "center",
+      "resourceGuides": {
+        "psi-topicas-uece": "Compare os quadros das p. 27–28. Observe por que os sistemas da primeira tópica não correspondem um a um às instâncias da segunda."
+      }
     },
     {
       "id": "primeira-topica",
@@ -231,12 +249,12 @@
       "body": "A primeira tópica distingue sistemas do aparelho psíquico. Uma lembrança disponível quando evocada e uma representação ativamente mantida fora da consciência ocupam lugares diferentes nesse modelo.",
       "objective": "Explicar por que estar momentaneamente fora da consciência não basta para definir o sistema inconsciente.",
       "resources": [
-        "psi-aparelho-psiquico",
-        "psi-sentidos-inconsciente"
+        "psi-topicas-uece",
+        "psi-aparelho-psiquico"
       ],
       "resourceGuides": {
         "psi-aparelho-psiquico": "Leia a seção sobre o capítulo 7 de A interpretação dos sonhos. Localize a passagem do modelo espacial para a explicação por modos de funcionamento.",
-        "psi-sentidos-inconsciente": "Compare o sentido descritivo de inconsciente com seu emprego como substantivo na discussão da primeira tópica."
+        "psi-topicas-uece": "No quadro da p. 27, compare o que está acessível à lembrança com o que fica excluído da consciência."
       },
       "parent": "topicas",
       "relation": "related",
@@ -249,12 +267,11 @@
       "objective": "Explicar com o exemplo do eu por que os dois modelos não se correspondem peça por peça.",
       "resources": [
         "psi-video-topica",
-        "psi-topicas-pt",
+        "psi-topicas-uece",
         "psi-sentidos-inconsciente"
       ],
       "resourceGuides": {
-        "psi-video-topica": "Na aula de Dunker, ouça a discussão das traduções id, ego e superego e compare os nomes com isso, eu e supereu.",
-        "psi-topicas-pt": "Localize a apresentação da segunda tópica. Identifique uma função do eu e uma do supereu e compare sua relação com a consciência.",
+        "psi-video-topica": "Comece com a descrição de cada instância e volte à parte que explica por que o eu também tem aspectos inconscientes.",
         "psi-sentidos-inconsciente": "Na passagem dedicada ao Isso, acompanhe o que muda no alcance do termo inconsciente a partir de 1923."
       },
       "parent": "topicas",
@@ -272,7 +289,10 @@
       ],
       "parent": "topicas",
       "relation": "related",
-      "lane": "right"
+      "lane": "right",
+      "resourceGuides": {
+        "psi-pulsao": "Comece pela definição de pulsão, antes da discussão epistemológica. Identifique o problema que o conceito tenta explicar."
+      }
     },
     {
       "id": "componentes-pulsao",
@@ -284,7 +304,7 @@
         "psi-corpo-pulsao"
       ],
       "resourceGuides": {
-        "psi-pulsao": "Localize as quatro definições na discussão de Trieb. Compare particularmente o que Honda chama de fonte com o que ele descreve como pressão.",
+        "psi-pulsao": "Na discussão do texto de 1915, procure as quatro dimensões da pulsão e anote o que varia de acordo com a história da pessoa.",
         "psi-corpo-pulsao": "Procure a enumeração dos elementos fundamentais. Acompanhe como o autor passa da excitação corporal ao problema da satisfação."
       },
       "parent": "pulsao",
@@ -301,7 +321,7 @@
         "psi-pulsoes-gomes"
       ],
       "resourceGuides": {
-        "psi-pulsoes-morte": "Comece pela seção sobre o narcisismo e prossiga à discussão da compulsão à repetição. Anote as duas dificuldades que surgem para o primeiro dualismo.",
+        "psi-pulsoes-morte": "Leia as passagens sobre o narcisismo e a repetição para ver por que Freud reformulou a oposição entre as pulsões.",
         "psi-pulsoes-gomes": "Leia em paralelo as partes sobre a primeira e a segunda teoria das pulsões e compare o estatuto que Gomes atribui a cada formulação."
       },
       "parent": "pulsao",
@@ -319,7 +339,10 @@
       ],
       "parent": "pulsao",
       "relation": "prerequisite",
-      "lane": "right"
+      "lane": "right",
+      "resourceGuides": {
+        "psi-video-sexualidade": "Comece pela explicação da satisfação corporal na infância e acompanhe como Freud organiza as diferentes formas de prazer."
+      }
     },
     {
       "id": "apoio-autoerotismo",
@@ -327,12 +350,12 @@
       "body": "Freud usa a sucção para pensar como uma satisfação pode se apoiar numa função vital e ganhar relativa independência dela. Amaral mostra que a formulação foi alterada nas sucessivas edições dos Três ensaios.",
       "objective": "Distinguir alimentação, apoio e satisfação autoerótica no exemplo utilizado por Freud.",
       "resources": [
-        "psi-edicoes-ensaios",
-        "psi-couto"
+        "psi-couto",
+        "psi-edicoes-ensaios"
       ],
       "resourceGuides": {
         "psi-edicoes-ensaios": "No comentário ao segundo ensaio, compare a descrição da sucção em 1905 com o acréscimo de 1915 sobre a função vital.",
-        "psi-couto": "Na parte dedicada a Freud, localize a relação entre a satisfação obtida no próprio corpo, as zonas erógenas e as pulsões parciais."
+        "psi-couto": "Na parte sobre Freud, observe a diferença entre o alimento que satisfaz uma necessidade e a sucção que pode ser repetida pelo prazer."
       },
       "parent": "sexualidade",
       "relation": "related",
@@ -344,12 +367,14 @@
       "body": "O conceito de narcisismo coloca uma pergunta para a teoria da libido. Como pensar o eu como objeto de investimento, além dos investimentos em outros objetos? Freud reformula essa questão em edições sucessivas dos Três ensaios e em textos da década de 1910.",
       "objective": "Reconhecer por que a hipótese de investimento libidinal no eu modifica a primeira teoria das pulsões.",
       "resources": [
-        "psi-edicoes-ensaios",
-        "psi-pulsoes-morte"
+        "psi-eu-narcisismo",
+        "psi-pulsoes-morte",
+        "psi-edicoes-ensaios"
       ],
       "resourceGuides": {
         "psi-edicoes-ensaios": "Na seção sobre as edições posteriores a 1905, procure a introdução do narcisismo na edição de 1910 e suas implicações para a gênese do eu.",
-        "psi-pulsoes-morte": "Na seção sobre o narcisismo, verifique por que admitir investimentos libidinais no próprio eu cria uma dificuldade para o primeiro dualismo."
+        "psi-pulsoes-morte": "Na seção sobre o narcisismo, verifique por que admitir investimentos libidinais no próprio eu cria uma dificuldade para o primeiro dualismo.",
+        "psi-eu-narcisismo": "Nas p. 164–165, acompanhe como Freud formula dois destinos para o investimento da libido e por que isso muda a teoria."
       },
       "parent": "sexualidade",
       "relation": "related",
@@ -361,12 +386,16 @@
       "body": "Na teoria freudiana, uma defesa procura afastar experiências que despertam conflito. O recalque é uma das defesas descritas. Freud pensa certos sintomas como formações de compromisso em que uma tendência e a defesa contra ela encontram expressão simultânea. Os sentidos atribuídos a um sintoma dependem de sua história.",
       "objective": "Reconstruir um argumento freudiano sobre a formação de um sintoma, identificando a hipótese de conflito e a função atribuída à defesa.",
       "resources": [
+        "psi-sintoma-freud",
         "psi-lacan-sintoma",
         "psi-miranda"
       ],
       "parent": "topicas",
       "relation": "sequence",
-      "lane": "center"
+      "lane": "center",
+      "resourceGuides": {
+        "psi-sintoma-freud": "Comece pela discussão do sintoma em Freud. Identifique o desejo e a defesa que podem participar da mesma formação."
+      }
     },
     {
       "id": "compromisso",
@@ -378,7 +407,7 @@
         "psi-lacan-sintoma"
       ],
       "resourceGuides": {
-        "psi-sintoma-freud": "Leia a seção 4 e procure a passagem que relaciona conflito, regressão e satisfação substitutiva.",
+        "psi-sintoma-freud": "No trecho sobre o sintoma como formação de compromisso, procure as duas tendências que deixam marcas em uma mesma ação.",
         "psi-lacan-sintoma": "Na parte sobre Freud entre 1900 e 1920, compare a descrição do sentido do sintoma com sua função na economia do prazer."
       },
       "parent": "sintoma",
@@ -395,7 +424,7 @@
         "psi-lacan-sintoma"
       ],
       "resourceGuides": {
-        "psi-sintoma-freud": "Na seção 3, siga um dos exemplos de ação obsessiva. Separe a descrição do ato da reconstrução apresentada por Freud.",
+        "psi-sintoma-freud": "Siga o exemplo das Conferências introdutórias. Diferencie o ato descrito das ligações que Freud propõe a partir da história da paciente.",
         "psi-lacan-sintoma": "Na discussão das Conferências introdutórias, localize a relação que Freud propõe entre a história do sujeito e o sentido do sintoma."
       },
       "parent": "sintoma",
@@ -413,7 +442,10 @@
       ],
       "parent": "sintoma",
       "relation": "sequence",
-      "lane": "center"
+      "lane": "center",
+      "resourceGuides": {
+        "psi-video-transferencia": "Pense no que muda quando um modo de se relacionar reaparece com o analista. Use a explicação do vídeo para ler o artigo."
+      }
     },
     {
       "id": "transferencia-dora",
@@ -425,7 +457,7 @@
         "psi-afeto-hostil"
       ],
       "resourceGuides": {
-        "psi-transferencia": "Localize o comentário sobre Fragmento da análise de um caso de histeria. Identifique como o termo reedição entra na definição.",
+        "psi-transferencia": "Vá a “Dora e as transferências”, nas pp. 158–159. Separe a interrupção do tratamento da interpretação que Freud faz depois.",
         "psi-afeto-hostil": "Na seção sobre histeria e neurose obsessiva, compare a saída de Dora do tratamento com a interpretação posterior de Freud."
       },
       "parent": "transferencia",
@@ -443,7 +475,7 @@
         "psi-video-transferencia"
       ],
       "resourceGuides": {
-        "psi-afeto-hostil": "Na introdução e na seção sobre histeria, encontre as duas formas de transferência que Freud liga à resistência no texto de 1912.",
+        "psi-afeto-hostil": "Comece pela distinção entre afeto amistoso, hostilidade e desejo recalcado. Veja por que a classificação não depende de gostar ou não do analista.",
         "psi-transferencia": "Procure a discussão de A dinâmica da transferência e distinga a corrente afetuosa das correntes que dificultam a associação.",
         "psi-video-transferencia": "Ouça como Dunker aproxima experiências anteriores da relação atual e volte à distinção de Freud entre as correntes do vínculo."
       },
@@ -457,12 +489,16 @@
       "body": "O conceito põe em foco o que se passa afetivamente com quem escuta. A recomendação inicial de reconhecer possíveis obstáculos na resposta do analista deu lugar a debates sobre seu uso para compreender a relação. Cada posição atribui um valor diferente à origem e ao significado dessa resposta.",
       "objective": "Comparar a formulação de Freud com uma leitura posterior e indicar o que cada autora ou autor entende que merece investigação.",
       "resources": [
-        "psi-contratransferencia",
-        "psi-contratransferencia-debate"
+        "psi-contratransferencia-debate",
+        "psi-contratransferencia"
       ],
       "parent": "transferencia",
       "relation": "related",
-      "lane": "left"
+      "lane": "left",
+      "resourceGuides": {
+        "psi-contratransferencia-debate": "Comece pela introdução, na p. 181. Compare o que Freud, Ferenczi e Heimann propõem fazer com a resposta emocional do analista.",
+        "psi-contratransferencia": "Leia como Heimann descreve a reação do analista e o que se pode aprender ao examiná-la."
+      }
     },
     {
       "id": "contratransferencia-ferenczi",
@@ -470,12 +506,14 @@
       "body": "Ao discutir o tato, Ferenczi pergunta como alguém pode perceber o efeito das próprias intervenções sobre o outro. Seus escritos mudam ao longo do tempo quanto ao lugar dos afetos de quem escuta.",
       "objective": "Comparar a questão do domínio da contratransferência com a noção posterior de sentir com o outro.",
       "resources": [
-        "psi-ferenczi-tato",
-        "psi-contratransferencia-debate"
+        "psi-tato-psicologico",
+        "psi-contratransferencia-debate",
+        "psi-ferenczi-tato"
       ],
       "resourceGuides": {
         "psi-ferenczi-tato": "Compare as passagens dedicadas a A técnica psicanalítica e a Elasticidade da técnica psicanalítica. O que Ferenczi acrescenta com o tato?",
-        "psi-contratransferencia-debate": "Leia a parte dedicada a Ferenczi e localize o que os autores descrevem como mudança de posição em relação a Freud."
+        "psi-contratransferencia-debate": "Leia a parte dedicada a Ferenczi e localize o que os autores descrevem como mudança de posição em relação a Freud.",
+        "psi-tato-psicologico": "Comece nas p. 208–210 e veja como a ideia de sentir com alguém orienta a escolha do momento de falar ou esperar."
       },
       "parent": "contratransferencia",
       "relation": "related",
@@ -491,7 +529,7 @@
         "psi-contratransferencia-debate"
       ],
       "resourceGuides": {
-        "psi-contratransferencia": "Na seção sobre a segunda geração, acompanhe por que Heimann toma a resposta emocional como possível instrumento de investigação.",
+        "psi-contratransferencia": "Leia as primeiras páginas do texto de Heimann. Identifique por que ela trata sua resposta emocional ao paciente como algo que pode ser examinado.",
         "psi-contratransferencia-debate": "No trecho dedicado a Heimann, veja quais limites são colocados ao uso dos sentimentos do analista como fonte de compreensão."
       },
       "parent": "contratransferencia",
@@ -509,7 +547,10 @@
       ],
       "parent": "transferencia",
       "relation": "related",
-      "lane": "right"
+      "lane": "right",
+      "resourceGuides": {
+        "psi-recordar-repetir": "Comece pela discussão de “Recordar, repetir e elaborar”. Observe o que Freud distingue entre recordar um acontecimento e repeti-lo em ato."
+      }
     },
     {
       "id": "repetir-ato",
@@ -521,7 +562,7 @@
         "psi-compulsao"
       ],
       "resourceGuides": {
-        "psi-recordar-repetir": "Comece por “Recordar versus repetir” e identifique uma situação em que agir ocupa o lugar de narrar uma lembrança.",
+        "psi-recordar-repetir": "Leia o trecho sobre 1914 para localizar a repetição em ato. Depois veja o que se torna uma questão nova em 1920.",
         "psi-compulsao": "Acompanhe as referências a 1914 e 1920. Marque em qual delas a repetição deixa de ser apenas um problema da situação analítica."
       },
       "parent": "resistencia",
@@ -534,12 +575,12 @@
       "body": "Freud distingue reconhecer uma resistência de trabalhar sobre ela ao longo do tempo. Algumas traduções empregam perlaboração para nomear esse trabalho reiterado.",
       "objective": "Explicar por que comunicar uma interpretação e elaborar uma resistência são momentos distintos.",
       "resources": [
-        "psi-perlaboration",
-        "psi-transferencia"
+        "psi-recordar-repetir",
+        "psi-perlaboration"
       ],
       "resourceGuides": {
         "psi-perlaboration": "Compare “A noção de resistência em Freud” e “Perlaboração e dor psíquica”. Observe o papel que Chabert atribui ao tempo e aos afetos.",
-        "psi-transferencia": "Na discussão de Recordar, repetir e elaborar, acompanhe a passagem entre identificar a resistência e deixar que ela se manifeste na transferência."
+        "psi-recordar-repetir": "Na discussão de “Recordar, repetir e elaborar”, observe o intervalo entre reconhecer uma resistência e conseguir trabalhar sobre ela."
       },
       "parent": "resistencia",
       "relation": "related",
@@ -551,13 +592,17 @@
       "body": "Horário, duração, continuidade e posições de quem fala e de quem escuta compõem o enquadre. Na história da psicanálise, esses elementos passaram de convenções do encontro a parte da investigação sobre o vínculo. A atenção flutuante é a proposta freudiana de escutar sem selecionar de antemão um tema privilegiado.",
       "objective": "Comparar duas maneiras históricas de justificar a regularidade dos encontros e explicar como elas afetam a concepção de escuta.",
       "resources": [
+        "psi-enquadre-bleger",
         "psi-enquadre",
-        "psi-carvalho",
-        "psi-associacao-hist"
+        "psi-carvalho"
       ],
       "parent": "transferencia",
       "relation": "sequence",
-      "lane": "center"
+      "lane": "center",
+      "resourceGuides": {
+        "psi-enquadre-bleger": "Comece na p. 207. Observe o papel do horário, do espaço e dos combinados quando uma sessão passa do consultório para uma chamada.",
+        "psi-enquadre": "Acompanhe como Freud, Bleger e Winnicott tratam a função do enquadre ao longo do texto."
+      }
     },
     {
       "id": "atencao-flutuante",
@@ -565,12 +610,12 @@
       "body": "Freud propõe uma regra de escuta correspondente à associação livre. Selecionar de antemão o que merece atenção pode levar quem escuta a reencontrar apenas o que espera ouvir.",
       "objective": "Reconhecer a relação entre a suspensão do julgamento na fala e a suspensão da seleção na escuta.",
       "resources": [
-        "psi-escuta-freud",
-        "psi-carvalho"
+        "psi-carvalho",
+        "psi-escuta-freud"
       ],
       "resourceGuides": {
         "psi-escuta-freud": "Procure o comentário às Recomendações aos médicos de 1912. Qual problema aparece quando se privilegia uma parte da fala?",
-        "psi-carvalho": "Nas considerações finais, identifique qual atitude do analista faz par com a regra enunciada ao paciente."
+        "psi-carvalho": "Procure a discussão da atenção flutuante para ver como o modo de escutar acompanha a regra de associação livre."
       },
       "parent": "enquadre",
       "relation": "related",
@@ -586,7 +631,7 @@
         "psi-enquadre"
       ],
       "resourceGuides": {
-        "psi-enquadre-bleger": "Em “Do enquadre ao materno”, localize a distinção de Bleger entre processo e não processo e acompanhe o exemplo discutido pelas autoras.",
+        "psi-enquadre-bleger": "Nas pp. 207–208, encontre a definição de Bleger e observe o que se torna visível quando mudam o lugar e as condições do encontro.",
         "psi-enquadre": "Na passagem sobre Bleger, anote quais elementos são considerados constantes da situação e por que uma ruptura merece atenção."
       },
       "parent": "enquadre",
@@ -599,13 +644,16 @@
       "body": "Partindo dos textos de Freud, diferentes tradições mudaram a pergunta central. Klein investiga relações com objetos internos, Winnicott examina amadurecimento e ambiente, e Lacan interroga a relação do sujeito com a linguagem. Escolha um dos ramos e retorne aqui para comparar o que muda no conceito estudado.",
       "objective": "Escolher um conceito e anotar para cada ramo a pergunta de partida, o vocabulário e um ponto que impede uma equivalência simples.",
       "resources": [
-        "psi-couto",
         "psi-serie-desenv",
+        "psi-couto",
         "psi-winnicott"
       ],
       "parent": "enquadre",
       "relation": "sequence",
-      "lane": "center"
+      "lane": "center",
+      "resourceGuides": {
+        "psi-serie-desenv": "Escolha uma aula sobre Freud, Klein ou Winnicott. Anote o problema que organiza a aula antes de comparar as tradições no artigo."
+      }
     },
     {
       "id": "analise-infantil",
@@ -614,11 +662,11 @@
       "objective": "Reconhecer um ponto de divergência entre Anna Freud e Melanie Klein no início da análise infantil.",
       "resources": [
         "psi-historia-criancas",
-        "psi-linguagens-crianca"
+        "psi-video-klein"
       ],
       "resourceGuides": {
-        "psi-historia-criancas": "Na seção sobre a história da psicanálise infantil, procure como Anna Freud e Melanie Klein justificam suas diferentes maneiras de trabalhar com crianças.",
-        "psi-linguagens-crianca": "Acompanhe o comentário de Diatkine sobre o jogo de papéis em Klein e observe como a participação do adulto muda a situação."
+        "psi-historia-criancas": "Nas pp. 304–306, compare os papéis que Anna Freud e Melanie Klein atribuem à educação, à brincadeira e à interpretação.",
+        "psi-video-klein": "Use a aula sobre Klein para situar o brincar no conjunto de sua obra."
       },
       "parent": "tradicoes",
       "relation": "related",
@@ -630,13 +678,16 @@
       "body": "Na teoria de Melanie Klein, objeto designa aquilo ou aquele com quem se estabelece uma relação carregada de afetos, também na fantasia. A cisão pode separar aspectos vividos como bons e maus. Uma posição descreve uma organização de angústias, defesas e relações que pode reaparecer ao longo da vida.",
       "objective": "Explicar o sentido de objeto interno e relacionar cisão e angústia na descrição kleiniana da posição esquizoparanoide.",
       "resources": [
-        "psi-couto",
         "psi-video-klein",
-        "psi-klein"
+        "psi-klein-clinica",
+        "psi-couto"
       ],
       "parent": "tradicoes",
       "relation": "related",
-      "lane": "left"
+      "lane": "left",
+      "resourceGuides": {
+        "psi-video-klein": "Comece pela apresentação de Melanie Klein. Anote o sentido de objeto interno antes de seguir para as duas posições."
+      }
     },
     {
       "id": "posicao-esquizoparanoide",
@@ -648,8 +699,8 @@
         "psi-klein-clinica"
       ],
       "resourceGuides": {
-        "psi-couto": "Na seção sobre Klein, acompanhe a descrição do objeto parcial e o sentido atribuído a sua divisão em bom e mau.",
-        "psi-klein-clinica": "Procure a discussão das ansiedades persecutórias e veja como o autor as diferencia das ansiedades depressivas."
+        "psi-couto": "Na seção sobre Klein, observe como se relacionam a cisão e a angústia persecutória.",
+        "psi-klein-clinica": "Na seção “Diferenças entre Klein e Winnicott”, compare as duas posições e observe o papel da cisão e da angústia persecutória."
       },
       "parent": "klein",
       "relation": "related",
@@ -665,7 +716,7 @@
         "psi-couto"
       ],
       "resourceGuides": {
-        "psi-klein-clinica": "Na seção sobre a situação edípica, identifique o que o autor relaciona à reparação e como a distingue da reparação maníaca.",
+        "psi-klein-clinica": "Vá à seção “Diferenças entre Klein e Winnicott”. Observe a relação entre reconhecer amor e agressividade pela mesma pessoa e querer reparar o dano imaginado.",
         "psi-couto": "Na parte sobre a posição depressiva, observe o que se modifica quando o objeto deixa de ser vivido apenas de forma cindida."
       },
       "parent": "klein",
@@ -678,13 +729,11 @@
       "body": "Na análise de crianças, Klein levou para o trabalho interpretativo sequências de brincadeiras, personagens e distribuição de papéis. O sentido atribuído ao jogo depende de seu desenrolar no encontro.",
       "objective": "Descrever o que se observa em uma sequência de jogo antes de discutir sua interpretação.",
       "resources": [
-        "psi-linguagens-crianca",
         "psi-historia-criancas",
         "psi-video-klein"
       ],
       "resourceGuides": {
-        "psi-linguagens-crianca": "Procure a descrição do jogo de papéis e note quem escolhe o personagem desempenhado pelo adulto.",
-        "psi-historia-criancas": "No trecho sobre Klein e a técnica do brinquedo, observe como os autores relacionam a atividade da criança ao material analítico.",
+        "psi-historia-criancas": "Abra na p. 306. Veja como Klein relaciona o brincar da criança àquilo que o adulto costuma expressar em palavras.",
         "psi-video-klein": "Depois da leitura, use a aula sobre Klein para situar a técnica do brincar no desenvolvimento de sua obra."
       },
       "parent": "klein",
@@ -702,7 +751,10 @@
       ],
       "parent": "tradicoes",
       "relation": "related",
-      "lane": "right"
+      "lane": "right",
+      "resourceGuides": {
+        "psi-video-winnicott": "Na explicação da dependência, procure um exemplo de como o cuidado participa da continuidade da experiência do bebê."
+      }
     },
     {
       "id": "holding",
@@ -710,12 +762,12 @@
       "body": "Holding nomeia a sustentação ambiental associada à continuidade da experiência do bebê. Winnicott distingue essa função do manejo corporal e da apresentação de objetos.",
       "objective": "Diferenciar holding, handling e apresentação de objetos na descrição do cuidado inicial.",
       "resources": [
-        "psi-brincar-mutualidade",
+        "psi-winnicott-cuidado",
         "psi-video-winnicott"
       ],
       "resourceGuides": {
-        "psi-brincar-mutualidade": "Procure a passagem que relaciona holding à integração, handling à personalização e apresentação de objetos às relações objetais.",
-        "psi-video-winnicott": "Na aula sobre a dependência, acompanhe a relação entre a continuidade do cuidado e as aquisições atribuídas ao bebê."
+        "psi-video-winnicott": "Na aula sobre a dependência, acompanhe a relação entre a continuidade do cuidado e as aquisições atribuídas ao bebê.",
+        "psi-winnicott-cuidado": "Busque “holding” no artigo. Compare segurar e sustentar o bebê, o manejo corporal e a apresentação de objetos."
       },
       "parent": "winnicott",
       "relation": "related",
@@ -731,7 +783,7 @@
         "psi-brincar-mutualidade"
       ],
       "resourceGuides": {
-        "psi-espaco-potencial": "Leia “O espaço potencial em sua origem conceitual”. Siga o percurso da área de ilusão ao primeiro objeto transicional.",
+        "psi-espaco-potencial": "Leia a definição de espaço potencial e os trechos sobre a primeira posse. Observe a diferença entre o objeto em si e o uso singular que a criança faz dele.",
         "psi-brincar-mutualidade": "Na seção sobre o brincar constitutivo, procure a discussão do destino do objeto transicional à medida que a experiência se amplia."
       },
       "parent": "winnicott",
@@ -748,7 +800,7 @@
         "psi-espaco-potencial"
       ],
       "resourceGuides": {
-        "psi-brincar-mutualidade": "Leia “O brincar na cultura” e identifique como a autora relaciona criação pessoal e tradição cultural.",
+        "psi-brincar-mutualidade": "Procure a ligação entre mutualidade e brincar. Observe o que permite que uma experiência inicialmente pessoal se torne compartilhada.",
         "psi-espaco-potencial": "Em “O espaço potencial na linha do amadurecimento pessoal”, siga as passagens entre fenômenos transicionais, brincar e brincar compartilhado."
       },
       "parent": "objetos-transicionais",
@@ -763,11 +815,14 @@
       "resources": [
         "psi-video-significante",
         "psi-lacan-sintoma",
-        "psi-couto"
+        "psi-sintoma-escrita"
       ],
       "parent": "tradicoes",
       "relation": "related",
-      "lane": "left"
+      "lane": "left",
+      "resourceGuides": {
+        "psi-video-significante": "Veja como o vídeo distingue signo, significante e significado. Depois acompanhe no artigo a passagem do sintoma como mensagem ao problema do gozo."
+      }
     },
     {
       "id": "cadeia-significante",
@@ -779,7 +834,7 @@
         "psi-estrutura-significante"
       ],
       "resourceGuides": {
-        "psi-video-significante": "Na explicação de Dunker, separe signo, significante e significado. Retome o exemplo com que ele apresenta a diferença.",
+        "psi-video-significante": "Escolha uma palavra dada como exemplo e observe como ela produz outro efeito quando muda de contexto.",
         "psi-estrutura-significante": "Comece por “O avesso do signo saussuriano” e passe à seção sobre o sujeito como efeito da articulação significante."
       },
       "parent": "lacan",
@@ -792,12 +847,12 @@
       "body": "Lacan distingue a substituição de um significante por outro da articulação por contiguidade. Aproxima essas operações dos mecanismos que Freud descreveu no sonho.",
       "objective": "Distinguir substituição e contiguidade em dois exemplos de produção de sentido.",
       "resources": [
-        "psi-estrutura-significante",
-        "psi-sintoma-escrita"
+        "psi-metafora-exemplos",
+        "psi-estrutura-significante"
       ],
       "resourceGuides": {
         "psi-estrutura-significante": "No trecho sobre as dimensões horizontal e vertical da cadeia, acompanhe qual operação depende da contiguidade e qual introduz nova significação.",
-        "psi-sintoma-escrita": "Na discussão de A instância da letra, observe como os autores relacionam metáfora e metonímia à condensação e ao deslocamento freudianos."
+        "psi-metafora-exemplos": "Nas p. 152–154, compare os esquemas de substituição de uma palavra e de associação por proximidade."
       },
       "parent": "cadeia-significante",
       "relation": "prerequisite",
@@ -813,7 +868,7 @@
         "psi-sintoma-escrita"
       ],
       "resourceGuides": {
-        "psi-lacan-sintoma": "Leia as subseções que apresentam o sintoma como mensagem, metáfora e modo de gozo. Assinale uma mudança na pergunta do autor.",
+        "psi-lacan-sintoma": "Procure as passagens sobre sintoma e gozo. Compare o que se pode interpretar com aquilo que continua a se repetir.",
         "psi-sintoma-escrita": "Na passagem da linguagem à escrita do sintoma, observe por que os autores recorrem à noção de gozo."
       },
       "parent": "lacan",
@@ -831,7 +886,10 @@
       ],
       "parent": "tradicoes",
       "relation": "sequence",
-      "lane": "center"
+      "lane": "center",
+      "resourceGuides": {
+        "psi-estudo-brasileiro": "Comece pelo método. Anote quem participou, quantas sessões houve e quando a equipe voltou a avaliar os participantes."
+      }
     },
     {
       "id": "pesquisa-processo",
@@ -843,7 +901,7 @@
         "psi-caso-sistematico"
       ],
       "resourceGuides": {
-        "psi-processo-sessao": "Leia “Instrumentos” e “Análise da 12ª sessão psicoterapêutica”. Identifique quais registros sustentam a escolha de um momento de mudança.",
+        "psi-processo-sessao": "Leia o método para ver como os pesquisadores identificaram momentos de mudança em uma sessão.",
         "psi-caso-sistematico": "Em “Instrumentos”, compare as anotações clínicas com o SWAP-200 e o SCL-90-R. Qual perspectiva cada registro acrescenta à análise do processo?"
       },
       "parent": "resultados",
@@ -860,7 +918,7 @@
         "psi-processo-sessao"
       ],
       "resourceGuides": {
-        "psi-caso-sistematico": "Compare o delineamento do caso com as considerações finais sobre o primeiro ano de tratamento. Quais evidências são específicas daquela participante?",
+        "psi-caso-sistematico": "Comece pela descrição do caso e pela forma como as sessões foram examinadas. Veja que pergunta essa amostra permite responder.",
         "psi-processo-sessao": "Retome o que os autores concluem a partir da 12ª sessão. Formule uma pergunta sobre a eficácia do tratamento que essa sessão isolada não responde."
       },
       "parent": "pesquisa-processo",
@@ -877,7 +935,7 @@
         "psi-revisao-seguimento"
       ],
       "resourceGuides": {
-        "psi-estudo-brasileiro": "No estudo com seis voluntários, compare as avaliações ao final da décima sessão e seis meses depois. Registre quem participou de cada etapa.",
+        "psi-estudo-brasileiro": "Compare as tabelas ou passagens que descrevem o começo, o final e o acompanhamento seis meses depois.",
         "psi-revisao-seguimento": "Na síntese dos 27 estudos, escolha dois intervalos de seguimento diferentes. Compare as medidas antes de comparar os resultados."
       },
       "parent": "resultados",
@@ -903,53 +961,30 @@
       "relevance": "Leia a reconstrução histórica da passagem da hipnose à escuta. Procure o trecho sobre recalque e anote como a autora diferencia um esquecimento comum de um conflito que afasta uma representação.",
       "sourcePage": "https://www.scielo.br/j/pcp/a/f79DMNx9LYLj5NwQxHTyktf/?format=html&ilang=pt_BR&lang=pt",
       "nodes": [
-        "origens",
-        "inconsciente",
-        "charcot-breuer"
+        "inconsciente"
       ]
     },
     {
       "id": "psi-transferencia",
       "title": "Revisitando a transferência: um percurso freudiano",
       "authors": "Márcio Rimet Nobre; Cassandra Pereira França",
-      "institution": "Tempo Psicanalítico / PePSIC; autores vinculados à UFMG",
+      "institution": "Tempo Psicanalítico; autores vinculados à UFMG",
       "year": 2021,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S0101-48382021000100007&script=sci_arttext",
+      "url": "https://tempopsicanalitico.com.br/tempopsicanalitico/article/download/363/pdf_226",
       "language": "pt-BR",
       "format": "artigo teórico",
-      "access": "HTML integral aberto, sem cadastro na consulta.",
-      "verification": "Texto integral confirmado.",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "verification": "Autoria, conteúdo e PDF direto conferidos.",
       "rights": "Não auditados para reutilização; apontar para o artigo.",
       "caveat": "Estudo da evolução conceitual em Freud, sem constituir protocolo autossuficiente de atendimento.",
-      "checkedAt": "2026-11-15",
+      "checkedAt": "2026-11-25",
       "relevance": "Procure as passagens em que Freud retoma o caso Dora e o texto sobre recordar, repetir e elaborar. Compare o que aparece ali como obstáculo à recordação com o que reaparece em ato na relação.",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S0101-48382021000100007&script=sci_arttext",
+      "sourcePage": "https://tempopsicanalitico.com.br/tempopsicanalitico/article/view/363",
       "nodes": [
         "transferencia",
-        "resistencia",
         "transferencia-dora",
         "transferencia-ambivalente",
-        "perlaboracao"
-      ]
-    },
-    {
-      "id": "psi-klein",
-      "title": "Paranoid-schizoid position",
-      "authors": "Elizabeth Bott Spillius; Jane Milton; Penelope Garvey; Cyril Couve; Deborah Steiner",
-      "institution": "Melanie Klein Trust / The New Dictionary of Kleinian Thought",
-      "year": 2011,
-      "url": "https://melaniekleintrust.org.uk/theory/paranoid-schizoid-position/",
-      "language": "en",
-      "format": "verbete institucional",
-      "access": "Verbete integral aberto, sem cadastro na consulta.",
-      "verification": "Texto integral confirmado.",
-      "rights": "Não auditados para reutilização; apontar para o verbete.",
-      "caveat": "Expõe o modelo kleiniano. Não transformar posições teóricas em diagnósticos ou marcos universais empiricamente comprovados.",
-      "checkedAt": "2026-11-15",
-      "relevance": "O verbete do Melanie Klein Trust reúne as noções de cisão, objetos bons e maus e angústia persecutória. Volte ao texto brasileiro de Couto e compare os sentidos de posição que as duas leituras apresentam.",
-      "sourcePage": "https://melaniekleintrust.org.uk/theory/paranoid-schizoid-position/",
-      "nodes": [
-        "klein"
+        "resistencia"
       ]
     },
     {
@@ -979,82 +1014,22 @@
       "authors": "Aline Borba Maia; Cynthia Pereira de Medeiros; Flávio Fontes",
       "institution": "Estilos da Clínica / PePSIC",
       "year": 2012,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S1415-71282012000100004&script=sci_arttext",
+      "url": "https://revistas.usp.br/estic/pt_BR/article/download/46133/49758/0",
       "language": "pt-BR",
-      "format": "artigo teórico",
+      "format": "Artigo em PDF",
       "access": "HTML integral aberto, sem cadastro na consulta.",
-      "verification": "Texto integral confirmado.",
+      "verification": "Conferi o PDF integral publicado pelo periódico e o trecho indicado.",
       "rights": "Não auditados para reutilização; apontar para o artigo.",
       "caveat": "Comparação Freud–Lacan; não substitui leitura de textos originais e pressupõe introdução freudiana.",
-      "checkedAt": "2026-11-15",
+      "checkedAt": "2026-11-25",
       "relevance": "Para Freud, comece pela seção de 1900 a 1920. Para Lacan, compare as subseções sobre o sintoma como mensagem ou metáfora e o sintoma como modo de gozo.",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S1415-71282012000100004&script=sci_arttext",
+      "sourcePage": "https://revistas.usp.br/estic/pt_BR/article/view/46133",
       "nodes": [
         "sintoma",
-        "lacan",
         "compromisso",
         "sentido-sintoma",
+        "lacan",
         "sintoma-gozo"
-      ]
-    },
-    {
-      "id": "psi-freud-1",
-      "title": "The Origin and Development of Psychoanalysis — First Lecture",
-      "authors": "Sigmund Freud",
-      "institution": "American Journal of Psychology / Classics in the History of Psychology, York University",
-      "year": 1910,
-      "url": "https://psychclassics.yorku.ca/Freud/Origin/origin1.htm",
-      "sourcePage": "https://psychclassics.yorku.ca/Freud/Origin/origin1.htm",
-      "language": "en",
-      "format": "conferência histórica em HTML",
-      "access": "Texto integral disponível gratuitamente, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Título, autoria e conteúdo do texto conferidos na página de origem.",
-      "rights": "Licença de reutilização desconhecida. Consultar os termos da edição.",
-      "caveat": "Fonte primária histórica em tradução inglesa. Termos e conclusões refletem o período da conferência.",
-      "relevance": "Na primeira conferência, observe a ordem em que Freud apresenta Breuer, o caso clínico e o método catártico. Compare esse relato retrospectivo com a reconstrução histórica de Baratto.",
-      "nodes": [
-        "origens"
-      ]
-    },
-    {
-      "id": "psi-freud-3",
-      "title": "The Origin and Development of Psychoanalysis — Third Lecture",
-      "authors": "Sigmund Freud",
-      "institution": "American Journal of Psychology / Classics in the History of Psychology, York University",
-      "year": 1910,
-      "url": "https://psychclassics.yorku.ca/Freud/Origin/origin3.htm",
-      "sourcePage": "https://psychclassics.yorku.ca/Freud/Origin/origin3.htm",
-      "language": "en",
-      "format": "conferência histórica em HTML",
-      "access": "Texto integral disponível gratuitamente, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Título, autoria e conteúdo do texto conferidos na página de origem.",
-      "rights": "Licença de reutilização desconhecida. Consultar os termos da edição.",
-      "caveat": "Fonte primária histórica em tradução inglesa. Termos e conclusões refletem o período da conferência.",
-      "relevance": "Na terceira conferência, acompanhe o que Freud faz com a ideia que surge mesmo quando a pessoa diz não se lembrar do que procurava. Observe como ele estende essa pergunta aos sonhos.",
-      "nodes": [
-        "associacao"
-      ]
-    },
-    {
-      "id": "psi-sonhos",
-      "title": "The Dream-Work",
-      "authors": "Freud Museum London",
-      "institution": "Freud Museum London",
-      "year": null,
-      "url": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/the-dream-work/",
-      "sourcePage": "https://www.freud.org.uk/schools/resources/the-interpretation-of-dreams/the-dream-work/",
-      "language": "en",
-      "format": "introdução histórica ilustrada",
-      "access": "Texto integral disponível gratuitamente, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Título, autoria e conteúdo do texto conferidos na página de origem.",
-      "rights": "Licença de reutilização desconhecida. Consultar os termos da edição.",
-      "caveat": "Exposição da teoria freudiana dos sonhos. A página inclui um link comercial opcional para o livro.",
-      "relevance": "Use os exemplos de condensação e deslocamento apresentados pelo museu para conferir sua leitura do relato de Freud. As explicações e imagens estão em inglês.",
-      "nodes": [
-        "sonhos"
       ]
     },
     {
@@ -1080,20 +1055,20 @@
     },
     {
       "id": "psi-contratransferencia",
-      "title": "Um estudo histórico/conceitual sobre a contratransferência: de Freud à segunda geração de psicanalistas",
-      "authors": "Fernanda Laverde Torres e Nadja Nara Barbosa Pinheiro",
-      "institution": "Mental / PePSIC",
-      "year": 2021,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S1679-44272021000200007&script=sci_arttext",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S1679-44272021000200007&script=sci_arttext",
+      "title": "Sobre a contratransferência",
+      "authors": "Paula Heimann",
+      "institution": "Revista de Psicanálise da Sociedade Psicanalítica de Porto Alegre",
+      "year": 1995,
+      "url": "https://revista.sppa.org.br/RPdaSPPA/article/download/1157/1186",
+      "sourcePage": "https://revista.sppa.org.br/RPdaSPPA/article/view/1157",
       "language": "pt-BR",
-      "format": "estudo histórico e conceitual",
-      "access": "Texto integral disponível gratuitamente, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Título, autoria e conteúdo do texto conferidos na página de origem.",
-      "rights": "A revista declara Creative Commons Attribution, salvo indicação em contrário.",
-      "caveat": "Panorama de um debate técnico. A leitura não substitui supervisão.",
-      "relevance": "Leia em sequência as seções sobre Freud e seus contemporâneos e sobre a segunda geração de analistas. Anote a mudança de posição discutida pelas autoras ao apresentar Paula Heimann.",
+      "format": "texto clássico em tradução",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, conteúdo e PDF direto conferidos.",
+      "rights": "A revista indica CC BY-NC-ND 4.0.",
+      "caveat": "Tradução portuguesa do artigo de Heimann de 1950, publicada na edição de 1995 e disponibilizada online em 2023.",
+      "relevance": "Leia as primeiras páginas e observe o que Heimann propõe fazer com a resposta emocional que surge na relação analítica.",
       "nodes": [
         "contratransferencia",
         "contratransferencia-heimann"
@@ -1126,20 +1101,19 @@
       "authors": "Vitor Orquiza Carvalho e Helio Honda",
       "institution": "Analytica — Revista de Psicanálise / UFSJ",
       "year": 2017,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S2316-51972017000100005&script=sci_arttext",
-      "sourcePage": null,
+      "url": "https://seer.ufsj.edu.br/analytica/article/download/2503/1702/8251",
+      "sourcePage": "https://seer.ufsj.edu.br/analytica/article/view/2503",
       "language": "pt-BR",
-      "format": "Artigo em português",
+      "format": "Artigo em PDF",
       "access": "Texto integral gratuito, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o percurso histórico, a seção sobre os dois pilares da técnica e a discussão da atenção flutuante.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF integral publicado pelo periódico e o trecho indicado.",
       "rights": "A publicação oferece o texto para consulta. A licença de reprodução não foi verificada.",
       "caveat": "Os autores defendem uma leitura da técnica apoiada na metapsicologia de Freud.",
       "relevance": "O trecho “O percurso de Freud até a associação livre” reconstrói a passagem da hipnose para a fala. Nas considerações finais, observe como a atenção flutuante de quem escuta responde à regra proposta a quem fala.",
       "nodes": [
-        "origens",
+        "associacao",
         "enquadre",
-        "catarse",
         "atencao-flutuante"
       ]
     },
@@ -1160,8 +1134,6 @@
       "caveat": "A pesquisa reconstrói a técnica por meio de textos freudianos de diferentes momentos.",
       "relevance": "Leia o período de 1900 a 1905 para acompanhar o papel das associações no trabalho com sonhos. Na seção de 1906 a 1913, veja o que a discussão da transferência acrescenta à regra de falar livremente.",
       "nodes": [
-        "associacao",
-        "enquadre",
         "regra-fundamental"
       ]
     },
@@ -1171,21 +1143,21 @@
       "authors": "Cássio Eduardo Soares Miranda",
       "institution": "Estudos de Psicanálise / Círculo Brasileiro de Psicanálise",
       "year": 2023,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S0100-34372023000100047&script=sci_arttext",
-      "sourcePage": "https://cbp.org.br/wp-content/uploads/2024/05/Breves-consideracoes-acerca-2.pdf",
+      "url": "https://cbp.org.br/wp-content/uploads/2024/05/Breves-consideracoes-acerca-2.pdf",
+      "sourcePage": "https://cbp-rj.org.br/revista.html",
       "language": "pt-BR",
       "format": "Artigo em português",
       "access": "Texto integral gratuito, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Verificados a vinheta, a seção dedicada ao recalque e o PDF publicado pelo Círculo Brasileiro de Psicanálise.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi a versão integral publicada no Círculo Brasileiro de Psicanálise e a discussão do recalque a partir de uma vinheta.",
       "rights": "A publicação oferece o texto para consulta. A licença de reprodução não foi verificada.",
       "caveat": "O autor interpreta o texto de 1915 a partir da tradição freudiana e lacaniana.",
       "relevance": "Na seção “Do recalque: uma proposição freudiana”, acompanhe a distinção entre recalque originário e secundário. Volte à vinheta inicial e procure o que o autor considera um efeito do retorno do recalcado.",
       "nodes": [
         "inconsciente",
-        "sintoma",
         "recalque-originario",
-        "retorno-recalcado"
+        "retorno-recalcado",
+        "sintoma"
       ]
     },
     {
@@ -1218,39 +1190,18 @@
       "authors": "Renata Franco Leite",
       "institution": "Estudos de Psicanálise / Círculo Brasileiro de Psicanálise",
       "year": 2022,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S0100-34372022000200117&script=sci_arttext",
-      "sourcePage": null,
+      "url": "https://cbp.org.br/wp-content/uploads/2024/04/O-funcionamento-dos-sonhos-e-a-censura.pdf",
+      "sourcePage": "https://cbp.org.br/revista/estudos-de-psicanalise-n-58-dezembro-2022/",
       "language": "pt-BR",
-      "format": "Artigo em português",
+      "format": "Artigo em PDF",
       "access": "Texto integral gratuito, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Verificados texto integral, autoria e passagens sobre censura e mecanismos do trabalho do sonho.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF integral publicado pelo periódico e o trecho indicado.",
       "rights": "A publicação oferece o texto para consulta. A licença de reprodução não foi verificada.",
       "caveat": "Revisão conceitual da interpretação dos sonhos em Freud.",
       "relevance": "Procure o trecho sobre condensação, deslocamento e elaboração secundária. Para cada operação, anote o que ela modifica entre os pensamentos do sonho e o relato lembrado.",
       "nodes": [
         "sonhos"
-      ]
-    },
-    {
-      "id": "psi-topicas-pt",
-      "title": "Psicanálise: uma revisão didática sobre as principais contribuições de Freud",
-      "authors": "Renata Franco Leite, Fernanda Nunes Macedo e Sara Bezerra Costa Andrade",
-      "institution": "Estudos de Psicanálise / Círculo Brasileiro de Psicanálise",
-      "year": 2021,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S0100-34372021000100024&script=sci_arttext",
-      "sourcePage": null,
-      "language": "pt-BR",
-      "format": "Artigo em português",
-      "access": "Texto integral gratuito, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Verificados a íntegra do texto e os parágrafos que apresentam e comparam as duas tópicas.",
-      "rights": "A publicação oferece o texto para consulta. A licença de reprodução não foi verificada.",
-      "caveat": "Introdução panorâmica, com uma seção específica para comparar os modelos.",
-      "relevance": "Na seção sobre os principais aspectos descritos por Freud, localize a primeira e a segunda tópica. Desenhe os dois esquemas e marque onde o texto fala das atividades inconscientes do eu.",
-      "nodes": [
-        "topicas",
-        "segunda-topica"
       ]
     },
     {
@@ -1271,9 +1222,8 @@
       "relevance": "Localize as passagens sobre a primeira tópica e sobre o Isso. Observe em que momentos “inconsciente” designa uma qualidade e em que momentos passa a nomear um sistema.",
       "nodes": [
         "inconsciente",
-        "topicas",
         "recalque-originario",
-        "primeira-topica",
+        "topicas",
         "segunda-topica"
       ]
     },
@@ -1304,22 +1254,21 @@
       "authors": "Daniela Paula do Couto",
       "institution": "Psicologia em Pesquisa / UFJF",
       "year": 2017,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S1982-12472017000100004&script=sci_arttext",
-      "sourcePage": null,
+      "url": "https://periodicos.ufjf.br/index.php/psicologiaempesquisa/article/download/23388/12941/92544",
+      "sourcePage": "https://periodicos.ufjf.br/index.php/psicologiaempesquisa/article/view/23388",
       "language": "pt-BR",
-      "format": "Artigo em português",
+      "format": "Artigo em PDF",
       "access": "Texto integral gratuito, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidas as três seções e suas referências aos textos de Freud, Klein e Lacan.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF integral publicado pelo periódico e o trecho indicado.",
       "rights": "A publicação oferece o texto para consulta. A licença de reprodução não foi verificada.",
       "caveat": "É uma comparação orientada pela pergunta da autora sobre a constituição do sujeito.",
       "relevance": "O texto tem uma seção para cada autor. Em Freud, acompanhe o papel da satisfação corporal na infância. Em Klein, observe a relação com os objetos. Em Lacan, acompanhe a entrada do sujeito na linguagem.",
       "nodes": [
         "sexualidade",
+        "apoio-autoerotismo",
         "tradicoes",
         "klein",
-        "lacan",
-        "apoio-autoerotismo",
         "posicao-esquizoparanoide",
         "posicao-depressiva"
       ]
@@ -1330,13 +1279,13 @@
       "authors": "Cássio Koshevnikoff Zambelli, Maria Izabel Tafuri, Terezinha de Camargo Viana e Eliana Rigotto Lazzarini",
       "institution": "Psicologia Clínica / PUC-Rio",
       "year": 2013,
-      "url": "https://www.scielo.br/j/pc/a/jc66LPDhThXxWbwbnZLV6wG/?lang=pt",
-      "sourcePage": null,
+      "url": "https://www.scielo.br/j/pc/a/jc66LPDhThXxWbwbnZLV6wG/?format=pdf&lang=pt#page=3",
+      "sourcePage": "https://www.repositorio.unb.br/handle/10482/14268",
       "language": "pt-BR",
       "format": "Artigo em português",
-      "access": "Texto integral gratuito, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Verificados o texto integral e os trechos dedicados a Freud, Ferenczi e Paula Heimann.",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, conteúdo e PDF direto conferidos.",
       "rights": "A publicação oferece o texto para consulta. A licença de reprodução não foi verificada.",
       "caveat": "Estudo histórico de três formulações que situam o analista de modos distintos.",
       "relevance": "Comece pela posição inicial de Freud e avance até a discussão de Paula Heimann. Anote o que cada um entende por resposta emocional do analista e por que os dois lhe atribuem funções diferentes.",
@@ -1364,7 +1313,8 @@
       "relevance": "Vá à seção “Recordar versus repetir”. Retome a distinção entre contar algo do passado e repetir um modo de relação no presente. Só depois passe à releitura lacaniana proposta pelos autores.",
       "nodes": [
         "resistencia",
-        "repetir-ato"
+        "repetir-ato",
+        "perlaboracao"
       ]
     },
     {
@@ -1549,6 +1499,7 @@
       "caveat": "Panorama introdutório da obra de Klein por um autor de tradição lacaniana.",
       "relevance": "Assista à apresentação da autora. Retome a seção sobre Klein no artigo de Daniela do Couto e identifique por que uma posição pode reaparecer em momentos diferentes da vida.",
       "nodes": [
+        "analise-infantil",
         "klein",
         "brincar-klein"
       ]
@@ -1575,27 +1526,6 @@
       ]
     },
     {
-      "id": "psi-construcao-histeria",
-      "title": "A transferência de Freud",
-      "authors": "Elisabete Aparecida Monteiro",
-      "institution": "Estilos da Clínica / PePSIC",
-      "year": 1999,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S1415-71281999000200016&script=sci_arttext",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S1415-71281999000200016&script=sci_arttext",
-      "language": "pt-BR",
-      "format": "estudo histórico",
-      "access": "Texto integral em HTML, gratuito e sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto em português e os dados bibliográficos na página do artigo.",
-      "rights": "Acesso público no periódico. A licença de reutilização não foi identificada na página.",
-      "caveat": "A autora examina as relações de Freud com Charcot, Breuer e Fliess a partir de textos e relatos históricos.",
-      "relevance": "Compare as seções sobre Charcot e Breuer para identificar o lugar da hipnose em cada contexto.",
-      "nodes": [
-        "charcot-breuer",
-        "catarse"
-      ]
-    },
-    {
       "id": "psi-sonho-linguagem",
       "title": "Colidouescapo: poesia, sonho, condensação e linguagem em Freud",
       "authors": "Tainá Pinto, Tania Rivera",
@@ -1612,49 +1542,28 @@
       "caveat": "As autoras trabalham com aproximações entre poesia e formação do sonho.",
       "relevance": "Siga o percurso da palavra composta do título e volte às passagens que descrevem condensação e figurabilidade.",
       "nodes": [
-        "condensacao",
-        "figurabilidade"
-      ]
-    },
-    {
-      "id": "psi-sonho-ligacao",
-      "title": "Demarcação originária e transformações da ligação, de Freud a Winnicott",
-      "authors": "André Green",
-      "institution": "Revista Brasileira de Psicanálise / PePSIC",
-      "year": 2007,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S0486-641X2007000100008&script=sci_arttext",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S0486-641X2007000100008&script=sci_arttext",
-      "language": "pt-BR",
-      "format": "conferência em tradução",
-      "access": "Texto integral em HTML, gratuito e sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto em português e os dados bibliográficos na página do artigo.",
-      "rights": "A página do periódico indica CC BY 4.0.",
-      "caveat": "Green relê Freud em diálogo com a tradição das relações de objeto.",
-      "relevance": "Comece pela análise das ligações entre o relato do sonho e seus pensamentos antes de passar à parte sobre Winnicott.",
-      "nodes": [
-        "manifesto-latente",
-        "deslocamento"
+        "condensacao"
       ]
     },
     {
       "id": "psi-sintoma-freud",
       "title": "Freud e o sintoma nas Conferências introdutórias: algumas considerações",
       "authors": "Luiz Diego Sacramento do Carmo, Wilson Camilo Chaves",
-      "institution": "Natureza Humana / PePSIC",
+      "institution": "Natureza Humana; autores vinculados à UFSJ",
       "year": 2019,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S1517-24302019000100008&script=sci_arttext",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S1517-24302019000100008&script=sci_arttext",
+      "url": "https://revistas.dwwe.com.br/index.php/NH/article/download/367/1394/#page=2",
+      "sourcePage": "https://revistas.dwwe.com.br/index.php/NH/article/view/367",
       "language": "pt-BR",
       "format": "análise de textos de Freud",
-      "access": "Texto integral em HTML, gratuito e sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto em português e os dados bibliográficos na página do artigo.",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, conteúdo e PDF direto conferidos.",
       "rights": "A página do periódico indica CC BY-NC 4.0.",
       "caveat": "O recorte principal são as Conferências introdutórias e exemplos descritos por Freud.",
-      "relevance": "As seções 3 e 4 tratam do sentido de um sintoma e de sua satisfação. Leia-as nessa ordem e compare as perguntas formuladas.",
+      "relevance": "A introdução, na p. 101, resume as duas conferências. Em seguida, as seções 3 e 4 mostram um exemplo de Freud e discutem a satisfação no sintoma.",
       "nodes": [
         "retorno-recalcado",
+        "sintoma",
         "compromisso",
         "sentido-sintoma"
       ]
@@ -1665,13 +1574,13 @@
       "authors": "Conceição Aparecida Serralha",
       "institution": "Estilos da Clínica / PePSIC",
       "year": 2019,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S1415-71282019000100016&script=sci_arttext",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S1415-71282019000100016&script=sci_arttext",
+      "url": "https://revistas.usp.br/estic/pt_BR/article/download/146505/154695/",
+      "sourcePage": "https://revistas.usp.br/estic/pt_BR/article/view/146505",
       "language": "pt-BR",
-      "format": "estudo conceitual",
+      "format": "Artigo em PDF",
       "access": "Texto integral em HTML, gratuito e sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto em português e os dados bibliográficos na página do artigo.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF integral publicado pelo periódico e o trecho indicado.",
       "rights": "A página do periódico indica CC BY-NC 4.0.",
       "caveat": "O artigo reconstrói um conceito a partir de diferentes textos de Winnicott.",
       "relevance": "Leia a parte sobre a origem do conceito e acompanhe suas transformações na linha do amadurecimento.",
@@ -1686,62 +1595,41 @@
       "authors": "Márcia Campos de Oliveira",
       "institution": "Winnicott e-prints / PePSIC",
       "year": 2006,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S1679-432X2006000200003&script=sci_arttext",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S1679-432X2006000200003&script=sci_arttext",
+      "url": "https://revistas.dwwe.com.br/index.php/We-Prints/article/download/1177/2018",
+      "sourcePage": "https://revistas.dwwe.com.br/index.php/We-Prints/article/view/1177",
       "language": "pt-BR",
-      "format": "artigo teórico",
+      "format": "Artigo em PDF",
       "access": "Texto integral em HTML, gratuito e sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto em português e os dados bibliográficos na página do artigo.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF integral publicado pelo periódico e o trecho indicado.",
       "rights": "A página do periódico indica CC BY-NC 4.0.",
       "caveat": "A autora discute o brincar segundo a tradição winnicottiana e sua relação com a cultura.",
       "relevance": "Passe da seção sobre o brincar constitutivo para o brincar na cultura e identifique a função atribuída à confiança.",
       "nodes": [
-        "holding",
         "objetos-transicionais",
         "brincar-winnicott"
       ]
     },
     {
       "id": "psi-klein-clinica",
-      "title": "A clínica psicanalítica a partir de Melanie Klein: O que isto pode significar?",
-      "authors": "Luís Claudio Figueiredo",
-      "institution": "Jornal de Psicanálise / PePSIC",
-      "year": 2006,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S0103-58352006000200008&script=sci_arttext",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S0103-58352006000200008&script=sci_arttext",
+      "title": "A constituição do símbolo e o processo analítico para Winnicott",
+      "authors": "Leopoldo Fulgencio",
+      "institution": "Paidéia (USP)",
+      "year": 2011,
+      "url": "https://www.scielo.br/j/paideia/a/cPdmp3BZyTTwwRpCzYnrRwN/?format=pdf&lang=pt",
+      "sourcePage": "https://doi.org/10.1590/S0103-863X2011000300012",
       "language": "pt-BR",
-      "format": "ensaio teórico",
-      "access": "Texto integral em HTML, gratuito e sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto em português e os dados bibliográficos na página do artigo.",
-      "rights": "A página do periódico indica CC BY-NC 4.0.",
-      "caveat": "Figueiredo inclui contribuições de autores posteriores a Klein.",
-      "relevance": "Leia a discussão da fantasia inconsciente e localize as passagens sobre ansiedade persecutória, culpa e reparação.",
+      "format": "artigo teórico comparativo",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, conteúdo e PDF direto conferidos.",
+      "rights": "O periódico indica CC BY-NC 4.0.",
+      "caveat": "A leitura de Klein está organizada em diálogo com a teoria de Winnicott.",
+      "relevance": "Vá direto a “Diferenças entre Klein e Winnicott”. O primeiro parágrafo da seção compara as duas posições de Klein e explica como surge o desejo de reparação.",
       "nodes": [
+        "klein",
         "posicao-esquizoparanoide",
         "posicao-depressiva"
-      ]
-    },
-    {
-      "id": "psi-linguagens-crianca",
-      "title": "As linguagens da criança e a psicanálise",
-      "authors": "René Diatkine",
-      "institution": "Ide / PePSIC",
-      "year": 2007,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S0101-31062007000200007&script=sci_arttext",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S0101-31062007000200007&script=sci_arttext",
-      "language": "pt-BR",
-      "format": "artigo em tradução",
-      "access": "Texto integral em HTML, gratuito e sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto em português e os dados bibliográficos na página do artigo.",
-      "rights": "A página do periódico indica CC BY 4.0.",
-      "caveat": "Diatkine parte de sua leitura do trabalho analítico com crianças e do diálogo com Klein.",
-      "relevance": "Localize o jogo de papéis e acompanhe o que a criança atribui ao adulto no desenrolar da brincadeira.",
-      "nodes": [
-        "analise-infantil",
-        "brincar-klein"
       ]
     },
     {
@@ -1761,7 +1649,7 @@
       "caveat": "Os autores aproximam períodos distintos da obra de Lacan.",
       "relevance": "Acompanhe primeiro a discussão da metáfora, depois a passagem do sentido à escrita e ao gozo.",
       "nodes": [
-        "metafora-metonimia",
+        "lacan",
         "sintoma-gozo"
       ]
     },
@@ -1792,13 +1680,13 @@
       "authors": "Priscila Pereira Robert, Daniel Kupermann",
       "institution": "Cadernos de Psicanálise (CPRJ) / PePSIC",
       "year": 2012,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S1413-62952012000100004&script=sci_arttext",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S1413-62952012000100004&script=sci_arttext",
+      "url": "https://cprj.com.br/imagenscadernos/caderno26_pdf/07-DOR-E-RESISTENCIA.pdf",
+      "sourcePage": "https://cprj.com.br/cadernos-de-psicanalise-n-26/",
       "language": "pt-BR",
-      "format": "estudo histórico e teórico",
+      "format": "Artigo em PDF",
       "access": "Texto integral em HTML, gratuito e sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto em português e os dados bibliográficos na página do artigo.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF integral publicado pelo periódico e o trecho indicado.",
       "rights": "Acesso público no periódico. A licença de reutilização não foi identificada na página.",
       "caveat": "Os exemplos clínicos são retomados de textos publicados por Freud.",
       "relevance": "Na seção sobre histeria e neurose obsessiva, compare a interpretação do caso Dora com a discussão dos afetos hostis.",
@@ -1829,21 +1717,22 @@
     },
     {
       "id": "psi-enquadre-bleger",
-      "title": "O materno da clínica: aspectos sobre o enquadre e o corpo do analista",
-      "authors": "Maria Elisa Pessoa Labaki, Luciana Cartocci",
-      "institution": "Revista Brasileira de Psicanálise / PePSIC",
-      "year": 2016,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S0486-641X2016000300014&script=sci_arttext",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S0486-641X2016000300014&script=sci_arttext",
+      "title": "A clínica, o entredito e o entrevisto: vicissitudes da análise on-line",
+      "authors": "Renato Tardivo e Daniel Kupermann",
+      "institution": "Cadernos de Psicanálise, Círculo Psicanalítico do Rio de Janeiro",
+      "year": 2023,
+      "url": "https://www.cprj.com.br/ojs_cprj/index.php/cprj/article/download/387/288/#page=3",
+      "sourcePage": "https://www.cprj.com.br/ojs_cprj/index.php/cprj/article/view/387",
       "language": "pt-BR",
-      "format": "ensaio clínico",
-      "access": "Texto integral em HTML, gratuito e sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto em português e os dados bibliográficos na página do artigo.",
-      "rights": "A página do periódico indica CC BY-NC 4.0.",
-      "caveat": "As autoras usam vinhetas e discutem formulações de Bleger e de outros analistas.",
-      "relevance": "Na seção “Do enquadre ao materno”, localize a distinção entre as condições constantes e o processo que se desenvolve nelas.",
+      "format": "artigo com exemplos clínicos",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, conteúdo e PDF direto conferidos.",
+      "rights": "PDF publicado pelo periódico para consulta.",
+      "caveat": "Os autores escrevem sobre a transição para o atendimento remoto no início da pandemia.",
+      "relevance": "Comece pela p. 207 para ver a definição de Bleger. As pp. 207–208 mostram como ruídos e interrupções tornam visíveis elementos do enquadre.",
       "nodes": [
+        "enquadre",
         "constantes-enquadre"
       ]
     },
@@ -1914,13 +1803,13 @@
       "authors": "Paula Argemi Cassel, Lívia Fração Sanchez, Paula von Mengden Campezatto, Maria Lucia Tiellet Nunes",
       "institution": "Contextos Clínicos / PePSIC",
       "year": 2015,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S1983-34822015000100004&script=sci_arttext",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S1983-34822015000100004&script=sci_arttext",
+      "url": "https://revistas.unisinos.br/index.php/contextosclinicos/article/download/ctc.2015.81.03/4653",
+      "sourcePage": "https://revistas.unisinos.br/index.php/contextosclinicos/article/view/ctc.2015.81.03",
       "language": "pt-BR",
-      "format": "pesquisa empírica de processo",
+      "format": "Artigo em PDF",
       "access": "Texto integral em HTML, gratuito e sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto em português e os dados bibliográficos na página do artigo.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF integral publicado pelo periódico e o trecho indicado.",
       "rights": "A página do periódico indica CC BY-NC 4.0.",
       "caveat": "A análise detalhada focaliza uma sessão de uma pessoa.",
       "relevance": "Compare o delineamento e os instrumentos com os dados apresentados sobre a 12ª sessão.",
@@ -1935,13 +1824,13 @@
       "authors": "Aline Alvares Bittencourt, Silvia Pereira da Cruz Benetti, Fernanda Barcellos Serralta",
       "institution": "Contextos Clínicos / PePSIC",
       "year": 2018,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S1983-34822018000100012&script=sci_arttext",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S1983-34822018000100012&script=sci_arttext",
+      "url": "https://revistas.unisinos.br/index.php/contextosclinicos/article/download/ctc.2018.111.11/60746235/60747832",
+      "sourcePage": "https://revistas.unisinos.br/index.php/contextosclinicos/article/view/ctc.2018.111.11",
       "language": "pt-BR",
-      "format": "estudo empírico de caso",
+      "format": "Artigo em PDF",
       "access": "Texto integral em HTML, gratuito e sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto em português e os dados bibliográficos na página do artigo.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF integral publicado pelo periódico e o trecho indicado.",
       "rights": "A página do periódico indica CC BY-NC 4.0.",
       "caveat": "Os resultados descrevem uma participante acompanhada durante o primeiro ano de tratamento.",
       "relevance": "Na seção de instrumentos, localize a origem dos registros e acompanhe como são reunidos na apresentação dos resultados.",
@@ -1956,13 +1845,13 @@
       "authors": "Monia Karine Azevedo, Gustavo Adolfo Ramos Mello Neto",
       "institution": "Revista Subjetividades / PePSIC",
       "year": 2015,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S2359-07692015000100008&script=sci_arttext",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S2359-07692015000100008&script=sci_arttext",
+      "url": "https://ojs.unifor.br/rmes/article/download/4520/3648/15076",
+      "sourcePage": "https://ojs.unifor.br/rmes/article/view/4520",
       "language": "pt-BR",
-      "format": "revisão histórico-conceitual",
+      "format": "Artigo em PDF",
       "access": "Texto integral em HTML, gratuito e sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto em português e os dados bibliográficos na página do artigo.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF integral publicado pelo periódico e o trecho indicado.",
       "rights": "A página do periódico indica CC BY-NC 4.0.",
       "caveat": "A pulsão de morte é apresentada como hipótese metapsicológica e objeto de debate entre autores.",
       "relevance": "Leia o questionamento da primeira dualidade pulsional pelo narcisismo antes de examinar a compulsão à repetição.",
@@ -2033,20 +1922,20 @@
     },
     {
       "id": "psi-historia-criancas",
-      "title": "Psicanálise com crianças: questões atuais e considerações sobre o processo de alta",
-      "authors": "Luciane Falcão",
-      "institution": "Revista Brasileira de Psicanálise / PePSIC",
+      "title": "O sintoma da criança na história da psicanálise e na contemporaneidade",
+      "authors": "Maíra Lopes Almeida, Joyce Gonçalves Freire e Caio César Souza Camargo Próchno",
+      "institution": "Estilos da Clínica (USP); autores vinculados à UFU",
       "year": 2016,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S0486-641X2016000300013&script=sci_arttext",
-      "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S0486-641X2016000300013&script=sci_arttext",
+      "url": "https://revistas.usp.br/estic/pt_BR/article/download/131011/127452/249294/#page=4",
+      "sourcePage": "https://revistas.usp.br/estic/pt_BR/article/view/131011",
       "language": "pt-BR",
-      "format": "artigo clínico e histórico",
-      "access": "Texto integral em HTML, gratuito e sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto em português e os dados bibliográficos na página do artigo.",
-      "rights": "A página do periódico indica CC BY-NC 4.0.",
-      "caveat": "O artigo inclui casos e critérios de alta propostos pela autora.",
-      "relevance": "Leia a primeira seção para comparar a construção do método em Anna Freud e Melanie Klein.",
+      "format": "artigo de revisão histórica",
+      "access": "PDF integral gratuito, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, conteúdo e PDF direto conferidos.",
+      "rights": "PDF publicado pelo periódico para consulta.",
+      "caveat": "O artigo apresenta o debate histórico sobre o sintoma na análise de crianças.",
+      "relevance": "Nas pp. 304–306, compare a influência pedagógica em Anna Freud com o lugar da brincadeira para Melanie Klein.",
       "nodes": [
         "analise-infantil",
         "brincar-klein"
@@ -2069,7 +1958,200 @@
       "caveat": "O professor apresenta sua perspectiva no canal autoral.",
       "relevance": "Acompanhe a história dos nomes dados às três instâncias e relacione as escolhas de tradução à distinção entre eu e isso.",
       "nodes": [
+        "topicas",
         "segunda-topica"
+      ]
+    },
+    {
+      "id": "psi-nascimento",
+      "title": "O nascimento da psicanálise: das influências de Charcot e Breuer à autonomia",
+      "authors": "Guilherme Magnoler Guedes de Azevedo e Henrique Uva do Amaral",
+      "institution": "Cadernos de Psicanálise · Círculo Psicanalítico do Rio de Janeiro",
+      "year": 2021,
+      "url": "https://www.cprj.com.br/ojs_cprj/index.php/cprj/article/download/196/197/#page=2",
+      "sourcePage": "https://www.cprj.com.br/ojs_cprj/index.php/cprj/article/view/196",
+      "language": "pt-BR",
+      "format": "Artigo em PDF",
+      "access": "Texto completo gratuito e sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF do periódico e as seções dedicadas à relação de Freud com cada médico.",
+      "rights": "Versão publicada pelo próprio periódico.",
+      "caveat": "Pesquisa bibliográfica sobre a formulação histórica da histeria.",
+      "relevance": "Compare os pontos em que Freud concordou com Charcot e Breuer e aqueles em que se afastou.",
+      "nodes": [
+        "origens",
+        "charcot-breuer",
+        "catarse"
+      ]
+    },
+    {
+      "id": "psi-cinema-sonho",
+      "title": "A psicanálise vai ao cinema: relações entre a linguagem do sonho e a da sétima arte",
+      "authors": "Rinália Taís Benini (autoria indicada no PDF)",
+      "institution": "Analytica: Revista de Psicanálise · UFSJ",
+      "year": 2019,
+      "url": "https://seer.ufsj.edu.br/analytica/article/download/3190/2332/14506#page=6",
+      "sourcePage": "https://seer.ufsj.edu.br/analytica/article/view/3190",
+      "language": "pt-BR",
+      "format": "Artigo em PDF",
+      "access": "Texto completo gratuito e sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF e a discussão sobre os mecanismos do sonho e a montagem cinematográfica.",
+      "rights": "Versão publicada pela revista. Consulte a licença no periódico.",
+      "caveat": "Comparação teórica entre o sonho freudiano e os recursos narrativos do cinema.",
+      "relevance": "Leia o trecho sobre a linguagem dos sonhos antes de passar à comparação com o cinema.",
+      "nodes": [
+        "sonhos",
+        "manifesto-latente",
+        "condensacao",
+        "deslocamento",
+        "figurabilidade"
+      ]
+    },
+    {
+      "id": "psi-trabalho-sonho-usp",
+      "title": "A noção de trabalho na experiência psicanalítica",
+      "authors": "Rodrigo Ventura (UFRJ)",
+      "institution": "Psicologia USP",
+      "year": 2016,
+      "url": "https://revistas.usp.br/psicousp/pt_BR/article/download/119773/117060/0",
+      "sourcePage": "https://revistas.usp.br/psicousp/pt_BR/article/view/119773",
+      "language": "pt-BR",
+      "format": "Artigo em PDF",
+      "access": "Texto completo gratuito e sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi a seção que define os quatro mecanismos do trabalho do sonho.",
+      "rights": "Versão publicada pela revista. Consulte a licença no periódico.",
+      "caveat": "Leitura teórica de conceitos freudianos.",
+      "relevance": "Vá à seção “Traumarbeit” para conferir como os pensamentos do sonho se transformam no relato.",
+      "nodes": [
+        "deslocamento",
+        "figurabilidade"
+      ]
+    },
+    {
+      "id": "psi-eu-narcisismo",
+      "title": "A constituição do conceito de eu na metapsicologia freudiana",
+      "authors": "Thiago Henrique Bomfim (UFSCar)",
+      "institution": "Psicologia USP",
+      "year": 2014,
+      "url": "https://www.scielo.br/pdf/pusp/v25n2/0103-6564-pusp-25-02-0162.pdf#page=3",
+      "sourcePage": "https://revistas.usp.br/psicousp/pt_BR/article/view/85478",
+      "language": "pt-BR",
+      "format": "Artigo em PDF",
+      "access": "Texto completo gratuito e sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF e a seção sobre o retorno ao eu a partir do narcisismo.",
+      "rights": "Versão de acesso aberto publicada pela revista.",
+      "caveat": "Exposição da metapsicologia de Freud, em seu contexto histórico.",
+      "relevance": "Nas p. 164–165, compare libido do eu e libido objetal e veja como Freud introduz o narcisismo.",
+      "nodes": [
+        "narcisismo"
+      ]
+    },
+    {
+      "id": "psi-tato-psicologico",
+      "title": "A linguagem dos gestos e dos corpos: o silêncio na perspectiva clínica de Sándor Ferenczi",
+      "authors": "Sergio Gomes da Silva",
+      "institution": "Cadernos de Psicanálise · Círculo Psicanalítico do Rio de Janeiro",
+      "year": 2015,
+      "url": "https://cprj.com.br/imagenscadernos/caderno32_pdf/11_A-linguagem-dos-gestos-e-dos-corpos.pdf#page=12",
+      "sourcePage": "https://cprj.com.br/cadernos-de-psicanalise-n-32/",
+      "language": "pt-BR",
+      "format": "Artigo em PDF",
+      "access": "Texto completo gratuito e sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF da revista e a discussão do tato e da elasticidade da técnica nas p. 208–210.",
+      "rights": "Versão publicada pelo próprio periódico.",
+      "caveat": "Apresenta o tato de Ferenczi dentro de um estudo sobre o silêncio na clínica.",
+      "relevance": "Nas p. 208–210, acompanhe como o tato e a elasticidade entram nos escritos de Ferenczi.",
+      "nodes": [
+        "contratransferencia-ferenczi"
+      ]
+    },
+    {
+      "id": "psi-winnicott-cuidado",
+      "title": "Um objeto reluzente: passos iniciais da clínica psicanalítica com bebês de D. W. Winnicott",
+      "authors": "Ângela Maria Resende Vorcaro e Fernanda Marinho Corrêa",
+      "institution": "Estilos da Clínica · USP",
+      "year": 2014,
+      "url": "https://revistas.usp.br/estic/article/download/80999/84645",
+      "sourcePage": "https://revistas.usp.br/estic/pt_BR/article/view/80999",
+      "language": "pt-BR",
+      "format": "Artigo em PDF",
+      "access": "Texto completo gratuito e sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o texto completo e a descrição de holding, handling e apresentação de objetos.",
+      "rights": "Versão publicada pela revista. Consulte a licença no periódico.",
+      "caveat": "Apresenta distinções teóricas da obra de Winnicott.",
+      "relevance": "Procure o trecho que descreve a sustentação, o manejo corporal e a apresentação de objetos.",
+      "nodes": [
+        "holding"
+      ]
+    },
+    {
+      "id": "psi-metafora-exemplos",
+      "title": "O estudo do discurso patológico na análise do discurso",
+      "authors": "Patrícia Laubino Borba",
+      "institution": "Nonada: Letras em Revista · Redalyc",
+      "year": 2008,
+      "url": "https://www.redalyc.org/pdf/5124/512451680010.pdf#page=7",
+      "sourcePage": "https://www.redalyc.org/articulo.oa?id=512451680010",
+      "language": "pt-BR",
+      "format": "Artigo em PDF",
+      "access": "Texto completo gratuito e sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF e os exemplos de metáfora e metonímia nas p. 152–154.",
+      "rights": "PDF da revista no Redalyc. Consulte a licença da publicação.",
+      "caveat": "A autora trabalha na interface entre análise do discurso e a leitura lacaniana.",
+      "relevance": "As p. 152–154 trazem exemplos de substituição e de associação por proximidade.",
+      "nodes": [
+        "metafora-metonimia"
+      ]
+    },
+    {
+      "id": "psi-topicas-uece",
+      "title": "Psicologia da aprendizagem: as duas tópicas de Freud",
+      "authors": "Ana Ignez Belém Lima Nunes e Rosemary do Nascimento Silveira",
+      "institution": "Universidade Estadual do Ceará · EdUECE",
+      "year": 2015,
+      "url": "https://www.uece.br/wp-content/uploads/sites/28/2021/07/Psicologia-da-Aprendizagem_2015-1.pdf#page=27",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Livro didático em PDF",
+      "access": "Texto completo gratuito e sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o livro didático integral e os dois quadros nas p. 27–28.",
+      "rights": "Livro de graduação publicado para consulta no site da UECE.",
+      "caveat": "Os quadros apresentam os modelos em uma introdução à teoria psicanalítica para a graduação.",
+      "relevance": "Compare os dois quadros das p. 27–28. Observe que o eu possui uma parte inconsciente.",
+      "nodes": [
+        "topicas",
+        "primeira-topica",
+        "segunda-topica"
+      ]
+    },
+    {
+      "id": "psi-hipnose-interpretacao",
+      "title": "Da hipnose à interpretação: aspectos da gênese e evolução de uma prática",
+      "authors": "Carlos Alexandre Araújo Benício da Costa e Silva (UnB)",
+      "institution": "Psicologia: Ciência e Profissão · Conselho Federal de Psicologia",
+      "year": 2019,
+      "url": "https://www.scielo.br/j/pcp/a/GkW4xBdmTkCnV7PFjL8HXDN/?format=pdf&lang=pt#page=3",
+      "sourcePage": "https://www.scielo.br/j/pcp/a/GkW4xBdmTkCnV7PFjL8HXDN/?lang=pt",
+      "language": "pt-BR",
+      "format": "Artigo em PDF",
+      "access": "Texto completo gratuito e sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferi o PDF do periódico e a discussão sobre a hipnose, o método catártico e o caso Emmy.",
+      "rights": "Versão aberta do periódico. O mapa aponta para a publicação.",
+      "caveat": "Revisita casos e argumentos históricos. Não é uma avaliação clínica da hipnose.",
+      "relevance": "Nas p. 3–4, veja como a passagem do método catártico à fala sem interrupções aparece no caso Emmy.",
+      "nodes": [
+        "origens",
+        "charcot-breuer",
+        "catarse",
+        "associacao"
       ]
     }
   ]

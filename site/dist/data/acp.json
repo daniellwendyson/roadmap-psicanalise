@@ -8,10 +8,10 @@
       "body": "Carl Rogers começou estudando o aconselhamento individual. Com a terapia centrada no cliente, investigou o papel da relação na mudança pessoal. O interesse por grupos e educação ampliou o alcance da proposta e levou ao nome Abordagem Centrada na Pessoa (ACP).",
       "objective": "Identifique uma pergunta que orientava os estudos de Rogers na clínica e explique como ela mudou quando ele passou a trabalhar com grupos.",
       "resources": [
+        "ac-p-playlist",
         "fases",
         "pesquisas-rogers",
-        "encontros",
-        "ac-p-playlist"
+        "encontros"
       ],
       "parent": null,
       "relation": "sequence",
@@ -20,7 +20,7 @@
         "fases": "Compare as fases não diretiva, reflexiva, experiencial e coletiva na classificação de Moreira. Anote em que momento passa a ser necessário falar de pessoas para além do consultório.",
         "pesquisas-rogers": "Siga a passagem por Ohio, Chicago e Wisconsin. Escolha uma pergunta que mudou junto com os espaços e instrumentos da pesquisa clínica.",
         "encontros": "Ouça duas pessoas que conheceram Rogers. Localize onde se encontraram e compare a lembrança de cada uma com os períodos descritos por Moreira.",
-        "ac-p-playlist": "Comece em “Entendendo o humanismo de Carl Rogers”. Compare os valores destacados pela professora com as fases históricas apresentadas na leitura de Moreira."
+        "ac-p-playlist": "Assista ao vídeo sobre o humanismo de Rogers. Use o artigo de Moreira em seguida para montar uma linha do tempo com as fases da abordagem."
       }
     },
     {
@@ -513,8 +513,8 @@
       "body": "Em 1957, Rogers formulou seis condições para a mudança. Sua proposta considera o contato psicológico, a vulnerabilidade ou incongruência do cliente, três atitudes do terapeuta e a percepção, pelo cliente, de empatia e aceitação. A maneira como o encontro é vivido faz parte da hipótese.",
       "objective": "Organize as seis condições conforme descrevam o cliente, o terapeuta ou o contato entre ambos. Identifique qual delas depende da percepção do cliente.",
       "resources": [
-        "personalidade",
         "aula-atitudes",
+        "personalidade",
         "habilidades",
         "ac-r-seis"
       ],
@@ -523,7 +523,7 @@
       "lane": "center",
       "resourceGuides": {
         "personalidade": "Na discussão da teoria da psicoterapia, distribua as condições entre cliente, terapeuta e relação e procure o que significa vulnerabilidade.",
-        "aula-atitudes": "Acompanhe a aula de Daniel Andrade com a lista das seis condições em mãos. Marque as três que descrevem atitudes do terapeuta.",
+        "aula-atitudes": "Veja como o psicólogo diferencia empatia, congruência e consideração positiva. Depois compare essas três atitudes com as seis condições no artigo abaixo.",
         "habilidades": "Leia como o artigo distingue a descrição teórica das atitudes e o problema de investigá-las a partir de percepções diferentes.",
         "ac-r-seis": "Leia a lista numerada na seção «Terapia centrada no cliente de Carl Rogers». Observe o que a primeira, a segunda e a sexta condições acrescentam às três atitudes."
       }

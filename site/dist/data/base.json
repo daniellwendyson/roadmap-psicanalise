@@ -220,8 +220,8 @@
       "body": "Guardar por alguns segundos uma sequência de sons enquanto se tenta reproduzi-la é uma situação de memória de trabalho. O resultado depende do material utilizado e das operações pedidas. Repetir dígitos familiares e repetir uma palavra inventada são tarefas diferentes.",
       "objective": "Explique por que seria útil controlar o número de sílabas ao comparar a repetição de palavras e pseudopalavras.",
       "resources": [
-        "bc-h-trabalho",
-        "bc-h-memcrianca"
+        "bc-h-memcrianca",
+        "bc-h-trabalho"
       ],
       "resourceGuides": {
         "bc-h-trabalho": "Em Materiais e procedimento, compare as tarefas com palavras, pseudopalavras e dígitos. Veja nos resultados quais diferenças foram observadas entre os grupos.",
@@ -908,11 +908,11 @@
       "body": "Um rio pode servir de caminho para chegar à unidade de saúde e, em outra estação, tornar a viagem mais difícil. O território de uma equipe inclui os percursos, vínculos e relações de poder que dão sentidos distintos ao mesmo espaço para quem o habita.",
       "objective": "Compare a delimitação de uma área de atendimento com um percurso narrado por quem vive ou trabalha nela.",
       "resources": [
-        "bc-t-territorio",
-        "bc-t-tefe"
+        "bc-t-tefe",
+        "bc-t-territorio"
       ],
       "resourceGuides": {
-        "bc-t-territorio": "No tópico 6, leia a passagem sobre o território usado em Milton Santos e explore o infográfico sobre o território como espaço de vida. Escolha uma relação social que um mapa de ruas não registra.",
+        "bc-t-territorio": "Comece pela introdução. Veja como a ideia de território usado amplia a descrição de um lugar, incluindo a vida de quem o ocupa.",
         "bc-t-tefe": "Nas figuras 2 e 3 e nos relatos que as acompanham, procure como os agentes comunitários representam o acesso fluvial. Anote uma informação que depende da experiência de quem desenhou o percurso."
       },
       "parent": "determinantes",
@@ -946,7 +946,7 @@
         "bc-t-cab34"
       ],
       "resourceGuides": {
-        "bc-t-intersetorial": "Na sequência de cinco cartões, compare a complementaridade de setores com a articulação política na gestão pública. Identifique o que cada forma de trabalho pede dos participantes.",
+        "bc-t-intersetorial": "Leia a seção “Possíveis caminhos analíticos”. Compare articular políticas públicas com criar espaços de escuta e participação.",
         "bc-t-cab34": "No caso da “casa dos 20” e na seção 3.2, procure as necessidades de trabalho, renda e proteção social. Distinga os contatos entre serviços de saúde daqueles que envolvem outras políticas."
       },
       "parent": "territorio-vivido",
@@ -1010,8 +1010,8 @@
       "body": "A recepção, o cadastro e a conversa com a equipe são momentos diferentes da experiência de chegar a um serviço. Pessoas ouvidas em uma pesquisa no Rio de Janeiro relataram barreiras como o desrespeito ao nome social e perguntas invasivas. Suas propostas ajudam a investigar o funcionamento de uma unidade.",
       "objective": "Compare uma diretriz profissional com uma barreira relatada pelos participantes da pesquisa e identifique em que momento do atendimento ela aparece.",
       "resources": [
-        "bc-t-usuarios",
-        "bc-t-lgbt"
+        "bc-t-lgbt",
+        "bc-t-usuarios"
       ],
       "resourceGuides": {
         "bc-t-usuarios": "Nos resultados das entrevistas, procure os discursos sobre a recepção, o uso do nome social e a capacitação das equipes. Anote quem foi ouvido e uma proposta dos participantes.",
@@ -1137,7 +1137,7 @@
         "bc-t-conferencia"
       ],
       "resourceGuides": {
-        "bc-t-conselhos": "Na lista de cinco filmes, abra Tefé ou Campina Grande. Identifique quem fala, que dificuldade aparece e como a comunidade leva a questão ao conselho local.",
+        "bc-t-conselhos": "Assista ao episódio de Tefé. Identifique qual problema os moradores levaram ao conselho e como se organizaram.",
         "bc-t-conferencia": "Localize os grupos representados nas conferências e o objetivo desses encontros. Compare essa função com o trabalho cotidiano do conselho retratado no documentário."
       },
       "parent": "sus",
@@ -1845,13 +1845,13 @@
       "authors": "Fabiana Bernardes Rangel Barboza, Ricardo Basso Garcia e Cesar Galera",
       "institution": "Estudos de Psicologia (Natal)",
       "year": 2015,
-      "url": "https://www.scielo.br/j/epsic/a/6zRqMWQ6F63bSy73xbgpyJd/?format=html&lang=pt",
-      "sourcePage": "https://www.scielo.br/j/epsic/a/6zRqMWQ6F63bSy73xbgpyJd/?format=html&lang=pt",
+      "url": "https://www.redalyc.org/pdf/261/26142193002.pdf",
+      "sourcePage": null,
       "language": "pt-BR",
-      "format": "Estudo empírico",
+      "format": "Artigo de pesquisa · PDF",
       "access": "Texto integral gratuito em português, sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o método, as tarefas com palavras, pseudopalavras e dígitos e a comparação dos grupos nos resultados.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferido o PDF no Redalyc com os testes de palavras, pseudopalavras e dígitos.",
       "rights": "Artigo de acesso aberto na página do periódico. Consulte ali os créditos e as condições de reutilização.",
       "caveat": "Os dados vêm de escolares de duas séries. O desempenho varia conforme o material e as condições da tarefa.",
       "relevance": "Em Materiais e procedimento, descubra o que as crianças precisavam reter e reproduzir. Compare os resultados com palavras, pseudopalavras e dígitos.",
@@ -2558,20 +2558,20 @@
     },
     {
       "id": "bc-t-territorio",
-      "title": "Ambiente, espaço e território",
-      "authors": "Campus Virtual Fiocruz",
-      "institution": "Fundação Oswaldo Cruz",
-      "year": null,
-      "url": "https://mooc.campusvirtual.fiocruz.br/rea/dcnt/thiago/aula3/topico6/",
-      "sourcePage": null,
+      "title": "Território e saúde na geografia de Milton Santos",
+      "authors": "Rivaldo Mauro de Faria e Arlêude Bortolozzi",
+      "institution": "Ra’e Ga · Universidade Federal do Paraná",
+      "year": 2016,
+      "url": "https://revistas.ufpr.br/raega/article/download/43912/30290",
+      "sourcePage": "https://revistas.ufpr.br/raega/article/view/43912",
       "language": "pt-BR",
-      "format": "Aula interativa com texto e infográfico",
-      "access": "Conteúdo público em português, consultado sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o tópico 6, o caso de Alto do Vale e a explicação de território usado.",
-      "rights": "O curso permite uso não comercial com respeito aos direitos dos autores.",
-      "caveat": "O caso foi construído para ensino no contexto das doenças crônicas em áreas de fronteira.",
-      "relevance": "Na comparação entre espaço e território, procure como redes de transporte e condições de moradia alteram a leitura de uma mesma área.",
+      "format": "Artigo · PDF",
+      "access": "Texto integral em português, disponível gratuitamente.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o PDF integral e a seção indicada.",
+      "rights": "O mapa remete ao texto disponibilizado pelo periódico. Consulte a publicação para as condições de uso.",
+      "caveat": "A discussão compara a teoria de Milton Santos a usos do conceito no planejamento do SUS.",
+      "relevance": "Comece pela introdução. Veja como a ideia de território usado amplia a descrição de um lugar, incluindo a vida de quem o ocupa.",
       "nodes": [
         "territorio-vivido"
       ]
@@ -2620,20 +2620,20 @@
     },
     {
       "id": "bc-t-intersetorial",
-      "title": "Cinco faces da intersetorialidade nas políticas públicas",
-      "authors": "Campus Virtual Fiocruz",
-      "institution": "Fundação Oswaldo Cruz",
-      "year": null,
-      "url": "https://mooc.campusvirtual.fiocruz.br/rea/dcnt/thiago/aula3/topico5/",
-      "sourcePage": null,
+      "title": "Intersetorialidade? IntersetorialidadeS!",
+      "authors": "Marco Akerman, Ronice Franco de Sá, Simone Moysés, Regiane Rezende e Dais Rocha",
+      "institution": "Ciência & Saúde Coletiva · Abrasco",
+      "year": 2014,
+      "url": "https://www.scielo.br/j/csc/a/LnRqYzQZ63Hr5G4Hb7WPQLD/?format=pdf",
+      "sourcePage": "https://doi.org/10.1590/1413-812320141911.10692014",
       "language": "pt-BR",
-      "format": "Aula interativa em HTML",
-      "access": "Conteúdo público em português, consultado sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Acessados os cartões com cinco concepções e o exemplo didático de Alto do Vale.",
-      "rights": "O curso permite uso não comercial com respeito aos direitos dos autores.",
-      "caveat": "É uma apresentação conceitual no contexto de promoção da saúde, com um caso fictício.",
-      "relevance": "Compare os cartões sobre complementaridade de setores e articulação política. Identifique em qual situação as decisões passam a ser compartilhadas.",
+      "format": "Artigo · PDF",
+      "access": "Texto integral em português, disponível gratuitamente.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o PDF integral e a seção indicada.",
+      "rights": "O mapa remete ao texto disponibilizado pelo periódico. Consulte a publicação para as condições de uso.",
+      "caveat": "Ensaio com perguntas de pesquisa sobre a ação intersetorial.",
+      "relevance": "Leia a seção “Possíveis caminhos analíticos”. Compare articular políticas públicas com criar espaços de escuta e participação.",
       "nodes": [
         "acoes-intersetoriais"
       ]
@@ -2847,20 +2847,20 @@
     },
     {
       "id": "bc-t-conselhos",
-      "title": "Aqui tem Conselho Local de Saúde",
+      "title": "Aqui tem Conselho Local de Saúde: Tefé",
       "authors": "Conselho Nacional de Saúde",
-      "institution": "Conselho Nacional de Saúde · IdeiaSUS Fiocruz",
+      "institution": "Conselho Nacional de Saúde",
       "year": 2025,
-      "url": "https://ideiasus.fiocruz.br/postagem/serie-sobre-conselhos-locais-de-saude-chega-a-plataforma-ideiasus-fiocruz/",
+      "url": "https://www.youtube.com/watch?v=xsI1KBbehGg",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Série documental · 5 vídeos de 8 a 9 min",
-      "access": "Página pública com cinco episódios gratuitos, acessíveis sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos os cinco links oficiais e a disponibilidade dos cinco players, com as localidades identificadas nos títulos.",
-      "rights": "Disponível para estudo na página de origem. A licença de reprodução não foi confirmada.",
-      "caveat": "Os relatos vêm de cinco localidades. A composição e a pauta de outros conselhos podem ser diferentes.",
-      "relevance": "Escolha o episódio de Tefé ou de Campina Grande e anote uma questão local que moradores e conselheiros levaram para a discussão.",
+      "format": "Documentário em vídeo",
+      "access": "Episódio em português disponibilizado no canal oficial.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o episódio no canal oficial e a descrição do caso de Tefé.",
+      "rights": "Vídeo publicado pelo Conselho Nacional de Saúde no canal autoral.",
+      "caveat": "Episódio sobre uma experiência local de participação em saúde.",
+      "relevance": "Observe quem fala, que dificuldade aparece e como a comunidade leva a questão ao conselho local.",
       "nodes": [
         "participacao-social"
       ]

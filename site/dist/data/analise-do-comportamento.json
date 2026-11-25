@@ -261,14 +261,14 @@
       "body": "Nos esquemas de intervalo, a passagem do tempo torna uma consequência disponível. A primeira resposta que atende ao critério após esse período a produz. O intervalo pode ser constante ou variar de uma oportunidade à outra.",
       "objective": "Trace uma linha do tempo para um intervalo fixo e marque a primeira resposta que o completa.",
       "resourceGuides": {
-        "intervalos": "No experimento com humanos sob intervalo fixo, veja quais consequências foram usadas. Compare os registros antes de generalizar um padrão a todos os participantes.",
-        "video-esquemas": "Reveja a explicação dos esquemas de intervalo. Identifique o que acontece se o tempo previsto termina e ainda não ocorreu nova resposta."
+        "video-esquemas": "Compare os exemplos de intervalo fixo e variável. Em ambos, marque a primeira resposta que ocorre depois da passagem do tempo previsto.",
+        "intervalos": "No experimento com humanos sob intervalo fixo, veja quais consequências foram usadas. Compare os registros antes de generalizar um padrão a todos os participantes."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
-        "intervalos",
-        "video-esquemas"
+        "video-esquemas",
+        "intervalos"
       ]
     },
     {
@@ -433,14 +433,14 @@
       "body": "Se uma resposta era mantida por certa consequência, interromper essa relação permite investigar a extinção operante. O registro pode mostrar oscilações e mudanças de forma antes de uma redução sustentada. A história anterior participa do resultado.",
       "objective": "Compare o começo e o fim de um registro de extinção e descreva um efeito que a média da sessão esconderia.",
       "resourceGuides": {
-        "extincao": "Separe a mudança feita na contingência dos efeitos comportamentais descritos na revisão. Veja por que as reações iniciais podem variar.",
-        "lab-reforco": "No exercício da página impressa 30, procure como o caderno orienta registrar a resposta e comparar o período de extinção ao de reforçamento."
+        "lab-reforco": "Vá à página impressa 30. Siga o exercício comparando o registro de respostas antes e depois de parar de oferecer a consequência.",
+        "extincao": "Separe a mudança feita na contingência dos efeitos comportamentais descritos na revisão. Veja por que as reações iniciais podem variar."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
-        "extincao",
-        "lab-reforco"
+        "lab-reforco",
+        "extincao"
       ]
     },
     {
@@ -588,12 +588,14 @@
       "body": "Uma entrevista, um registro direto e uma comparação experimental produzem tipos diferentes de evidência. A escolha depende da pergunta, do contexto e das condições para observar. Cada fonte pode levar à revisão da hipótese inicial.",
       "objective": "Formule uma hipótese e indique o que poderia ser aprendido por entrevista, por observação e por uma comparação planejada.",
       "resourceGuides": {
+        "avaliacao-contextos": "Comece pelas três formas de avaliação nas páginas 5 a 7 do PDF. Anote como se obtêm os dados em cada uma.",
         "avaliacao": "Distinga os tipos de avaliação pelo modo de obter dados. Reúna um exemplo de cada tipo apresentado pelos autores.",
         "matos": "Use a discussão da identificação de relações funcionais para explicar a diferença entre propor uma relação e acrescentar evidência a seu favor."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "avaliacao-contextos",
         "avaliacao",
         "matos"
       ]
@@ -622,14 +624,14 @@
       "body": "Um registro descritivo pode alinhar contexto, ação e consequência de vários episódios. A comparação ajuda a identificar recorrências e exceções. A proximidade temporal entre os eventos ainda deixa em aberto a relação de dependência.",
       "objective": "Registre três episódios fictícios, inclua um contraexemplo e reformule a hipótese para acomodar os dados.",
       "resourceGuides": {
-        "avaliacao": "Na avaliação descritiva, veja como foram organizadas observações de episódios e quais limitações permanecem ao interpretar uma covariação.",
-        "del-prette": "Escolha um exemplo dos quadros de três termos e separe a descrição de cada evento da interpretação sobre sua função."
+        "del-prette": "Nos exemplos em três termos, escolha um episódio e escreva o que aconteceu antes, o que a pessoa fez e o que aconteceu depois.",
+        "avaliacao": "Na avaliação descritiva, veja como foram organizadas observações de episódios e quais limitações permanecem ao interpretar uma covariação."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
-        "avaliacao",
-        "del-prette"
+        "del-prette",
+        "avaliacao"
       ]
     },
     {
@@ -1957,6 +1959,26 @@
       "relevance": "Compare a resposta verbal a uma pergunta com o que se pode observar durante a dinâmica de reciclagem.",
       "nodes": [
         "observar-praticas-ambientais"
+      ]
+    },
+    {
+      "id": "avaliacao-contextos",
+      "title": "Avaliação funcional e a sua prática em contextos aplicados",
+      "authors": "Ilma A. Goulart de Souza Britto, Roberta Maia Marcon e Iran Johnathan S. Oliveira",
+      "institution": "Revista Brasileira de Terapia Comportamental e Cognitiva · ABPMC",
+      "year": 2020,
+      "url": "https://www.rbtcc.com.br/RBTCC/pt_BR/article/download/1045/704#page=5",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo didático",
+      "access": "PDF aberto, sem cadastro, no site do periódico.",
+      "checkedAt": "2026-11-25",
+      "verification": "PDF retornou HTTP 200. Autoria, título e as três seções sobre métodos foram conferidos no texto integral.",
+      "rights": "CC BY-NC indicada no PDF.",
+      "caveat": "Revisão narrativa voltada à prática. As autoras e o autor discutem exemplos históricos, com foco em comportamentos que oferecem risco.",
+      "relevance": "Comece pelas três formas de avaliação nas páginas 5 a 7 do PDF. Anote como se obtêm os dados em cada uma.",
+      "nodes": [
+        "fontes-avaliacao"
       ]
     }
   ]

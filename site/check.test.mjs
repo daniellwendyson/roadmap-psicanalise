@@ -60,7 +60,7 @@ for (const [index, map] of maps.entries()) {
       unique(node.resources, `leituras de ${node.id}`);
       assert.ok(node.resources.filter(id=>map.resources.find(r=>r.id===id)?.language.startsWith('pt')).length>=2,
         `Cada tópico precisa de duas fontes em português: ${map.id}/${node.id}`);
-      if (['base','acp','sistemica','analise-do-comportamento'].includes(map.id)) {
+      if (['base','acp','sistemica','analise-do-comportamento','neurociencia'].includes(map.id)) {
         assert.deepEqual(Object.keys(node.resourceGuides || {}).sort(), [...node.resources].sort(),
           'Cada material deve indicar o que estudar em '+map.id+'/'+node.id);
       }

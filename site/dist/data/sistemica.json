@@ -148,8 +148,8 @@
       "body": "Imagine que, durante uma conversa sobre dinheiro, uma pessoa insiste em pedir detalhes e a outra vai ficando mais quieta. O silêncio leva a novas perguntas. Circularidade descreve como uma resposta passa a fazer parte do contexto da ação seguinte. A hipótese muda conforme se conhece o significado desse silêncio para cada participante.",
       "objective": "Desenhe a sequência de respostas no exemplo e indique que informação falta para interpretar o silêncio.",
       "resources": [
-        "nagem",
         "entrevista",
+        "nagem",
         "costa"
       ],
       "parent": "origens",
@@ -157,7 +157,7 @@
       "lane": "center",
       "resourceGuides": {
         "nagem": "No relato de Carlos, acompanhe a mudança na conversa quando o profissional ouve outras versões de uma relação familiar.",
-        "entrevista": "Localize as orientações sobre investigar interações. Reconstitua uma sequência com as diferentes respostas que a compõem.",
+        "entrevista": "Leia a parte sobre perguntas circulares. Escolha uma pergunta e observe de quem ela pede o ponto de vista e sobre qual relação.",
         "costa": "Procure a discussão da Escola de Palo Alto e anote o que muda quando o foco da explicação é uma sequência de comunicação."
       }
     },

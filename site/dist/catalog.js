@@ -6,5 +6,6 @@ export const meta = {
   sistemica: {name:'Terapia Sistêmica e Familiar', group:'Abordagens', desc:'Escolas de terapia familiar, relações entre gerações e narrativas das famílias.', level:'Introdutório a intermediário'},
   gestalt: {name:'Gestalt-terapia', group:'Abordagens', desc:'Campo, contato e experiência no aqui e agora.', level:'Introdutório a intermediário'},
   analitica: {name:'Psicologia Analítica', group:'Abordagens', desc:'Jung, complexos, símbolos e individuação.', level:'Introdutório a intermediário'},
-  base: {name:'Base Comum', group:'Base comum', desc:'História da Psicologia, memória, desenvolvimento, pesquisa, ética e SUS.', level:'Introdutório'}
+  base: {name:'Base Comum', group:'Base comum', desc:'História da Psicologia, memória, desenvolvimento, pesquisa, ética e SUS.', level:'Introdutório'},
+  neurociencia: {name:'Neurociência', group:'Base comum', desc:'Sistema nervoso, cognição e pesquisa para estudantes de Psicologia.', level:'Introdutório'}
 };

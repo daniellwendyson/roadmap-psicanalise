@@ -1,0 +1,1831 @@
+{
+  "id": "neurociencia",
+  "title": "Neurociência",
+  "nodes": [
+    {
+      "id": "fundamentos",
+      "title": "Mapa do sistema nervoso",
+      "body": "Ao pegar uma xícara, seus olhos ajudam a localizar a alça, os braços se movem e a pele percebe o calor. O sistema nervoso relaciona essas ações em vários níveis: das células e dos nervos aos circuitos do encéfalo e da medula.",
+      "objective": "Descreva um gesto cotidiano em termos de entrada sensorial, processamento e resposta.",
+      "resources": [
+        "nb-pop",
+        "nb-ibro"
+      ],
+      "resourceGuides": {
+        "nb-pop": "Comece pelo bloco “Neuroanatomia” (p. 5–9). Use as figuras para localizar o encéfalo e os principais elementos de um neurônio.",
+        "nb-ibro": "Leia “O Sistema Nervoso” (p. 2–3) e anote um exemplo de como uma informação chega ao sistema nervoso central."
+      },
+      "parent": null,
+      "relation": "sequence",
+      "lane": "center"
+    },
+    {
+      "id": "divisoes",
+      "title": "Central e periférico",
+      "body": "O encéfalo e a medula espinal formam o sistema nervoso central. Nervos e gânglios fazem parte do sistema periférico e ligam diferentes partes do corpo ao sistema central.",
+      "objective": "Desenhe o caminho da mão até a medula e o caminho da resposta de volta à mão.",
+      "resources": [
+        "nb-duarte",
+        "nb-medula"
+      ],
+      "resourceGuides": {
+        "nb-medula": "No esquema da aula, identifique as raízes e veja onde as fibras sensitivas e motoras passam a compartilhar um nervo.",
+        "nb-duarte": "Leia a p. 76 e compare com as p. 84–86. Localize a medula, os nervos e os gânglios e indique a que divisão pertence cada um."
+      },
+      "parent": "fundamentos",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "cortex",
+      "title": "Córtex e lobos cerebrais",
+      "body": "Sulcos e giros ajudam a localizar regiões do córtex. Áreas corticais podem se especializar em funções como visão e movimento, enquanto tarefas como ler e conversar integram várias regiões.",
+      "objective": "Encontre os lobos frontal, parietal, temporal e occipital e indique um exemplo de função para cada um.",
+      "resources": [
+        "nb-capacete",
+        "nb-duarte"
+      ],
+      "resourceGuides": {
+        "nb-capacete": "Veja as instruções para orientar o modelo e localize as marcas de visão e movimento. Leia a seção sobre os limites de um cérebro de papel.",
+        "nb-duarte": "Observe a figura 5.11 (divisão dos lobos) para localizar os lobos frontal, parietal, temporal e occipital."
+      },
+      "parent": "divisoes",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "tronco-medula",
+      "title": "Tronco e medula espinal",
+      "body": "O tronco encefálico conecta regiões do sistema nervoso e contém circuitos envolvidos na respiração e na vigília. A medula leva sinais entre encéfalo e corpo e também integra respostas como reflexos.",
+      "objective": "Em uma figura, localize o tronco e a medula. Explique como uma mesma estrutura pode transmitir e integrar sinais.",
+      "resources": [
+        "nb-tronco",
+        "nb-medula",
+        "nb-duarte"
+      ],
+      "resourceGuides": {
+        "nb-tronco": "No vídeo, localize mesencéfalo, ponte e bulbo. Observe onde o tronco se continua em direção à medula.",
+        "nb-medula": "Use os primeiros esquemas da aula de medula para localizar a região cervical e a saída dos nervos espinais. Consulte a peça anatômica depois do esquema.",
+        "nb-duarte": "Nas p. 80–81, compare as figuras da medula espinal e do tronco encefálico. Aponte onde fica cada estrutura."
+      },
+      "parent": "divisoes",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "talamo-hipotalamo",
+      "title": "Tálamo e hipotálamo",
+      "body": "O tálamo participa de circuitos que ligam áreas do córtex a outras estruturas, incluindo vias sensoriais e motoras. O hipotálamo ajuda a regular o meio interno, com funções como o controle da temperatura e da sede.",
+      "objective": "Compare uma via sensorial que passa pelo tálamo com uma função regulada pelo hipotálamo.",
+      "resources": [
+        "nb-cortes",
+        "nb-duarte"
+      ],
+      "resourceGuides": {
+        "nb-cortes": "Localize “Hipotálamo” e “Tálamo” nas legendas dos cortes sagitais. Use o terceiro ventrículo para comparar suas posições.",
+        "nb-duarte": "Leia “Diencéfalo” e veja a figura 5.9. Localize o tálamo e o hipotálamo em relação ao sulco que os separa."
+      },
+      "parent": "divisoes",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "celulas",
+      "title": "Neurônios e glia",
+      "body": "Os neurônios trocam sinais por meio de circuitos. Células da glia regulam o ambiente em torno deles, participam da defesa e podem formar mielina. O tecido nervoso depende dessa cooperação.",
+      "objective": "Escolha um tipo de neurônio e dois tipos de glia e descreva a tarefa de cada um.",
+      "resources": [
+        "nb-pop",
+        "nb-glia"
+      ],
+      "resourceGuides": {
+        "nb-pop": "Comece pelo desenho do neurônio na p. 9 e identifique as partes em que o sinal chega e por onde ele segue.",
+        "nb-glia": "Leia a introdução até a distinção entre micróglia e macroglia. Relacione três tipos celulares a funções diferentes."
+      },
+      "parent": "fundamentos",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "neuronio",
+      "title": "Anatomia do neurônio",
+      "body": "Dendritos costumam receber sinais, o corpo celular integra parte deles e o axônio conduz sinais a outras células. A forma do neurônio varia de acordo com o circuito.",
+      "objective": "Em um desenho, localize dendritos, soma, axônio e terminais. Marque um percurso possível para o sinal.",
+      "resources": [
+        "nb-pop",
+        "nb-ibro"
+      ],
+      "resourceGuides": {
+        "nb-pop": "Use a primeira figura de “Neurônios e sinapses” (p. 9). Refaça as legendas de memória antes de consultar o desenho.",
+        "nb-ibro": "No capítulo 2, procure o esquema de um neurônio motor. Compare o formato e o comprimento dos prolongamentos com a figura da cartilha."
+      },
+      "parent": "celulas",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "glia-mielina",
+      "title": "Glia e mielina",
+      "body": "Astrócitos ajudam a regular o ambiente dos neurônios e a micróglia atua na defesa do tecido. Oligodendrócitos e células de Schwann produzem mielina no sistema central e no periférico, respectivamente.",
+      "objective": "Associe astrócito, micróglia, oligodendrócito e célula de Schwann a uma função usando um esquema.",
+      "resources": [
+        "nb-glia",
+        "nb-histo"
+      ],
+      "resourceGuides": {
+        "nb-glia": "Na introdução, localize a função dos oligodendrócitos. Depois vá ao começo da seção sobre astrócitos para comparar como os dois tipos colaboram com os neurônios.",
+        "nb-histo": "Busque “Micróglia” e “oligodendrócitos” para ver como diferentes células aparecem nas micrografias. Anote uma diferença de forma."
+      },
+      "parent": "celulas",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "sinalizacao",
+      "title": "Sinais entre as células",
+      "body": "A membrana do neurônio mantém uma diferença de voltagem. Essa diferença pode mudar e gerar um sinal que percorre o axônio. Nas sinapses químicas, um mensageiro liberado por uma célula altera a atividade de outra.",
+      "objective": "Conte a sequência desde a mudança na membrana até o efeito sobre a próxima célula.",
+      "resources": [
+        "nb-excitavel",
+        "nb-ibro"
+      ],
+      "resourceGuides": {
+        "nb-excitavel": "Leia até o primeiro gráfico de potencial de ação, usando o exemplo sensorial para acompanhar o caminho da informação.",
+        "nb-ibro": "Percorra as figuras dos capítulos 2 e 3. Separe o que acontece ao longo do axônio do que acontece entre as duas células."
+      },
+      "parent": "fundamentos",
+      "relation": "sequence",
+      "lane": "center"
+    },
+    {
+      "id": "eletricidade",
+      "title": "Sinais elétricos",
+      "body": "A diferença de voltagem da membrana depende da distribuição dos íons e da abertura dos canais. O potencial de repouso ajuda a estabelecer o ponto de partida para os sinais rápidos.",
+      "objective": "Explique por que uma célula em repouso ainda tem uma diferença de voltagem.",
+      "resources": [
+        "nb-excitavel",
+        "nb-gasparotto"
+      ],
+      "resourceGuides": {
+        "nb-excitavel": "Use o trecho sobre a entrada e a saída de íons antes do gráfico. Separe a ideia de distribuição de íons da ideia de abertura de canais.",
+        "nb-gasparotto": "Leia a abertura da seção 1.1 e a figura dos compartimentos dentro e fora da célula (p. 12–13). Deixe as equações para uma segunda leitura."
+      },
+      "parent": "sinalizacao",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "potencial-acao",
+      "title": "Potencial de ação",
+      "body": "Ao atingir um limiar, a membrana pode produzir uma mudança rápida de voltagem. A entrada de sódio e a saída de potássio ajudam a entender as fases mais comuns do disparo.",
+      "objective": "Esboce um gráfico e identifique limiar, despolarização e repolarização.",
+      "resources": [
+        "nb-atividade",
+        "nb-gasparotto"
+      ],
+      "resourceGuides": {
+        "nb-atividade": "Baixe o gabarito em PDF e use os dois esquemas para conferir a diferença entre potencial de membrana e potencial de ação.",
+        "nb-gasparotto": "Abra a seção 1.4, p. 25. Leia o gráfico antes do texto e marque em que momento os canais de sódio passam a se abrir."
+      },
+      "parent": "eletricidade",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "conducao",
+      "title": "Condução no axônio",
+      "body": "O sinal se propaga porque a atividade de um trecho do axônio favorece a abertura de canais no trecho seguinte. Em axônios mielinizados, o sinal é regenerado nos espaços da bainha chamados nodos de Ranvier.",
+      "objective": "Compare como o sinal avança em um axônio mielinizado e em um sem mielina.",
+      "resources": [
+        "nb-ibro",
+        "nb-gasparotto"
+      ],
+      "resourceGuides": {
+        "nb-ibro": "Em “O isolamento dos axónios” (cap. 2), encontre o trecho que explica por que os canais se concentram nos intervalos da mielina.",
+        "nb-gasparotto": "Veja a figura 14 na seção 1.6. Acompanhe os quadros da propagação e compare com o desenho do guia ilustrado."
+      },
+      "parent": "eletricidade",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "sinapses",
+      "title": "Sinapses e comunicação",
+      "body": "Sinapses químicas transmitem sinais por moléculas liberadas entre as células. Sinapses elétricas permitem a passagem direta de corrente entre células acopladas.",
+      "objective": "Compare o modo de transmissão nas sinapses químicas e nas elétricas.",
+      "resources": [
+        "nb-pop",
+        "nb-gasparotto"
+      ],
+      "resourceGuides": {
+        "nb-pop": "Compare os quadros “Sinapse química” e “Notas de aprofundamento” da p. 9.",
+        "nb-gasparotto": "Leia as seções 2.1.1 e 2.1.2, p. 41–42. Faça uma tabela com o mecanismo de cada tipo e um exemplo."
+      },
+      "parent": "sinalizacao",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "receptores",
+      "title": "Mensageiros e receptores",
+      "body": "Glutamato, GABA, dopamina e outros mensageiros atuam em receptores. O efeito depende do tipo de receptor, das células envolvidas e do circuito.",
+      "objective": "Escolha um neurotransmissor e explique por que dar a ele um único papel seria uma simplificação.",
+      "resources": [
+        "nb-ibro",
+        "nb-gasparotto"
+      ],
+      "resourceGuides": {
+        "nb-ibro": "Em “Mensageiros Químicos” (p. 7–8), compare a abertura de um canal com a ação mais indireta de um receptor.",
+        "nb-gasparotto": "Leia as seções 2.4 a 2.6. Faça a sequência em três passos: liberação, ligação e remoção da molécula."
+      },
+      "parent": "sinapses",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "integracao-sinaptica",
+      "title": "Excitação e inibição",
+      "body": "Um neurônio pode receber sinais que favorecem ou dificultam um disparo. A combinação de sinais ao longo do tempo e em lugares diferentes da célula ajuda a determinar se o limiar será atingido.",
+      "objective": "Desenhe um exemplo de soma no tempo e outro de soma entre entradas diferentes.",
+      "resources": [
+        "nb-gasparotto",
+        "nb-ibro"
+      ],
+      "resourceGuides": {
+        "nb-gasparotto": "Comece pelo esquema da seção 2.8 (p. 51–53). Observe o que muda quando sinais chegam próximos no tempo.",
+        "nb-ibro": "No capítulo 3, compare os traçados de potenciais pós-sinápticos. Veja como os efeitos de entradas diferentes podem se combinar."
+      },
+      "parent": "sinapses",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "sistemas",
+      "title": "Sentidos, ação e corpo",
+      "body": "Perceber, agir e regular o corpo envolve várias vias trabalhando juntas. Ao pedalar, por exemplo, você acompanha a rua pela visão, lê a posição do corpo e ajusta a força de cada movimento.",
+      "objective": "Aponte uma informação sensorial, um ajuste motor e uma função automática presentes no exemplo de pedalar.",
+      "resources": [
+        "nb-movimento",
+        "nb-ibro"
+      ],
+      "resourceGuides": {
+        "nb-movimento": "Use o exemplo da bicicleta para distinguir coordenação de músculos e controle do equilíbrio.",
+        "nb-ibro": "Folheie “Tacto e Dor”, “Visão” e “Movimento”. Compare o tipo de sinal que entra em uma via sensorial com o comando que sai pela via motora."
+      },
+      "parent": "sinalizacao",
+      "relation": "sequence",
+      "lane": "center"
+    },
+    {
+      "id": "sensacao-percepcao",
+      "title": "Da sensação à percepção",
+      "body": "Os receptores convertem mudanças físicas, como luz, vibração e pressão, em sinais nervosos. Na percepção, o sistema nervoso combina esses sinais com o contexto e a experiência.",
+      "objective": "Dê um exemplo da diferença entre detectar um estímulo e reconhecer do que se trata.",
+      "resources": [
+        "nb-percepcao",
+        "nb-ibro"
+      ],
+      "resourceGuides": {
+        "nb-percepcao": "Comece pelo exemplo dos impressionistas. Observe como a luz e o contexto mudam a cor percebida.",
+        "nb-ibro": "No capítulo sobre tato e dor, veja como um estímulo na pele chega ao sistema nervoso. Compare a detecção do estímulo com o reconhecimento da sensação."
+      },
+      "parent": "sistemas",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "tato-dor",
+      "title": "Tato e nocicepção",
+      "body": "Diferentes receptores da pele respondem a pressão, temperatura e estímulos que podem lesar tecidos. Nocicepção é a detecção neural desses últimos estímulos. A dor também envolve percepção e contexto.",
+      "objective": "Compare o sinal de um toque leve com o de um estímulo potencialmente lesivo.",
+      "resources": [
+        "nb-tato",
+        "nb-ibro"
+      ],
+      "resourceGuides": {
+        "nb-tato": "Assista à demonstração de discriminação de dois pontos. Compare o que a atividade mede com sentir pressão em um ponto.",
+        "nb-ibro": "Em “Tacto e Dor” (p. 11–13), compare a seção sobre tato com a seção sobre nociceptores. Identifique em que ponto do trajeto surge a diferença."
+      },
+      "parent": "sensacao-percepcao",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "visao",
+      "title": "Da retina à percepção",
+      "body": "Células da retina convertem luz em sinais que seguem por vias até regiões do cérebro. Ver profundidade, cor e movimento envolve extração e integração de informações.",
+      "objective": "Esboce a via retina → tálamo → córtex e explique como duas imagens ajudam a perceber distância.",
+      "resources": [
+        "nb-visao",
+        "nb-retina"
+      ],
+      "resourceGuides": {
+        "nb-visao": "Leia o exemplo de atravessar a rua e identifique o que muda entre as imagens que chegam aos dois olhos.",
+        "nb-retina": "Procure “Vias visuais”. Siga o desenho do nervo óptico à região occipital e localize o quiasma."
+      },
+      "parent": "sensacao-percepcao",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "audicao",
+      "title": "Do som à audição",
+      "body": "A vibração do som chega à cóclea, onde células sensoriais a convertem em sinais nervosos. O cérebro compara informações dos dois ouvidos para ajudar a localizar uma fonte sonora.",
+      "objective": "Trace o caminho da voz até a cóclea e depois até o cérebro.",
+      "resources": [
+        "nb-ouvido",
+        "nb-voz"
+      ],
+      "resourceGuides": {
+        "nb-voz": "Comece pela pergunta sobre ouvir a própria voz gravada. Distinga o caminho pelo ar e pelo osso.",
+        "nb-ouvido": "Leia a seção “Cóclea”. Acompanhe a passagem da vibração até a atividade das células ciliadas e do nervo auditivo."
+      },
+      "parent": "sensacao-percepcao",
+      "relation": "related",
+      "lane": "left"
+    },
+    {
+      "id": "motricidade",
+      "title": "Movimento e reflexos",
+      "body": "O movimento voluntário envolve seleção e planejamento do gesto, sinais pelos nervos motores e correções com base nos sentidos. Alguns reflexos já são integrados por circuitos da medula.",
+      "objective": "Compare pegar uma xícara com retirar a mão ao tocar algo muito quente.",
+      "resources": [
+        "nb-movimento",
+        "nb-ibro"
+      ],
+      "resourceGuides": {
+        "nb-movimento": "No exemplo da bicicleta, escolha um ajuste muscular e explique que sinais ajudariam a orientá-lo.",
+        "nb-ibro": "No capítulo 7, compare os esquemas sobre reflexos e controle do movimento. Indique onde o sinal sensorial entra em cada caso."
+      },
+      "parent": "sistemas",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "cerebelo-base",
+      "title": "Cerebelo e núcleos da base",
+      "body": "O cerebelo contribui para a precisão e a aprendizagem de movimentos. Os núcleos da base participam de circuitos que ajudam a selecionar ações e ajustar sua execução.",
+      "objective": "Explique a diferença entre escolher um gesto e corrigir seu trajeto em andamento.",
+      "resources": [
+        "nb-movimento",
+        "nb-cerebelo",
+        "nb-base"
+      ],
+      "resourceGuides": {
+        "nb-movimento": "Identifique as estruturas que o artigo cita junto com o córtex. Proponha um exemplo de ajuste durante um movimento.",
+        "nb-cerebelo": "Na aula da Unicamp, localize o cerebelo em relação ao tronco e observe como os pedúnculos conectam as duas estruturas.",
+        "nb-base": "Use a aula para localizar o caudado e o putâmen. Observe como as estruturas profundas se situam em relação ao córtex."
+      },
+      "parent": "motricidade",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "autonomo",
+      "title": "Sistema nervoso autônomo",
+      "body": "Circuitos autonômicos ajudam a ajustar o funcionamento de órgãos. As divisões simpática e parassimpática influenciam, por exemplo, o coração e a digestão. Circuitos entéricos participam do controle do próprio trato digestório.",
+      "objective": "Compare o que tende a acontecer com frequência cardíaca e digestão em duas situações cotidianas diferentes.",
+      "resources": [
+        "nb-autonomo",
+        "nb-enterico",
+        "nb-duarte"
+      ],
+      "resourceGuides": {
+        "nb-autonomo": "Localize os exemplos de frequência cardíaca e digestão na tabela do manual. Compare as duas divisões para o mesmo órgão.",
+        "nb-enterico": "Leia a explicação sobre os neurônios do trato digestório e separe o papel deles da metáfora “segundo cérebro”.",
+        "nb-duarte": "Na figura sobre o sistema nervoso visceral, compare simpático e parassimpático. Identifique em que órgãos ambos aparecem."
+      },
+      "parent": "sistemas",
+      "relation": "related",
+      "lane": "right"
+    },
+    {
+      "id": "cognicao",
+      "title": "Atenção, memória e emoção",
+      "body": "Você lê uma frase, mantém a ideia na cabeça e decide a que prestar atenção. A neurociência cognitiva estuda processos como esses combinando medidas do comportamento com dados sobre o sistema nervoso.",
+      "objective": "Dê um exemplo de tarefa e diga que medida ajudaria a estudar a atenção ou a memória nela.",
+      "resources": [
+        "na-cerebro-aula",
+        "na-aprendizagem-usp"
+      ],
+      "parent": "sistemas",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "na-cerebro-aula": "Veja a aula de introdução e anote uma relação entre o funcionamento do cérebro e uma situação de estudo.",
+        "na-aprendizagem-usp": "Abra o primeiro capítulo sobre cérebro e aprendizagem. Use os exercícios do final do capítulo para revisar os conceitos."
+      }
+    },
+    {
+      "id": "atencao",
+      "title": "Como a atenção seleciona",
+      "body": "A atenção dá prioridade ao que pode ajudar numa tarefa. Um ruído inesperado pode atrair sua atenção, e uma meta, como encontrar uma pessoa na multidão, também orienta a busca.",
+      "objective": "Diferencie uma distração que capturou sua atenção de uma busca orientada por uma meta.",
+      "resources": [
+        "na-atencao-livro",
+        "na-atencao"
+      ],
+      "parent": "cognicao",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "na-atencao-livro": "Comece pela introdução do capítulo 2 e pelos exemplos de atenção seletiva e sustentada.",
+        "na-atencao": "Na discussão sobre busca visual, compare uma tarefa em que o alvo se destaca com outra que exige examinar vários itens."
+      }
+    },
+    {
+      "id": "controle-executivo",
+      "title": "Funções executivas",
+      "body": "Quando uma tarefa muda de regra, você precisa manter a instrução em mente, conter a resposta habitual e se adaptar. Memória de trabalho, controle inibitório e flexibilidade cognitiva ajudam a descrever essas habilidades.",
+      "objective": "Imagine uma atividade que muda de regra e mostre onde entra cada habilidade.",
+      "resources": [
+        "na-funcoes",
+        "na-leitura"
+      ],
+      "parent": "atencao",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "na-funcoes": "Leia a seção que define as funções executivas. Use os exemplos de planejamento, filtragem de distrações e mudança de estratégia.",
+        "na-leitura": "Na seção sobre funções executivas, procure o paradigma de Stroop e relacione a resposta automática ao controle inibitório."
+      }
+    },
+    {
+      "id": "memoria",
+      "title": "Tipos de memória",
+      "body": "Contar o que ocorreu ontem, saber a capital de um país e andar de bicicleta dependem de formas diferentes de memória. Há também a memória de trabalho, que ajuda a manter e manipular informação durante uma tarefa.",
+      "objective": "Invente um exemplo de memória episódica, outro de memória semântica e outro de aprendizagem de uma habilidade.",
+      "resources": [
+        "na-aprendizagem-usp",
+        "na-memorias",
+        "na-memoria-aula"
+      ],
+      "parent": "cognicao",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "na-aprendizagem-usp": "Vá ao capítulo sobre memória. Procure a distinção entre tipos de memória e relacione cada um a uma atividade da sua semana.",
+        "na-memorias": "Na seção sobre a classificação das memórias, use os exemplos de saber que e saber como para organizar suas anotações.",
+        "na-memoria-aula": "Use a parte III do módulo como revisão do capítulo de memória."
+      }
+    },
+    {
+      "id": "lembrar",
+      "title": "Formar, lembrar e esquecer",
+      "body": "Codificar uma experiência, estabilizar parte dessa informação e recuperá-la depois são processos diferentes. Uma pista pode ajudar a recuperar algo que você não conseguiu lembrar espontaneamente.",
+      "objective": "Dê um exemplo em que a pista ajuda a lembrar e diga que etapa ela facilita.",
+      "resources": [
+        "na-memorias",
+        "na-esquecer"
+      ],
+      "parent": "memoria",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "na-memorias": "Comece pela seção Formação de Memórias. Repare nos exemplos de um filme e de uma aula.",
+        "na-esquecer": "Leia os parágrafos de abertura e a discussão sobre o uso de uma memória. Compare esquecimento e dificuldade de evocação."
+      }
+    },
+    {
+      "id": "praticar",
+      "title": "Prática de recuperação",
+      "body": "Responder de memória a uma pergunta depois de fechar o texto é uma forma de estudar. Reabrir o material em seguida dá a chance de corrigir o que ficou incompleto.",
+      "objective": "Depois de ler uma ficha, feche-a, escreva três ideias e volte ao texto para conferir.",
+      "resources": [
+        "na-recuperacao",
+        "na-metanalise"
+      ],
+      "parent": "memoria",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "na-recuperacao": "Procure a comparação entre reler e tentar recordar a informação.",
+        "na-metanalise": "Na seção O Efeito de Prática de Recuperação, observe como os autores ilustram um teste de retenção com condições fictícias."
+      }
+    },
+    {
+      "id": "sono",
+      "title": "Sono e memória",
+      "body": "Durante o sono, o cérebro alterna entre estágios com características distintas. Pesquisas investigam como esses estágios se relacionam com a estabilização e a reorganização de memórias.",
+      "objective": "Escolha uma tarefa de memória e proponha em que momentos você avaliaria o desempenho antes e depois de dormir.",
+      "resources": [
+        "na-sono-aula",
+        "na-sono-artigo",
+        "na-aprendizagem-usp"
+      ],
+      "parent": "cognicao",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "na-sono-aula": "Use a aula curta para começar o módulo sobre sono e saúde mental.",
+        "na-sono-artigo": "Leia a introdução e a discussão sobre o hipocampo no sono. Separe a hipótese sobre memória do dado usado para investigá-la.",
+        "na-aprendizagem-usp": "No capítulo sobre sono, consulte o resumo e as questões de revisão."
+      }
+    },
+    {
+      "id": "emocoes",
+      "title": "Emoções e estresse",
+      "body": "Emoções envolvem a avaliação de uma situação, mudanças no corpo e tendências de ação. Uma prova pode mudar sua atenção às perguntas e sua percepção do próprio desempenho.",
+      "objective": "Separe a interpretação de uma situação, a reação corporal e a ação que vem a seguir.",
+      "resources": [
+        "na-aprendizagem-usp",
+        "na-emocoes-aula"
+      ],
+      "parent": "cognicao",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "na-aprendizagem-usp": "No capítulo sobre emoções, estresse e ansiedade, comece pelas definições e pelos exemplos do cotidiano acadêmico.",
+        "na-emocoes-aula": "Assista ao trecho do módulo e anote como a professora relaciona o tema à vida acadêmica."
+      }
+    },
+    {
+      "id": "resposta-estresse",
+      "title": "Resposta corporal ao estresse",
+      "body": "O eixo hipotálamo, hipófise e adrenal participa da resposta hormonal ao estresse. A duração, a situação e a história da pessoa influenciam como essa resposta se apresenta.",
+      "objective": "Desenhe o percurso do sinal do hipotálamo à adrenal e indique onde entra o cortisol.",
+      "resources": [
+        "na-aprendizagem-usp",
+        "na-estresse"
+      ],
+      "parent": "emocoes",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "na-aprendizagem-usp": "No capítulo sobre emoções e estresse, localize a parte sobre o que ocorre no organismo durante a resposta ao estresse.",
+        "na-estresse": "Leia a explicação inicial do eixo hormonal e observe por que resultados sobre cortisol variam com o grupo e o contexto estudados."
+      }
+    },
+    {
+      "id": "desenvolvimento",
+      "title": "Cérebro ao longo da vida",
+      "body": "O cérebro muda durante a infância, a adolescência e a vida adulta. Cada habilidade tem seu ritmo, e as oportunidades de aprender dependem também das relações e dos ambientes da pessoa.",
+      "objective": "Compare uma mudança típica do desenvolvimento infantil e outra observada na vida adulta.",
+      "resources": [
+        "na-infancia",
+        "na-envelhecimento"
+      ],
+      "parent": "cognicao",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "na-infancia": "Comece pelo vídeo Experiências moldam a arquitetura do cérebro. Observe o exemplo que liga experiências à formação de circuitos.",
+        "na-envelhecimento": "Leia a parte sobre plasticidade e envelhecimento. Compare o papel das experiências com o que aparece no vídeo sobre infância."
+      }
+    },
+    {
+      "id": "plasticidade",
+      "title": "Neuroplasticidade",
+      "body": "A atividade e a experiência podem mudar a força das conexões e a organização dos circuitos. Praticar uma nova habilidade é um exemplo de como essa capacidade participa do aprendizado.",
+      "objective": "Explique a diferença entre aprender uma habilidade e afirmar que surgiu um neurônio novo.",
+      "resources": [
+        "na-plasticidade-aula",
+        "na-envelhecimento"
+      ],
+      "parent": "desenvolvimento",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "na-plasticidade-aula": "Ouça Roberto Lent explicar a relação entre adaptação cerebral e experiência.",
+        "na-envelhecimento": "Procure a descrição da formação de novas conexões e da adaptação a demandas ao longo da vida."
+      }
+    },
+    {
+      "id": "periodos-sensiveis",
+      "title": "Períodos sensíveis",
+      "body": "Em certas fases, algumas experiências têm efeitos especialmente fortes sobre o desenvolvimento de uma habilidade. O momento depende do sistema em estudo e a capacidade de mudança segue presente na vida adulta.",
+      "objective": "Explique por que uma fase de alta plasticidade tem efeitos diferentes para habilidades diferentes.",
+      "resources": [
+        "na-funcoes",
+        "na-infancia"
+      ],
+      "parent": "plasticidade",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "na-funcoes": "Leia a apresentação e a caixa de definições da página 4. Compare período sensível com plasticidade.",
+        "na-infancia": "Em Experiências moldam a arquitetura do cérebro, observe como o vídeo representa a construção de circuitos em etapas."
+      }
+    },
+    {
+      "id": "cuidado",
+      "title": "Relações e desenvolvimento",
+      "body": "Quando um bebê vocaliza e um cuidador responde, forma-se uma sequência de troca. Repetidas no cotidiano, interações assim oferecem oportunidades para aprender. O acesso a cuidados também depende das condições em que as famílias vivem.",
+      "objective": "Descreva uma troca entre bebê e cuidador e a relação dela com uma oportunidade de aprendizagem.",
+      "resources": [
+        "na-infancia",
+        "na-desenvolvimento"
+      ],
+      "parent": "desenvolvimento",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "na-infancia": "Veja O jogo de ação e reação modela os circuitos do cérebro. Escolha uma troca representada no vídeo e descreva as duas ações.",
+        "na-desenvolvimento": "Procure a discussão sobre cuidadores, professores e comunidade. Anote como oportunidades de interação variam entre ambientes."
+      }
+    },
+    {
+      "id": "adversidades",
+      "title": "Adversidade e apoio",
+      "body": "Respostas breves ao estresse fazem parte da adaptação. Adversidades intensas e duradouras podem afetar o desenvolvimento, especialmente quando faltam relações de apoio. Os efeitos variam e podem mudar com as condições de vida.",
+      "objective": "Compare uma situação desafiadora com apoio disponível e outra em que a adversidade se prolonga sem apoio suficiente.",
+      "resources": [
+        "na-infancia",
+        "na-desenvolvimento"
+      ],
+      "parent": "cuidado",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "na-infancia": "Assista ao vídeo sobre estresse tóxico e observe onde entram os adultos que acolhem a criança.",
+        "na-desenvolvimento": "Leia a seção sobre estresse. Diferencie intensidade e duração da resposta e anote o lugar das relações seguras."
+      }
+    },
+    {
+      "id": "envelhecer",
+      "title": "Aprender na vida adulta",
+      "body": "Velocidade de processamento, repertório de conhecimentos e memória podem mudar de maneiras diferentes ao longo da vida. Adultos mais velhos continuam capazes de aprender, com trajetórias que refletem também escolaridade, saúde e oportunidades.",
+      "objective": "Explique por que a idade sozinha informa pouco sobre o desempenho de alguém em uma tarefa.",
+      "resources": [
+        "na-envelhecimento",
+        "na-rmf-lab"
+      ],
+      "parent": "desenvolvimento",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "na-envelhecimento": "Comece no trecho que relaciona experiência, formação de memórias e adaptação de circuitos.",
+        "na-rmf-lab": "Veja o exemplo de estudo de redes durante o envelhecimento e separe a pergunta de pesquisa da aplicação clínica futura."
+      }
+    },
+    {
+      "id": "pesquisa",
+      "title": "Métodos e leitura de evidências",
+      "body": "Uma tarefa mede acertos e tempo de resposta. Um eletroencefalograma mede variações elétricas no couro cabeludo. Cada medida ajuda a responder uma parte da pergunta, sob condições que precisam estar descritas.",
+      "objective": "Leia um estudo e resuma a pergunta, o que foi medido e o que o resultado sustenta.",
+      "resources": [
+        "na-metodos-aula",
+        "na-metodos-artigo",
+        "na-metanalise"
+      ],
+      "parent": "desenvolvimento",
+      "relation": "sequence",
+      "lane": "center",
+      "resourceGuides": {
+        "na-metodos-aula": "Comece pela explicação dos sinais que os métodos de registro conseguem captar.",
+        "na-metodos-artigo": "Localize a discussão de neuroimagem funcional e contraste de tarefas. Pergunte o que a comparação pode mostrar.",
+        "na-metanalise": "Leia a introdução para entender o que se ganha ao reunir evidências de vários estudos."
+      }
+    },
+    {
+      "id": "experimentos",
+      "title": "Tarefas e comparações",
+      "body": "Comparar o desempenho em duas condições ajuda a testar hipóteses sobre um processo mental. Tempo de resposta, acertos e erros podem mudar juntos ou apontar para interpretações diferentes.",
+      "objective": "No exemplo escolhido, identifique o que cada grupo faz e como se avalia seu desempenho.",
+      "resources": [
+        "na-eeg-experimento",
+        "na-metanalise"
+      ],
+      "parent": "pesquisa",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "na-eeg-experimento": "Na descrição do experimento, compare fazer as tarefas juntas e separadas. Anote quais medidas são de desempenho e quais vêm do EEG.",
+        "na-metanalise": "Leia o exemplo fictício na seção O Efeito de Prática de Recuperação. Compare releitura e recuperação e identifique o desfecho usado no exercício."
+      }
+    },
+    {
+      "id": "sinais-pesquisa",
+      "title": "O que os exames medem",
+      "body": "A escolha de uma técnica depende da pergunta. Algumas registram mudanças rápidas em sinais elétricos. Outras permitem situar melhor no cérebro uma mudança ligada ao fluxo sanguíneo.",
+      "objective": "Compare EEG e ressonância magnética funcional quanto ao sinal captado e ao tipo de pergunta que ajudam a responder.",
+      "resources": [
+        "na-metodos-aula",
+        "na-metodos-artigo"
+      ],
+      "parent": "pesquisa",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "na-metodos-aula": "Compare o EEG com a espectroscopia funcional depois de ver as demonstrações de registro.",
+        "na-metodos-artigo": "Na passagem sobre ressonância funcional, identifique por que o sinal ligado ao sangue é uma medida indireta."
+      }
+    },
+    {
+      "id": "eeg",
+      "title": "Eletroencefalograma (EEG)",
+      "body": "Eletrodos no couro cabeludo registram variações de voltagem que refletem atividade conjunta de populações de neurônios. O sinal muda rapidamente e também pode ser afetado por piscadas e movimentos.",
+      "objective": "Explique a vantagem de um registro rápido quando o estímulo dura poucos milissegundos.",
+      "resources": [
+        "na-metodos-aula",
+        "na-eeg-experimento"
+      ],
+      "parent": "sinais-pesquisa",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "na-metodos-aula": "Procure a demonstração de EEG e observe onde ficam os sensores.",
+        "na-eeg-experimento": "Veja como o estudo combinou faixas de frequência do EEG com tempo de resposta e acertos."
+      }
+    },
+    {
+      "id": "ressonancia",
+      "title": "Ressonância funcional (RMf)",
+      "body": "A ressonância funcional costuma registrar alterações relacionadas à oxigenação do sangue. Pesquisadores comparam condições ou examinam como o sinal varia entre regiões ao longo do tempo.",
+      "objective": "Distingua a medida registrada da explicação proposta para uma diferença entre condições.",
+      "resources": [
+        "na-rmf-lab",
+        "na-metodos-artigo"
+      ],
+      "parent": "sinais-pesquisa",
+      "relation": "related",
+      "lane": "right",
+      "resourceGuides": {
+        "na-rmf-lab": "Comece pela comparação entre registro durante uma tarefa e registro em repouso.",
+        "na-metodos-artigo": "Leia os parágrafos sobre ressonância funcional e método de subtração para entender como se constrói um contraste."
+      }
+    },
+    {
+      "id": "neuromitos",
+      "title": "Reconhecer neuromitos",
+      "body": "Uma afirmação sobre o cérebro pode soar convincente mesmo quando a recomendação prática que vem depois carece de evidência. Preferir vídeos, por exemplo, é diferente de aprender mais porque a aula foi adaptada ao suposto estilo visual.",
+      "objective": "Transforme uma afirmação sobre a aprendizagem em uma pergunta testável e defina como mediria a diferença.",
+      "resources": [
+        "na-estilos",
+        "na-neuromitos"
+      ],
+      "parent": "pesquisa",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "na-estilos": "Comece pela introdução. Separe preferência pessoal da hipótese de que combinar material e estilo melhora a aprendizagem.",
+        "na-neuromitos": "Observe quais frases entraram no questionário. Diferencie o que o estudo mediu de uma avaliação do efeito dessas ideias em sala de aula."
+      }
+    },
+    {
+      "id": "etica",
+      "title": "Ética e dados do cérebro",
+      "body": "Dados de pesquisa podem ser reutilizados em perguntas novas e combinados com informações pessoais. Importa entender a finalidade, o acesso aos registros e o que o participante pôde aceitar ao decidir participar.",
+      "objective": "Liste o que você explicaria à pessoa antes de registrar um EEG para uma pesquisa estudantil.",
+      "resources": [
+        "na-dados",
+        "na-neurodados"
+      ],
+      "parent": "pesquisa",
+      "relation": "related",
+      "lane": "left",
+      "resourceGuides": {
+        "na-dados": "Leia a síntese no anexo sobre proteção e compartilhamento de dados. Anote duas informações que o participante precisa receber.",
+        "na-neurodados": "Procure a discussão de privacidade e inferências sobre pessoas. Dê um exemplo de uso secundário de um sinal coletado em pesquisa."
+      }
+    }
+  ],
+  "resources": [
+    {
+      "id": "nb-pop",
+      "title": "Cartilha Popularizando a Neurociência",
+      "authors": "Bruna Gonçalves Rodrigues e equipe POPNeuro",
+      "institution": "Universidade Federal do Pampa",
+      "year": 2026,
+      "url": "https://repositorio.unipampa.edu.br/server/api/core/bitstreams/11a8cd97-ef34-4fc8-aa17-ed33b000e9a2/content",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Cartilha ilustrada",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Texto ilustrado de extensão universitária. Algumas analogias são simplificações.",
+      "relevance": "Comece pelo bloco “Neuroanatomia” (p. 5–9). Use as figuras para localizar o encéfalo e os principais elementos de um neurônio.",
+      "nodes": [
+        "fundamentos",
+        "celulas",
+        "neuronio",
+        "sinapses"
+      ]
+    },
+    {
+      "id": "nb-ibro",
+      "title": "Neurociência: Ciência do Cérebro",
+      "authors": "Richard Morris e Marianne Fillenz, tradução João O. Malva e Arsélio Pato de Carvalho",
+      "institution": "British Neuroscience Association e IBRO · Fundação Francisco Manuel dos Santos",
+      "year": 2007,
+      "url": "https://ffms.pt/sites/default/files/2022-07/portuguese.pdf",
+      "sourcePage": null,
+      "language": "pt-PT",
+      "format": "Guia ilustrado",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "A tradução em português de Portugal é de 2007. As seções indicadas apresentam conceitos básicos.",
+      "relevance": "Leia “O Sistema Nervoso” (p. 2–3) e anote um exemplo de como uma informação chega ao sistema nervoso central.",
+      "nodes": [
+        "fundamentos",
+        "neuronio",
+        "sinalizacao",
+        "conducao",
+        "receptores",
+        "integracao-sinaptica",
+        "sistemas",
+        "sensacao-percepcao",
+        "tato-dor",
+        "motricidade"
+      ]
+    },
+    {
+      "id": "nb-cortes",
+      "title": "Cortes sagitais do cérebro",
+      "authors": "Maria Júlia Marques e Luciano de Souza Queiroz",
+      "institution": "Unicamp · Atlas Básico de Neuroanatomia Humana",
+      "year": null,
+      "url": "https://anatpat.unicamp.br/neuroanatsagitais.html",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Atlas digital",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Contém fotografias de cortes anatômicos humanos com legendas.",
+      "relevance": "Localize “Hipotálamo” e “Tálamo” nas legendas dos cortes sagitais. Use o terceiro ventrículo como referência para comparar suas posições.",
+      "nodes": [
+        "talamo-hipotalamo"
+      ]
+    },
+    {
+      "id": "nb-capacete",
+      "title": "Capacete do Cérebro",
+      "authors": "Equipe do Museu de Neurociências",
+      "institution": "Museu de Neurociências / Ciências e Cognição",
+      "year": 2024,
+      "url": "https://museudeneurociencias.org/capacete-do-cerebro/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Atividade guiada",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "O modelo destaca algumas regiões. Funções complexas dependem de redes.",
+      "relevance": "Veja as instruções para orientar o modelo e localize as marcas de visão e movimento. Leia a seção sobre os limites de um cérebro de papel.",
+      "nodes": [
+        "cortex"
+      ]
+    },
+    {
+      "id": "nb-tronco",
+      "title": "Tronco encefálico e cerebelo",
+      "authors": "Aliny Carvalho e João Vitor Galo (roteiro)",
+      "institution": "Museu de Neurociências / Ciências e Cognição",
+      "year": 2024,
+      "url": "https://museudeneurociencias.org/morfologia-tronco-encefalico-e-cerebelo/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Videoaula",
+      "access": "Vídeo gratuito no canal ou na página da instituição.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Vídeo do módulo de morfologia.",
+      "relevance": "No vídeo, localize mesencéfalo, ponte e bulbo. Observe onde o tronco se continua em direção à medula.",
+      "nodes": [
+        "tronco-medula"
+      ]
+    },
+    {
+      "id": "nb-medula",
+      "title": "Sistema Nervoso: Medula Espinal",
+      "authors": "Wagner José Fávaro e Daniel M. V. Zimmermann",
+      "institution": "Anatomia Unicamp",
+      "year": 2020,
+      "url": "https://www.youtube.com/watch?v=O1czNLqbbAk",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Videoaula",
+      "access": "Vídeo gratuito no canal ou na página da instituição.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Aula de anatomia de graduação com demonstração de peças anatômicas.",
+      "relevance": "No esquema da aula, identifique as raízes e veja onde as fibras sensitivas e motoras passam a compartilhar um nervo.",
+      "nodes": [
+        "divisoes",
+        "tronco-medula"
+      ]
+    },
+    {
+      "id": "nb-cerebelo",
+      "title": "Sistema Nervoso: Cerebelo",
+      "authors": "Wagner José Fávaro e Daniel M. V. Zimmermann",
+      "institution": "Anatomia Unicamp",
+      "year": 2020,
+      "url": "https://www.youtube.com/watch?v=KsvClm9BZy0",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Videoaula",
+      "access": "Vídeo gratuito no canal ou na página da instituição.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Aula de anatomia de graduação com demonstração de peças anatômicas.",
+      "relevance": "Na aula da Unicamp, localize o cerebelo em relação ao tronco e observe como os pedúnculos conectam as duas estruturas.",
+      "nodes": [
+        "cerebelo-base"
+      ]
+    },
+    {
+      "id": "nb-base",
+      "title": "Sistema Nervoso: Telencéfalo e Núcleos da Base",
+      "authors": "Wagner José Fávaro e Daniel M. V. Zimmermann",
+      "institution": "Anatomia Unicamp",
+      "year": 2020,
+      "url": "https://www.youtube.com/watch?v=MwmPJiiiyoY",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Videoaula",
+      "access": "Vídeo gratuito no canal ou na página da instituição.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Aula de anatomia de graduação com demonstração de peças anatômicas.",
+      "relevance": "Use a aula para localizar o caudado e o putâmen. Observe como as estruturas profundas se situam em relação ao córtex.",
+      "nodes": [
+        "cerebelo-base"
+      ]
+    },
+    {
+      "id": "nb-histo",
+      "title": "Atlas de Histologia: Tecido Nervoso",
+      "authors": "Equipe do Atlas de Histologia do curso de Medicina",
+      "institution": "Universidade Católica de Pelotas",
+      "year": null,
+      "url": "https://medicina.ucpel.edu.br/atlas/histologia/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Atlas digital",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Página longa. Localize o termo indicado para ir direto às micrografias.",
+      "relevance": "Busque “Micróglia” e “oligodendrócitos” para ver como diferentes células aparecem nas micrografias. Anote uma diferença de forma.",
+      "nodes": [
+        "glia-mielina"
+      ]
+    },
+    {
+      "id": "nb-glia",
+      "title": "Glia: dos velhos conceitos às novas funções de hoje e as que ainda virão",
+      "authors": "Flávia Carvalho Alcantara Gomes, Vanessa Pereira Tortelli e Luan Diniz (UFRJ)",
+      "institution": "Estudos Avançados (USP) / SciELO",
+      "year": 2013,
+      "url": "https://www.scielo.br/j/ea/a/DZKjD5QGZFfP3bVJ6HjGggL/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de revisão",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Comece pela introdução. As seções sobre pesquisas da época funcionam como aprofundamento.",
+      "relevance": "Leia a introdução até a distinção entre micróglia e macroglia. Relacione três tipos celulares a funções diferentes.",
+      "nodes": [
+        "celulas",
+        "glia-mielina"
+      ]
+    },
+    {
+      "id": "nb-excitavel",
+      "title": "Neurônios, aprendizagem e linguagem",
+      "authors": "Elisabete Castelon Konkiewitz (UFGD)",
+      "institution": "Neuro em Debate / Ciências e Cognição",
+      "year": 2016,
+      "url": "https://cienciasecognicao.org/neuroemdebate/neuronios-aprendizagem-e-linguagem/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de divulgação",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Texto introdutório com notas editoriais de 2026 nas figuras.",
+      "relevance": "Leia até o primeiro gráfico de potencial de ação, usando o exemplo sensorial para acompanhar o caminho da informação.",
+      "nodes": [
+        "sinalizacao",
+        "eletricidade"
+      ]
+    },
+    {
+      "id": "nb-gasparotto",
+      "title": "Biofísica Aplicada às Ciências Biológicas",
+      "authors": "Odival César Gasparotto",
+      "institution": "Universidade Federal de Santa Catarina",
+      "year": 2014,
+      "url": "https://uab.ufsc.br/biologia/files/2020/08/Biof%C3%ADsica-Aplicada-%C3%A0s-Ci%C3%AAncias-Biol%C3%B3gicas.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Livro didático",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "A leitura pode ser feita pelos gráficos e figuras primeiro.",
+      "relevance": "Leia a abertura da seção 1.1 e a figura dos compartimentos dentro e fora da célula (p. 12–13). Deixe as equações para uma segunda leitura.",
+      "nodes": [
+        "eletricidade",
+        "potencial-acao",
+        "conducao",
+        "sinapses",
+        "receptores",
+        "integracao-sinaptica"
+      ]
+    },
+    {
+      "id": "nb-atividade",
+      "title": "Quebra-cabeça do potencial de ação",
+      "authors": "Alexsandro Ferreira Guimarães e Eduardo Berna",
+      "institution": "Universidade Federal de Ciências da Saúde de Porto Alegre",
+      "year": 2022,
+      "url": "https://repositorio.ufcspa.edu.br/items/01e9a3a2-3e2f-4e73-b67f-1217de2509ae",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Atividade guiada",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "A página disponibiliza as peças e um PDF curto com o gabarito.",
+      "relevance": "Baixe o gabarito em PDF e use os dois esquemas para conferir a diferença entre potencial de membrana e potencial de ação.",
+      "nodes": [
+        "potencial-acao"
+      ]
+    },
+    {
+      "id": "nb-percepcao",
+      "title": "Percepção e construção da realidade: como o cérebro integra estímulos",
+      "authors": "Edward Ziff e Elisabete Castelon Konkiewitz",
+      "institution": "Neuro em Debate / Ciências e Cognição",
+      "year": 2012,
+      "url": "https://cienciasecognicao.org/neuroemdebate/percepcao-construcao-realidade-integracao-cerebral-1/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de divulgação",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Ensaio introdutório que combina arte e ciência da percepção.",
+      "relevance": "Comece pelo exemplo dos impressionistas. Observe como a luz e o contexto mudam a cor percebida.",
+      "nodes": [
+        "sensacao-percepcao"
+      ]
+    },
+    {
+      "id": "nb-tato",
+      "title": "Discriminação Tátil",
+      "authors": "Equipe do Museu de Neurociências",
+      "institution": "Museu de Neurociências / Ciências e Cognição",
+      "year": 2024,
+      "url": "https://museudeneurociencias.org/discriminacao-tatil/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Videoaula",
+      "access": "Vídeo gratuito no canal ou na página da instituição.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Demonstração educativa. O desempenho depende da tarefa e de como se mede a distância.",
+      "relevance": "Assista à demonstração de discriminação de dois pontos. Compare o que a atividade mede com sentir pressão em um ponto.",
+      "nodes": [
+        "tato-dor"
+      ]
+    },
+    {
+      "id": "nb-visao",
+      "title": "Visão binocular e percepção de profundidade",
+      "authors": "Edward Ziff e Elisabete Castelon Konkiewitz",
+      "institution": "Neuro em Debate / Ciências e Cognição",
+      "year": 2012,
+      "url": "https://cienciasecognicao.org/neuroemdebate/percepcao-realidade-visao-binocular-parte-3/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de divulgação",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Ensaio focado em pistas binoculares de profundidade.",
+      "relevance": "Leia o exemplo de atravessar a rua e identifique o que muda entre as imagens que chegam aos dois olhos.",
+      "nodes": [
+        "visao"
+      ]
+    },
+    {
+      "id": "nb-retina",
+      "title": "Morfologia do sistema visual",
+      "authors": "Harley E. A. Bicas (USP)",
+      "institution": "Medicina (Ribeirão Preto) / USP",
+      "year": 1997,
+      "url": "https://revistas.usp.br/rmrp/pt_BR/article/download/806/818/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de revisão",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Texto mais detalhado. Comece pelo desenho das vias visuais.",
+      "relevance": "Procure “Vias visuais”. Siga o desenho do nervo óptico à região occipital e localize o quiasma.",
+      "nodes": [
+        "visao"
+      ]
+    },
+    {
+      "id": "nb-voz",
+      "title": "Que voz é essa?",
+      "authors": "Priscilla Oliveira Silva Bomfim (UFF)",
+      "institution": "Ciência Hoje das Crianças",
+      "year": 2025,
+      "url": "https://www.chc.org.br/artigo/que-voz-e-essa/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de divulgação",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Usa um exemplo cotidiano para introduzir a condução do som.",
+      "relevance": "Comece pela pergunta sobre ouvir a própria voz gravada. Distinga o caminho pelo ar e pelo osso.",
+      "nodes": [
+        "audicao"
+      ]
+    },
+    {
+      "id": "nb-movimento",
+      "title": "Cérebro em movimento",
+      "authors": "Priscilla Oliveira Silva Bomfim (UFF)",
+      "institution": "Ciência Hoje das Crianças",
+      "year": 2026,
+      "url": "https://www.chc.org.br/artigo/cerebro-em-movimento/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de divulgação",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Usa o exemplo de pedalar para introduzir a coordenação.",
+      "relevance": "Use o exemplo da bicicleta para distinguir coordenação de músculos e controle do equilíbrio.",
+      "nodes": [
+        "sistemas",
+        "motricidade",
+        "cerebelo-base"
+      ]
+    },
+    {
+      "id": "nb-autonomo",
+      "title": "Considerações gerais sobre o sistema nervoso autônomo",
+      "authors": "Elizabeth Coon, revisão de Michael C. Levin",
+      "institution": "Manual MSD · Versão Saúde para a Família",
+      "year": 2025,
+      "url": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-cerebrais-da-medula-espinal-e-dos-nervos/dist%C3%BArbios-do-sistema-nervoso-aut%C3%B4nomo/considera%C3%A7%C3%B5es-gerais-sobre-o-sistema-nervoso-aut%C3%B4nomo",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de referência",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "Use a tabela de efeitos por órgão como revisão, pois a regulação depende do contexto.",
+      "relevance": "Localize os exemplos de frequência cardíaca e digestão na tabela do manual. Compare as duas divisões para o mesmo órgão.",
+      "nodes": [
+        "autonomo"
+      ]
+    },
+    {
+      "id": "nb-enterico",
+      "title": "Cérebro na barriga",
+      "authors": "Equipe de reportagem da Ciência Hoje das Crianças",
+      "institution": "Ciência Hoje das Crianças",
+      "year": null,
+      "url": "https://chc.org.br/cerebro-na-barriga/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de divulgação",
+      "access": "Material de leitura gratuito, sem cadastro na consulta.",
+      "checkedAt": "2026-11-25",
+      "verification": "Autoria, assunto e acesso conferidos na página de origem.",
+      "rights": "Link para a fonte autorizada. Consulte a licença da obra para reutilização.",
+      "caveat": "A expressão “segundo cérebro” é uma metáfora para o sistema nervoso entérico.",
+      "relevance": "Leia a explicação sobre os neurônios do trato digestório e separe o papel deles da metáfora “segundo cérebro”.",
+      "nodes": [
+        "autonomo"
+      ]
+    },
+    {
+      "id": "na-aprendizagem-usp",
+      "title": "Neurociências aplicadas à aprendizagem",
+      "authors": "Ana Julia Ribeiro e Fernando Eduardo Padovan Neto (orgs.)",
+      "institution": "Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto · USP",
+      "year": 2025,
+      "url": "https://livrosabertos.abcd.usp.br/portaldelivrosUSP/pt_BR/catalog/download/1594/1458/5738?inline=1",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Livro aberto",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "CC BY-NC-SA 4.0 informada no Portal de Livros Abertos.",
+      "caveat": "Livro com capítulos para graduação, resumos e exercícios. Use o sumário para localizar o assunto indicado.",
+      "relevance": "Abra o primeiro capítulo sobre cérebro e aprendizagem. Use os exercícios do final do capítulo para revisar os conceitos.",
+      "nodes": [
+        "cognicao",
+        "memoria",
+        "sono",
+        "emocoes",
+        "resposta-estresse"
+      ]
+    },
+    {
+      "id": "na-cerebro-aula",
+      "title": "O cérebro e a aprendizagem · parte III",
+      "authors": "Ana Julia de Oliveira Cerveira",
+      "institution": "Neurociências no Ensino Superior · USP",
+      "year": 2025,
+      "url": "https://www.youtube.com/watch?v=YWxrZ9EFWyQ",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Aula em vídeo · 14 min",
+      "access": "Reprodução gratuita no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Disponibilidade, título e canal verificados por oEmbed no YouTube.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "É um trecho do módulo. O livro ajuda a localizar os conceitos do curso.",
+      "relevance": "Veja a aula de introdução e anote uma relação entre o funcionamento do cérebro e uma situação de estudo.",
+      "nodes": [
+        "cognicao"
+      ]
+    },
+    {
+      "id": "na-atencao",
+      "title": "A construção da atenção a partir da memória",
+      "authors": "André Frazão Helene e Gilberto Fernando Xavier",
+      "institution": "Revista Brasileira de Psiquiatria",
+      "year": 2003,
+      "url": "https://www.scielo.br/j/rbp/a/hNB6m4LpCwCPnWpJ4vbc6qL/?format=html&lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo teórico",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Os autores propõem um modelo. O texto apresenta hipóteses que podem ser confrontadas com experimentos.",
+      "relevance": "Na discussão sobre busca visual, compare uma tarefa em que o alvo se destaca com outra que exige examinar vários itens.",
+      "nodes": [
+        "atencao"
+      ]
+    },
+    {
+      "id": "na-atencao-livro",
+      "title": "Atenção · Neurociência cognitiva",
+      "authors": "Alexandre Almeida da Silva, Bianca Araújo Vieira e Júlio César Claudino dos Santos",
+      "institution": "Editora do Centro Universitário Christus",
+      "year": 2024,
+      "url": "https://unichristus.edu.br/wp-content/uploads/2024/06/E-book-Neurociencia-Cognitiva.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Capítulo de livro",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Priorize a introdução e os exemplos antes de passar para a discussão clínica.",
+      "relevance": "Comece pela introdução do capítulo 2 e pelos exemplos de atenção seletiva e sustentada.",
+      "nodes": [
+        "atencao"
+      ]
+    },
+    {
+      "id": "na-funcoes",
+      "title": "Funções executivas e desenvolvimento na primeira infância",
+      "authors": "Comitê Científico do Núcleo Ciência Pela Infância",
+      "institution": "Núcleo Ciência Pela Infância",
+      "year": 2016,
+      "url": "https://ncpi.org.br/wp-content/uploads/2024/08/Funcoes-executivas-e-desenvolvimento-na-primeira-infancia.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Guia de pesquisa",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "O texto se concentra no desenvolvimento infantil e apresenta exemplos de funções executivas.",
+      "relevance": "Leia a seção que define as funções executivas. Use os exemplos de planejamento, filtragem de distrações e mudança de estratégia.",
+      "nodes": [
+        "controle-executivo",
+        "periodos-sensiveis"
+      ]
+    },
+    {
+      "id": "na-leitura",
+      "title": "Compreensão da leitura textual e sua relação com as funções executivas",
+      "authors": "Jerusa Fumagalli de Salles e Fraulein Vidigal de Paula",
+      "institution": "Educar em Revista",
+      "year": 2016,
+      "url": "https://www.scielo.br/j/er/a/VfxkGbJJ8vrp4VHsL9fxbFn/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de revisão",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Desempenho em leitura envolve vários processos além das funções executivas.",
+      "relevance": "Na seção sobre funções executivas, procure o paradigma de Stroop e relacione a resposta automática ao controle inibitório.",
+      "nodes": [
+        "controle-executivo"
+      ]
+    },
+    {
+      "id": "na-memorias",
+      "title": "Memórias",
+      "authors": "Iván Izquierdo",
+      "institution": "Estudos Avançados · USP",
+      "year": 1989,
+      "url": "https://www.scielo.br/j/ea/a/RySVv73ft5r4qj9KP4F8xcB/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de referência",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Texto clássico. Use os exemplos para conhecer os tipos de memória e compare a parte molecular com leituras mais recentes.",
+      "relevance": "Na seção sobre a classificação das memórias, use os exemplos de saber que e saber como para organizar suas anotações.",
+      "nodes": [
+        "memoria",
+        "lembrar"
+      ]
+    },
+    {
+      "id": "na-memoria-aula",
+      "title": "Memória · parte III",
+      "authors": "Isabella Wada e Pucci",
+      "institution": "Neurociências no Ensino Superior · USP",
+      "year": 2025,
+      "url": "https://www.youtube.com/watch?v=mGbv6o4Lty0",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Aula em vídeo · 17 min",
+      "access": "Reprodução gratuita no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Disponibilidade, título e canal verificados por oEmbed no YouTube.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Trecho de um módulo. O capítulo do livro apresenta a sequência completa.",
+      "relevance": "Use a parte III do módulo como revisão do capítulo de memória.",
+      "nodes": [
+        "memoria"
+      ]
+    },
+    {
+      "id": "na-esquecer",
+      "title": "A arte de esquecer",
+      "authors": "Iván Izquierdo, Lia R. M. Bevilaqua e Martín Cammarota",
+      "institution": "Estudos Avançados · USP",
+      "year": 2006,
+      "url": "https://www.scielo.br/j/ea/a/5N7GQLBShWJ4ytCL5JRXv8Q/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de revisão",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Alguns exemplos vêm de experimentos com animais. Distinga o procedimento de laboratório das explicações do cotidiano.",
+      "relevance": "Leia os parágrafos de abertura e a discussão sobre o uso de uma memória. Compare esquecimento e dificuldade de evocação.",
+      "nodes": [
+        "lembrar"
+      ]
+    },
+    {
+      "id": "na-recuperacao",
+      "title": "A autorregulação, avaliação e promoção da aprendizagem por meio da prática de recuperação da memória",
+      "authors": "Letícia Horn Oliveira e Lilian Milnitsky Stein",
+      "institution": "Psicologia Escolar e Educacional",
+      "year": 2018,
+      "url": "https://www.scielo.br/j/pee/a/jQZfmHL5v3PqLpw8kNG8FtM/?format=html&lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de revisão",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Recuperar de memória pode ajudar a reter conteúdo. O efeito depende da tarefa e da forma de praticar.",
+      "relevance": "Procure a comparação entre reler e tentar recordar a informação.",
+      "nodes": [
+        "praticar"
+      ]
+    },
+    {
+      "id": "na-sono-aula",
+      "title": "Sono e saúde mental · parte II",
+      "authors": "Ana Julia Ribeiro",
+      "institution": "Neurociências no Ensino Superior · USP",
+      "year": 2025,
+      "url": "https://www.youtube.com/watch?v=5fgQk6UsH-E",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Aula em vídeo · 6 min",
+      "access": "Reprodução gratuita no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Disponibilidade, título e canal verificados por oEmbed no YouTube.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Aula curta do módulo sobre sono.",
+      "relevance": "Use a aula curta para começar o módulo sobre sono e saúde mental.",
+      "nodes": [
+        "sono"
+      ]
+    },
+    {
+      "id": "na-sono-artigo",
+      "title": "Sono e plasticidade neural",
+      "authors": "Wilfredo Blanco Figuerola e Sidarta Ribeiro",
+      "institution": "Revista USP",
+      "year": 2013,
+      "url": "https://revistas.usp.br/revusp/pt_BR/article/download/69222/71686",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de revisão",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "A revisão contrasta hipóteses para os efeitos do sono na memória. Alguns achados são de modelos animais.",
+      "relevance": "Leia a introdução e a discussão sobre o hipocampo no sono. Separe a hipótese sobre memória do dado usado para investigá-la.",
+      "nodes": [
+        "sono"
+      ]
+    },
+    {
+      "id": "na-emocoes-aula",
+      "title": "Emoções, estresse e ansiedade · parte III",
+      "authors": "Raquel Messi Falcoski",
+      "institution": "Neurociências no Ensino Superior · USP",
+      "year": 2025,
+      "url": "https://www.youtube.com/watch?v=mV-FXLTZy64",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Aula em vídeo · 11 min",
+      "access": "Reprodução gratuita no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Disponibilidade, título e canal verificados por oEmbed no YouTube.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "O capítulo 4 do livro apresenta o tema completo.",
+      "relevance": "Assista ao trecho do módulo e anote como a professora relaciona o tema à vida acadêmica.",
+      "nodes": [
+        "emocoes"
+      ]
+    },
+    {
+      "id": "na-estresse",
+      "title": "Depressão e estresse: existe um endofenótipo?",
+      "authors": "Andrea Feijo Mello, Mario Francisco Juruena, Carmine M. Pariante, Audrey R. Tyrka, Lawrence H. Price, Linda L. Carpenter e Jose Alberto Del Porto",
+      "institution": "Revista Brasileira de Psiquiatria",
+      "year": 2007,
+      "url": "https://www.scielo.br/j/rbp/a/yfF9MB4BBkff4WmkW9QFsNh/?format=pdf&lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de revisão",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "CC BY-NC 4.0 informada na página do artigo.",
+      "caveat": "Revisão histórica com foco em depressão. A primeira parte explica a resposta hormonal. O trabalho discute hipóteses e variação entre pessoas.",
+      "relevance": "Leia a explicação inicial do eixo hormonal e observe por que resultados sobre cortisol variam com o grupo e o contexto estudados.",
+      "nodes": [
+        "resposta-estresse"
+      ]
+    },
+    {
+      "id": "na-infancia",
+      "title": "Conceitos básicos sobre o desenvolvimento infantil",
+      "authors": "Center on the Developing Child · Harvard University",
+      "institution": "Núcleo Ciência Pela Infância · tradução e adaptação",
+      "year": 2018,
+      "url": "https://www.youtube.com/playlist?list=PL9yYzJSNPNXy609RcwDDqXYfypghgRMEC",
+      "sourcePage": "https://ncpi.org.br/publicacao/conceitos-basicos-sobre-o-desenvolvimento-infantil/",
+      "language": "pt-BR",
+      "format": "Playlist · 5 vídeos",
+      "access": "Playlist gratuita no canal oficial, com tradução e adaptação para português.",
+      "checkedAt": "2026-11-25",
+      "verification": "Lista pública confirmada, com tradução documentada pelo Núcleo Ciência Pela Infância.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Vídeos curtos sobre experiências, relações e estresse na infância.",
+      "relevance": "Comece pelo vídeo Experiências moldam a arquitetura do cérebro. Observe o exemplo que liga experiências à formação de circuitos.",
+      "nodes": [
+        "desenvolvimento",
+        "periodos-sensiveis",
+        "cuidado",
+        "adversidades"
+      ]
+    },
+    {
+      "id": "na-desenvolvimento",
+      "title": "O impacto do desenvolvimento na primeira infância sobre a aprendizagem",
+      "authors": "Comitê Científico do Núcleo Ciência Pela Infância",
+      "institution": "Núcleo Ciência Pela Infância",
+      "year": 2014,
+      "url": "https://ncpi.org.br/wp-content/uploads/2024/08/O-impacto-do-desenvolvimento-na-primeira-infancia-sobre-a_aprendizagem.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Guia de pesquisa",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "O documento sintetiza evidências para discutir a primeira infância e as condições que favorecem o desenvolvimento.",
+      "relevance": "Procure a discussão sobre cuidadores, professores e comunidade. Anote como oportunidades de interação variam entre ambientes.",
+      "nodes": [
+        "cuidado",
+        "adversidades"
+      ]
+    },
+    {
+      "id": "na-plasticidade-aula",
+      "title": "Neurociência e Psicologia: qual é a relação?",
+      "authors": "Roberto Lent",
+      "institution": "Instituto D'Or de Pesquisa e Ensino",
+      "year": 2025,
+      "url": "https://www.youtube.com/watch?v=SNP2LaKU-Zo",
+      "sourcePage": "https://www.rededorsaoluiz.com.br/instituto/idor/neurociencia-e-psicologia-dr-roberto-lent-fala-sobre-neuroplasticidade-na-nova-campanha-do-idor/",
+      "language": "pt-BR",
+      "format": "Vídeo de divulgação",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Disponibilidade, título e canal verificados por oEmbed no YouTube.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Vídeo de introdução que liga a neuroplasticidade à experiência e ao estudo da Psicologia.",
+      "relevance": "Ouça Roberto Lent explicar a relação entre adaptação cerebral e experiência.",
+      "nodes": [
+        "plasticidade"
+      ]
+    },
+    {
+      "id": "na-envelhecimento",
+      "title": "Envelhecer é uma arte: a neurociência e o cérebro idoso",
+      "authors": "Eliane Comoli",
+      "institution": "Jornal da USP",
+      "year": 2025,
+      "url": "https://jornal.usp.br/artigos/envelhecer-e-uma-arte-a-neurociencia-e-o-cerebro-idoso/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de divulgação",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Texto de uma pesquisadora da USP, com exemplos sobre aprendizagem e envelhecimento.",
+      "relevance": "Leia a parte sobre plasticidade e envelhecimento. Compare o papel das experiências com o que aparece no vídeo sobre infância.",
+      "nodes": [
+        "desenvolvimento",
+        "plasticidade",
+        "envelhecer"
+      ]
+    },
+    {
+      "id": "na-rmf-lab",
+      "title": "Conectividade funcional do cérebro humano durante o envelhecimento",
+      "authors": "Equipe de comunicação da FMUSP e Geraldo Busatto Filho (pesquisador entrevistado)",
+      "institution": "Faculdade de Medicina · USP",
+      "year": 2020,
+      "url": "https://fm.usp.br/fmusp/noticias/conectividade-funcional-do-cerebro-humano-durante-o-envelhecimento-e-uma-das-linhas-de-pesquisa-dos-lims-hcfmusp",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Reportagem de pesquisa",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Perfis de grupos observados por imagem ajudam a formular hipóteses. A página descreve linhas de pesquisa, e não um teste diagnóstico individual.",
+      "relevance": "Veja o exemplo de estudo de redes durante o envelhecimento e separe a pergunta de pesquisa da aplicação clínica futura.",
+      "nodes": [
+        "envelhecer",
+        "ressonancia"
+      ]
+    },
+    {
+      "id": "na-metodos-aula",
+      "title": "Como a Física mudou o que sabemos sobre o funcionamento cerebral?",
+      "authors": "João Ricardo Sato",
+      "institution": "Física para Todos · Instituto de Física da USP",
+      "year": 2026,
+      "url": "https://www.youtube.com/watch?v=WvX2V2wTyUE",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Palestra em vídeo",
+      "access": "Reprodução gratuita no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Disponibilidade, título e canal verificados por oEmbed no YouTube.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Palestra para o público geral, com demonstrações sobre EEG e espectroscopia funcional.",
+      "relevance": "Comece pela explicação dos sinais que os métodos de registro conseguem captar.",
+      "nodes": [
+        "pesquisa",
+        "sinais-pesquisa",
+        "eeg"
+      ]
+    },
+    {
+      "id": "na-metodos-artigo",
+      "title": "Desenvolvimento histórico e fundamentos metodológicos da neuropsicologia cognitiva",
+      "authors": "Christian Haag Kristensen, Rosa Maria Martins de Almeida e William Barbosa Gomes",
+      "institution": "Psicologia: Reflexão e Crítica",
+      "year": 2001,
+      "url": "https://www.scielo.br/j/prc/a/BGz56brWYVBX6RdK7qdxpxb/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de revisão",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Panorama histórico. Comece pelo bloco sobre os métodos que quer comparar.",
+      "relevance": "Localize a discussão de neuroimagem funcional e contraste de tarefas. Pergunte o que a comparação pode mostrar.",
+      "nodes": [
+        "pesquisa",
+        "sinais-pesquisa",
+        "ressonancia"
+      ]
+    },
+    {
+      "id": "na-eeg-experimento",
+      "title": "O que muda quando fazemos uma tarefa física e uma cognitiva juntas?",
+      "authors": "Jornal da USP · estudo de Lara de Souza e Luciane Aparecida Moscaleski",
+      "institution": "Jornal da USP",
+      "year": 2025,
+      "url": "https://jornal.usp.br/ciencias/experimento-sugere-que-tarefas-cognitivas-tem-prioridade-quando-ha-atividade-fisica-ao-mesmo-tempo/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Reportagem de pesquisa",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "A descrição trata de atletas e das tarefas usadas no estudo. Considere esse recorte ao interpretar o resultado.",
+      "relevance": "Na descrição do experimento, compare fazer as tarefas juntas e separadas. Anote quais medidas são de desempenho e quais vêm do EEG.",
+      "nodes": [
+        "experimentos",
+        "eeg"
+      ]
+    },
+    {
+      "id": "na-metanalise",
+      "title": "Metanálises em Psicologia: uma introdução conceitual e prática",
+      "authors": "Marcos Felipe Rodrigues de Lima e Luciano Grüdtner Buratto",
+      "institution": "Psico-USF",
+      "year": 2023,
+      "url": "https://www.scielo.br/j/pusf/a/RKdDXr4zJpvWYTXgMGRTpND/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo didático",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "O artigo usa a prática de recuperação da memória como exemplo. A seção sobre o experimento pode ser lida sem fazer a parte de programação.",
+      "relevance": "Na seção O Efeito de Prática de Recuperação, observe como os autores ilustram um teste de retenção com condições fictícias.",
+      "nodes": [
+        "praticar",
+        "pesquisa",
+        "experimentos"
+      ]
+    },
+    {
+      "id": "na-neuromitos",
+      "title": "Neurociência e formação docente: prevalência de mitos",
+      "authors": "João Paulo Cunha de Menezes",
+      "institution": "Formação Docente · Repositório da UnB",
+      "year": 2022,
+      "url": "https://www.repositorio.unb.br/bitstream/10482/44852/1/ARTIGO_NeurocienciaFormacaoDocente.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de pesquisa",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "O questionário mede crenças de um grupo de docentes, em formação e em exercício, do Distrito Federal.",
+      "relevance": "Observe quais frases entraram no questionário. Diferencie o que o estudo mediu de uma avaliação do efeito dessas ideias em sala de aula.",
+      "nodes": [
+        "neuromitos"
+      ]
+    },
+    {
+      "id": "na-estilos",
+      "title": "Equívocos conceituais sobre estilos de aprendizagem entre professores",
+      "authors": "João Paulo Cunha de Menezes",
+      "institution": "Revista Ibero-Americana de Estudos em Educação · Repositório da UnB",
+      "year": 2023,
+      "url": "https://www.repositorio.unb.br/bitstream/10482/48372/1/ARTIGO_EquivocosConceituaisDifceis.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo de pesquisa",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "A introdução discute a hipótese dos estilos. O levantamento mede crenças e práticas declaradas pelos professores.",
+      "relevance": "Comece pela introdução. Separe preferência pessoal da hipótese de que combinar material e estilo melhora a aprendizagem.",
+      "nodes": [
+        "neuromitos"
+      ]
+    },
+    {
+      "id": "na-dados",
+      "title": "Tratamento de dados pessoais para fins acadêmicos",
+      "authors": "Andressa Girotto Vargas e colaboradores",
+      "institution": "Autoridade Nacional de Proteção de Dados",
+      "year": 2023,
+      "url": "https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes/web-guia-anpd-tratamento-de-dados-para-fins-academicos.pdf/@@download/file",
+      "sourcePage": "https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes/guia-orientativo-tratamento-de-dados-pessoais-para-fins-academicos-e-para-a-realizacao-de-estudos-e-pesquisas",
+      "language": "pt-BR",
+      "format": "Guia institucional",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Use a parte sobre padrões éticos em estudos e pesquisas e o resumo das recomendações no final.",
+      "relevance": "Leia a síntese no anexo sobre proteção e compartilhamento de dados. Anote duas informações que o participante precisa receber.",
+      "nodes": [
+        "etica"
+      ]
+    },
+    {
+      "id": "na-neurodados",
+      "title": "Radar tecnológico · Neurotecnologias",
+      "authors": "Diego Carvalho Machado, Angela Halen Claro Franco e Eduardo André Viana Alves",
+      "institution": "ANPD",
+      "year": 2025,
+      "url": "https://www.gov.br/anpd/pt-br/centrais-de-conteudo/documentos-tecnicos-orientativos/radar-tecnologico-4-neurotecnologias.pdf/@@download/file",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Relatório técnico",
+      "access": "Material gratuito no endereço indicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
+      "rights": "Disponibilizado na fonte indicada. Confira as condições de reutilização com o titular.",
+      "caveat": "Material de estudo sobre usos e riscos das tecnologias que coletam dados do sistema nervoso.",
+      "relevance": "Procure a discussão de privacidade e inferências sobre pessoas. Dê um exemplo de uso secundário de um sinal coletado em pesquisa.",
+      "nodes": [
+        "etica"
+      ]
+    },
+    {
+      "id": "nb-duarte",
+      "title": "Anatomia Humana: Sistema Nervoso",
+      "authors": "Hamilton Emídio Duarte",
+      "institution": "Universidade Federal de Santa Catarina",
+      "year": 2014,
+      "url": "https://morfologia.paginas.ufsc.br/files/2020/07/Livro-Novo-Anatomia.pdf",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Capítulo de livro · PDF",
+      "access": "Livro didático integral disponível gratuitamente no domínio da UFSC.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o PDF e o capítulo sobre sistema nervoso, incluindo os esquemas das divisões.",
+      "rights": "A obra é disponibilizada pela UFSC. O mapa remete à publicação.",
+      "caveat": "Os guias indicam as seções de anatomia que são pertinentes a cada tópico.",
+      "relevance": "Comece pelo capítulo 5. Use a figura 5.1 para localizar as estruturas do sistema nervoso central.",
+      "nodes": [
+        "divisoes",
+        "cortex",
+        "tronco-medula",
+        "talamo-hipotalamo",
+        "autonomo"
+      ]
+    },
+    {
+      "id": "nb-ouvido",
+      "title": "Considerações gerais sobre o ouvido interno",
+      "authors": "Mickie Hamiter, com revisão de Lawrence R. Lustig",
+      "institution": "Manual MSD · Saúde para a Família",
+      "year": 2025,
+      "url": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-do-ouvido-nariz-e-garganta/dist%C3%BArbios-do-ouvido-interno/considera%C3%A7%C3%B5es-gerais-sobre-o-ouvido-interno",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo ilustrado",
+      "access": "Texto integral em português, aberto e gratuito.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto, a autoria médica, o esquema do ouvido e a seção sobre a cóclea.",
+      "rights": "Direitos do Manual MSD. O mapa remete ao original.",
+      "caveat": "O texto apresenta a fisiologia básica do ouvido interno para o público geral.",
+      "relevance": "No desenho e na seção sobre a cóclea, siga as vibrações do tímpano até o nervo auditivo.",
+      "nodes": [
+        "audicao"
+      ]
+    }
+  ]
+}

@@ -8,8 +8,9 @@
       "body": "Em 1951, Frederick Perls, Ralph Hefferline e Paul Goodman publicaram a obra que deu nome à Gestalt-terapia. Laura Perls participou da elaboração da abordagem e de sua transmissão. No Brasil dos anos 1970, grupos de estudo, oficinas e traduções formaram redes próprias. Quem ensinava, quem traduzia e quem se encontrava para estudar ajuda a explicar como essas ideias circularam.",
       "objective": "Reconstrua a chegada da abordagem ao Brasil a partir de duas pessoas, um lugar de encontro e um texto.",
       "resources": [
-        "gt-video-origens-zurba",
         "historia-brasil",
+        "gt-modelo-intro",
+        "gt-video-origens-zurba",
         "estetica",
         "gt-video-introducao-puc"
       ],
@@ -18,9 +19,10 @@
       "lane": "center",
       "resourceGuides": {
         "gt-video-origens-zurba": "Use a aula para situar as trajetórias de Fritz Perls, Laura Perls e Paul Goodman. Registre uma contribuição de cada um.",
-        "historia-brasil": "Leia sobre Thérèse Tellegen e Paulo Barros e marque um acontecimento que permitiu a circulação da abordagem no Brasil.",
+        "historia-brasil": "Comece pelas páginas sobre a chegada da Gestalt-terapia ao Brasil. Depois volte à retrospectiva do outro artigo para situar a história da abordagem.",
         "estetica": "Procure o item 1, sobre as vivências com arte dos fundadores, para relacionar uma experiência anterior à constituição da abordagem.",
-        "gt-video-introducao-puc": "Na conversa da PUC Minas, localize como os convidados passam das bases filosóficas para o encontro entre terapeuta e cliente."
+        "gt-video-introducao-puc": "Na conversa da PUC Minas, localize como os convidados passam das bases filosóficas para o encontro entre terapeuta e cliente.",
+        "gt-modelo-intro": "Leia a retrospectiva histórica. Depois abra o artigo sobre a chegada ao Brasil para seguir a segunda parte da história."
       }
     },
     {
@@ -171,8 +173,8 @@
       "body": "Uma estudante fala à vontade em uma roda pequena e se cala num auditório. Quem está presente, como os assentos estão dispostos e que consequências ela prevê ao falar compõem a situação. Com a noção de campo, estudamos como essas condições e a ação da pessoa se constituem em relação. Isso inclui barreiras materiais e sociais à participação.",
       "objective": "Descreva o que muda nas possibilidades de participação da estudante quando muda a organização do encontro.",
       "resources": [
-        "teoria-campo",
         "virada-campo",
+        "teoria-campo",
         "aula-deficiencia"
       ],
       "parent": "fenomenologia",
@@ -180,7 +182,7 @@
       "lane": "center",
       "resourceGuides": {
         "teoria-campo": "Vá ao item 4.4.2 e identifique o sentido de meio psicológico na discussão de Lewin. Descreva uma pessoa junto com as possibilidades do lugar.",
-        "virada-campo": "Procure “fronteira de contato”. Como a autora passa da descrição de cada participante para o que se forma entre eles?",
+        "virada-campo": "Comece pela comparação entre a “cadeira vazia” e a “dança da reciprocidade”. Ela ajuda a ver o que muda quando o encontro também entra na análise.",
         "aula-deficiencia": "Acompanhe a discussão sobre participação. Identifique uma condição do ambiente que mudaria uma descrição centrada apenas na pessoa."
       }
     },
@@ -591,6 +593,7 @@
       "body": "Na Gestalt-terapia, self designa o processo que se organiza no contato. A função id diz respeito ao fundo de sensações e possibilidades que emerge na situação. A função ego participa da escolha e da recusa. A função personalidade envolve a história assimilada e aquilo que a pessoa reconhece como seu. Essas funções podem ser descritas numa mesma experiência.",
       "objective": "Analise o momento em que alguém decide apresentar-se a um grupo. Localize uma sensação, uma escolha e algo que a pessoa já reconhece sobre si.",
       "resources": [
+        "gt-modelo-intro",
         "cataldo",
         "fronteiras-eu",
         "gt-video-self"
@@ -601,7 +604,8 @@
       "resourceGuides": {
         "cataldo": "Na seção 5.1, acompanhe um exemplo da dinâmica do self e localize o fundo da experiência, o momento de escolha e o que pode ser assimilado.",
         "fronteiras-eu": "Procure as funções do self e observe em que sentido a autora as descreve na fronteira entre a pessoa e seu mundo.",
-        "gt-video-self": "Nos seis minutos da aula de Ana Vale, localize a origem do conceito e explique por que a teoria fala de um processo de contato."
+        "gt-video-self": "Nos seis minutos da aula de Ana Vale, localize a origem do conceito e explique por que a teoria fala de um processo de contato.",
+        "gt-modelo-intro": "Vá ao trecho sobre o self e compare as três funções: sensação, escolha e identidade. Use a videoaula abaixo para rever os termos."
       }
     },
     {
@@ -1950,6 +1954,27 @@
       "relevance": "Ouça o episódio 6 e compare a descrição de deflexão com a leitura indicada neste tópico.",
       "nodes": [
         "deflexao"
+      ]
+    },
+    {
+      "sourcePage": null,
+      "language": "pt-BR",
+      "checkedAt": "2026-11-25",
+      "access": "Texto integral em português, disponível gratuitamente.",
+      "rights": "Consulte a publicação para as condições de uso. O mapa remete à fonte.",
+      "id": "gt-modelo-intro",
+      "title": "Psicoterapia de abordagem gestáltica: um olhar reflexivo para o modelo terapêutico",
+      "authors": "Manoel Antônio dos Santos, Patrícia Francielly Araújo Lara Silva, Lucila Castanheira Nascimento e Marciana Gonçalves Farinha",
+      "institution": "Psicologia Clínica · PUC-Rio",
+      "year": 2020,
+      "url": "https://pepsic.scielo.org/pdf/pc/v32n2/09.pdf",
+      "format": "Artigo de introdução · PDF",
+      "verification": "Conferidos o artigo em português e as passagens sobre história, contato e as três funções do self.",
+      "caveat": "Discussão teórica sobre a abordagem. O artigo não compara resultados de tratamento.",
+      "relevance": "Use a retrospectiva histórica antes de passar às seções sobre contato e self.",
+      "nodes": [
+        "origens",
+        "self"
       ]
     }
   ]

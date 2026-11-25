@@ -90,7 +90,7 @@ function card(map) {
 function home() {
   const section=(title, group)=>`<section class="map-group" aria-label="${title}"><h2>${title}</h2><div class="map-grid">${[...maps.values()].filter(map=>meta[map.id].group===group).map(card).join('')}</div></section>`;
   return `<div class="shell catalog" id="catalog">
-    <header class="catalog-head"><h1>Mapas de Psicologia</h1><p>Escolha a abordagem que quer estudar. Cada mapa tem seu próprio percurso e leituras gratuitas.</p>
+    <header class="catalog-head"><h1>Mapas de Psicologia</h1><p>Escolha o que quer estudar. Cada mapa organiza os tópicos e indica por onde começar.</p>
     <button class="catalog-search" data-search>${icon('search',18)}<span>Buscar abordagem ou tópico</span><kbd>/</kbd></button></header>
     ${section('Fundamentos','Base comum')}${section('Abordagens','Abordagens')}
   </div>`;
@@ -216,6 +216,8 @@ function resource(r,guide,first=false){
   else if (/^seção de livro/i.test(r.format)) type = 'Capítulo';
   else if (/^introdução/i.test(r.format)) type = 'Texto';
   type = type.charAt(0).toLocaleUpperCase('pt-BR') + type.slice(1);
+  const readingGuide = guide || r.relevance || r.why;
+  const source = r.institution || r.publisher;
   const fields = [
     ['Autoria',r.authors], ['Instituição',r.institution], ['Editora',r.publisher], ['Ano',r.year],
     ['Formato',r.format], ['Idioma',languages[r.language] || r.language], ['Acesso',r.access],
@@ -227,8 +229,10 @@ function resource(r,guide,first=false){
   const language = r.language && !r.language.startsWith('pt') ? ` <small>${escape(languages[r.language] || r.language)}</small>` : '';
   return `<li class="resource"><div class="resource-line"><span class="resource-type">${escape(type)}</span>
     <span><a href="${escape(r.url)}" target="_blank" rel="noopener noreferrer">${escape(r.title)} <span aria-hidden="true">↗</span></a>${language}</span></div>
-    <details><summary>${first?'Comece por aqui':'Guia de estudo e fonte'}</summary>
-    <p>${escape(guide || r.relevance || r.why)}</p><dl>${fields.map(([label,value])=>`<dt>${label}</dt><dd>${escape(value)}</dd>`).join('')}</dl>${origin}</details></li>`;
+    ${source ? `<p class="resource-source">${escape(source)}</p>` : ''}
+    ${first ? `<p class="resource-start"><strong>Comece por aqui</strong> ${escape(readingGuide)}</p>` : ''}
+    <details><summary>${first?'Sobre a fonte':'Guia de estudo e fonte'}</summary>
+    ${first?'':`<p>${escape(readingGuide)}</p>`}<dl>${fields.map(([label,value])=>`<dt>${label}</dt><dd>${escape(value)}</dd>`).join('')}</dl>${origin}</details></li>`;
 }
 function studyOptions(mapId,nodeId){
   const current = state(mapId,nodeId);
