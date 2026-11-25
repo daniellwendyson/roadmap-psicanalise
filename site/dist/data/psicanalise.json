@@ -5,18 +5,20 @@
     {
       "id": "origens",
       "title": "Origens da psicanálise",
-      "body": "No fim do século XIX, a investigação da histeria aproximou Freud do trabalho de Charcot e Breuer. O método catártico buscava recordar, sob hipnose, situações associadas ao sintoma. Compare a reconstrução histórica desse período com o relato retrospectivo que Freud apresentou em suas conferências.",
-      "objective": "Distinguir o lugar da hipnose e da recordação no método catártico do lugar da fala no método que Freud desenvolveu depois.",
+      "body": "Por que Freud deixou a hipnose de lado? No fim do século XIX, ele estudou com Charcot em Paris e discutiu com Breuer o caso de Anna O. A partir dessas experiências, foi mudando a forma de atender: passou a convidar os pacientes a dizer o que lhes viesse à cabeça. Esse convite é a base da associação livre.",
+      "objective": "Entender o que mudou no atendimento de Freud quando a associação livre tomou o lugar da hipnose.",
       "resources": [
-        "psi-nascimento",
-        "psi-video-origens",
-        "psi-hipnose-interpretacao"
+        "psi-primeiros-anos",
+        "psi-estranho-no-ninho",
+        "psi-video-origens"
       ],
       "parent": null,
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
-        "psi-nascimento": "Comece pela introdução na p. 88. Ela situa Charcot e Breuer na trajetória de Freud. Nas considerações finais, veja onde ele se afasta dos dois."
+        "psi-primeiros-anos": "Leia a primeira seção, «Período de isolamento». Em cerca de dois minutos, você conhece Charcot e Breuer e vê como Freud passou da hipnose à associação livre.",
+        "psi-estranho-no-ninho": "Pra aprofundar, vá ao trecho que começa com «Em outra publicação, de 1890». Ele conta o que Freud percebeu quando começou a deixar os pacientes falarem com mais liberdade.",
+        "psi-video-origens": "Se preferir uma aula, esta é a primeira parte da introdução ao pensamento de Freud na graduação da USP. Dura 53 minutos."
       }
     },
     {
@@ -1360,6 +1362,46 @@
       ]
     },
     {
+      "id": "psi-primeiros-anos",
+      "title": "História do Movimento Psicanalítico: Freud e os primeiros anos da Psicanálise",
+      "authors": "Júlia Maria Alves",
+      "institution": "Diálogo Psi",
+      "year": 2017,
+      "url": "https://dialogopsi.com.br/historia-do-movimento-psicanalitico/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo",
+      "access": "Texto aberto no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto integral no site de origem e a formação em Psicologia da autora pela UFMG.",
+      "rights": "O mapa aponta para o artigo original.",
+      "caveat": "A autora usa o relato de Freud de 1914 para organizar a história.",
+      "relevance": "A primeira seção apresenta a influência de Charcot e Breuer e a passagem da hipnose à associação livre.",
+      "nodes": [
+        "origens"
+      ]
+    },
+    {
+      "id": "psi-estranho-no-ninho",
+      "title": "A Psicanálise, um estranho no ninho",
+      "authors": "Luís Carlos Menezes",
+      "institution": "Sociedade Brasileira de Psicanálise de São Paulo (SBPSP)",
+      "year": null,
+      "url": "https://www.sbpsp.org.br/blog/a-psicanalise-um-estranho-no-ninho/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo",
+      "access": "Texto aberto no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e a autoria no site da SBPSP.",
+      "rights": "O mapa aponta para o artigo hospedado pela SBPSP.",
+      "caveat": "Leitura mais longa que acompanha a trajetória de Freud e a formação do seu método.",
+      "relevance": "O trecho sobre o abandono da hipnose explica o que Freud observava ao dar espaço à fala dos pacientes.",
+      "nodes": [
+        "origens"
+      ]
+    },
+    {
       "id": "psi-video-origens",
       "title": "Introdução ao pensamento de Freud — parte 1",
       "authors": "Leopoldo Fulgencio",
@@ -1374,7 +1416,7 @@
       "verification": "Conferidos título, canal de publicação, duração e disponibilidade da gravação no player público do YouTube sem login.",
       "rights": "A gravação permanece no canal de origem. A licença de reprodução não foi verificada.",
       "caveat": "A gravação foi preparada para estudantes de graduação que estão conhecendo o pensamento freudiano.",
-      "relevance": "Use esta aula para situar Freud antes da leitura histórica. A aula é a primeira de duas partes indicadas no programa da USP.",
+      "relevance": "A aula situa Freud e apresenta seu pensamento a estudantes de graduação.",
       "nodes": [
         "origens"
       ]
@@ -1979,7 +2021,6 @@
       "caveat": "Pesquisa bibliográfica sobre a formulação histórica da histeria.",
       "relevance": "Compare os pontos em que Freud concordou com Charcot e Breuer e aqueles em que se afastou.",
       "nodes": [
-        "origens",
         "charcot-breuer",
         "catarse"
       ]
@@ -2148,7 +2189,6 @@
       "caveat": "Revisita casos e argumentos históricos. Não é uma avaliação clínica da hipnose.",
       "relevance": "Nas p. 3–4, veja como a passagem do método catártico à fala sem interrupções aparece no caso Emmy.",
       "nodes": [
-        "origens",
         "charcot-breuer",
         "catarse",
         "associacao"
