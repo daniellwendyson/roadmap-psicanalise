@@ -8,8 +8,8 @@
       "body": "Carl Rogers começou estudando o aconselhamento individual. Com a terapia centrada no cliente, investigou o papel da relação na mudança pessoal. O interesse por grupos e educação ampliou o alcance da proposta e levou ao nome Abordagem Centrada na Pessoa (ACP).",
       "objective": "Identifique uma pergunta que orientava os estudos de Rogers na clínica e explique como ela mudou quando ele passou a trabalhar com grupos.",
       "resources": [
-        "ac-p-playlist",
         "fases",
+        "ac-p-playlist",
         "pesquisas-rogers",
         "encontros"
       ],
@@ -17,10 +17,10 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
-        "fases": "Compare as fases não diretiva, reflexiva, experiencial e coletiva na classificação de Moreira. Anote em que momento passa a ser necessário falar de pessoas para além do consultório.",
+        "fases": "Leia o parágrafo que resume as quatro fases e o primeiro parágrafo de «Fase coletiva ou inter-humana», em 2 min. Veja por que o trabalho com grupos levou Rogers a falar em abordagem centrada na pessoa.",
+        "ac-p-playlist": "Assista ao vídeo sobre o humanismo de Rogers. Use o artigo de Moreira em seguida para montar uma linha do tempo com as fases da abordagem.",
         "pesquisas-rogers": "Siga a passagem por Ohio, Chicago e Wisconsin. Escolha uma pergunta que mudou junto com os espaços e instrumentos da pesquisa clínica.",
-        "encontros": "Ouça duas pessoas que conheceram Rogers. Localize onde se encontraram e compare a lembrança de cada uma com os períodos descritos por Moreira.",
-        "ac-p-playlist": "Assista ao vídeo sobre o humanismo de Rogers. Use o artigo de Moreira em seguida para montar uma linha do tempo com as fases da abordagem."
+        "encontros": "Ouça duas pessoas que conheceram Rogers. Localize onde se encontraram e compare a lembrança de cada uma com os períodos descritos por Moreira."
       }
     },
     {
@@ -36,7 +36,7 @@
         "pesquisas-rogers"
       ],
       "resourceGuides": {
-        "fases": "Leia a seção sobre a fase não diretiva. Observe o que cabia ao cliente decidir e como Rogers descrevia a participação do conselheiro.",
+        "fases": "Leia o começo de «Fase não-diretiva», em 2 min. Identifique quem decide o rumo da conversa e como Rogers descreve a participação do conselheiro.",
         "pesquisas-rogers": "Na passagem pela Universidade Estadual de Ohio, descubra para que a equipe registrava e transcrevia entrevistas. Escolha um aspecto da fala que a transcrição tornava possível investigar."
       }
     },
@@ -53,7 +53,7 @@
         "ac-h-trajetorias"
       ],
       "resourceGuides": {
-        "fases": "Compare as seções sobre as fases não diretiva e reflexiva. Localize a mudança de ênfase na postura do terapeuta diante da fala do cliente.",
+        "fases": "Leia os dois primeiros parágrafos de «Fase reflexiva», em 2 min. Localize o que muda na participação do terapeuta quando a atenção se volta ao cliente.",
         "ac-h-trajetorias": "Procure “fase seguinte, reflexiva”. Observe como Frota descreve as respostas de compreensão e o lugar que elas ocupavam naquele momento histórico."
       }
     },
@@ -66,10 +66,12 @@
       "body": "Na fase experiencial, ganha importância o que cliente e terapeuta vivem enquanto conversam. A presença do próprio terapeuta passa a fazer parte da investigação sobre como se constitui a relação.",
       "objective": "Compare as fases reflexiva e experiencial a partir de uma pergunta concreta sobre o papel do terapeuta.",
       "resources": [
+        "ac-intro-focalizacao",
         "fases",
         "ac-h-trajetorias"
       ],
       "resourceGuides": {
+        "ac-intro-focalizacao": "Leia os dois primeiros parágrafos de «A História da Focalização». Em 2 min, anote a pergunta sobre experiências e palavras que Gendlin levou para a equipe de Rogers.",
         "fases": "Localize a seção sobre a fase experiencial e a contribuição de Eugene Gendlin. Identifique uma questão que o conceito de experienciação trouxe ao estudo da relação.",
         "ac-h-trajetorias": "No parágrafo sobre a posição experiencial, veja por que Frota fala em um campo interativo entre duas pessoas. Compare sua descrição com a da fase anterior."
       }
@@ -83,10 +85,12 @@
       "body": "Nos grupos de encontro, os participantes podem falar sobre a própria experiência e sobre o que acontece entre eles naquele momento. A conversa ganha direção pelas iniciativas e respostas do grupo. A facilitação e a convivência em comunidades temporárias são dois desdobramentos desse trabalho.",
       "objective": "Descreva como uma questão que alguém traz ao grupo pode se tornar uma questão entre os participantes.",
       "resources": [
+        "ac-h-utopia",
         "ac-h-video-grupos",
         "ac-h-grupos"
       ],
       "resourceGuides": {
+        "ac-h-utopia": "Busque «seis a doze pessoas». Em 2 min, veja como o texto descreve a finalidade das conversas e o papel de quem participa.",
         "ac-h-video-grupos": "Ouça duas das cinco pessoas entrevistadas. Compare o que cada uma destaca sobre a participação de quem chega a um grupo de encontro.",
         "ac-h-grupos": "Vá à seção sobre a emergência dos grupos de encontro na Califórnia. Localize a passagem da psicoterapia de grupo para uma proposta com objetivos mais amplos."
       }
@@ -100,12 +104,12 @@
       "body": "Um grupo pode esperar que alguém proponha uma pauta, preencher o silêncio ou discordar do rumo da conversa. Na ACP, essas situações levantam perguntas sobre quando o facilitador toma a palavra e como os participantes decidem o que fazer juntos.",
       "objective": "Identifique uma decisão que pode ser partilhada com os participantes e descreva onde o facilitador ainda exerce influência.",
       "resources": [
-        "ac-h-video-grupos",
-        "ac-h-utopia"
+        "ac-h-utopia",
+        "ac-h-video-grupos"
       ],
       "resourceGuides": {
-        "ac-h-video-grupos": "Escute os depoimentos buscando uma diferença entre integrar um grupo e assumir seu papel de facilitação. Anote como o profissional situa a própria participação.",
-        "ac-h-utopia": "Na discussão do grupo de encontro, acompanhe o papel atribuído a participantes e facilitador. Depois veja por que Schmidt traz a questão do poder para essa leitura."
+        "ac-h-utopia": "Busque «equipe de facilitadores». Leia os parágrafos próximos em 2 min. Observe como a convivência se organiza e o que os participantes escolhem.",
+        "ac-h-video-grupos": "Escute os depoimentos buscando uma diferença entre integrar um grupo e assumir seu papel de facilitação. Anote como o profissional situa a própria participação."
       }
     },
     {
@@ -117,12 +121,12 @@
       "body": "Nos workshops de comunidade, pessoas se reuniam por um período delimitado e podiam criar pequenos grupos dentro do encontro maior. A organização das atividades também se tornava assunto dos participantes. Estudar essas experiências inclui perguntar que diferenças sociais atravessavam a convivência.",
       "objective": "Compare o pequeno grupo e o encontro de comunidade quanto à escala, às decisões partilhadas e aos limites de cada proposta.",
       "resources": [
-        "ac-h-grupos",
-        "ac-h-utopia"
+        "ac-h-utopia",
+        "ac-h-grupos"
       ],
       "resourceGuides": {
-        "ac-h-grupos": "No trecho sobre os workshops da década de 1970, encontre a explicação de como pequenos grupos podiam surgir dentro da comunidade temporária.",
-        "ac-h-utopia": "Localize a discussão dos encontros de comunidade e das noções de poder e política. Escolha uma tensão entre as aspirações de Rogers e a leitura crítica da autora."
+        "ac-h-utopia": "Busque «comunidades de aprendizagem». Em 2 min, compare a duração, o número de pessoas e a responsabilidade dos participantes com o que você leu sobre grupos de encontro.",
+        "ac-h-grupos": "No trecho sobre os workshops da década de 1970, encontre a explicação de como pequenos grupos podiam surgir dentro da comunidade temporária."
       }
     },
     {
@@ -131,6 +135,7 @@
       "body": "Em 1977, Rogers visitou o Brasil durante a ditadura militar. Cartas de convite, entrevistas e relatos dos encontros permitem conhecer o que os brasileiros buscavam nesse diálogo e como receberam suas ideias sobre participação em grupos.",
       "objective": "Compare o que os organizadores brasileiros esperavam da visita com o que Rogers registrou sobre os encontros.",
       "resources": [
+        "ac-h-tassinari",
         "visita",
         "arquivo-1977",
         "campos"
@@ -139,6 +144,7 @@
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
+        "ac-h-tassinari": "Leia o trecho sobre a fase de «Fertilização». Em 2 min, localize as visitas de Rogers e veja como os workshops de Arcozelo ajudaram a reunir profissionais de várias regiões.",
         "visita": "Leia as cartas de convite e o relato sobre os workshops de 1977. Aponte uma expectativa dos organizadores e um acontecimento narrado durante a visita.",
         "arquivo-1977": "Veja a entrevista registrada em São Paulo. Anote uma ideia que Rogers escolheu explicar em público e confronte-a com o artigo sobre a visita.",
         "campos": "Escolha um dos depoimentos brasileiros sobre clínica ou educação. Identifique quem já trabalhava com essas ideias e como entrou em contato com elas."
@@ -158,7 +164,7 @@
         "ac-h-justo"
       ],
       "resourceGuides": {
-        "ac-h-tassinari": "Na seção sobre núcleos e boletins, escolha duas iniciativas de regiões distintas. Compare o que faziam e que registro de seu trabalho foi preservado.",
+        "ac-h-tassinari": "Reserve 3 min para localizar a lista de núcleos e boletins. Escolha duas iniciativas de regiões distintas e compare suas atividades.",
         "campos": "Procure nos depoimentos como a formação de psicólogos e o trabalho em educação fizeram circular a ACP. Registre o nome e o contexto de uma iniciativa brasileira.",
         "ac-h-justo": "Leia o percurso de formação narrado por Henrique Justo e acompanhe sua volta ao Rio Grande do Sul. Identifique uma instituição ligada ao ensino da abordagem."
       }
@@ -176,7 +182,7 @@
         "visita"
       ],
       "resourceGuides": {
-        "ac-h-justo": "Procure “Arcozelo”. Acompanhe a descrição do teatro ao ar livre pela manhã e dos pequenos grupos à tarde. Que diferença o autor percebeu na participação?",
+        "ac-h-justo": "Busque «Arcozelo». Em 2 min, acompanhe o relato do teatro ao ar livre pela manhã e dos pequenos grupos à tarde. O que mudou na participação?",
         "visita": "Localize o relato do workshop em Arcozelo. Compare o que os documentos dizem sobre a organização do encontro com a lembrança de Henrique Justo."
       }
     },
@@ -193,7 +199,7 @@
         "ac-h-rachel"
       ],
       "resourceGuides": {
-        "ac-h-plantao": "No histórico do SAP, acompanhe o que acontecia entre a inscrição de quem chegava e o encaminhamento. Localize a mudança no trabalho dos estagiários e supervisores.",
+        "ac-h-plantao": "Na parte histórica, busque «Serviço de Aconselhamento Psicológico». Em 3 min, siga o caminho entre a inscrição e o encaminhamento de quem procurava o serviço.",
         "ac-h-rachel": "Leia a memória de Henriette Morato, colega de Rachel Rosenberg. Procure o Serviço de Aconselhamento Psicológico e veja com quais outras iniciativas de formação ele se articulava."
       }
     },
@@ -210,7 +216,7 @@
         "ac-h-video-plantao"
       ],
       "resourceGuides": {
-        "ac-h-plantao": "Acompanhe a passagem do acolhimento inicial no SAP para o plantão no Instituto Sedes Sapientiae. Depois localize a discussão sobre as particularidades da atenção básica.",
+        "ac-h-plantao": "Leia os primeiros parágrafos em 2 min. Identifique o que diferencia o atendimento no momento da procura de um atendimento marcado com antecedência.",
         "ac-h-video-plantao": "Ouça os depoimentos de profissionais, entre eles Márcia Tassinari e Miguel Mahfoud. Registre como dois deles explicam a finalidade do encontro para quem procura ajuda."
       }
     },
@@ -223,16 +229,16 @@
       "body": "O ensino centrado no estudante leva para a sala de aula a pergunta sobre quem escolhe os objetivos e como se reconhece o que foi aprendido. Professores brasileiros experimentaram discutir o plano da disciplina com a turma, oferecer recursos e criar momentos de autoavaliação.",
       "objective": "Escolha uma decisão tomada em sala e explique qual foi a responsabilidade do estudante e qual continuou com o professor.",
       "resources": [
+        "ac-p-aula-educacao",
         "ac-h-lopes",
         "ac-h-video-universidade",
-        "campos",
-        "ac-p-aula-educacao"
+        "campos"
       ],
       "resourceGuides": {
+        "ac-p-aula-educacao": "Veja a videoaula de 6 min. Anote uma decisão sobre a própria aprendizagem que a proposta de Rogers permite ao estudante tomar.",
         "ac-h-lopes": "Comece na página impressa 98. Acompanhe uma das práticas descritas por Juliana Lopes nas licenciaturas e observe de que maneira os estudantes puderam modificá-la.",
         "ac-h-video-universidade": "Ouça os professores de diferentes universidades. Escolha um depoimento e identifique em que espaço da formação a ACP aparece.",
-        "campos": "Procure as passagens sobre educação no Brasil. Identifique quem levou a proposta a um contexto de ensino e que papel assumiu ali.",
-        "ac-p-aula-educacao": "A playlist abre no episódio sobre educação. Acompanhe a leitura da professora e relacione uma ideia de Rogers a uma decisão que pode ser compartilhada com os estudantes."
+        "campos": "Procure as passagens sobre educação no Brasil. Identifique quem levou a proposta a um contexto de ensino e que papel assumiu ali."
       }
     },
     {
@@ -244,10 +250,12 @@
       "body": "Uma disciplina tem ementa, tempo disponível e exigências institucionais. Dentro desses limites, professor e turma podem negociar perguntas de pesquisa, leituras e formas de apresentar o trabalho. Os relatos mostram diferentes modos de registrar os acordos.",
       "objective": "Compare um plano negociado com uma turma e um contrato individual de aprendizagem. Registre o que os participantes podiam escolher em cada experiência.",
       "resources": [
+        "ac-educacao-justo",
         "ac-h-lopes",
         "ac-h-zimring"
       ],
       "resourceGuides": {
+        "ac-educacao-justo": "Procure «verificar-lhes a exeqüibilidade». Leia esse parágrafo e o próximo em 2 min. Identifique como o professor pode acolher propostas da turma dentro das exigências da disciplina.",
         "ac-h-lopes": "Na parte sobre definição do plano de ensino, identifique o que a professora trouxe preparado e como a turma participou das decisões sobre a disciplina.",
         "ac-h-zimring": "Procure “Uso de contratos”. Leia o exemplo de Arthur Combs e observe como estudante e professor ajustavam o tamanho da tarefa antes de assumir o compromisso."
       }
@@ -261,10 +269,12 @@
       "body": "Na autoavaliação, o estudante revisita o que pretendia aprender e identifica o que mudou em sua compreensão ou modo de estudar. Diários de bordo e registros de trabalhos permitem comparar momentos do percurso e discutir o sentido de uma nota.",
       "objective": "Escolha uma das experiências e proponha uma pergunta de autoavaliação que peça ao estudante um exemplo concreto do que aprendeu.",
       "resources": [
+        "ac-educacao-justo",
         "ac-h-lopes",
         "ac-h-zimring"
       ],
       "resourceGuides": {
+        "ac-educacao-justo": "Busque «forneço alguns critérios mínimos». Em 2 min, leia as perguntas de Justo e marque a que mais claramente pede ao estudante que compare objetivos e resultados.",
         "ac-h-lopes": "Nas páginas impressas 106 a 108, compare a avaliação ao fim do semestre e o diário de bordo após cada aula. O que a professora passou a enxergar com os registros?",
         "ac-h-zimring": "Procure “Autoavaliação” nos textos selecionados. Compare o papel dos registros dos alunos e da conversa com colegas ou professores nos exemplos apresentados."
       }
@@ -282,7 +292,7 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
-        "personalidade": "Comece pelas proposições sobre as percepções de si. Em seguida, leia a proposição XI e acompanhe o que acontece quando uma vivência não se ajusta ao autoconceito.",
+        "personalidade": "Em 3 min, leia as proposições VIII e XI. Acompanhe como uma experiência entra na percepção de si e o que pode acontecer quando ela entra em conflito com o autoconceito.",
         "autoimagem": "Em “Resultados”, escolha uma fala e diferencie a descrição corporal da avaliação de si. Consulte o método para situar de quem vem esse relato."
       }
     },
@@ -299,7 +309,7 @@
         "personalidade"
       ],
       "resourceGuides": {
-        "ac-x-hospital": "Na parte sobre organização da personalidade, localize a passagem sobre internações anteriores. Compare a mudança objetiva de ambiente com o que uma nova internação pode significar para aquela pessoa.",
+        "ac-x-hospital": "Busque «internações anteriores» e leia os exemplos próximos em 3 min. Compare a mudança de ambiente com o significado que uma nova internação pode ter para aquela pessoa.",
         "personalidade": "Nas proposições I a IV, identifique como organismo, percepção e ambiente entram na explicação do comportamento."
       }
     },
@@ -316,7 +326,7 @@
         "ac-x-experienciacao"
       ],
       "resourceGuides": {
-        "personalidade": "Na proposição XI, diferencie as situações em que uma experiência é simbolizada, fica fora da atenção ou aparece de forma distorcida.",
+        "personalidade": "Reserve 2 min para a proposição XI. Acompanhe as três possibilidades para uma vivência: ganhar significado, ficar fora da atenção ou ser percebida de forma distorcida.",
         "ac-x-experienciacao": "No exemplo do rapaz que fala em tensão, identifique o novo significado que aparece quando ele consegue descrever seu desânimo."
       }
     },
@@ -329,10 +339,12 @@
       "body": "Eugene Gendlin, colaborador de Rogers, investigou o que se passa enquanto alguém tenta dizer o que vive. Na sua formulação, a experiência continua acontecendo durante a conversa. A descrição que fazia sentido há alguns instantes pode precisar de novas palavras.",
       "objective": "Diferencie o conteúdo de uma frase do processo de procurar uma expressão que faça sentido para a pessoa.",
       "resources": [
+        "ac-intro-focalizacao",
         "ac-x-experienciacao",
         "ac-x-sentido"
       ],
       "resourceGuides": {
+        "ac-intro-focalizacao": "Busque «psicoterapia orientada para o foco». Em 2 min, acompanhe como uma experiência ainda implícita pode encontrar palavras durante a conversa.",
         "ac-x-experienciacao": "Na discussão sobre processo e conteúdo, veja o que muda do trabalho de Rogers para a contribuição de Gendlin. Identifique por que uma descrição pode ser revista durante a conversa.",
         "ac-x-sentido": "Na apresentação da experienciação como fluxo, procure como as autoras relacionam linguagem, história de interações e produção de sentido."
       }
@@ -346,10 +358,12 @@
       "body": "Um aperto no peito informa onde alguém percebe uma sensação. Para Gendlin, o sentido corporal de uma situação pode incluir algo mais difícil de dizer, como o que uma conversa inacabada representa para aquela pessoa. Ele usa a expressão inglesa felt sense para esse significado ainda pouco definido.",
       "objective": "Compare a descrição de uma sensação física com a tentativa de nomear o sentido de uma situação nas leituras.",
       "resources": [
+        "ac-intro-focalizacao",
         "ac-x-sentido",
         "ac-x-protese"
       ],
       "resourceGuides": {
+        "ac-intro-focalizacao": "Leia os primeiros parágrafos do texto em 2 min. Na definição de felt sense, procure a diferença entre sentir algo no corpo e já saber como descrevê-lo.",
         "ac-x-sentido": "No exemplo sobre a prova do dia seguinte, acompanhe a diferença entre apontar para algo que tira o sono e já saber expressar do que se trata.",
         "ac-x-protese": "Na seção “Experienciação e focalização”, compare o sentido corporal com a palavra, frase ou imagem que os autores chamam de gancho. Nos resultados, verifique o que o estudo conseguiu mostrar sobre a habilidade examinada."
       }
@@ -367,7 +381,7 @@
         "ac-x-valores"
       ],
       "resourceGuides": {
-        "personalidade": "Localize a formação do self nas proposições sobre personalidade. Na proposição X, procure de onde vêm os valores associados às percepções sobre si.",
+        "personalidade": "Vá às proposições IX e X. Em 2 min, localize o papel das relações e dos valores na formação da imagem que a pessoa tem de si.",
         "ac-x-valores": "Na seção sobre formação do self, acompanhe como a apreciação de outras pessoas passa a participar da imagem que alguém faz de si."
       }
     },
@@ -384,7 +398,7 @@
         "personalidade"
       ],
       "resourceGuides": {
-        "ac-x-desacordo": "Na seção “Desacordo interno e angústia”, localize a distinção entre perceber vagamente uma discrepância e conseguir reconhecê-la.",
+        "ac-x-desacordo": "Em 3 min, leia o início da seção «Desacordo interno e angústia». Localize a diferença entre sentir que algo incomoda e reconhecer a discrepância.",
         "personalidade": "Na segunda das seis condições, observe como o autor distingue a experiência do cliente, sua representação na consciência e aquilo que ele expressa."
       }
     },
@@ -401,7 +415,7 @@
         "personalidade"
       ],
       "resourceGuides": {
-        "ac-x-hospital": "Na seção sobre desorganização da personalidade, procure o exemplo de um paciente diante da gravidade do diagnóstico. Veja como as autoras apresentam reações de defesa.",
+        "ac-x-hospital": "Na seção sobre a desorganização da personalidade, procure o paciente diante da gravidade do diagnóstico. Reserve 3 min para observar como o texto distingue reações de defesa.",
         "personalidade": "Retome a proposição XI e a discussão das experiências ameaçadoras. Descreva o que acontece com o significado da vivência em cada forma de defesa."
       }
     },
@@ -418,7 +432,7 @@
         "ac-x-protese"
       ],
       "resourceGuides": {
-        "autoimagem": "Compare a discussão da experiência corporal percebida negativamente com a parte final sobre autocuidado. Localize um trecho em que a pessoa atribui novo sentido à sua vivência.",
+        "autoimagem": "Busque «autocuidado» nos resultados e escolha um relato. Em 3 min, identifique como uma pessoa passou a atribuir outro sentido à própria experiência corporal.",
         "ac-x-protese": "Na introdução, observe como os trabalhos sobre perda ocular distinguem autoestima, autoimagem e autopercepção. Em “Instrumentos”, confira o que os autores deste estudo de fato avaliaram."
       }
     },
@@ -428,6 +442,7 @@
       "body": "Rogers propôs que o organismo tende a conservar-se e a desenvolver suas capacidades na interação com o ambiente. A ideia de tendência atualizante ajuda a compreender por que a ACP valoriza a iniciativa da pessoa e investiga quais contextos favorecem ou dificultam suas escolhas.",
       "objective": "Explique a hipótese com um exemplo em que a mesma pessoa encontra oportunidades distintas de fazer uma escolha em dois ambientes.",
       "resources": [
+        "ac-x-video",
         "telles",
         "personalidade"
       ],
@@ -435,6 +450,7 @@
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
+        "ac-x-video": "Assista aos 6 min e 30 s da aula. Anote o que Rogers chama de tendência atualizante e como o professor relaciona a ideia de crescimento ao ambiente.",
         "telles": "Compare a categoria 3.1, sobre dificuldade de crescimento, com a 3.3, sobre as condições facilitadoras. Repare como os participantes descrevem obstáculos diferentes.",
         "personalidade": "Comece nas proposições sobre organismo e ambiente. Em seguida, procure como o autor relaciona a direção do comportamento às necessidades que a pessoa experimenta."
       }
@@ -452,7 +468,7 @@
         "personalidade"
       ],
       "resourceGuides": {
-        "ac-x-valores": "Na primeira seção, acompanhe os exemplos de alimento, segurança e dor. Identifique por que a avaliação da criança pode variar de um momento para outro.",
+        "ac-x-valores": "Nos primeiros parágrafos, leia os exemplos de alimento, segurança e dor. Em 3 min, observe como o valor de uma experiência pode mudar com a necessidade da criança.",
         "personalidade": "Leia a proposição X e compare os valores vividos diretamente com aqueles adotados em relações com outras pessoas."
       }
     },
@@ -469,7 +485,7 @@
         "almeida"
       ],
       "resourceGuides": {
-        "ac-x-valores": "Na seção 2, procure a discussão sobre a introjeção de valores. Identifique como um critério que veio de fora pode ser sentido como se fosse próprio.",
+        "ac-x-valores": "Vá à seção 2 e busque «introjeção». Em 3 min, acompanhe como um valor recebido em uma relação pode acabar parecendo um critério da própria pessoa.",
         "almeida": "No trecho dedicado a Standal, acompanhe a passagem da necessidade de consideração dos outros à consideração positiva de si."
       }
     },
@@ -486,7 +502,7 @@
         "telles"
       ],
       "resourceGuides": {
-        "ac-x-video": "Na aula de Fernando Ferreira, identifique como o autor relaciona a possibilidade de crescer com o ambiente psicológico. Anote uma hipótese para conferir na pesquisa.",
+        "ac-x-video": "Em 6 min e 30 s, acompanhe a relação entre crescimento e ambiente psicológico. Anote uma pergunta para comparar com as entrevistas da leitura seguinte.",
         "telles": "Procure o exemplo das batatas no porão e compare com as categorias 3.1 e 3.3 dos resultados. Observe quais obstáculos os entrevistados reconhecem."
       }
     },
@@ -499,12 +515,12 @@
       "body": "Nos trabalhos mais tardios, Rogers propôs que a formação de estruturas complexas poderia ser pensada para além dos seres vivos. A formação de um cristal aparece nesse debate. Ela ajuda a distinguir a extensão filosófica da proposta e a hipótese sobre como um organismo se mantém e desenvolve.",
       "objective": "Explique por que a formação de um cristal e o crescimento de uma planta respondem a perguntas diferentes nessa discussão.",
       "resources": [
-        "ac-x-formativa",
-        "ac-x-matriz"
+        "ac-x-matriz",
+        "ac-x-formativa"
       ],
       "resourceGuides": {
-        "ac-x-formativa": "No trecho sobre o cristal, identifique por que o autor distingue sua formação do estado em que se encontra depois de formado.",
-        "ac-x-matriz": "Na passagem em que Moreira situa as duas tendências na obra de Rogers, procure o alcance atribuído à formulação mais tardia."
+        "ac-x-matriz": "Busque «tendência formativa» no artigo de Virginia Moreira. Em 2 min, compare o alcance que ela atribui à ideia com o da tendência atualizante na psicoterapia.",
+        "ac-x-formativa": "No trecho sobre o cristal, identifique por que o autor distingue sua formação do estado em que se encontra depois de formado."
       }
     },
     {
@@ -513,18 +529,18 @@
       "body": "Em 1957, Rogers formulou seis condições para a mudança. Sua proposta considera o contato psicológico, a vulnerabilidade ou incongruência do cliente, três atitudes do terapeuta e a percepção, pelo cliente, de empatia e aceitação. A maneira como o encontro é vivido faz parte da hipótese.",
       "objective": "Organize as seis condições conforme descrevam o cliente, o terapeuta ou o contato entre ambos. Identifique qual delas depende da percepção do cliente.",
       "resources": [
+        "habilidades",
         "aula-atitudes",
         "personalidade",
-        "habilidades",
         "ac-r-seis"
       ],
       "parent": "experiencia",
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
-        "personalidade": "Na discussão da teoria da psicoterapia, distribua as condições entre cliente, terapeuta e relação e procure o que significa vulnerabilidade.",
+        "habilidades": "Busque «atitudes facilitadoras» logo depois da lista de condições. Em 2 min, leia como Stenzel explica a congruência, a consideração positiva e a compreensão empática.",
         "aula-atitudes": "Veja como o psicólogo diferencia empatia, congruência e consideração positiva. Depois compare essas três atitudes com as seis condições no artigo abaixo.",
-        "habilidades": "Leia como o artigo distingue a descrição teórica das atitudes e o problema de investigá-las a partir de percepções diferentes.",
+        "personalidade": "Na discussão da teoria da psicoterapia, distribua as condições entre cliente, terapeuta e relação e procure o que significa vulnerabilidade.",
         "ac-r-seis": "Leia a lista numerada na seção «Terapia centrada no cliente de Carl Rogers». Observe o que a primeira, a segunda e a sexta condições acrescentam às três atitudes."
       }
     },
@@ -537,10 +553,12 @@
       "body": "Rogers propôs seis condições para que ocorresse mudança terapêutica na personalidade. A hipótese reúne o contato psicológico, a incongruência do cliente, três atitudes do terapeuta e a percepção de empatia e consideração pelo cliente. As três atitudes ocupam apenas uma parte dessa formulação.",
       "objective": "Desenhe um esquema das seis condições. Em cada uma, indique de quem é a experiência e quem pode percebê-la.",
       "resources": [
+        "habilidades",
         "ac-r-seis",
         "personalidade"
       ],
       "resourceGuides": {
+        "habilidades": "Busque «duas pessoas estejam em contato psicológico». Em 2 min, leia a lista de Rogers e distribua as seis condições entre relação, cliente e terapeuta.",
         "ac-r-seis": "Leia a enumeração na seção «Terapia centrada no cliente de Carl Rogers» e localize a percepção do cliente no sexto item.",
         "personalidade": "Na parte sobre psicoterapia, acompanhe o que o autor chama de vulnerabilidade e compare as condições referentes ao cliente e ao terapeuta."
       }
@@ -554,10 +572,12 @@
       "body": "A primeira condição pressupõe que as duas pessoas afetem de algum modo a experiência uma da outra. Garry Prouty estudou o problema que surge quando esse contato é frágil e descreveu dimensões distintas do contato com a realidade, com o afeto e com o interlocutor.",
       "objective": "Escolha um exemplo de Prouty e identifique o indício de contato que o autor descreve. Separe o que o observador vê do sentido que atribui ao episódio.",
       "resources": [
+        "habilidades",
         "ac-r-seis",
         "ac-r-prouty"
       ],
       "resourceGuides": {
+        "habilidades": "Busque «condição básica para a relação terapêutica». Em 1 min, veja onde o contato psicológico entra na lista de Rogers e por que aparece antes das atitudes.",
         "ac-r-seis": "Releia a primeira condição e observe o lugar do contato antes da descrição das atitudes do terapeuta.",
         "ac-r-prouty": "Procure as três funções de contacto e acompanhe os exemplos clínicos com que Prouty procura torná-las observáveis."
       }
@@ -571,13 +591,13 @@
       "body": "Na sexta condição, importa que alguma consideração positiva e compreensão empática cheguem a ser percebidas pelo cliente. Uma atitude vivida pelo terapeuta, uma escala respondida pelo cliente e uma narrativa posterior sobre a relação dão acesso a perspectivas diferentes do encontro.",
       "objective": "Compare uma pergunta que investigue a intenção do terapeuta com outra que convide o cliente a relatar como recebeu uma resposta.",
       "resources": [
-        "ac-r-seis",
         "habilidades",
+        "ac-r-seis",
         "ac-r-vivencias"
       ],
       "resourceGuides": {
+        "habilidades": "Busque «num grau mínimo». Em 1 min, releia a sexta condição e identifique quais atitudes precisam chegar ao cliente para terem lugar na relação.",
         "ac-r-seis": "Volte ao sexto item e identifique quais atitudes o texto diz que o cliente precisa conseguir perceber, ao menos minimamente.",
-        "habilidades": "Leia a discussão do inventário de relação de Barrett-Lennard e observe por que a perspectiva de quem responde importa.",
         "ac-r-vivencias": "Nos resultados, acompanhe como os participantes descrevem sentir que têm um lugar na relação. Encontre um exemplo relatado do ponto de vista de um cliente."
       }
     },
@@ -587,6 +607,7 @@
       "body": "Na ACP, compreender empaticamente envolve acompanhar o significado de uma experiência a partir da perspectiva de quem a vive. Uma resposta pode oferecer uma compreensão provisória. A pessoa conserva a possibilidade de precisar o sentido do que disse ou corrigir o que o outro entendeu.",
       "objective": "Em um diálogo fictício, destaque uma fala que verifica se um sentimento foi compreendido e mostre como a resposta seguinte modifica essa leitura.",
       "resources": [
+        "ac-r-conversa",
         "fontgalland",
         "habilidades",
         "aula-atitudes"
@@ -595,6 +616,7 @@
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
+        "ac-r-conversa": "Veja de 06:08 até o próximo capítulo, em 08:15. Anote o que distingue compreender a experiência da pessoa de interpretar a situação por ela.",
         "fontgalland": "Compare a compreensão da empatia como estado e como processo. Localize a passagem sobre comunicar a compreensão alcançada e poder revê-la com o cliente.",
         "habilidades": "Procure a discussão da empatia nas pesquisas sobre habilidades relacionais. Observe o papel atribuído à percepção de quem recebe uma resposta.",
         "aula-atitudes": "No trecho sobre empatia, registre uma característica da escuta apresentada pelo professor e compare com o processo descrito por Fontgalland e Moreira."
@@ -609,10 +631,12 @@
       "body": "A expressão «como se» situa um limite da compreensão empática. O terapeuta procura acompanhar o sentido que uma experiência tem para o cliente e conserva a consciência de que essa experiência pertence ao outro. A compreensão pode mudar quando o cliente acrescenta um detalhe.",
       "objective": "Imagine duas pessoas descrevendo a mesma despedida. Escreva uma pergunta que ajude a conhecer o sentido que a despedida teve para cada uma.",
       "resources": [
+        "habilidades",
         "fontgalland",
         "ac-r-conversa"
       ],
       "resourceGuides": {
+        "habilidades": "Busque «esquema de referência interno» na quinta condição. Em 2 min, identifique o que o terapeuta procura compreender e como faz essa compreensão chegar ao cliente.",
         "fontgalland": "Localize a expressão «como se». Acompanhe como as autoras passam da definição de empatia como estado à compreensão empática como processo.",
         "ac-r-conversa": "Ouça o capítulo sobre empatia, de 06:08 a 08:15. Compare a explicação oral com o limite entre as perspectivas descrito no artigo."
       }
@@ -631,7 +655,7 @@
         "ac-r-comunicacao"
       ],
       "resourceGuides": {
-        "ac-r-reflexo": "Comece pela discussão das respostas às perguntas dos clientes. Veja como o autor acompanha o que a pessoa faz depois de ouvir a resposta do terapeuta.",
+        "ac-r-reflexo": "Vá à discussão sobre a resposta às perguntas do cliente. Em 3 min, escolha um diálogo e repare no que a pessoa faz depois de ouvir o terapeuta.",
         "ac-r-seis": "Depois das seis condições, localize a tipologia das respostas e anote o que os autores incluem na categoria de compreensão.",
         "ac-r-comunicacao": "Leia a parte sobre a fase reflexiva e a passagem à fase experiencial. Identifique o que muda quando o terapeuta também se escuta."
       }
@@ -649,7 +673,7 @@
         "ac-r-seis"
       ],
       "resourceGuides": {
-        "ac-r-reflexo": "Na seção sobre reiteração, compare a resposta-eco e as reformulações. Localize a ressalva de Holanda sobre a repetição mecânica.",
+        "ac-r-reflexo": "Vá à seção sobre reiteração. Em 3 min, compare um eco e uma reformulação e identifique como cada resposta usa as palavras da pessoa.",
         "ac-r-seis": "Na descrição das modalidades de resposta compreensiva, procure a reiteração e identifique qual parte da experiência já foi expressa pelo cliente."
       }
     },
@@ -666,7 +690,7 @@
         "ac-r-seis"
       ],
       "resourceGuides": {
-        "ac-r-reflexo": "Leia «O reflexo de sentimentos». Observe como a mudança de foco do acontecimento para seu significado pessoal aparece nos exemplos.",
+        "ac-r-reflexo": "Leia um diálogo em «O reflexo de sentimentos», em 3 min. Observe onde a conversa passa do acontecimento para o significado que ele tem para quem fala.",
         "ac-r-seis": "Compare as passagens sobre reiteração e reflexo de sentimentos. Anote qual aspecto do relato cada forma de resposta coloca em primeiro plano."
       }
     },
@@ -683,7 +707,7 @@
         "ac-r-seis"
       ],
       "resourceGuides": {
-        "ac-r-reflexo": "Vá à seção sobre elucidação. Observe a cautela do autor quanto ao grau de inferência e à proximidade com interpretações do terapeuta.",
+        "ac-r-reflexo": "Leia o início da seção sobre elucidação, em 3 min. Identifique qual parte da resposta vai além das palavras já usadas pelo cliente.",
         "ac-r-seis": "Na apresentação das respostas compreensivas, compare a elucidação com o reflexo de sentimentos e identifique a diferença entre seus objetos."
       }
     },
@@ -693,6 +717,7 @@
       "body": "Uma pessoa que relata vergonha pode esperar que o acolhimento dependa daquilo que vai revelar. A consideração positiva incondicional descreve, na proposta de Rogers, uma atitude de respeito pela pessoa inclusive quando ela expressa experiências difíceis de ouvir. Limites da relação continuam podendo ser discutidos.",
       "objective": "Imagine alguém que discorda de uma decisão do interlocutor. Descreva como essa discordância poderia ser comunicada preservando o respeito pela pessoa.",
       "resources": [
+        "ac-r-conversa",
         "almeida",
         "comunicacao",
         "aula-atitudes"
@@ -701,6 +726,7 @@
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
+        "ac-r-conversa": "Veja de 08:15 até o capítulo de congruência, em 11:55. Anote como a consideração positiva muda a maneira de receber o que a pessoa conta.",
         "almeida": "Acompanhe a formulação da consideração positiva incondicional em diferentes textos de Rogers. Procure a relação entre aceitação, apreço e ausência de condições.",
         "comunicacao": "Leia a discussão sobre comunicar notícias difíceis em saúde. Identifique como reconhecer as reações do paciente pode dar expressão ao respeito por ele.",
         "aula-atitudes": "Na apresentação da consideração positiva incondicional, anote como o professor descreve a atitude dirigida à pessoa. Traga essa definição para um exemplo de desacordo."
@@ -720,7 +746,7 @@
         "ac-r-conversa"
       ],
       "resourceGuides": {
-        "almeida": "Na reconstrução do conceito, procure o uso de apreço e aceitação e acompanhe o que muda quando o acolhimento fica condicionado a certas atitudes.",
+        "almeida": "Busque «apreço». Em 3 min, acompanhe como Almeida descreve a aceitação da pessoa quando o avaliador discorda de um comportamento.",
         "ac-r-marques": "Leia o parágrafo em que Marques examina a ideia de aprovar os comportamentos do cliente. Identifique a diferença entre avaliar um ato e estimar uma pessoa.",
         "ac-r-conversa": "De 08:15 a 11:55, ouça a apresentação da aceitação incondicional. Retome o exemplo de discordância à luz dessa definição."
       }
@@ -738,7 +764,7 @@
         "ac-r-vivencias"
       ],
       "resourceGuides": {
-        "ac-r-levinas": "Na discussão entre Rogers e Lévinas, acompanhe a pergunta sobre o espaço da alteridade numa abordagem centrada na pessoa. Procure o argumento sobre os limites de conhecer o outro.",
+        "ac-r-levinas": "Busque «alteridade» no trecho que põe Rogers e Lévinas em diálogo. Em 3 min, encontre a pergunta que as autoras fazem sobre os limites de compreender o outro.",
         "ac-r-vivencias": "Leia o tema em que os clientes passam a reconhecer o psicoterapeuta como outra pessoa na relação. Compare a descrição de um participante com a discussão filosófica."
       }
     },
@@ -755,7 +781,7 @@
         "comunicacao"
       ],
       "resourceGuides": {
-        "ac-r-aps": "Nos depoimentos, encontre a passagem em que a psicóloga explica que a pessoa pode falar sobre outras coisas em outro momento. Observe como ela apresenta a possibilidade de conversar.",
+        "ac-r-aps": "Nos resultados, procure a fala da psicóloga sobre a possibilidade de conversar em outro momento. Em 3 min, observe como ela deixa espaço para a pessoa retomar o assunto.",
         "comunicacao": "Na discussão da comunicação de más notícias, procure o papel da escuta e da expressão de sentimentos pelo paciente. Compare com a situação descrita no artigo da atenção primária."
       }
     },
@@ -765,6 +791,7 @@
       "body": "Na relação terapêutica, congruência é a possibilidade de reconhecer a própria experiência e de estar presente de forma autêntica no encontro. A decisão de comunicar algo do que se sente envolve considerar o sentido daquela fala para a relação.",
       "objective": "Em uma situação fictícia, identifique o que o terapeuta percebe em si e discuta qual seria o efeito de compartilhar essa percepção com o interlocutor.",
       "resources": [
+        "ac-r-conversa",
         "autenticidade",
         "habilidades",
         "comunicacao",
@@ -774,6 +801,7 @@
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
+        "ac-r-conversa": "Vá ao capítulo que começa em 11:55 e veja os primeiros 3 min. Identifique o que o terapeuta precisa perceber em si para estar presente com autenticidade.",
         "autenticidade": "Nos resultados da pesquisa com plantonistas, compare um relato sobre contato consigo a outro sobre contato com o cliente. Localize como a autenticidade aparece em cada situação.",
         "habilidades": "Leia a discussão da congruência como atitude relacional e observe como os estudos apresentados investigaram a perspectiva do cliente.",
         "comunicacao": "Examine o trecho sobre congruência na comunicação de notícias difíceis e identifique qual é a responsabilidade de quem comunica a notícia.",
@@ -789,10 +817,12 @@
       "body": "Uma dúvida, um incômodo ou uma expectativa podem surgir no próprio terapeuta enquanto ele escuta. A congruência começa pela possibilidade de reconhecer essa experiência. Diários de plantonistas iniciantes permitem estudar como essa percepção foi ganhando palavras.",
       "objective": "Escolha um trecho dos diários e diferencie o que o plantonista viveu naquele encontro do que conseguiu nomear ao escrever depois.",
       "resources": [
+        "habilidades",
         "autenticidade",
         "ac-r-marques"
       ],
       "resourceGuides": {
+        "habilidades": "Busque «pessoa congruente, genuína e integrada» depois da lista das condições. Em 2 min, veja o que muda entre perceber o que se sente e sustentar uma fachada no atendimento.",
         "autenticidade": "Nos resultados, leia os trechos sobre o contato do plantonista consigo. Observe como os autores passaram dos registros individuais para uma descrição da experiência.",
         "ac-r-marques": "Na discussão do conceito, acompanhe a passagem da experiência à consciência que a pessoa tem dela. Localize um exemplo da autora sobre reconhecer o próprio sentimento."
       }
@@ -806,11 +836,13 @@
       "body": "Reconhecer um sentimento deixa em aberto a decisão sobre quando e como comunicá-lo. Ao examinar situações de trabalho, Paula Marques pergunta em que circunstâncias dizer o que sente pode contribuir para a relação. Os plantonistas estudados por Santos e Vieira também descrevem momentos em que deram voz a dúvidas.",
       "objective": "Retome um exemplo de dúvida relatado por um plantonista e discuta o que sua expressão abriu na conversa. Registre uma situação em que o efeito dessa fala precisaria ser perguntado ao cliente.",
       "resources": [
+        "ac-r-comunicacao",
         "ac-r-marques",
         "autenticidade",
         "ac-r-conversa"
       ],
       "resourceGuides": {
+        "ac-r-comunicacao": "Busque «envolvimento emocional». Em 2 min, localize como o artigo distingue reconhecer uma reação durante o encontro de comunicá-la abertamente ao cliente.",
         "ac-r-marques": "Acompanhe os exemplos profissionais de Marques e identifique os critérios que ela discute para expressar ao outro o que percebeu em si.",
         "autenticidade": "Procure o relato em que o plantonista expressa uma dúvida durante o encontro. Compare o que percebe em si com o que escolhe dizer.",
         "ac-r-conversa": "Ouça o capítulo sobre congruência, de 11:55 a 13:27, e o capítulo sobre a postura do terapeuta, a partir de 15:16. Relacione os dois à decisão de falar."
@@ -825,10 +857,12 @@
       "body": "Uma pergunta frequente no começo da formação é como ocupar o lugar de terapeuta enquanto ainda se convive com a insegurança. Pesquisadores estudaram essa experiência em diários de um plantão. Em vídeo, cinco psicólogos contam retrospectivamente quais desafios encontraram ao começar.",
       "objective": "Compare um desafio narrado no vídeo e um registro do plantão. Identifique o que a reflexão posterior permite ver em cada caso e formule uma questão para supervisão.",
       "resources": [
+        "ac-intro-plantonista",
         "autenticidade",
         "ac-r-iniciantes"
       ],
       "resourceGuides": {
+        "ac-intro-plantonista": "Leia o resumo, em 2 min. Nas três formas de autenticidade que os autores identificaram, veja em qual aparece a possibilidade de o terapeuta expressar uma dúvida.",
         "autenticidade": "Leia como os diários dos plantonistas foram produzidos e escolha um episódio de contato com o cliente para discutir em supervisão.",
         "ac-r-iniciantes": "Assista aos depoimentos do EncontroACP e escolha o relato de um profissional. Identifique uma dificuldade pessoal do começo da prática e como ele a descreve em retrospecto."
       }
@@ -847,7 +881,7 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
-        "autoimagem": "Leia a seção de método e procure como as entrevistas foram analisadas. Escolha uma conclusão e identifique o relato ou o tema que a sustenta.",
+        "autoimagem": "Leia o primeiro parágrafo do método e parte de um resultado, em cerca de 3 min. Identifique como a equipe registrou a experiência descrita pelas pessoas atendidas.",
         "pesquisas-rogers": "Compare as perguntas dos programas de Chicago e de Wisconsin. Observe como a equipe procurou dados que pudessem sustentar ou limitar suas hipóteses.",
         "ac-p-validade": "Procure a discussão do estudo de Barkham e colaboradores. Identifique as duas terapias, a população estudada e os momentos de avaliação."
       }
@@ -865,7 +899,7 @@
         "autoimagem"
       ],
       "resourceGuides": {
-        "ac-p-modelos": "Procure os trechos que distinguem eficácia, efetividade e processo. Para cada desenho, anote de onde vêm os dados.",
+        "ac-p-modelos": "Busque «estudos de processo». Em 3 min, separe uma pergunta sobre o que acontece nas sessões de outra sobre o que mudou depois da psicoterapia.",
         "autoimagem": "No método, acompanhe as etapas de revisão dos atendimentos e de entrevista. Nos resultados, localize uma mudança afetiva descrita pelas pessoas atendidas."
       }
     },
@@ -882,7 +916,7 @@
         "autoimagem"
       ],
       "resourceGuides": {
-        "ac-p-escala": "Leia a apresentação dos estágios e, depois, a discussão do caso. Procure a passagem em que os autores relacionam a expressão atual de sentimentos ao terceiro ou quarto estágio.",
+        "ac-p-escala": "Leia a apresentação dos sete estágios em 3 min. Escolha dois estágios próximos e observe o que muda na forma de falar dos sentimentos.",
         "autoimagem": "Compare a apresentação das fases do processo com o que as entrevistas desse estudo permitem conhecer sobre a maneira de uma pessoa se descrever."
       }
     },
@@ -895,12 +929,12 @@
       "body": "Na pesquisa-ação, uma pergunta nasce da prática, orienta o que será observado e pode levar à revisão da ação. O estudo brasileiro de autoimagem explicita como os pesquisadores acompanharam os atendimentos e ouviram os participantes.",
       "objective": "Reconstrua o percurso entre planejamento, ação e análise usando uma decisão metodológica do estudo de autoimagem.",
       "resources": [
-        "ac-p-acao",
-        "autoimagem"
+        "autoimagem",
+        "ac-p-acao"
       ],
       "resourceGuides": {
-        "ac-p-acao": "No diagrama do ciclo da pesquisa-ação, acompanhe a passagem do planejamento ao acompanhamento da ação. Escolha uma etapa e descreva o que poderia ser registrado nela.",
-        "autoimagem": "Na seção de método, localize como entraram no estudo a supervisão, a revisão dos atendimentos e as entrevistas. Compare a sequência com o diagrama de Castelo Branco."
+        "autoimagem": "Leia, na seção de método, como o estudo organizou os encontros com as participantes. Em 3 min, identifique o que funcionou como intervenção e o que foi usado para pesquisar o processo.",
+        "ac-p-acao": "No diagrama do ciclo da pesquisa-ação, acompanhe a passagem do planejamento ao acompanhamento da ação. Escolha uma etapa e descreva o que poderia ser registrado nela."
       }
     },
     {
@@ -916,7 +950,7 @@
         "ac-p-versoes"
       ],
       "resourceGuides": {
-        "ac-r-vivencias": "Leia o percurso que vai dos encontros com clientes às narrativas compreensivas. Anote o papel do participante e o do pesquisador nessa produção.",
+        "ac-r-vivencias": "Comece pelo percurso dos encontros dialógicos até as narrativas compreensivas, em 3 min. Separe a contribuição de quem participou da interpretação produzida pelo pesquisador.",
         "ac-p-versoes": "Na seção de método, identifique quem escreveu as versões de sentido, em que momento elas foram produzidas e a quem pertencem as experiências relatadas."
       }
     },
@@ -933,7 +967,7 @@
         "autoimagem"
       ],
       "resourceGuides": {
-        "ac-r-vivencias": "Na tabela 1, observe a diversidade dos percursos. Na seção sobre os encontros dialógicos, procure por que o pesquisador decidiu não gravar as conversas.",
+        "ac-r-vivencias": "Passe pela tabela 1 e leia o início da descrição dos encontros dialógicos em 3 min. Procure como o estudo manteve as experiências dos clientes no centro da investigação.",
         "autoimagem": "Na descrição das entrevistas semiestruturadas e na apresentação dos resultados, identifique como os autores passaram das falas dos participantes aos temas discutidos."
       }
     },
@@ -950,7 +984,7 @@
         "ac-p-sentido"
       ],
       "resourceGuides": {
-        "ac-p-versoes": "Localize a orientação dada aos estagiários antes dos atendimentos e a explicação dos autores para descartar alguns registros. Compare esses dois trechos.",
+        "ac-p-versoes": "Na seção de método, leia a orientação que os estagiários receberam antes de escrever os registros. Em 3 min, identifique o que deveriam anotar logo depois do encontro.",
         "ac-p-sentido": "Leia a introdução, em que os autores contam como surgiu o registro breve. Na parte sobre supervisão, observe o que a leitura de uma versão pode suscitar no grupo."
       }
     },
@@ -963,12 +997,12 @@
       "body": "O ensaio inglês PRaCTICED comparou a terapia experiencial centrada na pessoa com a terapia cognitivo-comportamental em um serviço para pessoas com depressão. Para entender o resultado, é preciso saber o que foi comparado, qual desfecho foi medido e quando os participantes foram avaliados.",
       "objective": "No comentário em português, compare a interpretação dos resultados aos seis e aos doze meses. Identifique a população e as intervenções a que eles se aplicam.",
       "resources": [
-        "ac-p-validade",
-        "ac-p-modelos"
+        "ac-p-modelos",
+        "ac-p-validade"
       ],
       "resourceGuides": {
-        "ac-p-validade": "Procure “Barkham” no PDF. Leia a apresentação do ensaio e a discussão dos dois períodos de acompanhamento. Observe o que os autores dizem sobre a medida usada.",
-        "ac-p-modelos": "Na comparação entre eficácia e efetividade, identifique o papel do grupo de comparação e do contexto de atendimento. Use essas perguntas para reler o resumo do ensaio inglês."
+        "ac-p-modelos": "Busque «eficácia» e «efetividade». Em 3 min, diferencie uma comparação em condições controladas de uma avaliação em serviços de rotina. Depois use o ensaio citado na outra leitura como exemplo.",
+        "ac-p-validade": "Procure “Barkham” no PDF. Leia a apresentação do ensaio e a discussão dos dois períodos de acompanhamento. Observe o que os autores dizem sobre a medida usada."
       }
     }
   ],
@@ -984,8 +1018,8 @@
       "language": "pt-BR",
       "format": "Artigo histórico e teórico",
       "access": "Leitura integral gratuita, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos texto HTML, discussão das fases e referências.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto integral em HTML e os trechos sobre as fases não diretiva, reflexiva e coletiva.",
       "rights": "CC BY-NC 4.0 indicada pelo periódico.",
       "caveat": "A periodização é uma proposta da autora e admite outras leituras históricas.",
       "relevance": "Comece pelas fases não diretiva e reflexiva. Ao chegar à fase coletiva, identifique o que muda quando Rogers passa a trabalhar com grupos e educação.",
@@ -1003,12 +1037,12 @@
       "institution": "Estudos e Pesquisas em Psicologia · UERJ",
       "year": 2017,
       "url": "https://www.redalyc.org/pdf/4518/451856605020.pdf",
-      "sourcePage": null,
+      "sourcePage": "https://www.e-publicacoes.uerj.br/revispsi/article/view/37146",
       "language": "pt-BR",
-      "format": "Pesquisa histórica documental",
+      "format": "Pesquisa histórica documental · PDF",
       "access": "Leitura integral gratuita, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "PDF da edição da UERJ aberto no Redalyc. Conferidos título, autoria e as três partes do estudo sobre 1977.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o artigo integral no Redalyc e a ficha no periódico de origem, com autoria e resumo.",
       "rights": "A página do periódico declara CC BY-NC 3.0 e informa condições de reprodução. Consultar a ficha para qualquer reutilização.",
       "caveat": "O ano corresponde ao fascículo. O periódico registra publicação digital em 2018. O estudo trata especificamente da primeira visita de Rogers ao Brasil.",
       "relevance": "Comece pelas cartas que antecederam a visita. Depois leia a entrevista e os relatos sobre os encontros para comparar as expectativas dos organizadores com o que aconteceu.",
@@ -1057,8 +1091,8 @@
       "language": "pt-BR",
       "format": "Artigo teórico",
       "access": "Leitura integral gratuita, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos texto HTML integral, autoria e discussão das atitudes relacionais.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto integral no PePSIC e a lista das seis condições comentada por Lucia Marques Stenzel.",
       "rights": "O periódico indica licença Creative Commons Atribuição, salvo indicação em contrário.",
       "caveat": "O artigo coloca duas tradições de pesquisa em diálogo. As relações que propõe exigem leitura junto aos estudos que cita.",
       "relevance": "Na discussão das condições de 1957, encontre a que depende de como o cliente percebe o encontro. Depois leia como os autores relacionam empatia, autenticidade e estudos posteriores.",
@@ -1066,7 +1100,11 @@
         "relacao",
         "percepcao-do-cliente",
         "empatia",
-        "congruencia"
+        "congruencia",
+        "seis-condicoes",
+        "contato-psicologico",
+        "quadro-de-referencia",
+        "experiencia-do-terapeuta"
       ]
     },
     {
@@ -1273,12 +1311,12 @@
       "institution": "Phenomenological Studies · Revista da Abordagem Gestáltica",
       "year": 2023,
       "url": "https://revistaabordagemgestaltica.com.br/index.php/go/article/download/104/104/652",
-      "sourcePage": null,
+      "sourcePage": "https://revistaabordagemgestaltica.com.br/index.php/go/article/view/104",
       "language": "pt-BR",
       "format": "Pesquisa qualitativa em PDF",
       "access": "Texto integral gratuito, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o PDF integral, autoria, método e as três formas de autenticidade identificadas nos registros.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos a página da revista, a descrição do estudo e a opção de artigo integral em PDF.",
       "rights": "Leitura pública na fonte. A licença de reprodução deste material não foi confirmada.",
       "caveat": "O material reúne 63 registros de cinco plantonistas iniciantes em um serviço on-line.",
       "relevance": "Nos resultados, compare os trechos sobre contato consigo e contato com o cliente. Observe como expressar uma dúvida aparece nos relatos dos plantonistas.",
@@ -1364,14 +1402,15 @@
       "language": "pt-BR",
       "format": "Ensaio crítico",
       "access": "Texto integral gratuito, consultado sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o ensaio integral e sua discussão sobre grupos de encontro e encontros de comunidade.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto integral em HTML e os trechos sobre grupos de encontro, facilitação e comunidades de aprendizagem.",
       "rights": "CC BY 4.0 indicada na página do artigo.",
       "caveat": "Schmidt oferece uma interpretação crítica do pensamento grupal e político de Rogers.",
       "relevance": "Na discussão do grupo de encontro, acompanhe o papel atribuído a participantes e facilitador. Depois veja por que Schmidt traz a questão do poder para essa leitura.",
       "nodes": [
         "facilitacao-grupal",
-        "comunidades-temporarias"
+        "comunidades-temporarias",
+        "grupos-de-encontro"
       ]
     },
     {
@@ -1385,13 +1424,14 @@
       "language": "pt-BR",
       "format": "Levantamento histórico de núcleos e publicações",
       "access": "Texto integral gratuito, consultado sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos os créditos e as seções sobre núcleos, boletins, eventos e material publicado.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto original no EncontroACP, a cronologia da ACP no Brasil e a passagem sobre os primeiros workshops em Arcozelo.",
       "rights": "Consulta aberta na fonte. A reutilização depende das condições do titular.",
       "caveat": "1994 é o ano da apresentação em Maragogi. A versão disponibilizada incorpora acontecimentos posteriores e retrata o período do levantamento.",
       "relevance": "Na seção sobre núcleos e boletins, escolha duas iniciativas de regiões distintas. Compare o que faziam e que registro de seu trabalho foi preservado.",
       "nodes": [
-        "redes-brasileiras"
+        "redes-brasileiras",
+        "brasil"
       ]
     },
     {
@@ -1487,7 +1527,7 @@
       "url": "https://encontroacp.com.br/wp-content/uploads/2022/09/carl-rogers.pdf",
       "sourcePage": "https://binagri.agro.gov.br/cgi-bin/koha/opac-detail.pl?biblionumber=7854",
       "language": "pt-BR",
-      "format": "Livro digital · textos selecionados",
+      "format": "Livro digital · textos selecionados · PDF",
       "access": "Texto integral gratuito, consultado sem cadastro.",
       "checkedAt": "2026-11-15",
       "verification": "Conferidos o PDF, a folha de rosto e os textos que tratam de contratos e autoavaliação.",
@@ -1743,7 +1783,8 @@
       "caveat": "Aula introdutória de um profissional. Para discutir as dificuldades da hipótese, compare com os relatos de psicoterapeutas na pesquisa de Telles e colegas.",
       "relevance": "Observe como a apresentação relaciona crescimento e ambiente facilitador. Depois procure um contraponto nos relatos dos psicoterapeutas.",
       "nodes": [
-        "crescimento-e-ambiente"
+        "crescimento-e-ambiente",
+        "tendencia"
       ]
     },
     {
@@ -1878,7 +1919,8 @@
       "caveat": "As fases organizam a leitura histórica que os autores fazem da comunicação terapêutica.",
       "relevance": "Compare a posição do terapeuta nas fases reflexiva e experiencial. Anote quando os autores introduzem a escuta de si.",
       "nodes": [
-        "resposta-reflexo"
+        "resposta-reflexo",
+        "expressao-na-relacao"
       ]
     },
     {
@@ -1940,7 +1982,10 @@
       "nodes": [
         "quadro-de-referencia",
         "apreco-e-aprovacao",
-        "expressao-na-relacao"
+        "expressao-na-relacao",
+        "empatia",
+        "consideracao",
+        "congruencia"
       ]
     },
     {
@@ -2124,6 +2169,69 @@
       "relevance": "Veja o episódio sobre educação e anote uma pergunta que a perspectiva do estudante coloca para o trabalho de quem ensina.",
       "nodes": [
         "aprendizagem-centrada"
+      ]
+    },
+    {
+      "id": "ac-intro-focalizacao",
+      "title": "O que é Focalização",
+      "authors": "Guilherme Wykrota Tostes",
+      "institution": "Focalização Brasil",
+      "year": null,
+      "url": "https://focalizacao.com/o-que-e-focalizacao/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo introdutório",
+      "access": "Leitura gratuita no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto integral, a assinatura de Tostes e a identificação do vínculo da Focalização Brasil com o The International Focusing Institute.",
+      "rights": "O mapa aponta para a publicação original.",
+      "caveat": "A página também divulga cursos, e o texto apresenta a perspectiva de um formador em focalização.",
+      "relevance": "Introdução ao sentido corporal implícito e ao trabalho de Eugene Gendlin com a equipe de Rogers.",
+      "nodes": [
+        "virada-experiencial",
+        "experienciacao",
+        "sentido-corporal"
+      ]
+    },
+    {
+      "id": "ac-educacao-justo",
+      "title": "Teoria da aprendizagem centrada no aluno de Carl Ransom Rogers",
+      "authors": "Henrique Justo",
+      "institution": "EncontroACP",
+      "year": 2002,
+      "url": "https://encontroacp.com.br/textos/teoria-da-aprendizagem-centrada-no-aluno-de-carl-ransom-rogers/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Relato docente em texto integral",
+      "access": "Leitura gratuita no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos no texto o crédito do autor, as passagens sobre propostas da turma e os exemplos de autoavaliação.",
+      "rights": "O mapa aponta para a publicação original.",
+      "caveat": "O professor descreve sua própria prática no ensino superior, apresentada em um encontro da ACP em 2002.",
+      "relevance": "Exemplos de como um professor acolhe propostas dos estudantes e trabalha com critérios de autoavaliação.",
+      "nodes": [
+        "plano-de-ensino-partilhado",
+        "autoavaliacao-estudante"
+      ]
+    },
+    {
+      "id": "ac-intro-plantonista",
+      "title": "A autenticidade como experiência do terapeuta iniciante no plantão psicológico · resumo",
+      "authors": "Mariana Dutra dos Santos e Emanuel Meireles Vieira",
+      "institution": "Revista da Abordagem Gestáltica",
+      "year": 2023,
+      "url": "https://revistaabordagemgestaltica.com.br/index.php/go/article/view/104",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Resumo de pesquisa",
+      "access": "Leitura gratuita no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos a autoria e o resumo em HTML, com contexto, método e três formas de autenticidade identificadas na pesquisa.",
+      "rights": "O mapa aponta para a publicação original.",
+      "caveat": "O estudo se refere a cinco plantonistas de uma clínica-escola em atendimento on-line. O artigo integral está no PDF da revista.",
+      "relevance": "A descrição dos resultados introduz a autenticidade nos primeiros atendimentos.",
+      "nodes": [
+        "autenticidade-em-formacao"
       ]
     }
   ]

@@ -209,7 +209,8 @@ function resource(r,guide,first=false){
   const url = new URL(r.url);
   if(url.protocol!=='https:')return '';
   let type = r.format.split(/[ ·,]/)[0];
-  if (/playlist/i.test(r.format)) type = 'Playlist';
+  if (/\bPDF\b/i.test(r.format) || /\.pdf(?:\/|$)/i.test(url.pathname) || url.searchParams.get('format')==='pdf') type = 'PDF';
+  else if (/playlist/i.test(r.format)) type = 'Playlist';
   else if (/^videoaula/i.test(r.format)) type = 'Videoaula';
   else if (/^série.*vídeos/i.test(r.format)) type = 'Vídeos';
   else if (['www.youtube.com','youtube.com','youtu.be','vimeo.com'].includes(url.hostname)) type = 'Vídeo';

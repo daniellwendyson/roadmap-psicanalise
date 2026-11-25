@@ -8,6 +8,7 @@
       "body": "Ao investigar como uma atividade muda conforme as circunstâncias, a Análise do Comportamento reúne perguntas de tipos diferentes. Há perguntas filosóficas sobre o que conta como explicação, perguntas experimentais sobre relações entre eventos e perguntas aplicadas sobre problemas que importam às pessoas.",
       "objective": "Formule uma pergunta de cada tipo sobre o mesmo tema, como a participação em aula.",
       "resources": [
+        "iw4-behaviorismo",
         "par-introducao",
         "tourinho",
         "metodos"
@@ -16,6 +17,7 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
+        "iw4-behaviorismo": "Comece pela abertura para distinguir a filosofia de Skinner da ciência que investiga as relações entre ações e ambiente.",
         "par-introducao": "Assista ao primeiro episódio e identifique a distinção entre pressupostos filosóficos e investigações empíricas.",
         "tourinho": "No esquema de produção de conhecimento, localize investigação básica, reflexão conceitual e aplicação. Compare as perguntas que cada uma pode responder.",
         "metodos": "Na discussão sobre métodos, procure como a pergunta de pesquisa orienta a escolha das unidades estudadas e do procedimento."
@@ -27,6 +29,7 @@
       "body": "Na interpretação behaviorista radical, pensamentos e sentimentos também fazem parte do que se busca compreender. O estudo considera as condições em que alguém aprende a agir, perceber e descrever o que sente, inclusive quando só a própria pessoa tem acesso direto ao evento.",
       "objective": "Explique como o relato de uma sensação e a situação em que ele ocorre podem compor uma investigação.",
       "resources": [
+        "iw4-behaviorismo",
         "carrara",
         "par-introducao",
         "tourinho"
@@ -35,6 +38,7 @@
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
+        "iw4-behaviorismo": "Leia a seção “Radical” de raiz, não de extremo. Observe o que muda quando a explicação inclui pensar e sentir.",
         "carrara": "Examine os sentidos atribuídos ao termo radical e identifique em que se distingue do behaviorismo metodológico.",
         "par-introducao": "Na abertura da playlist, acompanhe o contraste entre formas de explicar o comportamento e anote onde entra a história de aprendizagem.",
         "tourinho": "Procure a parte do texto dedicada ao trabalho conceitual. Identifique um exemplo de questão filosófica que afeta uma pesquisa."
@@ -47,12 +51,14 @@
       "body": "Só quem sente uma dor tem acesso direto àquela sensação. Ainda assim, as palavras usadas para descrevê-la se aprendem em situações que envolvem outras pessoas. A acessibilidade do evento e as condições em que o relato é aprendido são duas perguntas diferentes.",
       "objective": "Dê um exemplo de pista pública que pode participar do ensino de uma palavra para um evento privado.",
       "resourceGuides": {
+        "iw4-behaviorismo": "Busque no texto a passagem sobre eventos privados. Pense em um episódio em que só a própria pessoa percebe a sensação diretamente.",
         "privados": "Procure os exemplos de aquisição do autoconhecimento. Identifique o acontecimento ao qual apenas o falante tem acesso e a pista disponível para a comunidade.",
         "video-privados": "Na aula, a partir de 2min36s, anote um exemplo de como se ensina alguém a descrever sentimentos. Compare o acesso do falante com o do ouvinte."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "iw4-behaviorismo",
         "privados",
         "video-privados"
       ]
@@ -64,7 +70,7 @@
       "body": "Quando há variação, certos resultados podem tornar algumas formas de agir mais frequentes ao longo do tempo. Essa ideia permite perguntar por que uma prática se mantém e como a história de um organismo participa das mudanças em seu repertório.",
       "objective": "Escolha uma prática de estudo e descreva a variação inicial e os resultados que poderiam mantê-la.",
       "resourceGuides": {
-        "selecao": "Na tradução do artigo de Skinner, identifique o papel da variação e da seleção nos três domínios examinados.",
+        "selecao": "Leia os primeiros parágrafos e localize a apresentação da seleção por consequências. Compare o que é selecionado em cada nível.",
         "mecanicismo": "Compare as concepções de causalidade discutidas pelos autores. Explique por que o resultado de uma ação passada pode ajudar a entender um padrão atual.",
         "video-selecao": "O segundo episódio da playlist apresenta os níveis de seleção. Relacione cada um à escala de tempo em que a mudança ocorre."
       },
@@ -83,7 +89,7 @@
       "body": "A sensibilidade a certos estímulos tem uma história evolutiva. Aprender uma resposta ao longo da vida exige outra escala de análise. A transmissão de práticas entre pessoas acrescenta perguntas sobre sua continuidade ao longo de gerações.",
       "objective": "Descreva, para uma refeição compartilhada, uma pergunta sobre cada uma das três histórias.",
       "resourceGuides": {
-        "selecao": "Nas seções sobre condicionamento operante e evolução de culturas, identifique o que é selecionado e como a mudança se conserva.",
+        "selecao": "Vá à síntese dos três tipos de seleção no final do texto. Escolha um exemplo de mudança e indique em qual nível ela ocorre.",
         "video-selecao": "Retome o contraste entre história da espécie, aprendizagem individual e história das práticas culturais. Construa um exemplo em que as três participam."
       },
       "relation": "related",
@@ -99,17 +105,17 @@
       "body": "Um cheiro que antes passava despercebido pode provocar salivação depois de acompanhar repetidamente uma refeição. Esse exemplo ilustra o condicionamento respondente. A pergunta é como um estímulo adquire a função de eliciar uma resposta.",
       "objective": "Identifique o estímulo que já eliciava salivação e aquele que adquiriu essa função no exemplo.",
       "resources": [
+        "iw4-respondente",
         "par-reflexos",
-        "cinema",
-        "video-reflexo"
+        "cinema"
       ],
       "parent": "campo",
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
+        "iw4-respondente": "Leia o exemplo de Pavlov. Localize o que elicia uma resposta antes do emparelhamento e o que passa a eliciá-la depois.",
         "par-reflexos": "Na distinção entre reflexos inatos e aprendidos, desenhe um exemplo antes e depois do emparelhamento.",
-        "cinema": "Leia a seção sobre comportamentos respondente e operante no capítulo Laranja Mecânica. Na figura 1, localize o que muda na função de um estímulo.",
-        "video-reflexo": "Acompanhe o exemplo de relação estímulo–resposta da aula de sete minutos e assinale em que momento já há uma resposta reflexa."
+        "cinema": "Leia a seção sobre comportamentos respondente e operante no capítulo Laranja Mecânica. Na figura 1, localize o que muda na função de um estímulo."
       }
     },
     {
@@ -119,14 +125,14 @@
       "body": "O som de uma embalagem pode passar a eliciar salivação após acompanhar a oferta de alimento. É preciso identificar o que cada estímulo evocava antes da aprendizagem e verificar o que ocorre quando o som é apresentado sozinho depois dela.",
       "objective": "Desenhe o antes e o depois do exemplo e nomeie estímulos e respostas em cada momento.",
       "resourceGuides": {
-        "video-reflexo": "Acompanhe a explicação da relação reflexa e desenhe a mudança de função do estímulo que participa do emparelhamento.",
+        "iw4-respondente": "Siga a demonstração de Pavlov e separe o estímulo neutro, o incondicionado e o condicionado.",
         "cinema": "Na figura 1 do capítulo sobre Laranja Mecânica, identifique quais estímulos são apresentados juntos e a resposta observada antes e depois.",
         "pavlov": "No método, compare as duas fotografias usadas no condicionamento diferencial e identifique a medida com que o pesquisador acompanhou a aquisição."
       },
       "relation": "related",
       "lane": "right",
       "resources": [
-        "video-reflexo",
+        "iw4-respondente",
         "cinema",
         "pavlov"
       ]
@@ -138,12 +144,14 @@
       "body": "Depois da aprendizagem, apresentar várias vezes o estímulo condicionado sem o estímulo incondicionado pode reduzir a resposta condicionada. O que se acompanha é a mudança na resposta eliciada pelo primeiro estímulo.",
       "objective": "Compare duas séries imaginárias de apresentações do mesmo som e indique qual medida permitiria observar uma redução na resposta.",
       "resourceGuides": {
+        "iw4-respondente": "Vá a “Dá para desaprender?”. Identifique o que deixa de acompanhar o estímulo condicionado e o que pode acontecer com a resposta.",
         "par-reflexos": "Na parte da aula dedicada à extinção, compare o que deixa de acompanhar o estímulo condicionado com a mudança na resposta.",
         "pavlov": "Na introdução e no método do estudo com 57 adultos, identifique o que deixou de acompanhar as faces durante a extinção. Compare a medida de condutância da pele com a interpretação sobre medo."
       },
       "relation": "related",
       "lane": "right",
       "resources": [
+        "iw4-respondente",
         "par-reflexos",
         "pavlov"
       ]
@@ -154,7 +162,7 @@
       "body": "Pense em duas portas iguais de uma biblioteca. Ao longo da semana, uma delas costuma abrir quando empurrada e a outra permanece trancada. A escolha de qual porta empurrar pode mudar com essa história. No estudo do comportamento operante, interessa acompanhar como as consequências modificam a probabilidade de novas respostas.",
       "objective": "Descreva a ação, sua consequência e uma medida que permitiria observar se a escolha da porta mudou em novas visitas.",
       "resources": [
-        "video-operante",
+        "iw4-operante",
         "cinema",
         "lab-reforco",
         "del-prette"
@@ -163,7 +171,7 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
-        "video-operante": "Use a aula para identificar a relação entre ação e efeito ambiental e a importância de observar as ocorrências futuras.",
+        "iw4-operante": "Leia a abertura e acompanhe um exemplo. Identifique a ação, a mudança produzida por ela e o que acontece em ocasiões futuras.",
         "cinema": "No capítulo Laranja Mecânica, compare a descrição de um comportamento operante com o exemplo de condicionamento respondente da figura 1.",
         "lab-reforco": "Comece pelo exercício sobre variação e seleção na página impressa 11 e identifique quais mudanças seriam observáveis em uma sessão.",
         "del-prette": "Escolha um exemplo do treino didático e separe a ocorrência atual da previsão que o texto faz para respostas futuras."
@@ -176,7 +184,7 @@
       "body": "Duas pessoas podem acender a luz com movimentos diferentes. Quando os dois movimentos produzem o mesmo efeito em condições semelhantes, o analista pode estudá-los como membros da mesma classe. A unidade escolhida precisa combinar com a pergunta de pesquisa.",
       "objective": "Descreva duas formas distintas de acender a luz e um movimento parecido que ficaria fora da sua definição de classe.",
       "resourceGuides": {
-        "operante-historia": "Acompanhe como Todorov distingue ocorrências individuais e operantes. Procure o critério que permite reunir respostas em uma classe.",
+        "operante-historia": "Leia a passagem da resposta isolada à classe operante. Busque o papel do efeito produzido na definição da classe.",
         "matos": "Na discussão sobre a definição da unidade de análise, identifique o que uma descrição do movimento deixa de captar sobre sua função."
       },
       "relation": "related",
@@ -193,12 +201,14 @@
       "body": "Uma resposta final pode ser construída a partir de variações que já aparecem. Na modelagem, muda o critério usado para reforçar aproximações sucessivas. Avaliar a progressão exige dizer o que já ocorre e como se distinguirá a próxima aproximação.",
       "objective": "Para uma tarefa fictícia de desenhar um círculo, indique um critério inicial e um intermediário observáveis.",
       "resourceGuides": {
+        "iw4-modelagem": "Comece pelo exemplo de aproximações sucessivas. Marque quando o critério muda e o que a pessoa já consegue fazer nesse ponto.",
         "modelagem": "Examine o exemplo de ensino e identifique o repertório inicial, a resposta final e a mudança entre critérios.",
         "lab-reforco": "No exercício que começa na página impressa 19, compare os registros das aproximações com o planejamento feito antes da sessão."
       },
       "relation": "related",
       "lane": "right",
       "resources": [
+        "iw4-modelagem",
         "modelagem",
         "lab-reforco"
       ]
@@ -210,7 +220,7 @@
       "body": "Variar também pode depender de consequências. Em uma tarefa com sequências de teclas, a pessoa pode produzir padrões mais diferentes ou mais repetidos conforme o critério usado para pontuar as sequências.",
       "objective": "Compare duas séries fictícias de teclas e diga qual medida revelaria variação entre tentativas.",
       "resourceGuides": {
-        "variabilidade": "Na descrição da tarefa, identifique quando uma sequência produzia pontos. Compare os resultados de condições que exigiam variar ou repetir.",
+        "variabilidade": "Comece pelo resumo. Compare o grupo em que variar era necessário para receber pontos com aquele em que os pontos independiam de variar.",
         "lab-reforco": "Retome o exercício de variação e seleção na página impressa 11. Mostre qual observação permitiria reconhecer uma mudança no conjunto de respostas."
       },
       "relation": "related",
@@ -227,13 +237,13 @@
       "body": "Uma resposta pode produzir a consequência todas as vezes ou apenas em determinadas oportunidades. Os esquemas descrevem as condições para isso ocorrer. A contagem de respostas e o tempo desde a consequência anterior são dois critérios frequentes.",
       "objective": "Classifique duas regras de uma tarefa, uma baseada em contagem e outra em tempo.",
       "resourceGuides": {
-        "video-esquemas": "Compare as quatro combinações apresentadas na aula e organize-as pelo critério que dá acesso à consequência.",
+        "iw4-esquemas": "Compare o exemplo de reforçamento contínuo com o de reforçamento intermitente. Diga quando a resposta produz a consequência em cada um.",
         "livro-puc": "Nos roteiros iniciados nas páginas impressas 30 e 33, distinga reforçamento contínuo de intermitente antes de comparar os esquemas."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
-        "video-esquemas",
+        "iw4-esquemas",
         "livro-puc"
       ]
     },
@@ -244,13 +254,13 @@
       "body": "Em esquemas de razão, a quantidade de respostas é relevante para a próxima consequência. O requisito pode permanecer constante ou mudar entre as oportunidades; neste último caso, descreve-se também a razão média.",
       "objective": "Calcule a média dos requisitos 2, 4 e 6. Compare a sequência com um requisito fixo de quatro respostas.",
       "resourceGuides": {
-        "video-esquemas": "Nos exemplos de razão, reconstrua a contagem que o esquema exige após cada consequência. Compare o requisito fixo com a média do variável.",
+        "iw4-esquemas": "Leia os exemplos de razão fixa e variável. Veja se o número de respostas exigido é sempre o mesmo.",
         "livro-puc": "Nas questões sobre esquemas, procure como se descreve a exigência de respostas e por que ela difere de esperar um intervalo."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
-        "video-esquemas",
+        "iw4-esquemas",
         "livro-puc"
       ]
     },
@@ -261,13 +271,13 @@
       "body": "Nos esquemas de intervalo, a passagem do tempo torna uma consequência disponível. A primeira resposta que atende ao critério após esse período a produz. O intervalo pode ser constante ou variar de uma oportunidade à outra.",
       "objective": "Trace uma linha do tempo para um intervalo fixo e marque a primeira resposta que o completa.",
       "resourceGuides": {
-        "video-esquemas": "Compare os exemplos de intervalo fixo e variável. Em ambos, marque a primeira resposta que ocorre depois da passagem do tempo previsto.",
+        "iw4-esquemas": "Compare intervalo fixo e variável. Observe o que acontece na primeira resposta depois do intervalo.",
         "intervalos": "No experimento com humanos sob intervalo fixo, veja quais consequências foram usadas. Compare os registros antes de generalizar um padrão a todos os participantes."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
-        "video-esquemas",
+        "iw4-esquemas",
         "intervalos"
       ]
     },
@@ -278,12 +288,14 @@
       "body": "Pedir um copo de água, nomear um objeto e responder a uma pergunta envolvem outra pessoa que participa da produção de consequências. A análise descreve o que o falante faz, o contexto e a ação do ouvinte.",
       "objective": "Descreva uma conversa breve indicando respostas do falante e do ouvinte e seus possíveis efeitos.",
       "resourceGuides": {
+        "iw4-verbal": "Comece pela explicação do papel do ouvinte. Escolha um episódio e descreva quem medeia a consequência e como.",
         "mando": "Comece pela definição e localize o papel da mediação de um ouvinte. Identifique um exemplo que ocorra sem fala vocal.",
         "video-privados": "Na aula sobre linguagem e sentimentos, identifique como a resposta do ouvinte participa da aprendizagem do repertório de descrever a própria experiência."
       },
       "relation": "related",
       "lane": "right",
       "resources": [
+        "iw4-verbal",
         "mando",
         "video-privados"
       ]
@@ -295,14 +307,14 @@
       "body": "A palavra “água” pode ocorrer quando alguém quer beber ou quando identifica o que há em um recipiente. A forma sonora é semelhante, mas os contextos e as consequências permitem analisar relações diferentes, entre elas mando e tato.",
       "objective": "Construa dois episódios com a palavra “água” e descreva o que precisaria observar para distinguir suas funções.",
       "resourceGuides": {
-        "mando": "Compare as seções sobre mando e tato. Em cada exemplo, identifique o estímulo antecedente e a contribuição do ouvinte.",
-        "empirico": "Procure a distinção que os autores fazem entre mando e justificativa. No exemplo com a palavra “água”, identifique que consequência o falante especifica ao pedir."
+        "iw4-operantes-verbais": "Compare os exemplos de mando e tato. Identifique em cada caso o que antecede a fala e o que o ouvinte faz depois dela.",
+        "mando": "Compare as seções sobre mando e tato. Em cada exemplo, identifique o estímulo antecedente e a contribuição do ouvinte."
       },
       "relation": "related",
       "lane": "right",
       "resources": [
-        "mando",
-        "empirico"
+        "iw4-operantes-verbais",
+        "mando"
       ]
     },
     {
@@ -312,7 +324,7 @@
       "body": "Uma instrução pode mudar o comportamento antes que a pessoa experimente diretamente a consequência descrita. O seguimento de regras também tem uma história e pode mudar quando a instrução e as contingências encontradas divergem.",
       "objective": "Escreva uma instrução para uma tarefa e indique como observar se ela continua sendo seguida após a mudança da regra da tarefa.",
       "resourceGuides": {
-        "regras": "Compare os exemplos de comportamento instruído e modelado por contingências. Observe o que acontece quando a instrução deixa de corresponder à situação.",
+        "regras": "Comece pelos exemplos que diferenciam seguir uma regra de aprender pelo contato com as consequências.",
         "empirico": "Escolha uma regra com justificativa apresentada pelos autores. Separe o que o falante anuncia do que ocorre imediatamente após o ouvinte responder."
       },
       "relation": "related",
@@ -328,6 +340,7 @@
       "body": "O que acontece antes de uma ação? O que a pessoa faz? Que mudança no ambiente depende dessa ação? Organizar essas informações ajuda a descrever em quais condições uma resposta costuma produzir determinada consequência. A dependência entre os eventos precisa ser investigada mesmo quando a ordem temporal é conhecida.",
       "objective": "Monte um quadro de três termos para o exemplo da biblioteca. Indique uma informação que falta para sustentar sua interpretação.",
       "resources": [
+        "iw4-abc",
         "del-prette",
         "matos"
       ],
@@ -335,6 +348,7 @@
       "relation": "prerequisite",
       "lane": "center",
       "resourceGuides": {
+        "iw4-abc": "Use o primeiro exemplo para localizar as três partes. Pergunte qual mudança depende da resposta.",
         "del-prette": "Nos exemplos de análise de contingências, reorganize a descrição de um episódio em três colunas e anote como se verifica o efeito da consequência.",
         "matos": "Na discussão sobre funções, escolha um exemplo para testar se identificar apenas antecedentes e consequentes basta para explicar o responder."
       }
@@ -346,12 +360,14 @@
       "body": "Após uma longa caminhada, água pode ter mais valor como consequência e procurar um bebedouro pode ficar mais provável. A história em que procurar água produziu esse resultado precisa entrar na análise.",
       "objective": "Diferencie o que muda no valor da água e o que muda na ocorrência de procurar um bebedouro.",
       "resourceGuides": {
+        "iw4-operacoes": "Compare os exemplos de privação e saciação. Em cada um, diga o que muda no valor da consequência e na ação para obtê-la.",
         "motivacao": "Compare os efeitos alteradores de valor e de comportamento nos exemplos da autora. Identifique uma condição que aumente e outra que reduza a efetividade da consequência.",
         "motivo2": "Leia a distinção entre operação estabelecedora e estímulo discriminativo. Compare estar com sede e ver uma placa indicando um bebedouro."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "iw4-operacoes",
         "motivacao",
         "motivo2"
       ]
@@ -363,14 +379,14 @@
       "body": "A chegada de uma mensagem logo depois de alguém tocar na tela não basta para dizer que o toque produziu a mensagem. Proximidade no tempo e dependência entre eventos podem coincidir, mas respondem a perguntas diferentes.",
       "objective": "Indique que observações ajudariam a verificar se receber uma mensagem depende de tocar na tela.",
       "resourceGuides": {
-        "livro-puc": "Use o roteiro iniciado na página impressa 26 para separar os dois conceitos nos exemplos de respostas e eventos subsequentes.",
-        "nao-contingencia": "Compare uma condição sem apresentações do estímulo a outra em que ele continua presente sem depender da resposta. Identifique o que ambas alteram."
+        "nao-contingencia": "Comece pela comparação entre extinção e não contingência. Marque quando o evento continua ocorrendo sem depender da resposta.",
+        "livro-puc": "Use o roteiro iniciado na página impressa 26 para separar os dois conceitos nos exemplos de respostas e eventos subsequentes."
       },
       "relation": "related",
       "lane": "right",
       "resources": [
-        "livro-puc",
-        "nao-contingencia"
+        "nao-contingencia",
+        "livro-puc"
       ]
     },
     {
@@ -379,16 +395,18 @@
       "body": "Uma consequência tem função reforçadora quando sua relação com uma resposta aumenta a ocorrência futura dessa classe de respostas. No reforçamento negativo, a mudança envolve retirar, reduzir ou adiar um estímulo. Na extinção operante, deixa de ocorrer a consequência que antes mantinha a resposta.",
       "objective": "Compare dois exemplos de reforçamento e um de extinção. Indique o que mudou no ambiente e como a frequência da ação poderia ser acompanhada.",
       "resources": [
-        "lab-reforco",
+        "iw4-extincao",
         "del-prette",
+        "lab-reforco",
         "video-consequencia"
       ],
       "parent": "contingencia",
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
+        "iw4-extincao": "Comece pela definição de extinção. Identifique a consequência que mantinha a resposta e o que muda quando ela deixa de ocorrer. Use o quadro do artigo seguinte para comparar os dois procedimentos.",
+        "del-prette": "Vá aos quadros sobre consequências. Compare um caso de reforçamento com um caso em que a consequência que mantinha o responder deixa de ocorrer.",
         "lab-reforco": "Compare os objetivos dos exercícios de reforçamento contínuo e de extinção, iniciados nas páginas impressas 25 e 30.",
-        "del-prette": "Use os quadros sobre consequências para diferenciar reforçamento positivo, negativo e extinção pelo que muda no responder.",
         "video-consequencia": "Identifique por que chamar uma consequência de reforçadora depende de verificar seu efeito posterior."
       }
     },
@@ -399,12 +417,14 @@
       "body": "Uma resposta pode tornar-se mais frequente tanto ao produzir algo quanto ao reduzir ou adiar um evento. Identificar a alteração ambiental é um passo. É a mudança posterior da classe de respostas que sustenta a interpretação de reforçamento.",
       "objective": "Para cada um de dois episódios, indique a alteração no ambiente e a evidência de aumento futuro da resposta.",
       "resourceGuides": {
+        "iw4-reforco-negativo": "Comece pela abertura e identifique o que é retirado. Use o quadro do artigo seguinte para comparar com um caso em que algo é acrescentado.",
         "del-prette": "Nos quadros de contingências, compare os casos de reforçamento positivo e negativo. Localize a alteração no ambiente e a previsão sobre o responder.",
         "video-consequencia": "Reveja o exemplo apresentado no vídeo e diga por que a aparência agradável da consequência, por si, não permite identificá-la como reforçadora."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "iw4-reforco-negativo",
         "del-prette",
         "video-consequencia"
       ]
@@ -416,12 +436,14 @@
       "body": "Sair de um local barulhento pode reduzir um som que já começou. Escolher um caminho diferente pode adiar ou evitar o contato com esse som. A distinção entre fuga e esquiva depende do que acontece com o estímulo e de quando a ação ocorre.",
       "objective": "Descreva os dois episódios em ordem temporal e identifique o dado que mostraria manutenção da resposta.",
       "resourceGuides": {
+        "iw4-reforco-negativo": "Vá direto a “Duas formas: fuga e esquiva”. Identifique em qual exemplo o estímulo já está ocorrendo.",
         "del-prette": "Nos exemplos de reforçamento negativo, descreva se o estímulo já se encontrava presente e como a resposta altera seu curso.",
         "cinema": "No capítulo sobre Laranja Mecânica, procure a discussão de controle aversivo. Localize as relações entre respostas e mudanças na estimulação, distinguindo-as do condicionamento respondente."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "iw4-reforco-negativo",
         "del-prette",
         "cinema"
       ]
@@ -433,12 +455,14 @@
       "body": "Se uma resposta era mantida por certa consequência, interromper essa relação permite investigar a extinção operante. O registro pode mostrar oscilações e mudanças de forma antes de uma redução sustentada. A história anterior participa do resultado.",
       "objective": "Compare o começo e o fim de um registro de extinção e descreva um efeito que a média da sessão esconderia.",
       "resourceGuides": {
+        "iw4-extincao": "Leia a definição e acompanhe o exemplo. Separe o que mudou na contingência do que se observou na resposta.",
         "lab-reforco": "Vá à página impressa 30. Siga o exercício comparando o registro de respostas antes e depois de parar de oferecer a consequência.",
         "extincao": "Separe a mudança feita na contingência dos efeitos comportamentais descritos na revisão. Veja por que as reações iniciais podem variar."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "iw4-extincao",
         "lab-reforco",
         "extincao"
       ]
@@ -450,12 +474,14 @@
       "body": "Os textos da área usam mais de uma definição de punição. Para acompanhar essa discussão, descreva o evento produzido pela resposta, as alternativas disponíveis e o que foi medido ao longo do tempo. Isso ajuda a interpretar efeitos imediatos e posteriores.",
       "objective": "Aplique as duas definições discutidas na leitura a um episódio fictício. Liste as observações que ainda faltariam.",
       "resourceGuides": {
+        "iw4-punicao": "Comece pelos dois tipos de punição. Use o artigo seguinte para comparar essa definição, baseada no efeito, com a formulação discutida por Skinner.",
         "punicao": "Compare, nas formulações de Skinner e de outros autores discutidos, o papel da operação e do efeito na definição de punição.",
         "etica": "Use a discussão sobre fins, meios e valores para identificar quem sofre os efeitos de uma consequência e quem avalia a conveniência de usá-la."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "iw4-punicao",
         "punicao",
         "etica"
       ]
@@ -466,6 +492,7 @@
       "body": "Uma placa de “aberto” pode aumentar a chance de alguém entrar em uma loja porque, em visitas anteriores, entrar nessa situação permitiu ser atendido. A discriminação se evidencia quando a resposta varia entre situações. A generalização aparece quando a resposta também ocorre diante de estímulos que compartilham características.",
       "objective": "Elabore um exemplo de discriminação e outro de generalização. Em cada um, identifique o que o estudante observaria para diferenciar os dois processos.",
       "resources": [
+        "iw4-estimulos",
         "hubner",
         "lab-estimulos"
       ],
@@ -473,6 +500,7 @@
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
+        "iw4-estimulos": "Comece pelo exemplo inicial. Compare o que a mesma resposta produz em duas situações.",
         "hubner": "Compare discriminação simples e condicional antes de ler a exposição das relações de equivalência.",
         "lab-estimulos": "Comece pelos exercícios de linha de base e treino de discriminação. Compare o modo de registrar o responder diante dos diferentes sinais."
       }
@@ -484,12 +512,14 @@
       "body": "Uma resposta pode ocorrer mais diante de um sinal do que de outro depois de produzir consequências diferentes em sua presença. O que se mede é a distribuição do responder nas situações comparadas.",
       "objective": "Desenhe um registro com duas condições e explique que padrão sustentaria a hipótese de discriminação.",
       "resourceGuides": {
+        "iw4-estimulos": "Leia a explicação da discriminação e identifique o que está disponível diante de um sinal e do outro.",
         "lab-estimulos": "Compare os exercícios de linha de base e treino discriminativo. Observe por que registrar as respostas em ambas as condições é necessário.",
         "hubner": "Na introdução, diferencie o controle por um estímulo em uma discriminação simples daquele observado em relações condicionais."
       },
       "relation": "related",
       "lane": "right",
       "resources": [
+        "iw4-estimulos",
         "lab-estimulos",
         "hubner"
       ]
@@ -501,12 +531,14 @@
       "body": "Depois do ensino diante de um estímulo, pode haver respostas diante de outros com características semelhantes. Um gradiente descreve como o responder varia ao longo de uma dimensão, como tonalidade ou intensidade.",
       "objective": "Escolha uma dimensão do estímulo e desenhe o gráfico esperado caso o responder varie com a distância até o valor treinado.",
       "resourceGuides": {
+        "iw4-estimulos": "No trecho sobre generalização, acompanhe o que acontece com uma mesma resposta diante de estímulos parecidos. O caderno seguinte mostra como medir esse efeito em um gradiente.",
         "lab-estimulos": "Nos exercícios chamados Generalização de estímulos, compare o estímulo treinado aos valores usados no teste e a forma de registrar as respostas.",
         "leitura": "Examine os testes de leitura de novas palavras. Identifique o que as palavras compartilham com o material treinado e por que esse teste responde a uma pergunta diferente da de um gradiente físico."
       },
       "relation": "related",
       "lane": "right",
       "resources": [
+        "iw4-estimulos",
         "lab-estimulos",
         "leitura"
       ]
@@ -518,12 +550,14 @@
       "body": "Ensinar algumas relações entre estímulos pode ser seguido pela emergência de outras. Relacionar um som, uma palavra impressa e uma figura exige verificar quais relações foram ensinadas e quais aparecem em testes novos.",
       "objective": "Faça um esquema com três estímulos e distinga as setas que representam ensino das que representam teste.",
       "resourceGuides": {
-        "hubner": "Use os exemplos para separar reflexividade, simetria e transitividade. Marque quais relações o pesquisador precisa testar.",
+        "equivalencia-introducao": "Comece nos três parágrafos sobre reflexividade, simetria e transitividade. Separe as relações ensinadas das testadas.",
+        "hubner": "Vá à explicação de reflexividade, simetria e transitividade. Faça uma lista curta das relações que precisam ser testadas.",
         "leitura": "No delineamento do ensino de leitura, acompanhe a passagem das relações diretamente treinadas aos testes de relações novas."
       },
       "relation": "related",
       "lane": "right",
       "resources": [
+        "equivalencia-introducao",
         "hubner",
         "leitura"
       ]
@@ -535,12 +569,14 @@
       "body": "Em uma tentativa, um estímulo-modelo antecede a escolha entre comparações. O modelo muda qual comparação tem a função relevante naquela tentativa. Essa disposição ajuda a estudar discriminações condicionais.",
       "objective": "Desenhe duas tentativas com as mesmas comparações, trocando apenas o modelo. Marque a escolha prevista em cada uma.",
       "resourceGuides": {
-        "hubner": "Procure o exemplo de discriminação condicional e identifique a relação entre o estímulo-modelo e as comparações.",
+        "equivalencia-introducao": "Vá ao trecho que distingue estímulo-modelo e estímulo-comparação. No exemplo, identifique o modelo e as alternativas de escolha.",
+        "hubner": "Comece pelo exemplo de discriminação condicional. Identifique qual estímulo determina, em cada tentativa, a comparação a escolher.",
         "leitura": "Na seção de procedimento, reconstrua uma tentativa de pareamento. Diga o que teria de variar entre tentativas para que a posição não bastasse para acertar."
       },
       "relation": "related",
       "lane": "right",
       "resources": [
+        "equivalencia-introducao",
         "hubner",
         "leitura"
       ]
@@ -552,12 +588,14 @@
       "body": "Quando o estudante responde corretamente a uma relação que não recebeu ensino direto, é preciso examinar a história de treino e os controles da tarefa. Um teste de emergência ganha sentido pelo contraste com as relações efetivamente ensinadas.",
       "objective": "Compare os dois estudos e identifique uma relação ensinada e uma testada em cada procedimento.",
       "resourceGuides": {
-        "leitura2": "Siga a passagem do treino por discriminação simples para as sondas de relações emergentes e identifique quais resultados variaram entre os participantes.",
+        "equivalencia-introducao": "Comece pelo exemplo de simetria. Separe o que foi ensinado do que seria observado pela primeira vez no teste.",
+        "leitura2": "Comece pelo resumo e depois localize as etapas de ensino e de teste. Verifique quais relações foram avaliadas sem ensino direto.",
         "leitura": "Separe os estímulos que fizeram parte do ensino e das provas de leitura. Compare a interpretação dos resultados com a do estudo por discriminação simples."
       },
       "relation": "related",
       "lane": "right",
       "resources": [
+        "equivalencia-introducao",
         "leitura2",
         "leitura"
       ]
@@ -568,6 +606,7 @@
       "body": "Duas ações com a mesma aparência podem ter funções diferentes. Uma pessoa pode levantar a mão para pedir uma explicação ou para se oferecer como voluntária. A análise funcional pergunta que relações sustentam cada ação. Observações em contexto orientam hipóteses que podem ser revistas à luz de novos registros.",
       "objective": "Para um episódio fictício, proponha duas hipóteses de função e descreva quais observações ajudariam a distingui-las.",
       "resources": [
+        "iw4-avaliacao",
         "matos",
         "del-prette",
         "avaliacao"
@@ -576,6 +615,7 @@
       "relation": "prerequisite",
       "lane": "center",
       "resourceGuides": {
+        "iw4-avaliacao": "Comece pela distinção entre a forma da ação e o que ela produz em cada situação.",
         "matos": "Leia a discussão sobre relações funcionais e identifique que observação permitiria rejeitar a sua hipótese inicial.",
         "del-prette": "Escolha uma contingência descrita no treino didático e explicite qual previsão se poderia confrontar com novos registros.",
         "avaliacao": "Compare dois tipos de avaliação funcional e identifique o grau de evidência que se pode atribuir a cada conclusão."
@@ -588,6 +628,7 @@
       "body": "Uma entrevista, um registro direto e uma comparação experimental produzem tipos diferentes de evidência. A escolha depende da pergunta, do contexto e das condições para observar. Cada fonte pode levar à revisão da hipótese inicial.",
       "objective": "Formule uma hipótese e indique o que poderia ser aprendido por entrevista, por observação e por uma comparação planejada.",
       "resourceGuides": {
+        "iw4-avaliacao": "Compare as três formas de avaliação e anote se cada uma depende de relato, observação ou mudança planejada nas condições.",
         "avaliacao-contextos": "Comece pelas três formas de avaliação nas páginas 5 a 7 do PDF. Anote como se obtêm os dados em cada uma.",
         "avaliacao": "Distinga os tipos de avaliação pelo modo de obter dados. Reúna um exemplo de cada tipo apresentado pelos autores.",
         "matos": "Use a discussão da identificação de relações funcionais para explicar a diferença entre propor uma relação e acrescentar evidência a seu favor."
@@ -595,6 +636,7 @@
       "relation": "related",
       "lane": "left",
       "resources": [
+        "iw4-avaliacao",
         "avaliacao-contextos",
         "avaliacao",
         "matos"
@@ -607,12 +649,14 @@
       "body": "Relatos podem revelar acontecimentos difíceis de observar e diferenças importantes entre situações. O que o informante lembra e como foram feitas as perguntas também precisam entrar na leitura do material.",
       "objective": "Elabore duas perguntas sobre um episódio e indique qual observação direta ajudaria a confrontar a hipótese surgida.",
       "resourceGuides": {
+        "iw4-avaliacao": "Comece pelo trecho sobre entrevistas e escalas. Liste uma informação que um relato pode trazer e outra que pede observação direta.",
         "avaliacao": "Na parte sobre avaliação indireta, identifique quem informa sobre o comportamento e quais limites os autores atribuem ao relato.",
         "observacao": "Retome a passagem da observação livre ao registro sistemático e compare o que pode ser registrado diretamente ao que depende de outra pessoa contar."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "iw4-avaliacao",
         "avaliacao",
         "observacao"
       ]
@@ -624,12 +668,14 @@
       "body": "Um registro descritivo pode alinhar contexto, ação e consequência de vários episódios. A comparação ajuda a identificar recorrências e exceções. A proximidade temporal entre os eventos ainda deixa em aberto a relação de dependência.",
       "objective": "Registre três episódios fictícios, inclua um contraexemplo e reformule a hipótese para acomodar os dados.",
       "resourceGuides": {
+        "iw4-abc": "Use um exemplo para anotar os três termos. Em seguida, leia o artigo de avaliação para ver o que um registro descritivo permite concluir.",
         "del-prette": "Nos exemplos em três termos, escolha um episódio e escreva o que aconteceu antes, o que a pessoa fez e o que aconteceu depois.",
         "avaliacao": "Na avaliação descritiva, veja como foram organizadas observações de episódios e quais limitações permanecem ao interpretar uma covariação."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "iw4-abc",
         "del-prette",
         "avaliacao"
       ]
@@ -640,16 +686,16 @@
       "body": "Nos delineamentos de caso único, o pesquisador mede repetidamente o comportamento de um participante e compara os resultados entre condições. A linha de base mostra como a medida variava antes da mudança programada. O desenho do estudo define quais explicações alternativas podem ser examinadas.",
       "objective": "Na tabela de delineamentos do artigo, escolha dois desenhos e compare o que cada um permite concluir sobre mudança e variação ao longo do tempo.",
       "resources": [
-        "sampaio",
         "benitez",
+        "sampaio",
         "video-desenhos"
       ],
       "parent": "funcional",
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
+        "benitez": "Comece pela Tabela 1. Compare dois desenhos e localize quando se mede e quando se altera a condição.",
         "sampaio": "Compare os exemplos de reversão e linha de base múltipla. Assinale em cada um o que foi medido repetidamente e quando mudou a condição experimental.",
-        "benitez": "Observe como a discussão sobre educação inclusiva relaciona o desenho de pesquisa às condições de cada participante.",
         "video-desenhos": "Comece aos 10min35s e compare as trajetórias individuais com uma comparação entre grupos. Escolha um dos três desenhos explicados depois."
       }
     },
@@ -660,12 +706,14 @@
       "body": "Contar respostas, medir quanto duram ou medir o tempo até seu início pode mostrar mudanças diferentes. Taxas permitem comparar observações de comprimentos diferentes quando a oportunidade de responder também é considerada.",
       "objective": "Escolha entre contagem, taxa, latência e duração para responder a duas perguntas sobre a mesma atividade.",
       "resourceGuides": {
+        "iw4-medidas": "Compare os exemplos de contar, cronometrar a duração e medir o tempo até o início. Escolha uma medida para dois episódios observados por tempos diferentes.",
         "graduacao": "Na unidade 3.3, localize a definição da medida e da unidade de observação. Procure a informação que permite outra pessoa repetir o registro.",
         "lab-reforco": "Compare os registros de frequência e os períodos observados nos exercícios. Para duas sessões de duração diferente, descreva como obter taxas comparáveis."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "iw4-medidas",
         "graduacao",
         "lab-reforco"
       ]
@@ -677,12 +725,14 @@
       "body": "Dois observadores podem registrar independentemente a mesma amostra e comparar seus resultados. A concordância depende do que se definiu como ocorrência, da janela de observação e da forma de calcular o índice.",
       "objective": "Crie uma amostra curta em que dois registros tenham o mesmo total e discordem sobre o momento das ocorrências.",
       "resourceGuides": {
+        "iw4-registro": "Vá a “Dá para confiar nesse número?”. Identifique o que duas pessoas precisam definir antes de registrar independentemente.",
         "graduacao": "Na unidade 3.4, Fidedignidade, examine como as definições e o cálculo de concordância afetam a interpretação das medidas.",
         "playlist-observacao": "Nas quatro primeiras aulas, em português, escolha uma categoria de interação e identifique quais critérios duas pessoas precisariam compartilhar para codificá-la."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "iw4-registro",
         "graduacao",
         "playlist-observacao"
       ]
@@ -694,12 +744,14 @@
       "body": "Antes de comparar condições, examine nível, tendência e variabilidade em uma série de medidas. Uma linha de base que já vinha mudando na direção esperada torna mais difícil atribuir uma mudança posterior à nova condição.",
       "objective": "Compare duas séries fictícias de cinco pontos, uma com tendência e outra estável, e interprete o mesmo resultado após a mudança de condição.",
       "resourceGuides": {
+        "iw4-linha-base": "Observe os exemplos com séries de medidas. Procure diferenças de nível, tendência e variação antes do início da intervenção.",
         "sampaio": "Na seção sobre estados estáveis, identifique o papel da linha de base para interpretar mudanças posteriores.",
         "educacao": "Use um gráfico de exemplo para indicar o nível e a direção do responder antes da introdução da intervenção."
       },
       "relation": "related",
       "lane": "right",
       "resources": [
+        "iw4-linha-base",
         "sampaio",
         "educacao"
       ]
@@ -711,12 +763,14 @@
       "body": "Um delineamento organiza quando as condições se repetem ou mudam e qual resultado poderia sustentar a relação investigada. O desenho escolhido limita as conclusões, inclusive quando a mudança parece grande.",
       "objective": "Escolha uma mudança reversível e outra duradoura. Justifique um desenho adequado para cada pergunta.",
       "resourceGuides": {
+        "benitez": "Na Tabela 1, compare reversão, linha de base múltipla e critério móvel. Localize o que muda de uma condição para outra.",
         "sampaio": "Use os exemplos para distinguir repetir condições de escalonar sua introdução ou alterar gradualmente um critério.",
         "video-desenhos": "A partir de 10min35s, observe como se constrói a comparação dentro da trajetória de cada participante."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "benitez",
         "sampaio",
         "video-desenhos"
       ]
@@ -728,12 +782,14 @@
       "body": "Em um desenho ABAB, registram-se medidas repetidas de uma mesma unidade em fases de linha de base e intervenção. O efeito pode ser mais interpretável quando as mudanças acompanham introduções e retiradas repetidas. Retirar uma condição útil pode ser inviável ou inadequado.",
       "objective": "Leia um gráfico ABAB e explique qual comparação se perderia se terminasse logo depois da primeira fase B.",
       "resourceGuides": {
+        "benitez": "Na Tabela 1, procure “A-B-A-B ou reversão” e siga o que o professor faz e mede em cada fase.",
         "video-desenhos": "A partir de 14min21s, identifique as quatro fases do exemplo de reversão e acompanhe o mesmo participante ao longo delas.",
         "sampaio": "Na discussão de reversão e retirada, identifique uma condição de reversibilidade e uma limitação prática desse desenho."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "benitez",
         "video-desenhos",
         "sampaio"
       ]
@@ -745,12 +801,14 @@
       "body": "O pesquisador pode introduzir uma mudança em momentos diferentes para comportamentos, contextos ou participantes. Uma relação fica mais plausível quando o comportamento de cada série muda ao se introduzir a condição correspondente.",
       "objective": "Desenhe três séries escalonadas. Identifique qual padrão enfraqueceria a interpretação de efeito.",
       "resourceGuides": {
+        "benitez": "Na Tabela 1, procure “Linha de base múltipla”. Observe o que continua sendo medido antes que chegue a vez de cada série receber a intervenção.",
         "educacao": "Leia os exemplos de linha de base múltipla em educação. Observe quais séries continuam em linha de base quando a primeira recebe a intervenção.",
         "video-desenhos": "Aos 23min02s, compare os momentos de introdução. Identifique por que o resultado é avaliado em cada série."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "benitez",
         "educacao",
         "video-desenhos"
       ]
@@ -762,12 +820,14 @@
       "body": "Quando a pergunta envolve mudanças graduais, o critério para produzir uma consequência pode mudar por etapas. A relação fica mais plausível se a medida acompanha sucessivos critérios, considerando sua variação inicial.",
       "objective": "Sobreponha três critérios a uma série fictícia de dados e descreva o padrão que seria compatível com controle experimental.",
       "resourceGuides": {
+        "benitez": "Localize “Critério móvel” na Tabela 1. Observe como muda o critério em cada fase e o que precisa ser medido para acompanhar essa mudança.",
         "sampaio": "Procure o delineamento de mudança de critério e identifique que comparação o distingue de uma simples sequência de metas.",
         "video-desenhos": "Na explicação a partir de 26min03s, indique o que muda entre fases e que dado se espera acompanhar cada mudança."
       },
       "relation": "related",
       "lane": "left",
       "resources": [
+        "benitez",
         "sampaio",
         "video-desenhos"
       ]
@@ -778,6 +838,7 @@
       "body": "Uma mudança de frequência pode ser mensurável e ainda ter pouca importância na vida de quem participa. A pesquisa aplicada também pergunta quem considera a mudança relevante, se ela aparece em outros ambientes e quais dados mostram sua duração. Essas perguntas orientam a interpretação de um resultado específico.",
       "objective": "Escolha um resultado do estudo de revisão e identifique a dimensão avaliada, os critérios adotados e o limite da conclusão.",
       "resources": [
+        "iw4-validade-social",
         "validade-social",
         "aplicada",
         "benitez"
@@ -786,6 +847,7 @@
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
+        "iw4-validade-social": "Comece em “Os três níveis da validade social”. Faça uma pergunta para avaliar cada nível em uma intervenção fictícia.",
         "validade-social": "Vá à página impressa 10, página 23 do PDF, e identifique as três perguntas de Wolf. Aplique-as a um objetivo fictício escolhido com uma comunidade.",
         "aplicada": "Localize o debate sobre os critérios da pesquisa aplicada. Procure o que permite associar uma mudança demonstrada à questão social que motivou o estudo.",
         "benitez": "Na discussão sobre uso de delineamentos em educação inclusiva, indique uma medida de desempenho e a repercussão educacional que precisaria ser avaliada."
@@ -798,7 +860,7 @@
       "body": "Uma pergunta aplicada é o que uma pessoa consegue ler depois do ensino de certas palavras e relações. Importa examinar a aprendizagem diretamente ensinada e a leitura de material novo. Duas pessoas podem apresentar padrões diferentes mesmo quando recebem o mesmo programa.",
       "objective": "Compare um resultado individual com o resultado do grupo e identifique uma informação pedagógica que a média omite.",
       "resourceGuides": {
-        "leitura": "Na descrição dos testes, procure uma medida que dependa de palavras novas. Acompanhe as diferenças individuais nos resultados.",
+        "leitura": "Comece pelo resumo. Na sequência, procure no procedimento quais palavras aparecem só nos testes e confira a leitura delas nos resultados.",
         "leitura2": "Compare as respostas após o ensino de leitura textual com os testes de relações emergentes. Escolha um resultado cuja interpretação exija conhecer o procedimento.",
         "historico": "Leia a discussão da instrução programada nas décadas de 1960 e 1970. Distinga seu percurso no ensino brasileiro da estratégia de pareamento com o modelo estudada nos dois experimentos."
       },
@@ -817,12 +879,14 @@
       "body": "Decidir o que medir inclui uma decisão sobre o que vale a pena mudar. Participantes e profissionais podem atribuir significados diferentes à mesma meta, à maneira de alcançá-la e aos resultados produzidos.",
       "objective": "Para um objetivo educacional fictício, descreva como o estudante avaliaria a relevância da mudança e indique um possível desacordo com o avaliador.",
       "resourceGuides": {
+        "iw4-validade-social": "Comece pelos três níveis e vá à parte sobre perguntar a quem vive a intervenção. Identifique quem poderia avaliar cada decisão.",
         "etica": "Na discussão dos valores dos envolvidos, identifique uma situação de conflito e a proposta de colaboração dos autores.",
         "validade-social": "Na página impressa 10, página 23 do PDF, separe as perguntas sobre a importância dos objetivos, a aceitabilidade dos procedimentos e a relevância dos efeitos."
       },
       "relation": "related",
       "lane": "right",
       "resources": [
+        "iw4-validade-social",
         "etica",
         "validade-social"
       ]
@@ -840,7 +904,7 @@
         "descartar-no-restaurante"
       ],
       "resourceGuides": {
-        "participacao-comunitaria": "Leia o relato sobre coleta de resíduos discutido por Castro e Lacerda Júnior. Distinga as decisões dos moradores da contribuição da equipe.",
+        "participacao-comunitaria": "Busque o exemplo de coleta de resíduos. Identifique uma proposta dos moradores e a contribuição da equipe.",
         "descartar-no-restaurante": "No método, identifique o que os observadores registraram a cada descarte. Compare a intervenção sobre as lixeiras com a organização comunitária descrita no outro texto."
       }
     },
@@ -853,10 +917,12 @@
       "body": "Uma equipe e os moradores podem avaliar de maneiras diferentes o que torna uma intervenção relevante. Investigar quem trouxe a demanda, quem escolheu a meta e quem pôde alterá-la ajuda a compreender a participação comunitária.",
       "objective": "No caso relatado, identifique uma decisão da comunidade e uma pergunta que falta fazer sobre a aceitabilidade da intervenção.",
       "resources": [
+        "iw4-validade-social",
         "participacao-comunitaria",
         "validade-social"
       ],
       "resourceGuides": {
+        "iw4-validade-social": "Leia as perguntas sobre objetivos, procedimentos e resultados. Adapte uma delas para ouvir os moradores antes de escolher a meta.",
         "participacao-comunitaria": "Compare a comissão de moradores e o conselho comunitário nos estudos discutidos pelos autores. Quem propunha soluções e quem decidia como colocá-las em prática?",
         "validade-social": "Na parte sobre validade social, separe objetivo, procedimento e efeito. Use os três critérios para formular perguntas que os moradores poderiam responder."
       }
@@ -874,7 +940,7 @@
         "descartar-no-restaurante"
       ],
       "resourceGuides": {
-        "mostra-ambiental": "Compare as questões de avaliação com a dinâmica da reciclagem. Localize quais sugestões da Psicologia chegaram a ser incorporadas à mostra.",
+        "mostra-ambiental": "Leia no resumo a diferença entre dizer e fazer. No PDF da revista, busque “reciclagem” para comparar a pergunta feita às crianças com a atividade observada.",
         "descartar-no-restaurante": "Na folha de registro da página 135, cruze o tipo de resíduo com a lixeira escolhida. Explique que informação essa observação acrescenta ao que uma pessoa poderia relatar."
       }
     }
@@ -968,7 +1034,11 @@
       "relevance": "Use a primeira tabela para comparar linha de base múltipla, reversão e outros delineamentos aplicados.",
       "nodes": [
         "pesquisa",
-        "aplicacao"
+        "aplicacao",
+        "desenhos",
+        "reversao",
+        "base-multipla",
+        "mudanca-criterio"
       ]
     },
     {
@@ -1129,13 +1199,13 @@
       "authors": "Maria Amélia Matos",
       "institution": "Estudos de Psicologia (Campinas) · PUC-Campinas",
       "year": 1999,
-      "url": "https://periodicos.puc-campinas.edu.br/estpsi/article/download/6563/4207/42764",
+      "url": "https://www.scielo.br/j/estpsi/a/wHqz3qV6gSPKfdL4f8CGRYg/?lang=pt",
       "sourcePage": "https://periodicos.puc-campinas.edu.br/estpsi/article/view/6563",
       "language": "pt-BR",
-      "format": "Artigo teórico · PDF",
-      "access": "Texto integral disponível gratuitamente na fonte.",
-      "checkedAt": "2026-11-16",
-      "verification": "Consultados o texto completo e a sequência de passos na revista da PUC-Campinas.",
+      "format": "Artigo teórico",
+      "access": "Texto integral aberto no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o título, a autoria e os passos da análise funcional em HTML no SciELO.",
       "rights": "O portal encaminha ao material original. A licença de redistribuição não foi confirmada.",
       "caveat": "Trata dos fundamentos e do método de análise funcional. A explicação proposta para um exemplo precisa de observações que a sustentem.",
       "relevance": "Leia a discussão sobre a unidade funcional e os passos da análise. Selecione um exemplo e identifique o que foi observado e que relação entre eventos ainda precisa ser investigada.",
@@ -1499,7 +1569,6 @@
       "caveat": "A explicação pelo papel das justificativas é a proposta teórica dos autores.",
       "relevance": "Nos exemplos de instruções, separe o que a regra anuncia das consequências que ocorrem imediatamente após a resposta.",
       "nodes": [
-        "mando-tato",
         "regras-instrucoes"
       ]
     },
@@ -1751,47 +1820,6 @@
       ]
     },
     {
-      "id": "video-operante",
-      "title": "Princípios básicos: comportamento operante",
-      "authors": "Marco Antônio Amaral Chequer",
-      "institution": "Comportamento",
-      "year": 2012,
-      "url": "https://www.youtube.com/watch?v=aIdckgIwbg8",
-      "sourcePage": null,
-      "language": "pt-BR",
-      "format": "Videoaula · 5 min",
-      "access": "Aula pública no canal responsável, disponível sem login na verificação.",
-      "checkedAt": "2026-11-16",
-      "verification": "Conferidos o player público do vídeo no YouTube, seu canal e o assunto apresentado.",
-      "rights": "O mapa remete ao vídeo no canal que o publicou.",
-      "caveat": "Aula de introdução. O guia indica uma pergunta para aprofundar com as leituras do tópico.",
-      "relevance": "Identifique a ação, o efeito sobre o ambiente e a evidência necessária para saber se a ação se torna mais provável.",
-      "nodes": [
-        "operante"
-      ]
-    },
-    {
-      "id": "video-reflexo",
-      "title": "Princípios básicos: comportamento reflexo",
-      "authors": "Marco Antônio Amaral Chequer",
-      "institution": "Comportamento",
-      "year": 2012,
-      "url": "https://www.youtube.com/watch?v=n5dfmEu-y8A",
-      "sourcePage": null,
-      "language": "pt-BR",
-      "format": "Videoaula · 7 min",
-      "access": "Aula pública no canal responsável, disponível sem login na verificação.",
-      "checkedAt": "2026-11-16",
-      "verification": "Conferidos o player público do vídeo no YouTube, seu canal e o assunto apresentado.",
-      "rights": "O mapa remete ao vídeo no canal que o publicou.",
-      "caveat": "Aula de introdução. O guia indica uma pergunta para aprofundar com as leituras do tópico.",
-      "relevance": "Localize a relação entre estímulo e resposta reflexa. Distinga as relações que já existiam daquelas adquiridas com a experiência.",
-      "nodes": [
-        "respondente",
-        "pareamento-respondente"
-      ]
-    },
-    {
       "id": "video-desenhos",
       "title": "Desenhos experimentais de sujeito único",
       "authors": "Marcos Lima",
@@ -1834,28 +1862,6 @@
       "nodes": [
         "reforco",
         "reforco-positivo-negativo"
-      ]
-    },
-    {
-      "id": "video-esquemas",
-      "title": "Princípios básicos: esquemas de reforçamento",
-      "authors": "Marco Antônio Amaral Chequer",
-      "institution": "Comportamento",
-      "year": 2012,
-      "url": "https://www.youtube.com/watch?v=N_uc-fzpxvk",
-      "sourcePage": null,
-      "language": "pt-BR",
-      "format": "Videoaula · 14 min",
-      "access": "Aula pública no canal responsável, disponível sem login na verificação.",
-      "checkedAt": "2026-11-16",
-      "verification": "Conferidos o player público do vídeo no YouTube, seu canal e o assunto apresentado.",
-      "rights": "O mapa remete ao vídeo no canal que o publicou.",
-      "caveat": "Aula de introdução. O guia indica uma pergunta para aprofundar com as leituras do tópico.",
-      "relevance": "Diferencie as quatro combinações de razão ou intervalo com critérios fixos ou variáveis.",
-      "nodes": [
-        "esquemas",
-        "razao",
-        "intervalo"
       ]
     },
     {
@@ -1947,13 +1953,13 @@
       "authors": "Anne Carolynne Bogo, Felipe Boldo Martins e Carolina Laurenti",
       "institution": "Estudos Interdisciplinares em Psicologia · UEL",
       "year": 2020,
-      "url": "https://ojs.uel.br/revistas/uel/index.php/eip/article/download/215/27994/205070",
+      "url": "https://www.ojs.uel.br/revistas/uel/index.php/eip/article/view/215",
       "sourcePage": "https://ojs.uel.br/revistas/uel/index.php/eip/article/view/215",
       "language": "pt-BR",
-      "format": "Relato de extensão · PDF",
-      "access": "Artigo integral gratuito em português, acessível pelo link.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o diário de campo, a dinâmica da reciclagem e a descrição das propostas efetivamente incorporadas.",
+      "format": "Resumo de relato de extensão",
+      "access": "Resumo aberto no navegador. O texto integral está no botão PDF do periódico.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos a autoria e o resumo editorial sobre dizer e fazer no projeto.",
       "rights": "O periódico identifica o artigo com a licença Creative Commons Atribuição 4.0 Internacional.",
       "caveat": "O relato distingue sugestões e atividades implementadas. A mudança na mostra não mede, por si, o descarte fora da escola.",
       "relevance": "Compare a resposta verbal a uma pergunta com o que se pode observar durante a dinâmica de reciclagem.",
@@ -1970,7 +1976,7 @@
       "url": "https://www.rbtcc.com.br/RBTCC/pt_BR/article/download/1045/704#page=5",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Artigo didático",
+      "format": "Artigo didático · PDF",
       "access": "PDF aberto, sem cadastro, no site do periódico.",
       "checkedAt": "2026-11-25",
       "verification": "PDF retornou HTTP 200. Autoria, título e as três seções sobre métodos foram conferidos no texto integral.",
@@ -1979,6 +1985,403 @@
       "relevance": "Comece pelas três formas de avaliação nas páginas 5 a 7 do PDF. Anote como se obtêm os dados em cada uma.",
       "nodes": [
         "fontes-avaliacao"
+      ]
+    },
+    {
+      "id": "iw4-behaviorismo",
+      "title": "Behaviorismo Radical",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/behaviorismo-radical/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Apresenta a relação entre a filosofia de Skinner e a ciência do comportamento e explica como se consideram eventos privados.",
+      "nodes": [
+        "campo",
+        "behaviorismo",
+        "eventos-privados"
+      ]
+    },
+    {
+      "id": "iw4-respondente",
+      "title": "Condicionamento Respondente (Clássico)",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/condicionamento-respondente/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Usa a demonstração de Pavlov para apresentar o pareamento e explica como a resposta pode mudar depois dele.",
+      "nodes": [
+        "respondente",
+        "pareamento-respondente",
+        "extincao-respondente"
+      ]
+    },
+    {
+      "id": "iw4-operante",
+      "title": "Condicionamento Operante",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/condicionamento-operante/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Apresenta a aprendizagem operante com exemplos de como consequências alteram a frequência futura do responder.",
+      "nodes": [
+        "operante"
+      ]
+    },
+    {
+      "id": "iw4-modelagem",
+      "title": "Modelagem (Shaping)",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/modelagem-shaping/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Mostra como uma resposta nova pode ser ensinada por meio do reforçamento de aproximações sucessivas.",
+      "nodes": [
+        "modelagem"
+      ]
+    },
+    {
+      "id": "iw4-esquemas",
+      "title": "Esquemas de Reforçamento",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/esquemas-de-reforcamento/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Compara o reforçamento contínuo com o intermitente e exemplifica os esquemas de razão e intervalo.",
+      "nodes": [
+        "esquemas",
+        "razao",
+        "intervalo"
+      ]
+    },
+    {
+      "id": "iw4-verbal",
+      "title": "Comportamento Verbal",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/comportamento-verbal/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Introduz as funções do comportamento verbal com exemplos de mando, tato e outros operantes.",
+      "nodes": [
+        "verbal"
+      ]
+    },
+    {
+      "id": "iw4-operantes-verbais",
+      "title": "Operantes Verbais (Mando, Tato, Intraverbal)",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/operantes-verbais/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Mostra em exemplos como enunciados de forma igual podem ter funções diferentes.",
+      "nodes": [
+        "mando-tato"
+      ]
+    },
+    {
+      "id": "iw4-abc",
+      "title": "Tríplice Contingência (Modelo ABC)",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/triplice-contingencia/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "O esquema organiza hipóteses. A ordem dos acontecimentos, por si só, é insuficiente para confirmar a função de uma resposta.",
+      "relevance": "Explica antecedente, comportamento e consequência com episódios cotidianos.",
+      "nodes": [
+        "contingencia",
+        "registro-abc"
+      ]
+    },
+    {
+      "id": "iw4-operacoes",
+      "title": "Operações Motivadoras",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/operacoes-motivadoras/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Explica como uma alteração momentânea no valor de uma consequência pode mudar o responder.",
+      "nodes": [
+        "operacoes-motivadoras"
+      ]
+    },
+    {
+      "id": "iw4-reforco-negativo",
+      "title": "Reforço Negativo",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/reforco-negativo/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Usa exemplos cotidianos para explicar reforçamento pela retirada de estímulos e diferenciar fuga de esquiva.",
+      "nodes": [
+        "reforco-positivo-negativo",
+        "fuga-esquiva"
+      ]
+    },
+    {
+      "id": "iw4-extincao",
+      "title": "Extinção",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/extincao/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Introduz a extinção operante e descreve mudanças que podem surgir quando a consequência deixa de ocorrer.",
+      "nodes": [
+        "extincao-operante",
+        "reforco"
+      ]
+    },
+    {
+      "id": "iw4-punicao",
+      "title": "Punição (Positiva e Negativa)",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/punicao/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "O verbete usa uma definição baseada na redução do responder. O artigo da ficha apresenta a divergência entre formulações.",
+      "relevance": "Usa exemplos para distinguir a apresentação e a retirada de estímulos quando a resposta diminui.",
+      "nodes": [
+        "punicao"
+      ]
+    },
+    {
+      "id": "iw4-estimulos",
+      "title": "Controle de Estímulos",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/controle-de-estimulos/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "A discriminação simples é a porta de entrada. O artigo de Hübner amplia a discussão para a discriminação condicional.",
+      "relevance": "Explica o controle por estímulos antecedentes com exemplos de discriminação e generalização.",
+      "nodes": [
+        "estimulos",
+        "discriminacao",
+        "generalizacao"
+      ]
+    },
+    {
+      "id": "iw4-avaliacao",
+      "title": "Avaliação Funcional",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/avaliacao-funcional/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Compara avaliação indireta, observação descritiva e avaliação experimental.",
+      "nodes": [
+        "funcional",
+        "fontes-avaliacao",
+        "avaliacao-indireta"
+      ]
+    },
+    {
+      "id": "iw4-medidas",
+      "title": "Dimensões de Medida do Comportamento",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/dimensoes-de-medida-do-comportamento/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Dá exemplos de contagem, taxa, duração e latência e explica quando cada medida responde melhor à pergunta.",
+      "nodes": [
+        "medir-respostas"
+      ]
+    },
+    {
+      "id": "iw4-registro",
+      "title": "Registro e Coleta de Dados",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/registro-e-coleta-de-dados/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Distingue medidas e procedimentos de registro e explica como se avalia a concordância entre observadores.",
+      "nodes": [
+        "concordancia"
+      ]
+    },
+    {
+      "id": "iw4-linha-base",
+      "title": "Linha de Base",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/linha-de-base/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Apresenta a medida antes da intervenção e formas de examinar sua estabilidade para interpretar mudanças.",
+      "nodes": [
+        "linha-base"
+      ]
+    },
+    {
+      "id": "iw4-validade-social",
+      "title": "Validade Social",
+      "authors": "Instituto Walden4",
+      "institution": "Enciclopédia iW4",
+      "year": null,
+      "url": "https://www.walden4.com.br/enciclopedia/validade-social/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto e os exemplos na enciclopédia pública do Instituto Walden4.",
+      "rights": "O mapa aponta para o verbete original.",
+      "caveat": "Verbete introdutório com exemplos; a ficha inclui leituras para aprofundar o conceito.",
+      "relevance": "Explica a proposta de Wolf para avaliar a importância dos objetivos, a aceitabilidade dos procedimentos e os efeitos percebidos.",
+      "nodes": [
+        "aplicacao",
+        "escolhas-eticas",
+        "metas-da-comunidade"
+      ]
+    },
+    {
+      "id": "equivalencia-introducao",
+      "title": "Relações de Equivalência: breves comentários do porquê se estudar equivalência de estímulos",
+      "authors": "Renan Miguel Albanezi",
+      "institution": "Portal Comporte-se",
+      "year": 2019,
+      "url": "https://comportese.com/2019/05/01/relacoes-de-equivalencia-breves-comentarios-do-porque-se-estudar-equivalencia-de-estimulos/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo didático",
+      "access": "Texto integral aberto no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto integral, os exemplos e a formação do autor em Psicologia com especialização na área.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O texto apresenta as relações com exemplos simplificados. Os estudos da ficha permitem conferir como são testadas.",
+      "relevance": "Usa exemplos para distinguir discriminação condicional e os testes de reflexividade, simetria e transitividade.",
+      "nodes": [
+        "equivalencia",
+        "pareamento-modelo",
+        "relacoes-emergentes"
       ]
     }
   ]

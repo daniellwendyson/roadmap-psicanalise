@@ -8,6 +8,7 @@
       "body": "Em 1951, Frederick Perls, Ralph Hefferline e Paul Goodman publicaram a obra que deu nome à Gestalt-terapia. Laura Perls participou da elaboração da abordagem e de sua transmissão. No Brasil dos anos 1970, grupos de estudo, oficinas e traduções formaram redes próprias. Quem ensinava, quem traduzia e quem se encontrava para estudar ajuda a explicar como essas ideias circularam.",
       "objective": "Reconstrua a chegada da abordagem ao Brasil a partir de duas pessoas, um lugar de encontro e um texto.",
       "resources": [
+        "gt-intro-abg",
         "historia-brasil",
         "gt-modelo-intro",
         "gt-video-origens-zurba",
@@ -18,11 +19,12 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
-        "gt-video-origens-zurba": "Use a aula para situar as trajetórias de Fritz Perls, Laura Perls e Paul Goodman. Registre uma contribuição de cada um.",
+        "gt-intro-abg": "Leia «O que é» até o parágrafo sobre a chegada ao Brasil, em 2 min. Você situa Fritz e Laura Perls e localiza a década em que a Gestalt-terapia chega ao país.",
         "historia-brasil": "Comece pelas páginas sobre a chegada da Gestalt-terapia ao Brasil. Depois volte à retrospectiva do outro artigo para situar a história da abordagem.",
+        "gt-modelo-intro": "Leia a retrospectiva histórica. Depois abra o artigo sobre a chegada ao Brasil para seguir a segunda parte da história.",
+        "gt-video-origens-zurba": "Use a aula para situar as trajetórias de Fritz Perls, Laura Perls e Paul Goodman. Registre uma contribuição de cada um.",
         "estetica": "Procure o item 1, sobre as vivências com arte dos fundadores, para relacionar uma experiência anterior à constituição da abordagem.",
-        "gt-video-introducao-puc": "Na conversa da PUC Minas, localize como os convidados passam das bases filosóficas para o encontro entre terapeuta e cliente.",
-        "gt-modelo-intro": "Leia a retrospectiva histórica. Depois abra o artigo sobre a chegada ao Brasil para seguir a segunda parte da história."
+        "gt-video-introducao-puc": "Na conversa da PUC Minas, localize como os convidados passam das bases filosóficas para o encontro entre terapeuta e cliente."
       }
     },
     {
@@ -31,10 +33,12 @@
       "body": "O livro de Perls, Hefferline e Goodman reuniu exercícios de observação e uma teoria do contato. A história da obra também inclui os encontros em torno de Laura Perls e o diálogo do grupo com a arte e a crítica social.",
       "objective": "Reconstruir a participação de duas pessoas no projeto do livro e localizar uma dessas contribuições no texto teórico.",
       "resources": [
+        "gt-intro-abg",
         "gt-goodman",
         "estetica"
       ],
       "resourceGuides": {
+        "gt-intro-abg": "Busque «Grupo dos Sete». Em 1 min, identifique os três autores do livro de 1951 e o grupo em que a proposta tomou forma. O artigo de Belmino aprofunda a contribuição de Goodman.",
         "gt-goodman": "Leia a introdução de Belmino e o item 2.1. Onde aparece a pergunta de Goodman sobre a relação entre criação e sociedade?",
         "estetica": "Compare o trecho sobre Laura Perls e a formação corporal com o item 3, dedicado a Paul Goodman. Registre contribuições diferentes para a mesma obra."
       },
@@ -48,11 +52,13 @@
       "body": "Depoimentos, grupos de formação e registros de diferentes regiões ajudam a entender como a abordagem circulou no país. Os episódios lembrados por uma pioneira e as datas reconstruídas por historiadoras respondem a perguntas diferentes.",
       "objective": "Situar dois episódios em suas cidades e identificar se a fonte é um depoimento ou uma reconstrução documental.",
       "resources": [
+        "gt-intro-abg",
         "historia-brasil",
         "gt-entrevista-lilian",
         "gt-coletanea"
       ],
       "resourceGuides": {
+        "gt-intro-abg": "Leia os primeiros parágrafos de «A Gestalt-terapia no Brasil», em 3 min. Escolha um grupo de formação e observe quem articulou os encontros.",
         "historia-brasil": "Localize como os primeiros livros, traduções e grupos de estudo chegaram a São Paulo. Anote as fontes usadas para reconstruir um desses eventos.",
         "gt-entrevista-lilian": "Na entrevista de Gramado, escolha uma lembrança de Lílian Meyer Frazão e compare-a com a cronologia publicada no artigo.",
         "gt-coletanea": "Leia “O Norte como campo”, a partir da p. 123. Compare a história narrada em Belém com a trajetória descrita no artigo de Esch e Jacó-Vilela."
@@ -67,17 +73,17 @@
       "body": "Como reconhecemos uma melodia tocada em outra tonalidade? Problemas desse tipo mobilizaram pesquisadores da percepção que estudavam como as partes se organizam em um todo. A Gestalt-terapia incorporou algumas dessas ideias ao investigar a experiência vivida e o encontro clínico. Cada tradição tem sua própria história.",
       "objective": "Distinga o problema investigado pelos psicólogos da Gestalt da pergunta que a psicoterapia faz sobre uma situação vivida.",
       "resources": [
+        "gt-video-forma-e-clinica",
         "historia-percepcao",
-        "estetica",
-        "gt-video-forma-e-clinica"
+        "estetica"
       ],
       "parent": "origens",
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
+        "gt-video-forma-e-clinica": "Veja os primeiros 4 min da aula de Magda Zurba. Observe como ela distingue as investigações sobre percepção da prática psicoterápica.",
         "historia-percepcao": "Comece pela discussão das qualidades de forma e avance até o movimento investigado por Wertheimer. Quais perguntas os experimentos procuravam responder?",
-        "estetica": "Nos trechos sobre as influências de Laura Perls e o ritmo, localize uma passagem da organização perceptiva à discussão sobre experiência corporal.",
-        "gt-video-forma-e-clinica": "Veja a passagem dos princípios perceptivos, em 2min56s, para o exemplo clínico, a partir de 5min01s. Separe o que pertence a cada contexto."
+        "estetica": "Nos trechos sobre as influências de Laura Perls e o ritmo, localize uma passagem da organização perceptiva à discussão sobre experiência corporal."
       }
     },
     {
@@ -90,7 +96,7 @@
         "gt-percepcao"
       ],
       "resourceGuides": {
-        "historia-percepcao": "Procure a passagem sobre Ehrenfels e a transposição. Compare as duas séries de tons mencionadas e diga o que o ouvinte reconhece.",
+        "historia-percepcao": "Busque «transposição» e leia o exemplo da melodia em 2 min. Compare o que acontece com as notas e o que o ouvinte ainda consegue reconhecer.",
         "gt-percepcao": "Na discussão das qualidades gestálticas, acompanhe o exemplo dos instrumentos e das tonalidades diferentes. Separe uma mudança de timbre de uma mudança de tom."
       },
       "parent": "psicologia-da-gestalt",
@@ -107,7 +113,7 @@
         "historia-percepcao"
       ],
       "resourceGuides": {
-        "gt-percepcao": "Leia a história do sinal ferroviário e do estroboscópio. Desenhe onde ficam as luzes e indique o que parece percorrer o espaço entre elas.",
+        "gt-percepcao": "Busque «estroboscópio». Em 3 min, siga o relato de como as luzes eram apresentadas e desenhe o movimento que parece ocorrer entre elas.",
         "historia-percepcao": "Localize a discussão do fenômeno phi e identifique por que a familiaridade com o dispositivo não elimina necessariamente o efeito."
       },
       "parent": "psicologia-da-gestalt",
@@ -120,6 +126,7 @@
       "body": "“Ela olhou para a porta três vezes” registra algo que se pôde observar. “Ela queria ir embora” acrescenta uma interpretação. A atitude fenomenológica convida a explicitar essa passagem e a ouvir como a própria pessoa viveu a situação. Os autores gestálticos dialogam com diferentes tradições da fenomenologia.",
       "objective": "Separe descrição, interpretação e relato em uma cena fictícia. Registre que pergunta ainda fica aberta.",
       "resources": [
+        "gt-intro-abg",
         "cataldo",
         "ensaio-tempo",
         "gt-video-fenomenologia"
@@ -128,6 +135,7 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
+        "gt-intro-abg": "Leia em «Metodologia» os parágrafos sobre suspensão, descrição e equalização, em 2 min. Escolha uma frase de descrição que você usaria para entender o que está acontecendo.",
         "cataldo": "Leia a seção 4 e o início da 5. Compare descrever o que aparece com procurar imediatamente uma causa para o relato.",
         "ensaio-tempo": "Observe como a descrição do que se vive situa a pessoa em relação ao seu mundo e ao tempo da experiência.",
         "gt-video-fenomenologia": "Comece pela intencionalidade. A partir do minuto 9, identifique o que essa atitude muda na escuta de uma situação."
@@ -139,10 +147,12 @@
       "body": "Na escuta, uma explicação pode surgir antes que a pessoa termine de descrever o vivido. Suspender provisoriamente essa explicação preserva uma pergunta sobre como a experiência aparece para quem a relata.",
       "objective": "Separar a descrição de uma cena da hipótese que um observador fez sobre ela.",
       "resources": [
+        "gt-intro-abg",
         "cataldo",
         "gt-video-fenomenologia"
       ],
       "resourceGuides": {
+        "gt-intro-abg": "Procure «epochè» na seção «Metodologia». Em 1 min, veja o que o terapeuta coloca entre parênteses para poder ouvir como a situação aparece para a pessoa.",
         "cataldo": "Na seção 4, localize a exposição de Husserl sobre suspensão. Veja como a seção 5.1 retoma a descrição na clínica.",
         "gt-video-fenomenologia": "A partir do minuto 9, examine a passagem dos fundamentos à escuta. Reescreva uma afirmação interpretativa como pergunta sobre o vivido."
       },
@@ -156,12 +166,12 @@
       "body": "Temer, lembrar e desejar são experiências dirigidas a algo. Nessa acepção fenomenológica, a intencionalidade também aparece em experiências que ninguém decidiu ter, como notar uma mudança no tom de voz.",
       "objective": "Nomear, numa descrição, o modo de perceber e aquilo que se apresenta à pessoa.",
       "resources": [
-        "gt-zurba-atitude",
-        "gt-video-fenomenologia"
+        "gt-video-fenomenologia",
+        "gt-zurba-atitude"
       ],
       "resourceGuides": {
-        "gt-zurba-atitude": "Na abertura, pp. 199–200, localize a relação entre consciência e objeto. Compare o exemplo da narrativa corporal com uma explicação centrada apenas em rótulos.",
-        "gt-video-fenomenologia": "Na primeira parte, escute a explicação da intencionalidade e da experiência pré-reflexiva. Identifique algo percebido antes de receber um nome."
+        "gt-video-fenomenologia": "Veja a primeira parte da aula, antes do exemplo clínico que começa por volta de 9 min. Ao ouvir «intencionalidade», anote a que a consciência se dirige em um dos exemplos.",
+        "gt-zurba-atitude": "Na abertura, pp. 199–200, localize a relação entre consciência e objeto. Compare o exemplo da narrativa corporal com uma explicação centrada apenas em rótulos."
       },
       "parent": "fenomenologia",
       "relation": "related",
@@ -173,6 +183,7 @@
       "body": "Uma estudante fala à vontade em uma roda pequena e se cala num auditório. Quem está presente, como os assentos estão dispostos e que consequências ela prevê ao falar compõem a situação. Com a noção de campo, estudamos como essas condições e a ação da pessoa se constituem em relação. Isso inclui barreiras materiais e sociais à participação.",
       "objective": "Descreva o que muda nas possibilidades de participação da estudante quando muda a organização do encontro.",
       "resources": [
+        "gt-intro-abg",
         "virada-campo",
         "teoria-campo",
         "aula-deficiencia"
@@ -181,8 +192,9 @@
       "relation": "prerequisite",
       "lane": "center",
       "resourceGuides": {
-        "teoria-campo": "Vá ao item 4.4.2 e identifique o sentido de meio psicológico na discussão de Lewin. Descreva uma pessoa junto com as possibilidades do lugar.",
+        "gt-intro-abg": "Em «Bases teóricas», leia a partir do parágrafo sobre o ser humano em relação. Em 2 min, encontre o que o conceito de campo pede para observar além da pessoa.",
         "virada-campo": "Comece pela comparação entre a “cadeira vazia” e a “dança da reciprocidade”. Ela ajuda a ver o que muda quando o encontro também entra na análise.",
+        "teoria-campo": "Vá ao item 4.4.2 e identifique o sentido de meio psicológico na discussão de Lewin. Descreva uma pessoa junto com as possibilidades do lugar.",
         "aula-deficiencia": "Acompanhe a discussão sobre participação. Identifique uma condição do ambiente que mudaria uma descrição centrada apenas na pessoa."
       }
     },
@@ -196,7 +208,7 @@
         "gt-educacao"
       ],
       "resourceGuides": {
-        "teoria-campo": "Na seção 4.4.2, identifique o que Lewin inclui no meio psicológico. Refaça o exemplo separando espaço físico e situação vivida.",
+        "teoria-campo": "Leia o começo da seção 4.4.2 em 3 min. Dê um exemplo de como o mesmo espaço físico pode fazer parte de dois meios psicológicos diferentes.",
         "gt-educacao": "Na unidade sobre Gestalt, retome a diferença entre meio geográfico e comportamental. Use-a para descrever como duas pessoas percebem um mesmo ambiente."
       },
       "parent": "campo",
@@ -213,7 +225,7 @@
         "gt-coletanea"
       ],
       "resourceGuides": {
-        "gt-alteridade": "Na seção sobre fronteiras de direitos, localize uma situação em que um limite social se torna perceptível na história de uma pessoa.",
+        "gt-alteridade": "Localize os trechos sobre fronteiras de direitos. Em 3 min, escolha uma situação em que regras ou relações sociais mudam quais lugares alguém pode ocupar.",
         "gt-coletanea": "No capítulo sobre o grupo de mulheres no CRAS, a partir da p. 145, identifique quais condições do território participam da experiência do grupo."
       },
       "parent": "campo",
@@ -230,7 +242,7 @@
         "gt-alteridade"
       ],
       "resourceGuides": {
-        "aula-deficiencia": "Na aula de Marcia Moraes, escolha uma situação descrita a partir da experiência de uma pessoa com deficiência. Localize a barreira e o que facilita a participação.",
+        "aula-deficiencia": "Leia «Perguntas para acompanhar seus estudos», em 1 min. Escolha a pergunta sobre participação e use-a para localizar uma barreira concreta na aula de Marcia Moraes.",
         "gt-alteridade": "Leia a discussão de invisibilidade social e dos limites que separam pessoas nos espaços públicos. Compare a barreira desse relato com a situação da aula, preservando suas diferenças."
       },
       "parent": "campo-social",
@@ -243,10 +255,12 @@
       "body": "A experiência de racismo e a posição racial de quem escuta fazem parte de uma relação situada. Relatos de profissionais e projetos de extensão brasileiros permitem investigar quando essa dimensão ganha palavra ou é silenciada.",
       "objective": "Comparar uma situação de escuta individual e uma situação de formação, apontando onde a racialidade se torna visível.",
       "resources": [
+        "gt-racialidade-resumo",
         "gt-racialidade",
         "gt-pretitude"
       ],
       "resourceGuides": {
+        "gt-racialidade-resumo": "Leia o resumo do relato de Larissa Carvalho, em 2 min. Identifique o que mudou quando a psicóloga deu nome ao racismo na escuta de quem procurava atendimento.",
         "gt-racialidade": "Acompanhe a mudança que Carvalho descreve na própria escuta do racismo e identifique o que antes passava sem ser nomeado.",
         "gt-pretitude": "Em “Apresentando o método do projeto de extensão” e nos resultados, identifique uma atividade e a pergunta sobre raça que ela abriu para o grupo."
       },
@@ -260,17 +274,17 @@
       "body": "Durante uma conversa num café, o som das xícaras pode ficar em segundo plano. Quando uma delas cai, o ruído ganha destaque e a conversa recua. Figura e fundo nomeiam essa organização dinâmica. A Gestalt-terapia retoma a ideia ao perguntar o que se torna relevante para alguém em determinada situação.",
       "objective": "Reconstrua a cena em dois momentos e indique o que ganhou destaque, o que recuou e em quais condições.",
       "resources": [
+        "gt-video-forma-e-clinica",
         "estetica",
-        "historia-percepcao",
-        "gt-video-forma-e-clinica"
+        "historia-percepcao"
       ],
       "parent": "campo",
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
+        "gt-video-forma-e-clinica": "Comece em 02:56. Veja em cerca de 1 min como a aula apresenta a organização de figura e fundo. Dê um exemplo do que pode ganhar destaque quando a situação muda.",
         "estetica": "Na discussão de forma e ritmo, procure o que faz uma figura emergir de um fundo em movimento.",
-        "historia-percepcao": "No exemplo da melodia, observe como o conjunto organiza o que pode ser percebido em cada som. Compare-o com uma cena em que a atenção muda de foco.",
-        "gt-video-forma-e-clinica": "Em 2min56s, acompanhe a explicação de figura e fundo. Reconstitua o antes e o depois de uma mudança de destaque."
+        "historia-percepcao": "No exemplo da melodia, observe como o conjunto organiza o que pode ser percebido em cada som. Compare-o com uma cena em que a atenção muda de foco."
       }
     },
     {
@@ -283,7 +297,7 @@
         "gt-video-forma-e-clinica"
       ],
       "resourceGuides": {
-        "gt-educacao": "Na unidade sobre Gestalt, experimente a figura d, o vaso de Rubin. Acompanhe o contorno quando vê o vaso e quando vê os rostos.",
+        "gt-educacao": "Abra na página impressa 52 e olhe a figura d por 1 min. Tente ver primeiro o vaso e depois os dois rostos. Acompanhe em qual das duas partes o contorno ganha destaque.",
         "gt-video-forma-e-clinica": "A partir de 2min56s, acompanhe a distinção figura/fundo e use-a para nomear o que mudou na sua percepção do desenho."
       },
       "parent": "figura-fundo",
@@ -300,7 +314,7 @@
         "gt-educacao"
       ],
       "resourceGuides": {
-        "gt-aprender": "Leia “O jogo figura e fundo na aprendizagem”. Compare os exemplos de fixação em detalhes e de deslocamento entre figuras.",
+        "gt-aprender": "Leia o início de «O jogo figura e fundo na aprendizagem», em 3 min. Compare prestar atenção a um detalhe com voltar a perceber o conjunto.",
         "gt-educacao": "Na unidade sobre Gestalt, observe os agrupamentos por proximidade e semelhança. Descreva como ver uma relação entre elementos muda a leitura do desenho."
       },
       "parent": "figura-fundo",
@@ -313,6 +327,7 @@
       "body": "Ao contar a despedida de uma amiga, alguém volta a sentir o aperto na garganta. A despedida aconteceu antes. A lembrança, o gesto e as palavras com que a pessoa conta o que viveu acontecem também neste encontro. Expectativas sobre o futuro podem ganhar presença do mesmo modo.",
       "objective": "Em um relato fictício, localize o acontecimento lembrado e descreva como ele aparece na conversa atual.",
       "resources": [
+        "gt-intro-abg",
         "ensaio-tempo",
         "modelo-clinico",
         "gt-video-forma-e-clinica"
@@ -321,6 +336,7 @@
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
+        "gt-intro-abg": "Leia o primeiro parágrafo de «Metodologia», em 1 min. Localize como uma lembrança ou uma expectativa pode aparecer durante o encontro atual.",
         "ensaio-tempo": "Leia como os autores aproximam pessoa, tempo e mundo. Procure uma passagem em que o passado aparece na experiência presente.",
         "modelo-clinico": "Localize a discussão de aqui e agora e compare-a com a relação entre awareness e encontro descrita pelos autores.",
         "gt-video-forma-e-clinica": "Em 4min17s, observe como a aula inclui a recordação e a expectativa na experiência presente. Depois reveja o exemplo clínico iniciado em 5min01s."
@@ -332,10 +348,12 @@
       "body": "Uma lembrança traz um acontecimento anterior e também o ato presente de lembrá-lo. O que a pessoa sente ao narrar, a quem ela fala e que detalhes retornam fazem parte da experiência atual.",
       "objective": "Distinguir a época do acontecimento do momento em que alguém o narra.",
       "resources": [
+        "gt-video-forma-e-clinica",
         "ensaio-tempo",
         "gt-escritos"
       ],
       "resourceGuides": {
+        "gt-video-forma-e-clinica": "Comece em 04:17 e ouça por cerca de 1 min. Observe como a professora distingue o que aconteceu no passado da experiência de lembrar durante a sessão.",
         "ensaio-tempo": "Na discussão de temporalidade, localize como uma experiência passada pode se presentificar. Anote as duas referências de tempo.",
         "gt-escritos": "No item 2, examine a relação entre memória e aqui-agora. Compare-a com o modo como uma sessão pode ser retomada por escrito no item 3.2."
       },
@@ -353,7 +371,7 @@
         "gt-escritos"
       ],
       "resourceGuides": {
-        "gt-video-forma-e-clinica": "Em 4min17s, acompanhe a discussão do passado e do futuro na sessão. Dê um exemplo de como uma expectativa pode ser percebida agora.",
+        "gt-video-forma-e-clinica": "Comece em 04:17 e veja em cerca de 1 min como a expectativa entra na sessão. Dê um exemplo de como percebê-la no presente.",
         "gt-escritos": "Leia o item 2 sobre temporalidade. Procure como as autoras articulam aquilo que passou, o que está em curso e o que se anuncia."
       },
       "parent": "aqui-agora",
@@ -366,17 +384,17 @@
       "body": "Ao aceitar ou recusar um convite, uma pessoa se aproxima do que o outro oferece e pode expressar uma diferença. Na teoria gestáltica, a fronteira de contato é onde as trocas entre organismo e ambiente acontecem. O que cada participante quer, percebe e consegue fazer adquire forma nessa relação.",
       "objective": "Escolha uma troca cotidiana e descreva o que cada participante oferece, acolhe ou recusa.",
       "resources": [
+        "gt-video-fronteira",
         "fronteiras-eu",
-        "virada-campo",
-        "gt-video-fronteira"
+        "virada-campo"
       ],
       "parent": "campo",
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
+        "gt-video-fronteira": "Assista aos 5 min. Observe onde a pessoa encontra algo do ambiente e o que permite reconhecer a diferença entre os dois.",
         "fronteiras-eu": "Comece pela definição de fronteira. Procure o que permite à pessoa reconhecer uma novidade e distinguir-se do ambiente.",
-        "virada-campo": "Na leitura relacional de Spagnuolo Lobb, procure como os movimentos de um participante encontram resposta no outro.",
-        "gt-video-fronteira": "Ao ouvir a explicação sobre fronteira, faça duas descrições de uma mesma experiência, uma de cada participante."
+        "virada-campo": "Na leitura relacional de Spagnuolo Lobb, procure como os movimentos de um participante encontram resposta no outro."
       }
     },
     {
@@ -389,7 +407,7 @@
         "gt-gestacao"
       ],
       "resourceGuides": {
-        "gt-sistema": "Na seção sobre o sistema self, leia a sequência pré-contato, contato, contato final e pós-contato. Reveja quando a figura está ganhando forma e quando se desfaz.",
+        "gt-sistema": "Leia o parágrafo que apresenta os quatro tempos do contato, em 2 min. Marque onde uma figura começa a ganhar forma e onde ela perde destaque.",
         "gt-gestacao": "Na fundamentação, compare os nomes das quatro fases com a passagem em que algo no meio passa a solicitar interesse. Volte a uma fala das participantes."
       },
       "parent": "contato",
@@ -406,7 +424,7 @@
         "gt-gestacao"
       ],
       "resourceGuides": {
-        "gt-sistema": "No parágrafo que distingue os tempos do self, releia a passagem do contato final ao pós-contato e indique o destino da figura.",
+        "gt-sistema": "Busque «pós-contato». Em 2 min, acompanhe o que acontece entre o contato final e a retirada. Pergunte o que da experiência pode ficar disponível depois.",
         "gt-gestacao": "Na exposição das quatro fases, leia a definição de pós-contato. Compare a saída do primeiro plano com o exemplo inicial de uma necessidade que emerge."
       },
       "parent": "tempos-do-contato",
@@ -423,7 +441,7 @@
         "gt-alteridade"
       ],
       "resourceGuides": {
-        "gt-video-fronteira": "Ao ouvir a explicação, identifique o que põe em relação a pessoa e seu entorno. Escreva duas perspectivas sobre a mesma cena.",
+        "gt-video-fronteira": "Na aula de 5 min, observe como é possível entrar em contato e perceber a própria diferença ao mesmo tempo. Escreva duas perspectivas sobre a mesma cena.",
         "gt-alteridade": "Na discussão do reconhecimento, observe o que se perde quando o outro é tomado como uma categoria já conhecida."
       },
       "parent": "contato",
@@ -444,7 +462,7 @@
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
-        "gt-video-awareness": "Comece pelo episódio curto. Escolha algo percebido durante uma experiência e compare-o com uma explicação formulada depois.",
+        "gt-video-awareness": "Veja a aula de 6 min e escolha algo percebido enquanto a experiência acontecia. Compare com a explicação que veio depois.",
         "modelo-clinico": "Na discussão de awareness, procure o lugar que os autores dão às sensações e à atenção ao presente.",
         "fronteiras-eu": "Localize a ligação entre awareness e fronteira de contato. Dê um exemplo em que notar uma diferença muda a relação com o ambiente."
       }
@@ -455,10 +473,12 @@
       "body": "Um aperto na garganta, uma pausa e uma frase podem pertencer ao mesmo momento. A descrição da experiência corporal começa pelo que se percebe e permite acompanhar como o sentido ganha forma naquela situação.",
       "objective": "Relatar um sinal corporal e acompanhar a passagem desse sinal para uma expressão ou palavra.",
       "resources": [
+        "gt-escritos",
         "teoria-campo",
         "gt-video-awareness"
       ],
       "resourceGuides": {
+        "gt-escritos": "Vá ao item 3.1, sobre escuta corporal, e leia os primeiros parágrafos em 3 min. Identifique uma forma de acompanhar o que a pessoa expressa pelo corpo durante a fala.",
         "teoria-campo": "Na revisão sobre corpo e Gestalt-terapia, localize a discussão sobre a corporalidade na relação terapeuta-cliente. Como o corpo participa de uma troca?",
         "gt-video-awareness": "Ouça a apresentação de awareness e use-a para distinguir perceber um gesto enquanto ocorre e explicá-lo só depois."
       },
@@ -476,7 +496,7 @@
         "gt-coletanea"
       ],
       "resourceGuides": {
-        "gt-escritos": "Leia o item 3.1 sobre escuta corporal. Identifique como a experiência de quem escuta participa da compreensão e depois do registro.",
+        "gt-escritos": "Leia o início do item 3.1 em 3 min. Localize como a experiência corporal de quem escuta pode contribuir para a compreensão e para o registro posterior.",
         "gt-coletanea": "No capítulo de Carolina Camara Bittencourt, a partir da p. 93, observe como a autora examina os sentimentos despertados no contato com crianças."
       },
       "parent": "awareness",
@@ -497,7 +517,7 @@
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
-        "modos-resistencia": "Leia a apresentação dos cinco mecanismos e a discussão de saúde. Escolha dois modos e identifique o que muda no movimento do contato.",
+        "modos-resistencia": "Leia a apresentação dos mecanismos e escolha dois, em 3 min. Compare onde muda o movimento entre a pessoa e o ambiente.",
         "fronteiras-eu": "Procure a passagem sobre a cristalização dos ajustamentos. Em que condições uma forma de contato pode perder flexibilidade?",
         "gt-playlist-modos-contato": "Percorra os episódios por assunto. Os quatro primeiros tratam de introjeção, projeção, confluência e retroflexão. A deflexão aparece no episódio 6."
       }
@@ -512,7 +532,7 @@
         "gt-gestacao"
       ],
       "resourceGuides": {
-        "gt-playlist-modos-contato": "Comece pelo episódio 1, sobre introjeção. Escolha uma regra apresentada como óbvia e pergunte de quem veio e como passou a ser repetida.",
+        "gt-playlist-modos-contato": "O link abre no episódio 1, «Introjeção». Veja apenas esse trecho e escolha uma regra que alguém aprendeu sem ter espaço para perguntar se fazia sentido.",
         "gt-gestacao": "Nos resultados, examine as falas das jovens sobre o significado da maternidade e a interpretação das autoras sobre o que foi aprendido com suas mães."
       },
       "parent": "modos-de-contato",
@@ -529,7 +549,7 @@
         "modos-resistencia"
       ],
       "resourceGuides": {
-        "gt-video-projecao": "Assista ao episódio 2. Retome uma atribuição ao outro e pergunte que parte da descrição pertence à experiência de quem fala.",
+        "gt-video-projecao": "Veja o episódio 2 em 5 min. Retome uma atribuição ao outro e pergunte que parte dela pode pertencer à experiência de quem fala.",
         "modos-resistencia": "No trecho sobre projeção, compare a definição com a discussão final sobre a função protetiva de certos modos de contato."
       },
       "parent": "modos-de-contato",
@@ -546,7 +566,7 @@
         "modos-resistencia"
       ],
       "resourceGuides": {
-        "gt-video-confluencia": "No episódio 3, observe como a autora caracteriza os limites entre eu e outro. Descreva uma situação em que esses limites voltem a aparecer.",
+        "gt-video-confluencia": "No episódio de 4 min, ouça como a autora explica o enfraquecimento da diferença entre duas pessoas. Descreva uma situação em que ela poderia reaparecer.",
         "modos-resistencia": "Localize a definição de confluência e a discussão sobre saúde. Procure o critério usado para distinguir um movimento passageiro de uma forma rígida de se relacionar."
       },
       "parent": "modos-de-contato",
@@ -563,7 +583,7 @@
         "modos-resistencia"
       ],
       "resourceGuides": {
-        "gt-video-retroflexao": "No episódio 4, acompanhe a descrição do movimento dirigido a si. Reconstrua o exemplo identificando de onde parte a ação e para onde ela vai.",
+        "gt-video-retroflexao": "Veja o episódio de 5 min. No exemplo de uma ação dirigida a si, identifique de onde o movimento parte e para onde era possível direcioná-lo.",
         "modos-resistencia": "Leia o trecho sobre retroflexão e compare a ideia de contenção com a discussão sobre os usos protetivos da resistência."
       },
       "parent": "modos-de-contato",
@@ -580,7 +600,7 @@
         "modos-resistencia"
       ],
       "resourceGuides": {
-        "gt-video-deflexao": "No episódio 6, acompanhe como a explicação de Teresa Amorim localiza o desvio do contato. Construa uma sequência curta com um antes e um depois.",
+        "gt-video-deflexao": "Veja o episódio de 5 min. Descreva uma situação em que um gesto ou uma mudança de assunto desvia o rumo do contato.",
         "modos-resistencia": "Procure a contribuição dos Polster sobre deflexão. Acompanhe como a autora situa esse conceito em relação aos quatro mecanismos que apresenta antes."
       },
       "parent": "modos-de-contato",
@@ -593,19 +613,19 @@
       "body": "Na Gestalt-terapia, self designa o processo que se organiza no contato. A função id diz respeito ao fundo de sensações e possibilidades que emerge na situação. A função ego participa da escolha e da recusa. A função personalidade envolve a história assimilada e aquilo que a pessoa reconhece como seu. Essas funções podem ser descritas numa mesma experiência.",
       "objective": "Analise o momento em que alguém decide apresentar-se a um grupo. Localize uma sensação, uma escolha e algo que a pessoa já reconhece sobre si.",
       "resources": [
+        "gt-video-self",
         "gt-modelo-intro",
         "cataldo",
-        "fronteiras-eu",
-        "gt-video-self"
+        "fronteiras-eu"
       ],
       "parent": "contato",
       "relation": "prerequisite",
       "lane": "center",
       "resourceGuides": {
+        "gt-video-self": "Veja a videoaula de 6 min. Anote como a autora situa o self no contato. Use as leituras seguintes para conferir como as funções id, ego e personalidade entram nessa descrição.",
+        "gt-modelo-intro": "Vá ao trecho sobre o self e compare as três funções: sensação, escolha e identidade. Use a videoaula abaixo para rever os termos.",
         "cataldo": "Na seção 5.1, acompanhe um exemplo da dinâmica do self e localize o fundo da experiência, o momento de escolha e o que pode ser assimilado.",
-        "fronteiras-eu": "Procure as funções do self e observe em que sentido a autora as descreve na fronteira entre a pessoa e seu mundo.",
-        "gt-video-self": "Nos seis minutos da aula de Ana Vale, localize a origem do conceito e explique por que a teoria fala de um processo de contato.",
-        "gt-modelo-intro": "Vá ao trecho sobre o self e compare as três funções: sensação, escolha e identidade. Use a videoaula abaixo para rever os termos."
+        "fronteiras-eu": "Procure as funções do self e observe em que sentido a autora as descreve na fronteira entre a pessoa e seu mundo."
       }
     },
     {
@@ -618,7 +638,7 @@
         "experimentacao"
       ],
       "resourceGuides": {
-        "gt-sistema": "Na definição das funções, identifique o que vem do organismo e da situação ao descrever a função id. Compare-a com a fase de pré-contato.",
+        "gt-sistema": "Busque «função id». Em 2 min, acompanhe como as sensações ganham destaque antes de haver uma ação escolhida.",
         "experimentacao": "Na seção “O id da situação”, acompanhe como a ação encontra um fundo corporal anterior à explicação do que se faz."
       },
       "parent": "self",
@@ -635,7 +655,7 @@
         "gt-sistema"
       ],
       "resourceGuides": {
-        "cataldo": "Na seção 5, encontre a função ego e os processos de identificação e alienação. Releia o exemplo para apontar o que foi escolhido.",
+        "cataldo": "Na seção 5, busque «identificação e alienação». Em 3 min, procure o que a pessoa acolhe e o que recusa quando uma possibilidade aparece.",
         "gt-sistema": "Na seção sobre o sistema self, compare o papel do ego com o fundo dado pela função id. Localize o momento da escolha."
       },
       "parent": "self",
@@ -652,7 +672,7 @@
         "gt-sistema"
       ],
       "resourceGuides": {
-        "gt-goodman": "Na seção 2.2, localize a discussão da função personalidade. Observe o papel que o autor atribui às relações com os outros e às produções culturais.",
+        "gt-goodman": "Leia o início da seção 2.2, em 3 min. Identifique como relações e experiências anteriores entram no que uma pessoa pode dizer de si.",
         "gt-sistema": "Localize a definição de personalidade na seção sobre as funções e confronte-a com uma afirmação que a pessoa faz a seu respeito."
       },
       "parent": "self",
@@ -665,6 +685,7 @@
       "body": "Em uma reunião em que era sempre interrompida, uma pessoa passou a deixar suas sugestões por escrito. Essa resposta aproveitou recursos disponíveis naquele ambiente. Em outro grupo, ela pode descobrir novas maneiras de participar. O ajustamento criativo leva em conta como uma resposta surgiu, que função cumpriu e o que acontece quando as condições mudam.",
       "objective": "Descreva a função de uma resposta em seu contexto de origem e pergunte o que poderia torná-la mais flexível hoje.",
       "resources": [
+        "gt-intro-abg",
         "fronteiras-eu",
         "modos-resistencia",
         "gt-video-ajustes"
@@ -673,6 +694,7 @@
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
+        "gt-intro-abg": "Em «Bases teóricas», busque «ajustamento criativo». Em 1 min, note como o texto situa uma resposta nas condições da pessoa e do ambiente.",
         "fronteiras-eu": "Leia como a autora relaciona contato e ajustamento criativo. Identifique uma resposta que ganha sentido nas circunstâncias em que apareceu.",
         "modos-resistencia": "Compare proteção e rigidez na discussão sobre saúde. Em que momento uma resposta deixa de oferecer alternativas?",
         "gt-video-ajustes": "No seminário de Magda Zurba, procure um exemplo em que a organização social ajuda a entender o ajuste descrito."
@@ -688,7 +710,7 @@
         "gt-coletanea"
       ],
       "resourceGuides": {
-        "gt-suporte": "Observe como Freire relaciona autoacolhimento, reconhecimento dos próprios limites e possibilidade de pedir ajuda.",
+        "gt-suporte": "Busque «apoio ambiental». Em 2 min, compare o apoio que vem de outras pessoas com os recursos que a própria pessoa pode mobilizar.",
         "gt-coletanea": "Leia o capítulo iniciado na p. 203. Na seção “Autossuporte e heterossuporte”, p. 207, localize um apoio que a autora relaciona ao percurso descrito."
       },
       "parent": "ajustamento-criativo",
@@ -706,7 +728,7 @@
         "gt-video-ajustes"
       ],
       "resourceGuides": {
-        "modos-resistencia": "Leia a discussão sobre resistência, proteção e rigidez. Identifique em que condição um movimento de contato pode passar a restringir a experiência.",
+        "modos-resistencia": "Na discussão de saúde e resistência, leia a passagem sobre rigidez, em 3 min. Escreva uma condição em que uma resposta antes protetora pode limitar o contato.",
         "fronteiras-eu": "Na discussão do ajustamento criativo, acompanhe a passagem de um recurso disponível para um funcionamento cristalizado.",
         "gt-video-ajustes": "Ao ouvir o seminário, situe um ajuste contemporâneo nas condições coletivas em que ele se formou."
       },
@@ -720,17 +742,17 @@
       "body": "Se alguém diz “não consegui entrar”, pode estar falando de uma sala lotada, de uma barreira física ou do receio de ser recebido de certa maneira. No encontro dialógico, o terapeuta se dispõe a ouvir como aquilo foi vivido e a rever sua compreensão. O diálogo com Martin Buber ajuda a estudar presença, inclusão e reconhecimento da alteridade.",
       "objective": "Use uma fala ambígua para examinar como uma interpretação antecipada e uma pergunta aberta mudam a conversa.",
       "resources": [
+        "gt-video-papel-terapeuta",
         "relacao-cliente",
-        "clinica-encontro",
-        "gt-video-papel-terapeuta"
+        "clinica-encontro"
       ],
       "parent": "self",
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
+        "gt-video-papel-terapeuta": "Comece pelos primeiros 4 min da aula. Observe como Magda Zurba apresenta o papel do terapeuta na relação e continue a leitura com a seção sobre Buber.",
         "relacao-cliente": "Na apresentação de Buber, acompanhe a passagem para as atitudes de presença e inclusão no encontro terapêutico.",
-        "clinica-encontro": "Nos resultados, escolha uma das falas de profissionais e compare a experiência descrita com a interpretação que os autores fazem do encontro.",
-        "gt-video-papel-terapeuta": "Acompanhe o que a professora diz sobre autenticidade e confiança. Identifique como ela situa as diferentes responsabilidades de terapeuta e cliente."
+        "clinica-encontro": "Nos resultados, escolha uma das falas de profissionais e compare a experiência descrita com a interpretação que os autores fazem do encontro."
       }
     },
     {
@@ -743,7 +765,7 @@
         "relacao-cliente"
       ],
       "resourceGuides": {
-        "clinica-encontro": "Nos resultados das entrevistas, procure as passagens em que os participantes distinguem Eu–Tu e Eu–Isso. Observe quando cada atitude aparece.",
+        "clinica-encontro": "Busque «Eu-Tu» nos resultados. Em 3 min, escolha uma fala de entrevistado e identifique o que distingue a relação com uma pessoa de uma atitude voltada a uma tarefa.",
         "relacao-cliente": "Leia a apresentação de Buber e acompanhe como a autora aproxima as duas atitudes da relação entre terapeuta e cliente."
       },
       "parent": "relacao-dialogica",
@@ -760,7 +782,7 @@
         "clinica-encontro"
       ],
       "resourceGuides": {
-        "gt-cuidador": "No trecho intitulado “Inclusão”, observe como Baraúna descreve a aproximação à experiência de quem é cuidado. Compare-a com a experiência de quem cuida.",
+        "gt-cuidador": "Leia o trecho «Inclusão» em 2 min. Identifique como quem cuida se aproxima da experiência do outro e onde mantém a própria perspectiva.",
         "clinica-encontro": "Nas entrevistas com os profissionais, procure um trecho sobre aproximação à experiência do cliente. Identifique o que o participante sabe e o que ainda precisa perguntar."
       },
       "parent": "relacao-dialogica",
@@ -777,7 +799,7 @@
         "gt-caso-dialogo"
       ],
       "resourceGuides": {
-        "gt-cuidador": "Compare os trechos “Confirmação” e “Presença”. Identifique em cada um o que está em jogo na relação.",
+        "gt-cuidador": "Leia os trechos «Confirmação» e «Presença» em 3 min. Identifique o que se reconhece no outro e como a pessoa que cuida participa do encontro.",
         "gt-caso-dialogo": "Na seção do caso de Tácita, escolha uma fala acolhida pelo terapeuta e acompanhe a resposta da cliente. Indique o que o diálogo permite saber sobre a experiência dela."
       },
       "parent": "relacao-dialogica",
@@ -790,6 +812,7 @@
       "body": "Uma pessoa descreve o retorno ao trabalho como “entrar num palco”. Na literatura gestáltica, um experimento pode nascer de uma expressão como essa e ser explorado com a participação de quem a trouxe. Importam o sentido que a pessoa dá à proposta e sua liberdade de recusá-la, modificá-la ou interrompê-la.",
       "objective": "Na leitura sobre a metáfora, identifique quem atribui sentido à imagem e como isso orienta a experimentação.",
       "resources": [
+        "gt-intro-abg",
         "experimentacao",
         "metafora",
         "gt-video-ludico"
@@ -798,6 +821,7 @@
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
+        "gt-intro-abg": "Na seção «Metodologia», leia a definição de experimento e procure dois exemplos no parágrafo seguinte. Em 2 min, veja como eles podem ampliar a percepção da experiência atual.",
         "experimentacao": "Comece pela discussão de campo e situação. Procure por que a ação experimental precisa partir de algo que se apresenta no encontro.",
         "metafora": "Acompanhe como uma imagem pode ganhar sentido entre os participantes e que lugar a autora dá à linguagem do cliente.",
         "gt-video-ludico": "Na palestra sobre o lúdico, acompanhe como a participação de quem experimenta modifica o sentido de uma atividade com adultos."
@@ -809,10 +833,12 @@
       "body": "Um experimento nasce de algo que se apresenta no encontro. Um gesto, uma palavra ou uma imagem podem ser explorados com a participação da pessoa, que também pode modificar a proposta, recusá-la ou escolher outro caminho.",
       "objective": "Localizar de onde veio uma proposta e como a participação da pessoa interferiu no que aconteceu.",
       "resources": [
+        "gt-intro-abg",
         "experimentacao",
         "gt-video-ludico"
       ],
       "resourceGuides": {
+        "gt-intro-abg": "Busque «um convite para o cliente». Em 1 min, identifique o que, na situação, faz surgir uma proposta de experimento e o que permite à pessoa decidir se quer participar.",
         "experimentacao": "Na seção sobre campo e situação, acompanhe por que os autores aproximam a ação terapêutica da criação. Identifique o que se perde ao repetir uma técnica fora de contexto.",
         "gt-video-ludico": "Na palestra sobre o lúdico com adultos, escolha uma atividade discutida e examine qual espaço ela deixa para a participação de quem a experimenta."
       },
@@ -830,7 +856,7 @@
         "metafora"
       ],
       "resourceGuides": {
-        "gt-rosa": "No diálogo em que a cliente fala de uma rosa, observe como o terapeuta retoma as palavras dela. Compare a primeira formulação da imagem com o que se segue.",
+        "gt-rosa": "Busque o diálogo em que a cliente fala de uma rosa e leia-o em 3 min. Observe como as palavras da cliente abrem caminho para a próxima intervenção.",
         "metafora": "Na discussão do uso da metáfora, procure como Freire trata a produção de sentidos pelo cliente. Use essa pergunta para reler a imagem da rosa."
       },
       "parent": "experimento",
@@ -850,7 +876,7 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
-        "levantamento": "Veja o método de seleção dos 73 artigos e compare a frequência de trabalhos teóricos e empíricos. O que esta busca descreve?",
+        "levantamento": "Leia o resumo e o início do método em 3 min. Descubra quais bases foram consultadas e o que os autores contaram entre os artigos selecionados.",
         "clinica-encontro": "Identifique o tipo de pergunta feita aos cinco profissionais e uma conclusão que se refere à experiência dessas pessoas."
       }
     },
@@ -864,7 +890,7 @@
         "gt-gestacao"
       ],
       "resourceGuides": {
-        "clinica-encontro": "Em “Procedimentos metodológicos”, identifique os cinco profissionais ouvidos. Nos resultados, separe uma fala citada da interpretação que os autores oferecem.",
+        "clinica-encontro": "Leia quem foi ouvido em «Procedimentos metodológicos» e escolha uma fala nos resultados. Em 3 min, separe o que a pessoa disse do que os autores interpretaram.",
         "gt-gestacao": "Leia a descrição das entrevistas semiestruturadas com gestantes e encontre uma resposta identificada no texto. Que pergunta o estudo consegue responder com esse material?"
       },
       "parent": "pesquisa",
@@ -881,7 +907,7 @@
         "gt-rosa"
       ],
       "resourceGuides": {
-        "gt-caso-dialogo": "Na seção sobre Tácita, marque uma fala, uma observação e uma interpretação. Observe qual delas poderia ser conferida diretamente no trecho de diálogo.",
+        "gt-caso-dialogo": "Vá à seção sobre Tácita e escolha um diálogo. Em 3 min, marque uma fala, uma observação e uma interpretação feitas a partir da cena.",
         "gt-rosa": "No artigo sobre a rosa, identifique de onde vem o material analisado. Compare o alcance de reler um diálogo documentado com o de escrever sobre o próprio atendimento."
       },
       "parent": "pesquisa",
@@ -898,7 +924,7 @@
         "gt-teses"
       ],
       "resourceGuides": {
-        "levantamento": "Anote as bases, o período e os critérios que levaram aos 73 artigos. Localize uma pergunta que esse conjunto não permite responder.",
+        "levantamento": "Leia os critérios de seleção, em 3 min. Anote as bases, o período e os termos de busca. Proponha uma pergunta que esse recorte deixa em aberto.",
         "gt-teses": "Na seção 2, leia a delimitação dos trabalhos de pós-graduação. Confronte a tabela por estado com o levantamento de artigos e indique o que cada um contou."
       },
       "parent": "pesquisa",
@@ -1051,8 +1077,8 @@
       "language": "pt-BR",
       "format": "Videoaula com material complementar",
       "access": "Gravação integral gratuita na página da ABG, com link para o YouTube.",
-      "checkedAt": "2026-11-15",
-      "verification": "Página da associação consultada, com data do encontro, identificação da professora e link para a gravação integral.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidas na página da ABG a identificação da professora, a gravação aberta e as perguntas para acompanhar os estudos.",
       "rights": "Gravação disponibilizada pela ABG para acesso gratuito. Consultar a entidade para reutilização.",
       "caveat": "A aula de Marcia Moraes é em português. A lista de apoio inclui um texto de Mia Mingus em inglês.",
       "relevance": "Observe quais barreiras limitam a participação e como escutar as experiências das pessoas com deficiência muda a compreensão do ambiente. A página reúne a gravação e leituras.",
@@ -1272,10 +1298,10 @@
       "language": "pt-BR",
       "format": "videoaula · 16 min",
       "access": "Vídeo gratuito no YouTube, acessível pelo link direto.",
-      "verification": "Página e metadados do vídeo conferidos. O player estava disponível sem login.",
+      "verification": "Conferido o vídeo no canal e o título retornado pelo YouTube. A descrição marca a discussão da percepção e do aqui e agora.",
       "rights": "Link para a publicação no canal responsável. Licença de reutilização não identificada na verificação.",
       "caveat": "O sumário com as marcações de tempo está na descrição do vídeo.",
-      "checkedAt": "2026-11-15",
+      "checkedAt": "2026-11-25",
       "relevance": "Comece em 2min56s para ver como figura e fundo se organizam na percepção. Em 4min17s, a aula retoma o passado e o futuro tal como aparecem no presente da sessão. O exemplo clínico começa em 5min01s.",
       "sourcePage": "https://www.youtube.com/watch?v=BUEp2HFKAG0",
       "nodes": [
@@ -1283,7 +1309,8 @@
         "figura-fundo",
         "alternancia",
         "aqui-agora",
-        "antecipacao"
+        "antecipacao",
+        "lembranca"
       ]
     },
     {
@@ -1603,7 +1630,8 @@
       "nodes": [
         "lembranca",
         "antecipacao",
-        "escuta-corporal"
+        "escuta-corporal",
+        "corpo-em-situacao"
       ]
     },
     {
@@ -1742,8 +1770,8 @@
       "language": "pt-BR",
       "format": "Material didático em PDF",
       "access": "PDF integral gratuito, sem cadastro.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidas a identificação do material e a unidade sobre organização perceptual, com figuras de agrupamento e figura/fundo.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o PDF aberto da UFSC, a figura d na página impressa 52 e a explicação de figura e fundo na página seguinte.",
       "rights": "Consulta no site da instituição. Confira as condições do titular antes de reutilizar o material.",
       "caveat": "O capítulo apresenta a psicologia da percepção para licenciandos.",
       "relevance": "Procure o vaso que também pode ser visto como dois rostos. Compare o efeito com os desenhos de proximidade e semelhança na mesma unidade.",
@@ -1827,8 +1855,8 @@
       "language": "pt-BR",
       "format": "Artigo teórico",
       "access": "Texto completo disponível gratuitamente.",
-      "checkedAt": "2026-11-15",
-      "verification": "Consultados o texto integral e o desenvolvimento dos conceitos de autossuporte e heterossuporte.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto integral em HTML e a distinção entre autossuporte e apoio do ambiente.",
       "rights": "Consulta no site da instituição. Confira as condições do titular antes de reutilizar o material.",
       "caveat": "A autora articula conceitos a partir de pesquisa bibliográfica.",
       "relevance": "Leia a relação entre reconhecer os próprios limites, recorrer a apoios e acolher a experiência de quem oferece cuidado.",
@@ -1867,8 +1895,8 @@
       "language": "pt-BR",
       "format": "Vídeo em português · 6 min",
       "access": "Vídeo público e gratuito, sem inscrição em curso.",
-      "checkedAt": "2026-11-15",
-      "verification": "Página do vídeo, canal, duração e disponibilidade no player conferidos.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o vídeo público e o título no serviço de incorporação do YouTube.",
       "rights": "O canal disponibiliza a exibição pelo YouTube. Os direitos do vídeo permanecem com os titulares.",
       "caveat": "Aula introdutória independente. A ficha remete apenas à aula pública.",
       "relevance": "Use a apresentação para situar o surgimento do conceito de self e resumir como ele se relaciona com a experiência de contato.",
@@ -1975,6 +2003,55 @@
       "nodes": [
         "origens",
         "self"
+      ]
+    },
+    {
+      "id": "gt-intro-abg",
+      "title": "Gestalt-terapia",
+      "authors": "Associação Brasileira de Gestalt-terapia e Abordagem Gestáltica",
+      "institution": "ABG",
+      "year": null,
+      "url": "https://gestalt.com.br/institucional/gestalt-terapia/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Introdução institucional",
+      "access": "Leitura gratuita no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto integral, a cronologia brasileira e as seções sobre bases teóricas e metodologia no site da associação.",
+      "rights": "O mapa aponta para a publicação original.",
+      "caveat": "Síntese institucional. Os artigos seguintes desenvolvem a história e os debates conceituais.",
+      "relevance": "Introdução à história, ao campo organismo–ambiente e ao trabalho clínico.",
+      "nodes": [
+        "origens",
+        "livro-de-1951",
+        "memorias-brasil",
+        "fenomenologia",
+        "suspensao",
+        "campo",
+        "aqui-agora",
+        "ajustamento-criativo",
+        "experimento",
+        "convite"
+      ]
+    },
+    {
+      "id": "gt-racialidade-resumo",
+      "title": "Consciência da racialidade na vivência profissional de uma gestalt-terapeuta · resumo",
+      "authors": "Larissa da Silva Carvalho",
+      "institution": "IGT na Rede",
+      "year": 2024,
+      "url": "https://www.igt.psc.br/ojs3/index.php/IGTnaRede/article/view/754",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Resumo de relato profissional",
+      "access": "Leitura gratuita no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o resumo em HTML, a autoria e o link para o relato integral no periódico.",
+      "rights": "O mapa aponta para a publicação original.",
+      "caveat": "O relato descreve o percurso profissional da autora. A ficha seguinte traz o texto integral em PDF.",
+      "relevance": "Apresenta uma mudança na maneira como a terapeuta passou a reconhecer o racismo em atendimentos.",
+      "nodes": [
+        "racismo-no-campo"
       ]
     }
   ]

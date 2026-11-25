@@ -8,12 +8,14 @@
       "body": "Ao pegar uma xícara, seus olhos ajudam a localizar a alça, os braços se movem e a pele percebe o calor. O sistema nervoso relaciona essas ações em vários níveis: das células e dos nervos aos circuitos do encéfalo e da medula.",
       "objective": "Descreva um gesto cotidiano em termos de entrada sensorial, processamento e resposta.",
       "resources": [
+        "nb-s-sistema",
         "nb-pop",
         "nb-ibro"
       ],
       "resourceGuides": {
-        "nb-pop": "Comece pelo bloco “Neuroanatomia” (p. 5–9). Use as figuras para localizar o encéfalo e os principais elementos de um neurônio.",
-        "nb-ibro": "Leia “O Sistema Nervoso” (p. 2–3) e anote um exemplo de como uma informação chega ao sistema nervoso central."
+        "nb-pop": "Veja as ilustrações do bloco “Neuroanatomia” nas páginas 5–9 da cartilha em PDF.",
+        "nb-ibro": "Leia “O Sistema Nervoso” (p. 2–3) e anote um exemplo de como uma informação chega ao sistema nervoso central.",
+        "nb-s-sistema": "Comece na seção “O que a Neurociência estuda?”. Use a figura para seguir o caminho entre o encéfalo, a medula e o resto do corpo."
       },
       "parent": null,
       "relation": "sequence",
@@ -25,12 +27,16 @@
       "body": "O encéfalo e a medula espinal formam o sistema nervoso central. Nervos e gânglios fazem parte do sistema periférico e ligam diferentes partes do corpo ao sistema central.",
       "objective": "Desenhe o caminho da mão até a medula e o caminho da resposta de volta à mão.",
       "resources": [
+        "nb-s-divisoes",
+        "nb-s-sistema",
         "nb-duarte",
         "nb-medula"
       ],
       "resourceGuides": {
         "nb-medula": "No esquema da aula, identifique as raízes e veja onde as fibras sensitivas e motoras passam a compartilhar um nervo.",
-        "nb-duarte": "Leia a p. 76 e compare com as p. 84–86. Localize a medula, os nervos e os gânglios e indique a que divisão pertence cada um."
+        "nb-duarte": "Leia a p. 76 e compare com as p. 84–86. Localize a medula, os nervos e os gânglios e indique a que divisão pertence cada um.",
+        "nb-s-sistema": "Veja a figura do sistema nervoso. Compare o encéfalo e a medula com os nervos que saem deles. O capítulo abaixo traz o mapa anatômico em detalhe.",
+        "nb-s-divisoes": "Leia o primeiro parágrafo. Agora imagine que tocou em algo quente. Em quais partes do trajeto o sinal estaria no sistema central e em quais estaria no periférico?"
       },
       "parent": "fundamentos",
       "relation": "related",
@@ -95,12 +101,16 @@
       "body": "Os neurônios trocam sinais por meio de circuitos. Células da glia regulam o ambiente em torno deles, participam da defesa e podem formar mielina. O tecido nervoso depende dessa cooperação.",
       "objective": "Escolha um tipo de neurônio e dois tipos de glia e descreva a tarefa de cada um.",
       "resources": [
+        "nb-s-divisoes",
+        "nb-s-nervos",
         "nb-pop",
         "nb-glia"
       ],
       "resourceGuides": {
         "nb-pop": "Comece pelo desenho do neurônio na p. 9 e identifique as partes em que o sinal chega e por onde ele segue.",
-        "nb-glia": "Leia a introdução até a distinção entre micróglia e macroglia. Relacione três tipos celulares a funções diferentes."
+        "nb-glia": "Leia a introdução até a distinção entre micróglia e macroglia. Relacione três tipos celulares a funções diferentes.",
+        "nb-s-nervos": "Vá ao desenho “Estrutura típica de um neurônio”. Compare o neurônio com as células que formam o revestimento do axônio.",
+        "nb-s-divisoes": "Comece no parágrafo sobre células gliais. Compare uma tarefa dos astrócitos com a função dos oligodendrócitos."
       },
       "parent": "fundamentos",
       "relation": "related",
@@ -112,12 +122,14 @@
       "body": "Dendritos costumam receber sinais, o corpo celular integra parte deles e o axônio conduz sinais a outras células. A forma do neurônio varia de acordo com o circuito.",
       "objective": "Em um desenho, localize dendritos, soma, axônio e terminais. Marque um percurso possível para o sinal.",
       "resources": [
+        "nb-s-nervos",
         "nb-pop",
         "nb-ibro"
       ],
       "resourceGuides": {
         "nb-pop": "Use a primeira figura de “Neurônios e sinapses” (p. 9). Refaça as legendas de memória antes de consultar o desenho.",
-        "nb-ibro": "No capítulo 2, procure o esquema de um neurônio motor. Compare o formato e o comprimento dos prolongamentos com a figura da cartilha."
+        "nb-ibro": "No capítulo 2, procure o esquema de um neurônio motor. Compare o formato e o comprimento dos prolongamentos com a figura da cartilha.",
+        "nb-s-nervos": "Comece pelo desenho “Estrutura típica de um neurônio”. Localize dendritos, corpo celular e axônio. Em seguida, redesenhe de memória."
       },
       "parent": "celulas",
       "relation": "related",
@@ -129,12 +141,14 @@
       "body": "Astrócitos ajudam a regular o ambiente dos neurônios e a micróglia atua na defesa do tecido. Oligodendrócitos e células de Schwann produzem mielina no sistema central e no periférico, respectivamente.",
       "objective": "Associe astrócito, micróglia, oligodendrócito e célula de Schwann a uma função usando um esquema.",
       "resources": [
-        "nb-glia",
-        "nb-histo"
+        "nb-s-nervos",
+        "nb-histo",
+        "nb-glia"
       ],
       "resourceGuides": {
         "nb-glia": "Na introdução, localize a função dos oligodendrócitos. Depois vá ao começo da seção sobre astrócitos para comparar como os dois tipos colaboram com os neurônios.",
-        "nb-histo": "Busque “Micróglia” e “oligodendrócitos” para ver como diferentes células aparecem nas micrografias. Anote uma diferença de forma."
+        "nb-histo": "No índice do atlas, procure “Oligodendrócito” e “Células de Schwann”. Veja nas imagens onde cada tipo de célula produz mielina.",
+        "nb-s-nervos": "Nos parágrafos que acompanham o desenho, compare a célula de Schwann com o oligodendrócito. Localize onde cada uma produz mielina."
       },
       "parent": "celulas",
       "relation": "related",
@@ -146,12 +160,14 @@
       "body": "A membrana do neurônio mantém uma diferença de voltagem. Essa diferença pode mudar e gerar um sinal que percorre o axônio. Nas sinapses químicas, um mensageiro liberado por uma célula altera a atividade de outra.",
       "objective": "Conte a sequência desde a mudança na membrana até o efeito sobre a próxima célula.",
       "resources": [
+        "nb-s-neurotransmissao",
         "nb-excitavel",
         "nb-ibro"
       ],
       "resourceGuides": {
-        "nb-excitavel": "Leia até o primeiro gráfico de potencial de ação, usando o exemplo sensorial para acompanhar o caminho da informação.",
-        "nb-ibro": "Percorra as figuras dos capítulos 2 e 3. Separe o que acontece ao longo do axônio do que acontece entre as duas células."
+        "nb-excitavel": "Na seção “Noções de neurofisiologia”, acompanhe o trecho sobre como uma célula sensorial transforma um estímulo em sinal.",
+        "nb-ibro": "Percorra as figuras dos capítulos 2 e 3. Separe o que acontece ao longo do axônio do que acontece entre as duas células.",
+        "nb-s-neurotransmissao": "Comece pelo esquema “Neurotransmissão”. Siga o sinal pelo axônio até a fenda e depois até o receptor da próxima célula."
       },
       "parent": "fundamentos",
       "relation": "sequence",
@@ -163,12 +179,14 @@
       "body": "A diferença de voltagem da membrana depende da distribuição dos íons e da abertura dos canais. O potencial de repouso ajuda a estabelecer o ponto de partida para os sinais rápidos.",
       "objective": "Explique por que uma célula em repouso ainda tem uma diferença de voltagem.",
       "resources": [
+        "nb-s-neurotransmissao",
         "nb-excitavel",
         "nb-gasparotto"
       ],
       "resourceGuides": {
-        "nb-excitavel": "Use o trecho sobre a entrada e a saída de íons antes do gráfico. Separe a ideia de distribuição de íons da ideia de abertura de canais.",
-        "nb-gasparotto": "Leia a abertura da seção 1.1 e a figura dos compartimentos dentro e fora da célula (p. 12–13). Deixe as equações para uma segunda leitura."
+        "nb-excitavel": "Leia o parágrafo sobre canais de sódio e potássio. Compare o que acontece antes e depois de alcançar o limiar.",
+        "nb-gasparotto": "Leia a abertura da seção 1.1 e a figura dos compartimentos dentro e fora da célula (p. 12–13). Deixe as equações para uma segunda leitura.",
+        "nb-s-neurotransmissao": "Na explicação do esquema, procure o trecho sobre o potencial limiar. Acompanhe a entrada de sódio até o disparo."
       },
       "parent": "sinalizacao",
       "relation": "related",
@@ -180,12 +198,14 @@
       "body": "Ao atingir um limiar, a membrana pode produzir uma mudança rápida de voltagem. A entrada de sódio e a saída de potássio ajudam a entender as fases mais comuns do disparo.",
       "objective": "Esboce um gráfico e identifique limiar, despolarização e repolarização.",
       "resources": [
+        "nb-excitavel",
         "nb-atividade",
         "nb-gasparotto"
       ],
       "resourceGuides": {
         "nb-atividade": "Baixe o gabarito em PDF e use os dois esquemas para conferir a diferença entre potencial de membrana e potencial de ação.",
-        "nb-gasparotto": "Abra a seção 1.4, p. 25. Leia o gráfico antes do texto e marque em que momento os canais de sódio passam a se abrir."
+        "nb-gasparotto": "Abra a seção 1.4, p. 25. Leia o gráfico antes do texto e marque em que momento os canais de sódio passam a se abrir.",
+        "nb-excitavel": "Vá a “Noções de neurofisiologia” e procure o parágrafo em que a despolarização alcança o limiar. Siga a ordem de abertura dos canais até a repolarização."
       },
       "parent": "eletricidade",
       "relation": "related",
@@ -197,12 +217,14 @@
       "body": "O sinal se propaga porque a atividade de um trecho do axônio favorece a abertura de canais no trecho seguinte. Em axônios mielinizados, o sinal é regenerado nos espaços da bainha chamados nodos de Ranvier.",
       "objective": "Compare como o sinal avança em um axônio mielinizado e em um sem mielina.",
       "resources": [
+        "nb-s-neurotransmissao",
         "nb-ibro",
         "nb-gasparotto"
       ],
       "resourceGuides": {
         "nb-ibro": "Em “O isolamento dos axónios” (cap. 2), encontre o trecho que explica por que os canais se concentram nos intervalos da mielina.",
-        "nb-gasparotto": "Veja a figura 14 na seção 1.6. Acompanhe os quadros da propagação e compare com o desenho do guia ilustrado."
+        "nb-gasparotto": "Veja a figura 14 na seção 1.6. Acompanhe os quadros da propagação e compare com o desenho do guia ilustrado.",
+        "nb-s-neurotransmissao": "Leia só os dois parágrafos sobre a propagação no axônio. Localize os nodos de Ranvier e compare a condução em fibras com e sem mielina."
       },
       "parent": "eletricidade",
       "relation": "related",
@@ -214,12 +236,14 @@
       "body": "Sinapses químicas transmitem sinais por moléculas liberadas entre as células. Sinapses elétricas permitem a passagem direta de corrente entre células acopladas.",
       "objective": "Compare o modo de transmissão nas sinapses químicas e nas elétricas.",
       "resources": [
+        "nb-s-sinapse",
         "nb-pop",
         "nb-gasparotto"
       ],
       "resourceGuides": {
         "nb-pop": "Compare os quadros “Sinapse química” e “Notas de aprofundamento” da p. 9.",
-        "nb-gasparotto": "Leia as seções 2.1.1 e 2.1.2, p. 41–42. Faça uma tabela com o mecanismo de cada tipo e um exemplo."
+        "nb-gasparotto": "Leia as seções 2.1.1 e 2.1.2, p. 41–42. Faça uma tabela com o mecanismo de cada tipo e um exemplo.",
+        "nb-s-sinapse": "Compare as figuras 1 e 3. Na primeira, siga a passagem dos íons pelos canais. Na segunda, veja o caminho do neurotransmissor entre as células."
       },
       "parent": "sinalizacao",
       "relation": "related",
@@ -231,12 +255,14 @@
       "body": "Glutamato, GABA, dopamina e outros mensageiros atuam em receptores. O efeito depende do tipo de receptor, das células envolvidas e do circuito.",
       "objective": "Escolha um neurotransmissor e explique por que dar a ele um único papel seria uma simplificação.",
       "resources": [
+        "nb-s-sinapse",
         "nb-ibro",
         "nb-gasparotto"
       ],
       "resourceGuides": {
         "nb-ibro": "Em “Mensageiros Químicos” (p. 7–8), compare a abertura de um canal com a ação mais indireta de um receptor.",
-        "nb-gasparotto": "Leia as seções 2.4 a 2.6. Faça a sequência em três passos: liberação, ligação e remoção da molécula."
+        "nb-gasparotto": "Leia as seções 2.4 a 2.6. Faça a sequência em três passos: liberação, ligação e remoção da molécula.",
+        "nb-s-sinapse": "Comece pela figura 3. Encontre o mensageiro e o receptor a que ele se liga. Leia o primeiro parágrafo de “Neurotransmissores” para ligar o desenho à explicação."
       },
       "parent": "sinapses",
       "relation": "related",
@@ -248,12 +274,14 @@
       "body": "Um neurônio pode receber sinais que favorecem ou dificultam um disparo. A combinação de sinais ao longo do tempo e em lugares diferentes da célula ajuda a determinar se o limiar será atingido.",
       "objective": "Desenhe um exemplo de soma no tempo e outro de soma entre entradas diferentes.",
       "resources": [
+        "nb-s-sinapse",
         "nb-gasparotto",
         "nb-ibro"
       ],
       "resourceGuides": {
         "nb-gasparotto": "Comece pelo esquema da seção 2.8 (p. 51–53). Observe o que muda quando sinais chegam próximos no tempo.",
-        "nb-ibro": "No capítulo 3, compare os traçados de potenciais pós-sinápticos. Veja como os efeitos de entradas diferentes podem se combinar."
+        "nb-ibro": "No capítulo 3, compare os traçados de potenciais pós-sinápticos. Veja como os efeitos de entradas diferentes podem se combinar.",
+        "nb-s-sinapse": "Leia o parágrafo depois de “Neurotransmissores”. Use o esquema da sinapse química para ver onde um sinal pode aumentar ou diminuir a atividade da célula que o recebe. O livro abaixo explica a soma de sinais."
       },
       "parent": "sinapses",
       "relation": "related",
@@ -422,15 +450,15 @@
       "body": "A atenção dá prioridade ao que pode ajudar numa tarefa. Um ruído inesperado pode atrair sua atenção, e uma meta, como encontrar uma pessoa na multidão, também orienta a busca.",
       "objective": "Diferencie uma distração que capturou sua atenção de uma busca orientada por uma meta.",
       "resources": [
-        "na-atencao-livro",
-        "na-atencao"
+        "na-atencao",
+        "na-atencao-livro"
       ],
       "parent": "cognicao",
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
         "na-atencao-livro": "Comece pela introdução do capítulo 2 e pelos exemplos de atenção seletiva e sustentada.",
-        "na-atencao": "Na discussão sobre busca visual, compare uma tarefa em que o alvo se destaca com outra que exige examinar vários itens."
+        "na-atencao": "Na parte de busca visual, imagine procurar um objeto que se destaca e depois procurar um objeto parecido com os demais. Compare o esforço nas duas tarefas."
       }
     },
     {
@@ -439,6 +467,7 @@
       "body": "Quando uma tarefa muda de regra, você precisa manter a instrução em mente, conter a resposta habitual e se adaptar. Memória de trabalho, controle inibitório e flexibilidade cognitiva ajudam a descrever essas habilidades.",
       "objective": "Imagine uma atividade que muda de regra e mostre onde entra cada habilidade.",
       "resources": [
+        "na-s-funcoes",
         "na-funcoes",
         "na-leitura"
       ],
@@ -447,7 +476,8 @@
       "lane": "left",
       "resourceGuides": {
         "na-funcoes": "Leia a seção que define as funções executivas. Use os exemplos de planejamento, filtragem de distrações e mudança de estratégia.",
-        "na-leitura": "Na seção sobre funções executivas, procure o paradigma de Stroop e relacione a resposta automática ao controle inibitório."
+        "na-leitura": "Na seção sobre funções executivas, procure o paradigma de Stroop e relacione a resposta automática ao controle inibitório.",
+        "na-s-funcoes": "Assista ao vídeo de seis minutos. Pense em quando você precisa guardar uma instrução, ignorar uma distração ou mudar de plano."
       }
     },
     {
@@ -456,9 +486,9 @@
       "body": "Contar o que ocorreu ontem, saber a capital de um país e andar de bicicleta dependem de formas diferentes de memória. Há também a memória de trabalho, que ajuda a manter e manipular informação durante uma tarefa.",
       "objective": "Invente um exemplo de memória episódica, outro de memória semântica e outro de aprendizagem de uma habilidade.",
       "resources": [
+        "na-memoria-aula",
         "na-aprendizagem-usp",
-        "na-memorias",
-        "na-memoria-aula"
+        "na-memorias"
       ],
       "parent": "cognicao",
       "relation": "related",
@@ -466,7 +496,7 @@
       "resourceGuides": {
         "na-aprendizagem-usp": "Vá ao capítulo sobre memória. Procure a distinção entre tipos de memória e relacione cada um a uma atividade da sua semana.",
         "na-memorias": "Na seção sobre a classificação das memórias, use os exemplos de saber que e saber como para organizar suas anotações.",
-        "na-memoria-aula": "Use a parte III do módulo como revisão do capítulo de memória."
+        "na-memoria-aula": "Comece pela videoaula de 17 minutos. Use as categorias do artigo de Izquierdo para relacionar o que viu a uma lembrança e a uma habilidade da sua semana."
       }
     },
     {
@@ -528,15 +558,15 @@
       "body": "Emoções envolvem a avaliação de uma situação, mudanças no corpo e tendências de ação. Uma prova pode mudar sua atenção às perguntas e sua percepção do próprio desempenho.",
       "objective": "Separe a interpretação de uma situação, a reação corporal e a ação que vem a seguir.",
       "resources": [
-        "na-aprendizagem-usp",
-        "na-emocoes-aula"
+        "na-emocoes-aula",
+        "na-aprendizagem-usp"
       ],
       "parent": "cognicao",
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
         "na-aprendizagem-usp": "No capítulo sobre emoções, estresse e ansiedade, comece pelas definições e pelos exemplos do cotidiano acadêmico.",
-        "na-emocoes-aula": "Assista ao trecho do módulo e anote como a professora relaciona o tema à vida acadêmica."
+        "na-emocoes-aula": "Comece na aula de 11 minutos. Anote a situação cotidiana usada para distinguir emoção, estresse e ansiedade."
       }
     },
     {
@@ -545,6 +575,7 @@
       "body": "O eixo hipotálamo, hipófise e adrenal participa da resposta hormonal ao estresse. A duração, a situação e a história da pessoa influenciam como essa resposta se apresenta.",
       "objective": "Desenhe o percurso do sinal do hipotálamo à adrenal e indique onde entra o cortisol.",
       "resources": [
+        "na-s-estresse",
         "na-aprendizagem-usp",
         "na-estresse"
       ],
@@ -553,7 +584,8 @@
       "lane": "right",
       "resourceGuides": {
         "na-aprendizagem-usp": "No capítulo sobre emoções e estresse, localize a parte sobre o que ocorre no organismo durante a resposta ao estresse.",
-        "na-estresse": "Leia a explicação inicial do eixo hormonal e observe por que resultados sobre cortisol variam com o grupo e o contexto estudados."
+        "na-estresse": "Leia a explicação inicial do eixo hormonal e observe por que resultados sobre cortisol variam com o grupo e o contexto estudados.",
+        "na-s-estresse": "Comece pelo trecho que fala de adrenalina e cortisol. Compare a resposta imediata a uma ameaça com o que ocorre quando o estresse se prolonga."
       }
     },
     {
@@ -596,15 +628,15 @@
       "body": "Em certas fases, algumas experiências têm efeitos especialmente fortes sobre o desenvolvimento de uma habilidade. O momento depende do sistema em estudo e a capacidade de mudança segue presente na vida adulta.",
       "objective": "Explique por que uma fase de alta plasticidade tem efeitos diferentes para habilidades diferentes.",
       "resources": [
-        "na-funcoes",
-        "na-infancia"
+        "na-infancia",
+        "na-funcoes"
       ],
       "parent": "plasticidade",
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
         "na-funcoes": "Leia a apresentação e a caixa de definições da página 4. Compare período sensível com plasticidade.",
-        "na-infancia": "Em Experiências moldam a arquitetura do cérebro, observe como o vídeo representa a construção de circuitos em etapas."
+        "na-infancia": "Veja o vídeo “Experiências moldam a arquitetura do cérebro”. Observe por que o momento em que ocorre uma experiência pode fazer diferença para os circuitos."
       }
     },
     {
@@ -700,6 +732,7 @@
       "body": "A escolha de uma técnica depende da pergunta. Algumas registram mudanças rápidas em sinais elétricos. Outras permitem situar melhor no cérebro uma mudança ligada ao fluxo sanguíneo.",
       "objective": "Compare EEG e ressonância magnética funcional quanto ao sinal captado e ao tipo de pergunta que ajudam a responder.",
       "resources": [
+        "na-eeg-experimento",
         "na-metodos-aula",
         "na-metodos-artigo"
       ],
@@ -708,7 +741,8 @@
       "lane": "right",
       "resourceGuides": {
         "na-metodos-aula": "Compare o EEG com a espectroscopia funcional depois de ver as demonstrações de registro.",
-        "na-metodos-artigo": "Na passagem sobre ressonância funcional, identifique por que o sinal ligado ao sangue é uma medida indireta."
+        "na-metodos-artigo": "Na passagem sobre ressonância funcional, identifique por que o sinal ligado ao sangue é uma medida indireta.",
+        "na-eeg-experimento": "Leia a descrição do experimento. Compare o que o pesquisador mede com os eletrodos e o que mede pedindo que a pessoa responda à tarefa."
       }
     },
     {
@@ -717,15 +751,15 @@
       "body": "Eletrodos no couro cabeludo registram variações de voltagem que refletem atividade conjunta de populações de neurônios. O sinal muda rapidamente e também pode ser afetado por piscadas e movimentos.",
       "objective": "Explique a vantagem de um registro rápido quando o estímulo dura poucos milissegundos.",
       "resources": [
-        "na-metodos-aula",
-        "na-eeg-experimento"
+        "na-eeg-experimento",
+        "na-metodos-aula"
       ],
       "parent": "sinais-pesquisa",
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
         "na-metodos-aula": "Procure a demonstração de EEG e observe onde ficam os sensores.",
-        "na-eeg-experimento": "Veja como o estudo combinou faixas de frequência do EEG com tempo de resposta e acertos."
+        "na-eeg-experimento": "Na descrição do experimento, veja o que os eletrodos registram durante a tarefa. A palestra abaixo mostra como se monta um registro de EEG."
       }
     },
     {
@@ -751,6 +785,7 @@
       "body": "Uma afirmação sobre o cérebro pode soar convincente mesmo quando a recomendação prática que vem depois carece de evidência. Preferir vídeos, por exemplo, é diferente de aprender mais porque a aula foi adaptada ao suposto estilo visual.",
       "objective": "Transforme uma afirmação sobre a aprendizagem em uma pergunta testável e defina como mediria a diferença.",
       "resources": [
+        "na-s-neuromito",
         "na-estilos",
         "na-neuromitos"
       ],
@@ -759,7 +794,8 @@
       "lane": "left",
       "resourceGuides": {
         "na-estilos": "Comece pela introdução. Separe preferência pessoal da hipótese de que combinar material e estilo melhora a aprendizagem.",
-        "na-neuromitos": "Observe quais frases entraram no questionário. Diferencie o que o estudo mediu de uma avaliação do efeito dessas ideias em sala de aula."
+        "na-neuromitos": "Observe quais frases entraram no questionário. Diferencie o que o estudo mediu de uma avaliação do efeito dessas ideias em sala de aula.",
+        "na-s-neuromito": "Assista ao resumo da pesquisa. Pense na diferença entre preferir um formato de aula e afirmar que só se aprende bem naquele formato."
       }
     },
     {
@@ -768,6 +804,7 @@
       "body": "Dados de pesquisa podem ser reutilizados em perguntas novas e combinados com informações pessoais. Importa entender a finalidade, o acesso aos registros e o que o participante pôde aceitar ao decidir participar.",
       "objective": "Liste o que você explicaria à pessoa antes de registrar um EEG para uma pesquisa estudantil.",
       "resources": [
+        "na-s-guia-dados",
         "na-dados",
         "na-neurodados"
       ],
@@ -775,8 +812,9 @@
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
-        "na-dados": "Leia a síntese no anexo sobre proteção e compartilhamento de dados. Anote duas informações que o participante precisa receber.",
-        "na-neurodados": "Procure a discussão de privacidade e inferências sobre pessoas. Dê um exemplo de uso secundário de um sinal coletado em pesquisa."
+        "na-dados": "No guia em PDF, leia a síntese sobre proteção e compartilhamento de dados.",
+        "na-neurodados": "Procure a discussão de privacidade e inferências sobre pessoas. Dê um exemplo de uso secundário de um sinal coletado em pesquisa.",
+        "na-s-guia-dados": "Leia a abertura até o exemplo de compartilhamento com órgãos de pesquisa. Pense em que informação alguém precisaria receber antes de ter seus registros de EEG usados em um estudo."
       }
     }
   ],
@@ -790,7 +828,7 @@
       "url": "https://repositorio.unipampa.edu.br/server/api/core/bitstreams/11a8cd97-ef34-4fc8-aa17-ed33b000e9a2/content",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Cartilha ilustrada",
+      "format": "Cartilha ilustrada em PDF",
       "access": "Material de leitura gratuito, sem cadastro na consulta.",
       "checkedAt": "2026-11-25",
       "verification": "Autoria, assunto e acesso conferidos na página de origem.",
@@ -813,7 +851,7 @@
       "url": "https://ffms.pt/sites/default/files/2022-07/portuguese.pdf",
       "sourcePage": null,
       "language": "pt-PT",
-      "format": "Guia ilustrado",
+      "format": "Guia ilustrado em PDF",
       "access": "Material de leitura gratuito, sem cadastro na consulta.",
       "checkedAt": "2026-11-25",
       "verification": "Autoria, assunto e acesso conferidos na página de origem.",
@@ -1013,7 +1051,8 @@
       "relevance": "Leia até o primeiro gráfico de potencial de ação, usando o exemplo sensorial para acompanhar o caminho da informação.",
       "nodes": [
         "sinalizacao",
-        "eletricidade"
+        "eletricidade",
+        "potencial-acao"
       ]
     },
     {
@@ -1025,7 +1064,7 @@
       "url": "https://uab.ufsc.br/biologia/files/2020/08/Biof%C3%ADsica-Aplicada-%C3%A0s-Ci%C3%AAncias-Biol%C3%B3gicas.pdf",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Livro didático",
+      "format": "Livro didático em PDF",
       "access": "Material de leitura gratuito, sem cadastro na consulta.",
       "checkedAt": "2026-11-25",
       "verification": "Autoria, assunto e acesso conferidos na página de origem.",
@@ -1130,7 +1169,7 @@
       "url": "https://revistas.usp.br/rmrp/pt_BR/article/download/806/818/",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Artigo de revisão",
+      "format": "Artigo de revisão · PDF",
       "access": "Material de leitura gratuito, sem cadastro na consulta.",
       "checkedAt": "2026-11-25",
       "verification": "Autoria, assunto e acesso conferidos na página de origem.",
@@ -1232,7 +1271,7 @@
       "url": "https://livrosabertos.abcd.usp.br/portaldelivrosUSP/pt_BR/catalog/download/1594/1458/5738?inline=1",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Livro aberto",
+      "format": "Livro aberto em PDF",
       "access": "Material gratuito no endereço indicado.",
       "checkedAt": "2026-11-25",
       "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
@@ -1296,7 +1335,7 @@
       "url": "https://unichristus.edu.br/wp-content/uploads/2024/06/E-book-Neurociencia-Cognitiva.pdf",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Capítulo de livro",
+      "format": "Capítulo de livro em PDF",
       "access": "Material gratuito no endereço indicado.",
       "checkedAt": "2026-11-25",
       "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
@@ -1316,7 +1355,7 @@
       "url": "https://ncpi.org.br/wp-content/uploads/2024/08/Funcoes-executivas-e-desenvolvimento-na-primeira-infancia.pdf",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Guia de pesquisa",
+      "format": "Guia de pesquisa em PDF",
       "access": "Material gratuito no endereço indicado.",
       "checkedAt": "2026-11-25",
       "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
@@ -1458,7 +1497,7 @@
       "url": "https://revistas.usp.br/revusp/pt_BR/article/download/69222/71686",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Artigo de revisão",
+      "format": "Artigo de revisão · PDF",
       "access": "Material gratuito no endereço indicado.",
       "checkedAt": "2026-11-25",
       "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
@@ -1498,7 +1537,7 @@
       "url": "https://www.scielo.br/j/rbp/a/yfF9MB4BBkff4WmkW9QFsNh/?format=pdf&lang=pt",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Artigo de revisão",
+      "format": "Artigo de revisão · PDF",
       "access": "Material gratuito no endereço indicado.",
       "checkedAt": "2026-11-25",
       "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
@@ -1541,7 +1580,7 @@
       "url": "https://ncpi.org.br/wp-content/uploads/2024/08/O-impacto-do-desenvolvimento-na-primeira-infancia-sobre-a_aprendizagem.pdf",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Guia de pesquisa",
+      "format": "Guia de pesquisa em PDF",
       "access": "Material gratuito no endereço indicado.",
       "checkedAt": "2026-11-25",
       "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
@@ -1678,6 +1717,7 @@
       "relevance": "Na descrição do experimento, compare fazer as tarefas juntas e separadas. Anote quais medidas são de desempenho e quais vêm do EEG.",
       "nodes": [
         "experimentos",
+        "sinais-pesquisa",
         "eeg"
       ]
     },
@@ -1712,7 +1752,7 @@
       "url": "https://www.repositorio.unb.br/bitstream/10482/44852/1/ARTIGO_NeurocienciaFormacaoDocente.pdf",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Artigo de pesquisa",
+      "format": "Artigo de pesquisa · PDF",
       "access": "Material gratuito no endereço indicado.",
       "checkedAt": "2026-11-25",
       "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
@@ -1732,7 +1772,7 @@
       "url": "https://www.repositorio.unb.br/bitstream/10482/48372/1/ARTIGO_EquivocosConceituaisDifceis.pdf",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Artigo de pesquisa",
+      "format": "Artigo de pesquisa · PDF",
       "access": "Material gratuito no endereço indicado.",
       "checkedAt": "2026-11-25",
       "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
@@ -1752,7 +1792,7 @@
       "url": "https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes/web-guia-anpd-tratamento-de-dados-para-fins-academicos.pdf/@@download/file",
       "sourcePage": "https://www.gov.br/anpd/pt-br/centrais-de-conteudo/materiais-educativos-e-publicacoes/guia-orientativo-tratamento-de-dados-pessoais-para-fins-academicos-e-para-a-realizacao-de-estudos-e-pesquisas",
       "language": "pt-BR",
-      "format": "Guia institucional",
+      "format": "Guia institucional em PDF",
       "access": "Material gratuito no endereço indicado.",
       "checkedAt": "2026-11-25",
       "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
@@ -1772,7 +1812,7 @@
       "url": "https://www.gov.br/anpd/pt-br/centrais-de-conteudo/documentos-tecnicos-orientativos/radar-tecnologico-4-neurotecnologias.pdf/@@download/file",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Relatório técnico",
+      "format": "Relatório técnico · PDF",
       "access": "Material gratuito no endereço indicado.",
       "checkedAt": "2026-11-25",
       "verification": "Material em português localizado no endereço indicado. Título e autoria verificados na fonte.",
@@ -1825,6 +1865,194 @@
       "relevance": "No desenho e na seção sobre a cóclea, siga as vibrações do tímpano até o nervo auditivo.",
       "nodes": [
         "audicao"
+      ]
+    },
+    {
+      "id": "nb-s-sistema",
+      "title": "O que é Neurociência?",
+      "authors": "Grupo de Neurobiofísica",
+      "institution": "Instituto de Física de São Carlos · USP",
+      "year": null,
+      "url": "https://neurobiofisica.ifsc.usp.br/Divulgacao/divulgacao.html",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Texto ilustrado",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "A página apresenta o sistema nervoso e explica brevemente como ele pode ser estudado.",
+      "relevance": "A visão geral situará as partes do sistema nervoso antes dos detalhes anatômicos.",
+      "nodes": [
+        "fundamentos",
+        "divisoes"
+      ]
+    },
+    {
+      "id": "nb-s-sinapse",
+      "title": "Ultraestrutura das Sinapses",
+      "authors": "Equipe do Atlas Interativo de Biologia Celular · ilustrações de Edilson Jacob",
+      "institution": "Instituto de Ciências Biomédicas · USP",
+      "year": null,
+      "url": "https://atin.icb.usp.br/inicio/cdv/ultrasin/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Atlas ilustrado",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "O atlas foi feito para ensino de biologia celular e inclui detalhes de ultraestrutura.",
+      "relevance": "Os esquemas mostram como os sinais atravessam as sinapses.",
+      "nodes": [
+        "sinapses",
+        "receptores",
+        "integracao-sinaptica"
+      ]
+    },
+    {
+      "id": "na-s-neuromito",
+      "title": "O neuromito dos estilos de aprendizagem",
+      "authors": "Maria Vitória Vieira da Nóbrega, Natasha da Silva Melo e João Paulo Cunha de Menezes",
+      "institution": "Universidade de Brasília · Revista Ibero-Americana de Estudos em Educação",
+      "year": null,
+      "url": "https://www.youtube.com/watch?v=B1TTcMHHpfY",
+      "sourcePage": "https://periodicos.fclar.unesp.br/iberoamericana/article/view/18213",
+      "language": "pt-BR",
+      "format": "Vídeo · 2 min 28 s",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o player público do YouTube, o tempo de vídeo e a página da pesquisa na revista.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "O vídeo resume uma pesquisa com professores em formação em Ciências Biológicas.",
+      "relevance": "O estudo usa o exemplo dos estilos de aprendizagem para discutir a persistência de um neuromito.",
+      "nodes": [
+        "neuromitos"
+      ]
+    },
+    {
+      "id": "na-s-guia-dados",
+      "title": "ANPD lança Guia Orientativo sobre Tratamento de Dados Pessoais para Fins Acadêmicos",
+      "authors": "Autoridade Nacional de Proteção de Dados",
+      "institution": "ANPD",
+      "year": 2023,
+      "url": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-lanca-guia-orientativo-sobre-tratamento-de-dados-pessoais-para-fins-academicos",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Texto institucional",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "Apresentação voltada a pesquisas com dados pessoais em geral.",
+      "relevance": "O texto dá exemplos de usos acadêmicos e explica o papel da transparência.",
+      "nodes": [
+        "etica"
+      ]
+    },
+    {
+      "id": "nb-s-nervos",
+      "title": "Nervos",
+      "authors": "Mark Freedman · revisão de Michael C. Levin",
+      "institution": "Manual MSD · versão para o público geral",
+      "year": 2025,
+      "url": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-cerebrais-da-medula-espinal-e-dos-nervos/biologia-do-sistema-nervoso/nervos",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Texto ilustrado",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "O capítulo usa a anatomia dos nervos para introduzir o neurônio e a mielina.",
+      "relevance": "O desenho mostra as partes do neurônio e a bainha que recobre o axônio.",
+      "nodes": [
+        "celulas",
+        "neuronio",
+        "glia-mielina"
+      ]
+    },
+    {
+      "id": "nb-s-neurotransmissao",
+      "title": "Neurotransmissão",
+      "authors": "Mark Freedman · revisão de Michael C. Levin",
+      "institution": "Manual MSD · edição para profissionais",
+      "year": 2025,
+      "url": "https://www.msdmanuals.com/pt/profissional/dist%C3%BArbios-neurol%C3%B3gicos/abordagem-do-paciente-neurol%C3%B3gico/neurotransmiss%C3%A3o",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Texto ilustrado",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "Use os parágrafos iniciais e as figuras antes das seções sobre medicamentos e distúrbios.",
+      "relevance": "A figura e os primeiros parágrafos descrevem a propagação de um sinal no axônio e sua transmissão pela sinapse.",
+      "nodes": [
+        "sinalizacao",
+        "eletricidade",
+        "conducao"
+      ]
+    },
+    {
+      "id": "na-s-funcoes",
+      "title": "Funções executivas: habilidades para a vida e aprendizagem",
+      "authors": "Center on the Developing Child · Harvard University",
+      "institution": "Fundação Maria Cecilia Souto Vidigal · versão em português",
+      "year": null,
+      "url": "https://www.youtube.com/watch?v=6gIY_X9IXH8",
+      "sourcePage": "https://developingchild.harvard.edu/resources/videos/inbrief-executive-function-skills-for-life-and-learning/",
+      "language": "pt-BR",
+      "format": "Vídeo · 5 min 44 s",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos título, canal, disponibilidade pública e duração na página do vídeo.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "Animação que explica como as habilidades se desenvolvem, com situações do dia a dia.",
+      "relevance": "O vídeo usa uma imagem simples para apresentar o que as funções executivas ajudam a coordenar.",
+      "nodes": [
+        "controle-executivo"
+      ]
+    },
+    {
+      "id": "na-s-estresse",
+      "title": "Não podemos eliminar o estresse de nossas vidas, mas existem formas de tranquilizar o organismo",
+      "authors": "Alessandra Ueno · entrevistas com Antônio de Pádua Serafim e Maria Cândida Villares Fragoso",
+      "institution": "Jornal da USP",
+      "year": 2023,
+      "url": "https://jornal.usp.br/radio-usp/nao-podemos-eliminar-o-estresse-de-nossas-vidas-mas-existem-formas-de-tranquilizar-o-organismo/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Reportagem com áudio",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "A reportagem entrevista especialistas da USP sobre a resposta corporal ao estresse.",
+      "relevance": "O texto usa situações cotidianas para apresentar a resposta hormonal.",
+      "nodes": [
+        "resposta-estresse"
+      ]
+    },
+    {
+      "id": "nb-s-divisoes",
+      "title": "Considerações gerais sobre o sistema nervoso",
+      "authors": "Mark Freedman · revisão de Michael C. Levin",
+      "institution": "Manual MSD · versão para o público geral",
+      "year": 2025,
+      "url": "https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-cerebrais-da-medula-espinal-e-dos-nervos/biologia-do-sistema-nervoso/considera%C3%A7%C3%B5es-gerais-sobre-o-sistema-nervoso",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Texto explicativo",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "O manual apresenta a organização por divisões e as principais células do sistema nervoso.",
+      "relevance": "A abertura apresenta as duas divisões. Os parágrafos seguintes comparam neurônios e glia.",
+      "nodes": [
+        "divisoes",
+        "celulas"
       ]
     }
   ]

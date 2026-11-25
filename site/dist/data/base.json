@@ -8,15 +8,15 @@
       "body": "Quando a Psicologia ganhou espaço nas escolas, nas fábricas e nas universidades brasileiras, cada instituição trouxe perguntas próprias. Selecionar trabalhadores, compreender dificuldades escolares e estudar processos mentais deram origem a práticas e debates distintos. A história da profissão ajuda a situar a pluralidade de abordagens que encontramos hoje.",
       "objective": "Escolha dois contextos de atuação mencionados por Furtado e explique como cada um influenciou as perguntas feitas por psicólogos.",
       "resources": [
-        "historia-br",
-        "historia-video"
+        "historia-video",
+        "historia-br"
       ],
       "parent": null,
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
         "historia-br": "Acompanhe as passagens sobre educação, trabalho e regulamentação. Para uma delas, identifique uma instituição, a demanda que ela atendia e os participantes que aparecem na narrativa.",
-        "historia-video": "Assista ao registro da mostra dos 50 anos e escolha um marco que mereça investigação. Procure no artigo de Furtado o contexto em que ele ocorreu."
+        "historia-video": "Comece pelo vídeo de nove minutos. Preste atenção a onde se fazia Psicologia antes de ela ser regulamentada como profissão."
       }
     },
     {
@@ -76,12 +76,12 @@
       "body": "A regulamentação da profissão em 1962 foi precedida por propostas de associações, instituições de ensino e profissionais. A definição do currículo e das atividades que caberiam ao psicólogo esteve em disputa. Documentos de momentos diferentes permitem reconstruir essas escolhas.",
       "objective": "Compare uma proposta anterior a 1962 com um ponto que entrou na discussão final sobre formação ou exercício profissional.",
       "resources": [
-        "bc-h-regulacao",
-        "historia-video"
+        "historia-video",
+        "bc-h-regulacao"
       ],
       "resourceGuides": {
         "bc-h-regulacao": "Comece pelo anteprojeto de 1953. Identifique uma entidade que se manifestou e acompanhe o que mudou nas propostas posteriores.",
-        "historia-video": "Na mostra dos 50 anos, localize o marco de 1962. Volte ao artigo documental para identificar um debate que antecedeu a comemoração."
+        "historia-video": "No vídeo de nove minutos, procure a passagem sobre 1962. O artigo complementar ajuda a reconstruir os debates antes da lei."
       },
       "parent": "historia",
       "relation": "related",
@@ -237,12 +237,12 @@
       "body": "Nomear a cor da tinta pode levar mais tempo quando a palavra escrita designa outra cor. Esse conflito permite investigar como uma resposta habitual, a leitura, interfere na atenção ao aspecto relevante para a tarefa. A interpretação depende de quais condições foram comparadas.",
       "objective": "Explique por que pesquisadores comparam uma condição com conflito a uma condição de referência. Identifique a medida de desempenho usada no artigo.",
       "resources": [
-        "bc-h-niteroi",
-        "bc-h-stroop"
+        "bc-h-stroop",
+        "bc-h-niteroi"
       ],
       "resourceGuides": {
         "bc-h-niteroi": "No método, leia a instrução dos diferentes cartões da versão Victoria. Observe como a comparação entre os cartões torna a interferência mensurável.",
-        "bc-h-stroop": "Na revisão, encontre as versões do Stroop usadas no Brasil e compare seus escores. Verifique se dois estudos que usam o mesmo nome aplicam a mesma tarefa."
+        "bc-h-stroop": "Comece pela introdução sobre o teste de Stroop. Experimente dizer a cor em que a palavra “verde” aparece quando ela está escrita em vermelho."
       },
       "parent": "memoria",
       "relation": "related",
@@ -254,9 +254,9 @@
       "body": "O desenvolvimento envolve mudanças físicas, cognitivas e sociais ao longo do tempo. Duas pessoas da mesma idade podem ter oportunidades diferentes de aprender, conviver ou exercer autonomia. Os estudos do curso de vida investigam como essas trajetórias se formam nas relações entre a pessoa e seu ambiente.",
       "objective": "Use o exemplo de uma mudança de escola para descrever uma interação entre uma característica pessoal e uma condição do ambiente.",
       "resources": [
+        "bc-h-infancia",
         "neri",
-        "desenvolvimento-br",
-        "bc-h-infancia"
+        "desenvolvimento-br"
       ],
       "parent": "epistemologia",
       "relation": "related",
@@ -264,7 +264,7 @@
       "resourceGuides": {
         "neri": "Leia a apresentação do curso de vida e a seção sobre seleção, otimização e compensação. Observe como ganhos e perdas variam entre atividades e pessoas da mesma idade.",
         "desenvolvimento-br": "Na discussão da abordagem bioecológica, identifique um exemplo de interação pessoa–contexto que mude ao longo da adolescência.",
-        "bc-h-infancia": "Na aula da Unesp/Univesp, escute como os docentes formulam a pergunta de Piaget sobre a construção do conhecimento. Compare o foco na infância com o olhar de curso de vida da primeira leitura."
+        "bc-h-infancia": "Comece pelas entrevistas que apresentam a Psicologia do Desenvolvimento. O texto de Neri segue a conversa até a vida adulta e a velhice."
       }
     },
     {
@@ -377,12 +377,14 @@
       "body": "Uma investigação sobre a vida escolar pode querer estimar a frequência de uma experiência ou compreender como ela é vivida. Para estimar uma frequência, importa saber quem teve chance de entrar na amostra. Para compreender experiências, importa explicar por que aquelas pessoas podem falar sobre a pergunta.",
       "objective": "Compare duas pesquisas e identifique a população de interesse, quem pôde participar e quem ficou de fora.",
       "resources": [
+        "bc-s-amostras",
         "bc-m-pense",
         "bc-m-universitarios"
       ],
       "resourceGuides": {
         "bc-m-pense": "Nas notas técnicas da PeNSE, localize as etapas de ensino incluídas e o cadastro que serviu para escolher as escolas. Quem tem a mesma idade e está fora da escola aparece nessa pesquisa?",
-        "bc-m-universitarios": "Leia o método e a Tabela 1. Identifique o que os sete participantes tinham em comum e que experiências de outros universitários essa seleção deixa em aberto."
+        "bc-m-universitarios": "Leia o método e a Tabela 1. Identifique o que os sete participantes tinham em comum e que experiências de outros universitários essa seleção deixa em aberto.",
+        "bc-s-amostras": "Leia só as duas primeiras respostas. Imagine uma pesquisa sobre o sono dos alunos: quem faz parte da população e quem entraria na amostra?"
       },
       "parent": "metodos",
       "relation": "related",
@@ -394,12 +396,14 @@
       "body": "Em uma amostra probabilística, cada unidade elegível tem probabilidade conhecida e positiva de seleção. É possível sortear grupos em etapas. Na PeNSE 2019, as escolas foram as unidades do primeiro estágio, e as turmas, do segundo.",
       "objective": "Desenhe os dois estágios da PeNSE e explique por que estudantes da mesma turma entram na amostra juntos.",
       "resources": [
+        "bc-s-amostras",
         "bc-m-pense",
         "bc-m-amostra"
       ],
       "resourceGuides": {
         "bc-m-pense": "Na página 21 do PDF, procure o trecho sobre conglomerados em dois estágios. Anote o que foi selecionado em cada um.",
-        "bc-m-amostra": "Na Unidade 1, leia “Amostragem por Conglomerados”, depois do exemplo de estratos por porte de cidade. Compare sortear grupos com selecionar unidades de todos os estratos."
+        "bc-m-amostra": "Na Unidade 1, leia “Amostragem por Conglomerados”, depois do exemplo de estratos por porte de cidade. Compare sortear grupos com selecionar unidades de todos os estratos.",
+        "bc-s-amostras": "No índice, abra as perguntas sobre amostra aleatória simples e amostra por conglomerados. Compare sortear alunos com sortear turmas."
       },
       "parent": "selecao-participantes",
       "relation": "related",
@@ -445,12 +449,14 @@
       "body": "Um roteiro orienta a escuta quando cada pergunta contribui para o objetivo e usa palavras familiares à pessoa entrevistada. Perguntas que pressupõem uma resposta podem estreitar o relato antes que a pessoa tenha descrito sua experiência.",
       "objective": "Reescreva uma pergunta que antecipa a resposta e explique o que a nova formulação permite ouvir.",
       "resources": [
+        "bc-m-aula-instrumentos",
         "bc-m-roteiro",
         "bc-m-universitarios"
       ],
       "resourceGuides": {
         "bc-m-roteiro": "Na discussão do planejamento, examine um exemplo do autor à luz da linguagem, da ordem das perguntas e daquilo que se quer conhecer.",
-        "bc-m-universitarios": "Na seção sobre a entrevista, escolha uma das perguntas norteadoras transcritas. Indique que tipo de situação o participante poderia descrever e o que ainda caberia perguntar."
+        "bc-m-universitarios": "Na seção sobre a entrevista, escolha uma das perguntas norteadoras transcritas. Indique que tipo de situação o participante poderia descrever e o que ainda caberia perguntar.",
+        "bc-m-aula-instrumentos": "Na aula de 12 minutos, localize a parte sobre entrevista. Antes de ler o capítulo, tente transformar um objetivo de pesquisa em duas perguntas abertas."
       },
       "parent": "entrevista-pesquisa",
       "relation": "related",
@@ -530,12 +536,12 @@
       "body": "As setas de um diagrama causal registram suposições sobre o que influencia o quê. Se duas medidas se relacionam nos dois sentidos ao longo do tempo, é possível representar cada medida em momentos diferentes. Alterar uma seta modifica as hipóteses de ajuste e de interpretação.",
       "objective": "Desenhe duas hipóteses para a relação entre tempo de sono e carga de estudo, indicando os momentos de observação.",
       "resources": [
-        "bc-m-diagramas",
-        "causas-unesp"
+        "causas-unesp",
+        "bc-m-diagramas"
       ],
       "resourceGuides": {
         "bc-m-diagramas": "Compare a Figura 1a com a 1b. Localize as mesmas variáveis em tempos sucessivos e depois examine como o artigo constrói os diagramas de estresse ocupacional.",
-        "causas-unesp": "Reconstrua o desenho que explica a correlação do exemplo do sorvete. Mude a direção de uma seta e escreva qual afirmação passaria a ser feita."
+        "causas-unesp": "Comece pelo diagrama que acompanha o exemplo do sorvete. Siga as setas para ver de onde vêm as duas associações."
       },
       "parent": "confundimento",
       "relation": "related",
@@ -547,8 +553,8 @@
       "body": "Ao ler uma conclusão sobre uma intervenção, procure quem participou, com o que ela foi comparada, qual resultado foi medido e por quanto tempo. Uma estimativa imprecisa ou obtida em outra população pode deixar uma pergunta em aberto. No sistema GRADE, a confiança é avaliada para cada desfecho de um conjunto de estudos.",
       "objective": "Escolha um desfecho descrito no manual GRADE e identifique um fator capaz de reduzir a confiança na estimativa.",
       "resources": [
-        "grade-ficha",
         "exemplo-revisao",
+        "grade-ficha",
         "grade-br"
       ],
       "parent": "metodos",
@@ -556,7 +562,7 @@
       "lane": "center",
       "resourceGuides": {
         "grade-ficha": "Na primeira página, identifique os fatores que podem reduzir a certeza. Nas páginas seguintes, veja como o julgamento de um desfecho altera a formulação da conclusão.",
-        "exemplo-revisao": "Leia a pergunta sobre TCC comparada com lista de espera e a pergunta sobre outros tratamentos. Confira que tipo de estudo e faixa etária foram incluídos antes de interpretar os resultados.",
+        "exemplo-revisao": "Comece pela síntese em linguagem simples. Compare o que a revisão encontrou com o quanto os autores confiam nesses resultados.",
         "grade-br": "Procure no sumário as partes sobre risco de viés e imprecisão. Escolha um desfecho e distinga um problema de desenho de um intervalo de confiança pouco informativo."
       }
     },
@@ -566,12 +572,14 @@
       "body": "Para uma revisão sobre uma intervenção, participantes, intervenção, comparação e desfecho delimitam a pergunta. Comparar com uma lista de espera responde a algo diferente de comparar com outra intervenção. O leitor precisa identificar qual comparação sustenta a conclusão.",
       "objective": "Escolha uma das comparações na revisão sobre ansiedade e descreva que pergunta ela responde.",
       "resources": [
+        "bc-s-buscarevisao",
         "bc-m-passos",
         "exemplo-revisao"
       ],
       "resourceGuides": {
         "bc-m-passos": "No quadro com o acrônimo PICOS, relacione cada componente à decisão de incluir ou excluir estudos. Observe onde os autores situam o tipo de estudo.",
-        "exemplo-revisao": "Na síntese em português, procure as comparações da TCC com lista de espera e com outras intervenções. Escreva uma pergunta diferente para cada comparador."
+        "exemplo-revisao": "Na síntese em português, procure as comparações da TCC com lista de espera e com outras intervenções. Escreva uma pergunta diferente para cada comparador.",
+        "bc-s-buscarevisao": "No início da fase 1, leia a explicação do PICO. Tente escrever a pergunta para uma revisão sobre ansiedade em estudantes."
       },
       "parent": "evidencia",
       "relation": "related",
@@ -583,12 +591,14 @@
       "body": "Uma busca reproduzível registra bases, termos, combinações e data. Sinônimos ampliam as formas de encontrar um mesmo assunto; combinar conceitos restringe a busca a documentos em que eles se encontram.",
       "objective": "Monte e registre duas consultas sobre ansiedade em estudantes. Compare a diferença ao acrescentar um sinônimo e ao exigir um segundo conceito.",
       "resources": [
+        "bc-s-buscarevisao",
         "bc-m-biblioteca",
         "bc-m-busca"
       ],
       "resourceGuides": {
         "bc-m-biblioteca": "Na parte sobre os operadores, veja como AND e OR combinam conjuntos. Refaça um exemplo com palavras da sua pergunta e anote as duas expressões.",
-        "bc-m-busca": "Em “Busca por estudos”, procure as decisões sobre bases, termos e registro da estratégia. Compare essas exigências com o que você precisaria guardar para repetir sua busca."
+        "bc-m-busca": "Em “Busca por estudos”, procure as decisões sobre bases, termos e registro da estratégia. Compare essas exigências com o que você precisaria guardar para repetir sua busca.",
+        "bc-s-buscarevisao": "Vá à parte sobre operadores booleanos. No exemplo sobre meditação e estresse, veja quando a equipe usa OR e quando usa AND."
       },
       "parent": "pergunta-revisao",
       "relation": "related",
@@ -600,12 +610,14 @@
       "body": "Depois da busca, a equipe examina títulos e resumos e, em seguida, verifica os textos completos à luz dos critérios de elegibilidade. Explicitar o motivo de exclusão e a resolução de discordâncias permite reconstituir como se chegou aos estudos incluídos.",
       "objective": "Escreva um critério de elegibilidade e um motivo documentável para excluir um texto completo da sua revisão.",
       "resources": [
+        "bc-s-buscarevisao",
         "bc-m-busca",
         "exemplo-revisao"
       ],
       "resourceGuides": {
         "bc-m-busca": "Na seção sobre seleção, acompanhe um registro desde o título e resumo até o texto completo. Anote em que etapa se registra o motivo de exclusão e como se tratam discordâncias.",
-        "exemplo-revisao": "Na seção que pergunta quais estudos entraram na revisão, identifique o desenho, a idade e a condição dos participantes. Escolha um desses critérios e mostre como ele orienta a triagem."
+        "exemplo-revisao": "Na seção que pergunta quais estudos entraram na revisão, identifique o desenho, a idade e a condição dos participantes. Escolha um desses critérios e mostre como ele orienta a triagem.",
+        "bc-s-buscarevisao": "Leia a etapa sobre seleção dos estudos. Siga o percurso entre retirar duplicatas, ler títulos e resumos e consultar o texto integral."
       },
       "parent": "pergunta-revisao",
       "relation": "related",
@@ -617,12 +629,14 @@
       "body": "Uma estimativa admite uma faixa de valores compatíveis com os dados e o modelo usado. Se essa faixa abrange efeitos que levariam a interpretações muito diferentes, a conclusão pede cautela. No GRADE, a imprecisão é avaliada por desfecho em um conjunto de estudos.",
       "objective": "Escolha um desfecho e identifique se os limites do intervalo permitiriam interpretações diferentes sobre o tamanho do efeito.",
       "resources": [
+        "bc-s-amostras",
         "grade-br",
         "bc-m-intervalos"
       ],
       "resourceGuides": {
         "grade-br": "No manual, procure “Imprecisão” e observe como tamanho da informação e intervalo de confiança entram no julgamento da certeza de um desfecho.",
-        "bc-m-intervalos": "Na discussão da Tabela 4, compare os intervalos do risco relativo dos estudos de Hall e de Ban. Qual deles admite um conjunto mais amplo de efeitos?"
+        "bc-m-intervalos": "Na discussão da Tabela 4, compare os intervalos do risco relativo dos estudos de Hall e de Ban. Qual deles admite um conjunto mais amplo de efeitos?",
+        "bc-s-amostras": "No índice, abra “O que significa intervalo de confiança de uma pesquisa amostral?”. Depois use o manual GRADE para ligar a largura do intervalo à certeza da evidência."
       },
       "parent": "evidencia",
       "relation": "related",
@@ -634,12 +648,12 @@
       "body": "Ao ler uma pesquisa de entrevistas, procure coerência entre a pergunta, a escolha de participantes e a análise. Relatos das condições da pesquisa e da participação do pesquisador ajudam a avaliar até onde a interpretação pode fazer sentido em outro contexto.",
       "objective": "Escolha uma interpretação em um artigo e localize o relato, a decisão de análise e a característica do contexto que sustentam sua leitura.",
       "resources": [
-        "bc-m-qualidade",
-        "bc-m-temas"
+        "bc-m-temas",
+        "bc-m-qualidade"
       ],
       "resourceGuides": {
         "bc-m-qualidade": "Examine os critérios de reflexividade e transferibilidade. Transforme cada um em uma pergunta que possa ser feita a um artigo de Psicologia.",
-        "bc-m-temas": "Nas recomendações sobre avaliação de artigos com análise temática, observe que informações ajudam o leitor a acompanhar as decisões da análise. Compare-as com a apresentação dos temas nos exemplos."
+        "bc-m-temas": "Abra o exemplo de construção dos temas. Tente explicar como você verificaria se o nome de um tema corresponde aos trechos reunidos nele."
       },
       "parent": "evidencia",
       "relation": "related",
@@ -651,6 +665,7 @@
       "body": "O Código de Ética articula direitos das pessoas atendidas, responsabilidade profissional e cuidado com as informações obtidas no trabalho. Imagine que uma equipe peça acesso a um relato inteiro quando só precisa de uma informação para coordenar o atendimento. A análise ética começa pela finalidade do pedido e por quem pode ser afetado pela divulgação.",
       "objective": "Localize os artigos 6º, 9º e 10 do Código e identifique as questões que a situação fictícia exige examinar.",
       "resources": [
+        "bc-s-codigo",
         "etica-cfp",
         "guia-sigilo"
       ],
@@ -659,7 +674,8 @@
       "lane": "center",
       "resourceGuides": {
         "etica-cfp": "Comece pelo artigo 6º, alínea b, e pelos artigos 9º e 10. Use a finalidade do pedido da equipe para discutir o exemplo do tópico.",
-        "guia-sigilo": "Na seção sobre sigilo, observe como o guia relaciona a proteção da intimidade às dúvidas que surgem no trabalho de equipe."
+        "guia-sigilo": "Na seção sobre sigilo, observe como o guia relaciona a proteção da intimidade às dúvidas que surgem no trabalho de equipe.",
+        "bc-s-codigo": "Comece pelos princípios fundamentais I e II. Depois leia o artigo 2º, alínea a, e veja como esses princípios aparecem em situações concretas."
       }
     },
     {
@@ -671,12 +687,14 @@
       "body": "Uma pessoa pode contar algo durante um atendimento porque sabe a quem aquela conversa se destina. Quando outra pessoa pede acesso, surgem questões sobre a finalidade do pedido, a privacidade e as consequências de uma divulgação.",
       "objective": "Compare duas situações fictícias: um pedido de informações da equipe e um pedido de alguém sem participação no cuidado. Que perguntas precisam ser feitas em cada situação?",
       "resources": [
+        "bc-s-codigo",
         "etica-cfp",
         "guia-sigilo"
       ],
       "resourceGuides": {
         "etica-cfp": "Leia os artigos 9º e 10. Identifique o direito protegido pelo sigilo e o critério que o Código introduz para situações de conflito.",
-        "guia-sigilo": "Abra a seção de sigilo profissional na página 35. Escolha uma situação discutida no guia e dê nome aos interesses envolvidos."
+        "guia-sigilo": "Abra a seção de sigilo profissional na página 35. Escolha uma situação discutida no guia e dê nome aos interesses envolvidos.",
+        "bc-s-codigo": "Leia só os artigos 9º e 10. O primeiro explica o que o sigilo protege. O segundo trata das situações de conflito."
       }
     },
     {
@@ -688,6 +706,7 @@
       "body": "Uma equipe pode precisar de informações para combinar responsabilidades e dar continuidade a um trabalho. A dúvida ética é o que cada destinatário precisa saber para cumprir essa tarefa.",
       "objective": "Use o exemplo escolar da leitura para explicar qual informação ajuda a professora a acompanhar a escolarização e qual exporia a família sem contribuir para esse fim.",
       "resources": [
+        "bc-s-codigo",
         "bc-e-escola",
         "etica-cfp",
         "bc-e-manual"
@@ -695,7 +714,8 @@
       "resourceGuides": {
         "bc-e-escola": "Na devolutiva com a professora, identifique como as autoras relacionam a seleção das informações com a escolarização da criança.",
         "etica-cfp": "Compare o artigo 6º, alínea b, com o artigo 12. Observe como a finalidade do trabalho orienta tanto a comunicação quanto o registro em equipe.",
-        "bc-e-manual": "Veja o modelo de prontuário multidisciplinar no apêndice 2 e reconheça os campos destinados ao trabalho compartilhado."
+        "bc-e-manual": "Veja o modelo de prontuário multidisciplinar no apêndice 2 e reconheça os campos destinados ao trabalho compartilhado.",
+        "bc-s-codigo": "Leia os artigos 6º, alínea b, e 12. Pense no que uma professora precisa saber para apoiar um aluno após uma devolutiva."
       }
     },
     {
@@ -707,12 +727,14 @@
       "body": "Um registro acompanha o trabalho ao longo do tempo. A demanda inicial, o percurso e os encaminhamentos ajudam a reconstruir o que se fez. O manual do CFP compara formas de registrar essas informações e explica seu acesso.",
       "objective": "Compare a finalidade de um prontuário com a de um documento produzido para responder a um pedido externo.",
       "resources": [
+        "bc-s-prontuario",
         "bc-e-manual",
         "guia-sigilo"
       ],
       "resourceGuides": {
         "bc-e-manual": "Leia as seções 3.1 e 3.2. Use o apêndice 1 para localizar no modelo a demanda e os campos de acompanhamento.",
-        "guia-sigilo": "Na seção sobre registro documental, procure as orientações sobre o conteúdo registrado e sobre quem pode consultá-lo."
+        "guia-sigilo": "Na seção sobre registro documental, procure as orientações sobre o conteúdo registrado e sobre quem pode consultá-lo.",
+        "bc-s-prontuario": "Leia os quatro primeiros parágrafos. Compare o que cabe no prontuário da equipe com o que exige acesso restrito."
       }
     },
     {
@@ -724,12 +746,14 @@
       "body": "Um serviço recebe dois pedidos: comunicar o trabalho já realizado e apresentar o resultado de uma avaliação psicológica. Antes de pensar na redação, é preciso entender a pergunta de quem solicitou o documento.",
       "objective": "Associe cada pedido fictício a uma modalidade de documento e justifique sua escolha pelo objetivo.",
       "resources": [
+        "bc-s-tipodoc",
         "bc-e-documentos",
         "bc-e-dialogo"
       ],
       "resourceGuides": {
         "bc-e-documentos": "Compare os artigos 11 e 13. Nas definições de relatório psicológico e laudo psicológico, procure a origem e a finalidade de cada um.",
-        "bc-e-dialogo": "Acompanhe a discussão do CFP sobre as diferenças entre documentos. Anote uma dúvida que o debate ajuda a resolver e confira a resposta no texto comentado."
+        "bc-e-dialogo": "Acompanhe a discussão do CFP sobre as diferenças entre documentos. Anote uma dúvida que o debate ajuda a resolver e confira a resposta no texto comentado.",
+        "bc-s-tipodoc": "Na primeira resposta, compare só os itens “Relatório Psicológico” e “Laudo Psicológico”. Qual deles decorre de uma avaliação psicológica?"
       }
     },
     {
@@ -755,15 +779,15 @@
       "body": "O estágio integra uma situação real de trabalho ao projeto formativo da graduação. Orientação e supervisão ajudam o estudante a reconhecer seus limites, discutir as decisões que tomou e responder pelos registros junto à equipe responsável. O estudo autônomo de conceitos prepara perguntas que podem ser levadas a esses espaços.",
       "objective": "Use os capítulos II e III da cartilha para distinguir as atribuições do estudante, da orientação acadêmica e da supervisão de campo.",
       "resources": [
-        "estagios-cfp",
-        "supervisao-pesquisa"
+        "supervisao-pesquisa",
+        "estagios-cfp"
       ],
       "parent": "etica",
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
         "estagios-cfp": "Leia os capítulos II e III e compare as atribuições da orientação, da supervisão e do estudante. No capítulo IV, localize onde acontece o trabalho do serviço-escola.",
-        "supervisao-pesquisa": "No método, identifique os 14 participantes e as duas instituições. Nos resultados, escolha uma diferença ou semelhança entre as experiências de estágio."
+        "supervisao-pesquisa": "Leia primeiro o resumo e a abertura da introdução. Compare o papel do atendimento à comunidade com o que os estudantes aprendem em supervisão."
       }
     },
     {
@@ -775,12 +799,12 @@
       "body": "O estágio reúne estudante, instituição de ensino e local de prática. A orientação acadêmica aproxima o trabalho do projeto do curso. A supervisão de campo acompanha as atividades no contexto em que elas acontecem.",
       "objective": "Monte um quadro com os três participantes e identifique, nas fontes, uma responsabilidade de cada um.",
       "resources": [
-        "estagios-cfp",
-        "bc-e-lei-estagio"
+        "bc-e-lei-estagio",
+        "estagios-cfp"
       ],
       "resourceGuides": {
         "estagios-cfp": "Compare os capítulos II e III. Distinga as atribuições de orientação e supervisão dos direitos e deveres de quem estagia.",
-        "bc-e-lei-estagio": "Leia o artigo 3º, § 1º, e localize o professor orientador no artigo 7º e a supervisão da parte concedente no artigo 9º."
+        "bc-e-lei-estagio": "Leia o parágrafo 1º do artigo 3º. Identifique quem acompanha o estágio pela faculdade e quem acompanha pelo local onde a atividade acontece. A cartilha explica as atribuições em Psicologia."
       }
     },
     {
@@ -809,12 +833,14 @@
       "body": "Em um serviço-escola, oferecer um serviço à população e formar estudantes são responsabilidades simultâneas. Horários, espaços e formas de acompanhamento têm consequências para quem busca o serviço e para quem está aprendendo.",
       "objective": "A partir da cartilha, escolha uma atividade do serviço-escola e descreva o que ela demanda da instituição para atender à comunidade e sustentar a formação.",
       "resources": [
+        "bc-s-servicoescola",
         "estagios-cfp",
         "bc-e-manual"
       ],
       "resourceGuides": {
         "estagios-cfp": "No capítulo IV, leia “Concepção e objetivo” e compare os exemplos de atividades e espaços com a ideia de serviço-escola apresentada no texto.",
-        "bc-e-manual": "Na seção 6.1, leia como o registro e sua guarda são discutidos no contexto de serviços-escola. Pergunte o que precisa continuar acessível mesmo quando uma turma termina o estágio."
+        "bc-e-manual": "Na seção 6.1, leia como o registro e sua guarda são discutidos no contexto de serviços-escola. Pergunte o que precisa continuar acessível mesmo quando uma turma termina o estágio.",
+        "bc-s-servicoescola": "Leia a apresentação e escolha um serviço oferecido à comunidade. Que tipo de prática ele permite aos estudantes conhecer?"
       }
     },
     {
@@ -826,12 +852,12 @@
       "body": "Uma reunião de supervisão pode partir de uma pergunta que o estudante ainda não conseguiu resolver. Estagiários e supervisores nem sempre descrevem a mesma reunião da mesma maneira. Comparar seus pontos de vista ajuda a reconhecer o que favorece uma discussão formativa.",
       "objective": "Escolha uma pergunta do questionário dos estagiários e a correspondente no instrumento dos supervisores. Explique por que as respostas podem divergir.",
       "resources": [
-        "bc-e-perspectivas",
-        "supervisao-pesquisa"
+        "supervisao-pesquisa",
+        "bc-e-perspectivas"
       ],
       "resourceGuides": {
         "bc-e-perspectivas": "Nos quadros 1 e 2, compare um item sobre a relação de supervisão nas duas versões do questionário. Depois veja como os autores interpretam as respostas.",
-        "supervisao-pesquisa": "Nos resultados, procure a avaliação que os participantes fazem de sua relação com quem supervisiona e do apoio recebido. Distinga o que foi perguntado da conclusão que seria possível tirar."
+        "supervisao-pesquisa": "Leia o resumo e procure na discussão o que os próprios estagiários observaram sobre a supervisão."
       }
     },
     {
@@ -891,12 +917,14 @@
       "body": "Uma média municipal pode esconder trajetórias muito diferentes. Ao comparar proporções, é preciso dizer quais pessoas compõem cada grupo, o período de observação e o que se está contando. A diferença em pontos percentuais e a razão entre as proporções expressam a mesma distância de maneiras diferentes.",
       "objective": "Leia um gráfico desagregado, identifique os denominadores e descreva a diferença observada sem atribuir uma causa que o gráfico não investigou.",
       "resources": [
+        "bc-s-quesito",
         "bc-t-boletim",
         "bc-t-medindo"
       ],
       "resourceGuides": {
         "bc-t-boletim": "Nas figuras 3 e 4, escolha uma categoria de número de consultas de pré-natal e compare a distribuição segundo a raça/cor da mãe. Identifique o ano, a fonte e a categoria de informação ignorada.",
-        "bc-t-medindo": "Na seção V.5, p. 47, compare as medidas relativas e absolutas. Explique em que unidades apresentaria a diferença entre duas proporções e como apresentaria a razão entre elas."
+        "bc-t-medindo": "Na seção V.5, p. 47, compare as medidas relativas e absolutas. Explique em que unidades apresentaria a diferença entre duas proporções e como apresentaria a razão entre elas.",
+        "bc-s-quesito": "Leia por que o SUS registra raça/cor. Na leitura seguinte, compare as figuras 3 e 4 do boletim e veja onde aparece a categoria ignorada."
       },
       "parent": "equidade-em-saude",
       "relation": "related",
@@ -908,12 +936,14 @@
       "body": "Um rio pode servir de caminho para chegar à unidade de saúde e, em outra estação, tornar a viagem mais difícil. O território de uma equipe inclui os percursos, vínculos e relações de poder que dão sentidos distintos ao mesmo espaço para quem o habita.",
       "objective": "Compare a delimitação de uma área de atendimento com um percurso narrado por quem vive ou trabalha nela.",
       "resources": [
+        "bc-t-taua",
         "bc-t-tefe",
         "bc-t-territorio"
       ],
       "resourceGuides": {
         "bc-t-territorio": "Comece pela introdução. Veja como a ideia de território usado amplia a descrição de um lugar, incluindo a vida de quem o ocupa.",
-        "bc-t-tefe": "Nas figuras 2 e 3 e nos relatos que as acompanham, procure como os agentes comunitários representam o acesso fluvial. Anote uma informação que depende da experiência de quem desenhou o percurso."
+        "bc-t-tefe": "Nas figuras 2 e 3 e nos relatos que as acompanham, procure como os agentes comunitários representam o acesso fluvial. Anote uma informação que depende da experiência de quem desenhou o percurso.",
+        "bc-t-taua": "No relato de Tauá, veja o que a equipe passou a conhecer sobre as famílias e os lugares do bairro ao visitar o território."
       },
       "parent": "determinantes",
       "relation": "related",
@@ -925,12 +955,14 @@
       "body": "Ao construir um mapa em grupo, participantes escolhem o que merece aparecer e contam por que um trajeto, uma casa de apoio ou uma travessia importa. Quem fez o desenho e quem ficou fora da conversa também afetam o que se pode concluir.",
       "objective": "Identifique os participantes, uma decisão sobre o desenho e uma pergunta que precisaria ser feita a outro grupo do território.",
       "resources": [
-        "bc-t-tefe",
-        "bc-t-taua"
+        "bc-s-mapas",
+        "bc-t-taua",
+        "bc-t-tefe"
       ],
       "resourceGuides": {
         "bc-t-tefe": "Leia a seção que acompanha a passagem das palavras aos desenhos e às narrativas. Observe nas figuras 2 e 3 quem desenhou e quem apresentou o mapa ao grupo.",
-        "bc-t-taua": "Siga as quatro etapas de Tauá até o redesenho das microáreas. Compare o objetivo do mapa produzido com o dos mapas narrados pelos agentes ribeirinhos em Tefé."
+        "bc-t-taua": "No relato de Tauá, procure como a equipe reuniu informações sobre a área em que atua. Depois abra as figuras do estudo de Tefé para ver mapas feitos por agentes comunitários.",
+        "bc-s-mapas": "O resumo leva menos de dois minutos. Localize quem desenhou os mapas e o que queriam entender sobre o acesso ao atendimento de urgência."
       },
       "parent": "territorio-vivido",
       "relation": "related",
@@ -942,12 +974,14 @@
       "body": "Quando uma dificuldade de cuidado envolve trabalho, renda ou transporte, uma equipe de saúde pode precisar construir uma resposta com serviços de outras áreas e com moradores. A ação conjunta exige combinar quem decide, quem assume cada tarefa e como o grupo acompanhará o resultado.",
       "objective": "Mapeie, em um exemplo publicado, o problema compartilhado, dois participantes e uma decisão que precisa de negociação.",
       "resources": [
+        "bc-s-pts",
         "bc-t-intersetorial",
         "bc-t-cab34"
       ],
       "resourceGuides": {
         "bc-t-intersetorial": "Leia a seção “Possíveis caminhos analíticos”. Compare articular políticas públicas com criar espaços de escuta e participação.",
-        "bc-t-cab34": "No caso da “casa dos 20” e na seção 3.2, procure as necessidades de trabalho, renda e proteção social. Distinga os contatos entre serviços de saúde daqueles que envolvem outras políticas."
+        "bc-t-cab34": "No caso da “casa dos 20” e na seção 3.2, procure as necessidades de trabalho, renda e proteção social. Distinga os contatos entre serviços de saúde daqueles que envolvem outras políticas.",
+        "bc-s-pts": "Leia o parágrafo sobre o profissional de referência. Observe quando o projeto precisa envolver serviços além da equipe de saúde."
       },
       "parent": "territorio-vivido",
       "relation": "related",
@@ -959,6 +993,7 @@
       "body": "A experiência de discriminação e as respostas das instituições fazem parte do contexto de vida das pessoas. Nos serviços de Psicologia, reconhecer desigualdades requer examinar quem encontra barreiras para chegar, ser ouvido ou permanecer em atendimento. As referências do CREPOP permitem estudar essa questão pelo recorte das relações raciais no Brasil.",
       "objective": "Identifique no documento uma prática institucional que reproduza desigualdade racial e uma pergunta para investigá-la em um serviço fictício.",
       "resources": [
+        "bc-s-antirracismo",
         "crepop-raciais",
         "cfp-antirracismo"
       ],
@@ -967,7 +1002,8 @@
       "lane": "left",
       "resourceGuides": {
         "crepop-raciais": "No eixo sobre relações raciais na sociedade brasileira, identifique onde aparecem as instituições. Depois, consulte as orientações para a atuação e anote uma pergunta para investigar o acesso a um serviço.",
-        "cfp-antirracismo": "Comece pela discussão sobre raça na aula 1. Depois, compare sua anotação com o episódio 8, sobre saberes e práticas psicológicas antirracistas e decoloniais."
+        "cfp-antirracismo": "Comece pela discussão sobre raça na aula 1. Depois, compare sua anotação com o episódio 8, sobre saberes e práticas psicológicas antirracistas e decoloniais.",
+        "bc-s-antirracismo": "Leia os três parágrafos iniciais. Escolha uma barreira de acesso mencionada e pense em como ela poderia aparecer numa unidade de saúde."
       }
     },
     {
@@ -976,12 +1012,14 @@
       "body": "Uma rotina de atendimento pode distribuir tempo de espera, atenção e oportunidades de cuidado de maneira desigual. O estudo do racismo institucional examina como regras, decisões e omissões produzem esses padrões e como eles são percebidos por diferentes grupos.",
       "objective": "Diferencie uma interação discriminatória de uma rotina institucional e formule uma pergunta que ajude a investigar a relação entre as duas.",
       "resources": [
+        "bc-s-antirracismo",
         "bc-t-werneck",
         "crepop-raciais"
       ],
       "resourceGuides": {
         "bc-t-werneck": "Use a figura 2 para localizar os níveis interpessoal e institucional. Na discussão que se segue, procure como o funcionamento de uma organização pode distribuir oportunidades de forma desigual.",
-        "crepop-raciais": "Procure a discussão de racismo institucional na referência do CREPOP. Escolha uma situação descrita e indique quais decisões envolvem o serviço além da conduta de uma só pessoa."
+        "crepop-raciais": "Procure a discussão de racismo institucional na referência do CREPOP. Escolha uma situação descrita e indique quais decisões envolvem o serviço além da conduta de uma só pessoa.",
+        "bc-s-antirracismo": "Comece na apresentação da estratégia. Repare em como a qualidade e o acesso ao atendimento podem mudar conforme as rotinas do serviço."
       },
       "parent": "diversidade",
       "relation": "related",
@@ -993,12 +1031,14 @@
       "body": "A autodeclaração permite que a própria pessoa responda à pergunta sobre raça/cor. Quando a resposta é presumida ou o campo fica sem informação, a análise pode perder justamente as diferenças que o serviço precisa conhecer. Esse registro exige cuidado tanto na coleta quanto na interpretação.",
       "objective": "Explique quem responde à pergunta e por que a quantidade de registros incompletos altera uma comparação entre grupos.",
       "resources": [
+        "bc-s-quesito",
         "bc-t-coleta",
         "bc-t-boletim"
       ],
       "resourceGuides": {
         "bc-t-coleta": "Na cartilha de três páginas, localize a pergunta sugerida e as orientações sobre como registrar a resposta. Identifique a diferença entre perguntar e atribuir uma categoria pela aparência.",
-        "bc-t-boletim": "Comece na seção sobre o quesito raça/cor nos sistemas de vigilância. Procure as observações sobre qualidade da informação e relacione-as à categoria ignorada nos gráficos."
+        "bc-t-boletim": "Comece na seção sobre o quesito raça/cor nos sistemas de vigilância. Procure as observações sobre qualidade da informação e relacione-as à categoria ignorada nos gráficos.",
+        "bc-s-quesito": "Leia a explicação sobre autodeclaração. Pense em como perguntar e registrar a informação no momento do atendimento."
       },
       "parent": "racismo-institucional",
       "relation": "related",
@@ -1010,12 +1050,14 @@
       "body": "A recepção, o cadastro e a conversa com a equipe são momentos diferentes da experiência de chegar a um serviço. Pessoas ouvidas em uma pesquisa no Rio de Janeiro relataram barreiras como o desrespeito ao nome social e perguntas invasivas. Suas propostas ajudam a investigar o funcionamento de uma unidade.",
       "objective": "Compare uma diretriz profissional com uma barreira relatada pelos participantes da pesquisa e identifique em que momento do atendimento ela aparece.",
       "resources": [
+        "bc-s-nomesocial",
         "bc-t-lgbt",
         "bc-t-usuarios"
       ],
       "resourceGuides": {
         "bc-t-usuarios": "Nos resultados das entrevistas, procure os discursos sobre a recepção, o uso do nome social e a capacitação das equipes. Anote quem foi ouvido e uma proposta dos participantes.",
-        "bc-t-lgbt": "No eixo 3, leia as diretrizes de atuação a partir da p. 84. Escolha uma orientação que dialogue com os relatos da pesquisa e explique em que rotina ela teria efeito."
+        "bc-t-lgbt": "No eixo 3, leia as diretrizes de atuação a partir da p. 84. Escolha uma orientação que dialogue com os relatos da pesquisa e explique em que rotina ela teria efeito.",
+        "bc-s-nomesocial": "Leia a parte sobre nome social. Siga um atendimento desde a recepção até a emissão de um documento e localize onde o nome precisa aparecer corretamente."
       },
       "parent": "diversidade",
       "relation": "related",
@@ -1044,6 +1086,7 @@
       "body": "O acompanhamento na Atenção Primária pode começar quando alguém procura a unidade por outro motivo e relata uma dificuldade que atravessa seu cotidiano. O contato continuado com a pessoa, a família e outros serviços ajuda a equipe a entender o que mudou entre um encontro e outro.",
       "objective": "Reconstrua dois momentos de um acompanhamento e identifique o que a equipe descobre por manter contato ao longo do tempo.",
       "resources": [
+        "bc-s-matricial",
         "bc-t-cab34",
         "bc-t-taua",
         "bc-t-caps"
@@ -1051,7 +1094,8 @@
       "resourceGuides": {
         "bc-t-cab34": "Leia o início do caso da “casa dos 20” e a seção 3.2. Observe como o conhecimento da equipe sobre a família muda quando ela começa a articular a rede de cuidados.",
         "bc-t-taua": "Na experiência de Tauá, identifique como o trabalho dos agentes comunitários e o cadastro das famílias contribuem para conhecer a população acompanhada pela equipe.",
-        "bc-t-caps": "Vá à seção “Atenção Básica” e identifique seu papel na rede. Compare a proximidade com a comunidade com a função descrita na seção sobre CAPS."
+        "bc-t-caps": "Vá à seção “Atenção Básica” e identifique seu papel na rede. Compare a proximidade com a comunidade com a função descrita na seção sobre CAPS.",
+        "bc-s-matricial": "Observe o papel da equipe que já acompanha a pessoa. O que ela continua fazendo quando recebe apoio da equipe especializada?"
       },
       "parent": "sus",
       "relation": "related",
@@ -1063,12 +1107,14 @@
       "body": "Uma equipe que acompanha uma pessoa pode convidar outra a discutir o caso, participar de uma consulta ou construir uma ação conjunta. No apoio matricial, a contribuição especializada se combina com o conhecimento que a equipe de referência acumulou e com as responsabilidades que ela continua a exercer.",
       "objective": "Compare uma discussão de caso com uma consulta conjunta e indique qual pergunta cada equipe levaria para o encontro.",
       "resources": [
+        "bc-s-matricial",
         "bc-t-matriciamento",
         "bc-t-aula-apoio"
       ],
       "resourceGuides": {
         "bc-t-matriciamento": "Leia o início do guia e a parte sobre interconsulta e consulta conjunta. Procure quem pode participar e o que as equipes podem aprender com as perguntas umas das outras.",
-        "bc-t-aula-apoio": "Na webpalestra de Raquel Maia, acompanhe a apresentação do matriciamento na atenção primária. Confronte a explicação com um instrumento descrito no guia, como a discussão compartilhada de casos."
+        "bc-t-aula-apoio": "Na webpalestra de Raquel Maia, acompanhe a apresentação do matriciamento na atenção primária. Confronte a explicação com um instrumento descrito no guia, como a discussão compartilhada de casos.",
+        "bc-s-matricial": "Leia a definição e o parágrafo com exemplos. Compare uma discussão de caso entre equipes com o encaminhamento para outro serviço."
       },
       "parent": "atencao-primaria",
       "relation": "related",
@@ -1097,6 +1143,7 @@
       "body": "Um projeto terapêutico singular reúne objetivos negociados, tarefas e momentos de revisão. A pessoa participa da definição do que importa para seu cotidiano. A equipe precisa explicitar como diferentes participantes podem sustentar o acordo e o que justificaria retomá-lo.",
       "objective": "Reconheça em um roteiro de estudo um objetivo, as pessoas envolvidas e uma condição que indicaria a necessidade de reavaliá-lo.",
       "resources": [
+        "bc-s-pts",
         "bc-t-matriciamento",
         "bc-t-cab34",
         "bc-t-caps"
@@ -1104,7 +1151,8 @@
       "resourceGuides": {
         "bc-t-matriciamento": "Na seção 2.1, leia o roteiro de discussão de casos em apoio matricial. Separe as perguntas que tratam das necessidades da pessoa e as que ajudam a combinar responsabilidades.",
         "bc-t-cab34": "No capítulo 4, procure os momentos do PTS. Compare a definição de metas com a reavaliação e identifique onde a pessoa e a equipe entram na negociação.",
-        "bc-t-caps": "Em “O que acontece na chegada”, observe quando o projeto é elaborado e quem participa de sua construção."
+        "bc-t-caps": "Em “O que acontece na chegada”, observe quando o projeto é elaborado e quem participa de sua construção.",
+        "bc-s-pts": "Leia o parágrafo que explica os três movimentos do projeto. Em cada um, marque como a pessoa atendida pode participar das decisões."
       },
       "parent": "caps-no-territorio",
       "relation": "related",
@@ -2266,7 +2314,8 @@
       "caveat": "A aula trabalha com pesquisa em educação. As escolhas apresentadas dependem do objetivo e do contexto estudado.",
       "relevance": "No exemplo de pesquisa de campo, identifique que informação a equipe procura com a entrevista e que informação poderia obter pela observação.",
       "nodes": [
-        "entrevista-pesquisa"
+        "entrevista-pesquisa",
+        "roteiro-entrevista"
       ]
     },
     {
@@ -2614,6 +2663,7 @@
       "caveat": "É um relato de implementação do município de Tauá, no Ceará. A experiência descrita ocorreu em 2014.",
       "relevance": "Siga as quatro etapas descritas no relato e identifique em qual delas as equipes redesenharam seus territórios.",
       "nodes": [
+        "territorio-vivido",
         "mapas-falantes",
         "atencao-primaria"
       ]
@@ -2863,6 +2913,256 @@
       "relevance": "Observe quem fala, que dificuldade aparece e como a comunidade leva a questão ao conselho local.",
       "nodes": [
         "participacao-social"
+      ]
+    },
+    {
+      "id": "bc-s-amostras",
+      "title": "Escopo e metodologia das pesquisas",
+      "authors": "Ouvidoria-Geral da União",
+      "institution": "Controladoria-Geral da União",
+      "year": null,
+      "url": "https://www.gov.br/ouvidorias/pt-br/ouvidorias/avaliacao-de-servicos-publicos/conselhos-de-usuarios/videos-e-treinamentos-1/criando-consultas-e-pesquisas/escopo-e-metodologia-das-pesquisas",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Guia em perguntas e respostas",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "O guia toma enquetes sobre serviços públicos como ponto de partida.",
+      "relevance": "O índice leva à pergunta sobre o método de seleção ou a incerteza da estimativa.",
+      "nodes": [
+        "selecao-participantes",
+        "amostragem-probabilistica",
+        "imprecisao"
+      ]
+    },
+    {
+      "id": "bc-s-codigo",
+      "title": "Código de Ética Profissional do Psicólogo",
+      "authors": "Conselho Federal de Psicologia",
+      "institution": "CRP-PR · versão em HTML do Código",
+      "year": 2005,
+      "url": "https://transparencia.cfp.org.br/crp08/legislacao/codigo-de-etica/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Código em HTML",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "Texto oficial reproduzido no site do conselho regional.",
+      "relevance": "Use os artigos 6º e 9º a 12 para estudar sigilo e comunicação em equipe.",
+      "nodes": [
+        "etica",
+        "sigilo",
+        "informacao-na-equipe"
+      ]
+    },
+    {
+      "id": "bc-s-prontuario",
+      "title": "Prontuário e Registro Documental",
+      "authors": "Conselho Regional de Psicologia de Mato Grosso",
+      "institution": "CRP-MT · Orientação Técnica",
+      "year": null,
+      "url": "https://crpmt.org.br/orientacao-tecnica/prontuario-e-registro-documental",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Guia em perguntas e respostas",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "Orientação técnica do conselho regional sobre a Resolução CFP nº 1/2009.",
+      "relevance": "Os primeiros parágrafos distinguem prontuário e registro documental.",
+      "nodes": [
+        "registro-psicologico"
+      ]
+    },
+    {
+      "id": "bc-s-tipodoc",
+      "title": "Documentos Psicológicos",
+      "authors": "Conselho Regional de Psicologia de Mato Grosso",
+      "institution": "CRP-MT · Orientação Técnica",
+      "year": null,
+      "url": "https://crpmt.org.br/orientacao-tecnica/documentos-psicologicos",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Guia em perguntas e respostas",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "Resume as modalidades da Resolução CFP nº 6/2019 e reúne dúvidas de profissionais.",
+      "relevance": "A primeira resposta apresenta os tipos de documento, com uma definição para cada um.",
+      "nodes": [
+        "finalidade-documento"
+      ]
+    },
+    {
+      "id": "bc-s-servicoescola",
+      "title": "Serviço Escola de Psicologia",
+      "authors": "Faculdade de Psicologia da UFAM",
+      "institution": "Universidade Federal do Amazonas",
+      "year": null,
+      "url": "https://fapsi.ufam.edu.br/seps.html",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Página institucional",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "Exemplo de organização de um serviço-escola, com as atividades da UFAM.",
+      "relevance": "A apresentação mostra como o serviço reúne formação e atendimento à comunidade.",
+      "nodes": [
+        "servico-escola"
+      ]
+    },
+    {
+      "id": "bc-s-matricial",
+      "title": "O que é matriciamento e como ele pode auxiliar no cuidado em saúde mental na Atenção Básica?",
+      "authors": "Caliandra Machado Pinheiro",
+      "institution": "Telessaúde Bahia · Secretaria da Saúde do Estado da Bahia",
+      "year": null,
+      "url": "https://telessaude.saude.ba.gov.br/o-que-e-matriciamento-e-como-ele-pode-auxiliar-no-cuidado-em-saude-mental-na-atencao-basica/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Texto de formação",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "Introdução assinada por psicóloga e sanitarista da equipe estadual de saúde mental.",
+      "relevance": "O texto explica a cooperação entre a equipe da atenção básica e os serviços especializados.",
+      "nodes": [
+        "atencao-primaria",
+        "apoio-matricial"
+      ]
+    },
+    {
+      "id": "bc-s-pts",
+      "title": "O que é o Projeto Terapêutico Singular e como operacionalizar?",
+      "authors": "Caliandra Machado Pinheiro",
+      "institution": "Telessaúde Bahia · Secretaria da Saúde do Estado da Bahia",
+      "year": null,
+      "url": "https://telessaude.saude.ba.gov.br/o-que-e-o-projeto-terapeutico-singular-e-como-operacionalizar/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Texto de formação",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "A introdução também aponta para duas webaulas da equipe.",
+      "relevance": "O texto explica como a pessoa atendida e as equipes participam da construção do projeto.",
+      "nodes": [
+        "acoes-intersetoriais",
+        "projeto-terapeutico-singular"
+      ]
+    },
+    {
+      "id": "bc-s-antirracismo",
+      "title": "Saúde sem Racismo",
+      "authors": "Ministério da Saúde",
+      "institution": "Sistema Único de Saúde",
+      "year": null,
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-sem-racismo",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Página explicativa",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "A página apresenta iniciativas do SUS e reúne referências para aprofundar.",
+      "relevance": "Os primeiros parágrafos ligam desigualdades no acesso ao funcionamento dos serviços.",
+      "nodes": [
+        "diversidade",
+        "racismo-institucional"
+      ]
+    },
+    {
+      "id": "bc-s-quesito",
+      "title": "Sesa destaca importância da autodeclaração do quesito raça/cor nos sistemas de informação do SUS",
+      "authors": "Secretaria de Estado da Saúde do Paraná",
+      "institution": "Governo do Paraná",
+      "year": null,
+      "url": "https://www.saude.pr.gov.br/Noticia/Sesa-destaca-importancia-da-autodeclaracao-do-quesito-racacor-nos-sistemas-de-informacao-do",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Texto de divulgação",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "A notícia explica por que os serviços coletam a informação e como ela entra nas políticas de saúde.",
+      "relevance": "A apresentação situa a autodeclaração e o uso dos registros para acompanhar desigualdades.",
+      "nodes": [
+        "indicadores-desigualdade",
+        "quesito-raca-cor"
+      ]
+    },
+    {
+      "id": "bc-s-buscarevisao",
+      "title": "Passos rápidos para elaborar uma revisão sistemática e uma estratégia de busca",
+      "authors": "Biblioteca do Hospital Universitário Professor Edgard Santos",
+      "institution": "HUPES-UFBA · Ebserh",
+      "year": 2025,
+      "url": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/hupes-ufba/ensino-e-pesquisa/biblioteca/acervo/grey-hupes",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Guia didático",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "O roteiro usa exemplos de buscas na literatura da saúde.",
+      "relevance": "Cada etapa tem um exemplo aplicado, da pergunta até a busca e a seleção.",
+      "nodes": [
+        "pergunta-revisao",
+        "estrategia-busca",
+        "triagem-estudos"
+      ]
+    },
+    {
+      "id": "bc-s-nomesocial",
+      "title": "Ministério da Saúde publica orientações para segurança clínica de pessoas trans no SUS",
+      "authors": "Ministério da Saúde",
+      "institution": "Biblioteca Virtual em Saúde do Ministério da Saúde",
+      "year": null,
+      "url": "https://bvsms.saude.gov.br/ministerio-da-saude-publica-orientacoes-para-seguranca-clinica-de-pessoas-trans-no-sus/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Texto de orientação",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "Exemplo específico sobre pessoas trans no SUS, dentro de um tema mais amplo de acolhimento LGBTQIA+.",
+      "relevance": "O texto mostra como o nome social e a identidade de gênero entram na organização do atendimento.",
+      "nodes": [
+        "acolhimento-lgbti"
+      ]
+    },
+    {
+      "id": "bc-s-mapas",
+      "title": "Mapas falantes como recurso metodológico · resumo dos autores",
+      "authors": "Julio César Schweickardt, Josiane Souza Medeiros e Fabiana Mânica Martins",
+      "institution": "Saúde em Redes · Rede Unida",
+      "year": 2022,
+      "url": "https://revista.redeunida.org.br/index.php/rede-unida/article/view/3481",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Resumo em HTML",
+      "access": "Material gratuito na página, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Página de origem consultada e conteúdo conferido.",
+      "rights": "O mapa encaminha para a página de origem.",
+      "caveat": "A página resume o estudo de Tefé. O artigo integral em PDF contém as figuras e as narrativas.",
+      "relevance": "O resumo apresenta quem fez os mapas, o que procuravam conhecer e como trabalharam.",
+      "nodes": [
+        "mapas-falantes"
       ]
     }
   ]

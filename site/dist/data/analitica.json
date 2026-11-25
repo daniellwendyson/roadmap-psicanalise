@@ -8,6 +8,7 @@
       "body": "No hospital Burghölzli, em Zurique, a equipe de Jung estudou como as pessoas respondiam a uma lista de palavras. Atrasos, esquecimentos e mudanças na resposta levantaram uma pergunta sobre o papel dos afetos. Esses experimentos antecederam a colaboração com Freud e ajudam a entender de onde veio a psicologia analítica.",
       "objective": "Na tese de Perrone, identifique o que a equipe conseguia observar e qual explicação Jung propôs para essas observações.",
       "resources": [
+        "pa-intro-ijrj",
         "serbena-inconsciente",
         "wahba",
         "perrone",
@@ -17,10 +18,11 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
+        "pa-intro-ijrj": "Leia os parágrafos sobre Burghölzli e o início da correspondência com Freud na seção «C. G. Jung (1875–1961)». Em 2 min, conheça a pesquisa que Jung já fazia em Zurique.",
+        "serbena-inconsciente": "Leia a introdução. Ela conta como Jung se aproximou de Freud e em que pontos a teoria dos dois começou a divergir.",
         "wahba": "Leia a apresentação da escola de Zurique. Depois procure “equação pessoal” e acompanhe como a autora relaciona a posição de quem observa ao conhecimento produzido.",
         "perrone": "Comece pela seção sobre o hospital Burghölzli. Acompanhe como as experiências com palavras deram origem a uma hipótese sobre a autonomia dos complexos.",
-        "debate-libido": "Depois do histórico de Zurique, leia em Pinto como a elaboração da teoria da libido modificou a colaboração com Freud.",
-        "serbena-inconsciente": "Leia a introdução. Ela conta como Jung se aproximou de Freud e em que pontos a teoria dos dois começou a divergir."
+        "debate-libido": "Depois do histórico de Zurique, leia em Pinto como a elaboração da teoria da libido modificou a colaboração com Freud."
       }
     },
     {
@@ -29,10 +31,12 @@
       "body": "Em Zurique, Jung trabalhou com o psiquiatra Eugen Bleuler. A equipe investigava por que palavras comuns podiam provocar hesitação, esquecimento ou respostas inesperadas. A passagem da observação experimental à ideia de complexo tem uma história que pode ser reconstruída.",
       "objective": "Localizar uma observação feita no hospital e a hipótese que a equipe formulou para explicá-la.",
       "resources": [
+        "pa-intro-ijrj",
         "perrone",
         "associacao-merten"
       ],
       "resourceGuides": {
+        "pa-intro-ijrj": "Na biografia, procure «hospital psiquiátrico Burghölzli». Em 1 min, localize quem dirigia o hospital e que respostas Jung procurava registrar.",
         "perrone": "Na parte sobre Burghölzli, identifique quem participava dos estudos e o que se registrava durante uma sessão.",
         "associacao-merten": "A seção histórica situa os estudos de Zurique entre experimentos anteriores de associação. Reconstrua uma continuidade e uma novidade."
       },
@@ -50,7 +54,7 @@
         "ufpr-dialogos"
       ],
       "resourceGuides": {
-        "debate-libido": "Acompanhe a sequência das cartas e identifique em que ponto os interlocutores passam a falar de coisas diferentes com o mesmo termo.",
+        "debate-libido": "Busque «energia» no trecho sobre as cartas. Em 3 min, identifique como Freud e Jung passaram a dar alcances diferentes à palavra libido.",
         "ufpr-dialogos": "No capítulo 1, a partir da página 11, leia a discussão sobre comparações entre psicanálise e psicologia analítica. Quais diferenças de pressupostos ela aponta?"
       },
       "parent": "origens",
@@ -71,7 +75,7 @@
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
-        "ocupacao": "Leia a pergunta de Nise e as perguntas sobre a experiência dos artistas na resposta de Zurique. Ouça o relato da equipe sobre o estudo das imagens em série.",
+        "ocupacao": "Leia a primeira carta e o começo da resposta, em 3 min. Observe a pergunta que Nise envia a Zurique a partir das imagens produzidas no ateliê.",
         "catta-preta": "Observe como o trabalho nos ateliês e o estudo de séries de pinturas se relacionam com a interlocução entre Nise e Jung.",
         "video-afeto": "Martha Pires Ferreira recorda a experiência como monitora. Relacione o depoimento à presença dos artistas no levantamento histórico sobre Nise."
       }
@@ -86,7 +90,7 @@
         "catta-preta"
       ],
       "resourceGuides": {
-        "acervo-nise": "Na seção “Museu de Imagens do Inconsciente”, veja como o material produzido no ateliê passou a constituir um acervo.",
+        "acervo-nise": "Leia «Museu de Imagens do Inconsciente», em 2 min. Veja como a produção do ateliê passou a constituir um acervo que podia ser acompanhado ao longo do tempo.",
         "catta-preta": "Procure a descrição dos ateliês de pintura e modelagem. Observe como a produção expressiva entrou na interlocução de Nise com Jung."
       },
       "parent": "nise",
@@ -103,7 +107,7 @@
         "catta-preta"
       ],
       "resourceGuides": {
-        "video-afeto": "Ouça Martha Pires Ferreira contar sobre seu contato com Raphael Domingues. Que aspectos da convivência ela escolhe lembrar?",
+        "video-afeto": "Veja o depoimento de 5 min. Anote o que Martha Pires Ferreira conta sobre a convivência com Raphael Domingues no ateliê.",
         "catta-preta": "Na apresentação do trabalho de Nise, procure as condições afetivas e materiais em que as imagens eram produzidas."
       },
       "parent": "atelie",
@@ -120,7 +124,7 @@
         "catta-preta"
       ],
       "resourceGuides": {
-        "ocupacao": "Leia a pergunta de Nise e a resposta enviada de Zurique. Quais informações Jung pede sobre quem produziu as imagens?",
+        "ocupacao": "Nas cartas de 1954, leia o trecho da resposta que pede informações sobre quem pintou, em 2 min. Por que a forma da imagem sozinha deixa essas perguntas em aberto?",
         "catta-preta": "Siga o trecho sobre as mandalas e a troca de cartas. Observe como os autores articulam a forma da imagem à sequência de trabalhos."
       },
       "parent": "nise",
@@ -141,7 +145,7 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
-        "pa-video-ego": "Acompanhe a distinção entre ego, consciência e inconsciente. Ao terminar, tente explicar qual é o lugar do ego no modelo que o professor apresenta.",
+        "pa-video-ego": "Veja os primeiros 4 min da videoaula. Preste atenção à diferença entre ego e consciência e explique o papel que o autor atribui ao ego.",
         "serbena-inconsciente": "Na introdução, procure “inconsciente pessoal”. Leia desde o parágrafo anterior até a discussão da consciência do ego. Que parte de uma experiência pode escapar à percepção imediata de quem a vive?",
         "urpia": "Acompanhe o percurso entre as noções de inconsciente pessoal, coletivo e ancestralidade. Identifique as ressalvas da autora sobre o olhar europeu para as Áfricas."
       }
@@ -156,7 +160,7 @@
         "serbena-inconsciente"
       ],
       "resourceGuides": {
-        "pa-video-ego": "Ao ouvir a distinção entre os três termos do título, anote o que se atribui ao ego e o que permanece fora do seu alcance.",
+        "pa-video-ego": "Veja a apresentação do ego e da consciência nos primeiros minutos. Anote o que o autor coloca dentro do campo da consciência e o que permanece fora dele.",
         "serbena-inconsciente": "Nos parágrafos sobre a consciência do ego, localize a passagem entre a experiência que pode ser narrada e a que permanece desconhecida."
       },
       "parent": "ego",
@@ -169,10 +173,12 @@
       "body": "Jung distingue conteúdos ligados à história de uma pessoa de padrões que propõe como coletivos. Quando uma imagem remete à infância e também a uma tradição cultural, as perguntas sobre sua origem continuam abertas.",
       "objective": "Formular uma pergunta biográfica e uma pergunta cultural sobre a mesma imagem.",
       "resources": [
+        "pa-intro-ijrj",
         "urpia",
         "serbena-inconsciente"
       ],
       "resourceGuides": {
+        "pa-intro-ijrj": "Leia, em 2 min, os parágrafos sobre inconsciente pessoal e arquétipos. Formule uma pergunta biográfica e uma pergunta cultural que você poderia fazer sobre a mesma imagem.",
         "urpia": "Acompanhe o movimento entre memória pessoal, memória coletiva e ancestralidade. Observe o que muda quando a autora introduz interlocutores africanos.",
         "serbena-inconsciente": "Volte à distinção entre inconsciente pessoal e coletivo. Identifique qual explicação o texto oferece para a recorrência de imagens."
       },
@@ -186,6 +192,7 @@
       "body": "Por que uma palavra comum desperta uma reação inesperada? Jung chamou de complexo um conjunto de lembranças, imagens e ideias ligadas por um afeto. A hipótese surgiu em parte dos experimentos de associação verbal. Um intervalo maior antes da resposta era uma observação. O sentido desse intervalo ainda precisava ser investigado.",
       "objective": "Na tese, localize um episódio dos experimentos de associação e separe o comportamento registrado da interpretação proposta pelos pesquisadores.",
       "resources": [
+        "pa-intro-ijrj",
         "perrone",
         "pa-video-complexos",
         "associacao-merten"
@@ -194,6 +201,7 @@
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
+        "pa-intro-ijrj": "Na biografia, leia em 2 min como o trabalho com palavras em Burghölzli levou à teoria dos complexos. Volte à seção inicial para ligar o conceito à história pessoal.",
         "perrone": "Comece pela seção sobre o hospital Burghölzli. Acompanhe como as experiências com palavras deram origem a uma hipótese sobre a autonomia dos complexos.",
         "pa-video-complexos": "Acompanhe como Serbena aproxima personagens dos sonhos e teoria dos complexos. Depois, formule com suas palavras o que um complexo acrescenta à leitura de uma imagem onírica.",
         "associacao-merten": "Consulte a história dos estudos de associação em Zurique e acompanhe um dos indicadores ligados a um possível complexo."
@@ -205,10 +213,12 @@
       "body": "O pesquisador dizia uma palavra e registrava a primeira resposta, o tempo e eventuais alterações no curso da tarefa. Jung interpretou alguns desses acontecimentos como sinais de que uma rede de lembranças carregadas de afeto havia sido tocada.",
       "objective": "Separar instrução, comportamento observado e interpretação em uma descrição do experimento.",
       "resources": [
+        "pa-intro-ijrj",
         "associacao-merten",
         "perrone"
       ],
       "resourceGuides": {
+        "pa-intro-ijrj": "Na biografia, busque «teste de associação de palavras». Em 1 min, diferencie a palavra apresentada pelo pesquisador da reação que ele registrava. Veja a leitura seguinte para conhecer as etapas.",
         "associacao-merten": "Leia a descrição da realização do teste. Anote a instrução, a sequência das palavras e as informações registradas.",
         "perrone": "Na discussão dos experimentos de associação, localize a passagem da descrição das respostas para o conceito de complexo."
       },
@@ -222,11 +232,13 @@
       "body": "Uma demora ou uma resposta diferente quando a palavra é apresentada de novo são observações distintas. A pergunta histórica é como esses indicadores foram combinados e que outras explicações poderiam existir para cada um.",
       "objective": "Comparar um intervalo de resposta a uma falha de reprodução e indicar o limite de cada medida.",
       "resources": [
+        "pa-glossario-vieira",
         "associacao-merten",
         "perrone"
       ],
       "resourceGuides": {
-        "associacao-merten": "Nos trechos sobre avaliação, compare o tempo de reação com as alterações observadas ao pedir novamente a resposta.",
+        "pa-glossario-vieira": "No verbete «Complexo», busque «cronometragem das hesitações». Em 1 min, veja qual medida Jung usava. Na leitura seguinte, compare a demora com o que muda ao repetir a resposta.",
+        "associacao-merten": "No PDF, vá ao trecho de avaliação das respostas e leia por 3 min. Compare a demora para responder com a alteração da palavra quando se pede que ela seja repetida.",
         "perrone": "No capítulo sobre o teste de associação, levante dois indicadores descritos por Jung e separe-os da interpretação afetiva."
       },
       "parent": "associacao-palavras",
@@ -239,11 +251,13 @@
       "body": "Uma situação pode reativar lembranças e afetos que passam a orientar juntos a atenção, a expectativa e a reação de alguém. Na linguagem junguiana, isso é a constelação de um complexo.",
       "objective": "Em um exemplo dos autores, identificar o acontecimento desencadeante e o efeito que lhe é atribuído.",
       "resources": [
+        "pa-glossario-vieira",
         "emocao-complexo",
         "pa-video-complexos"
       ],
       "resourceGuides": {
-        "emocao-complexo": "Na discussão da associação de palavras, localize a relação proposta entre a carga afetiva e a organização de um complexo.",
+        "pa-glossario-vieira": "No verbete «Complexo», vá ao parágrafo que apresenta o «núcleo afetivo» e a reação a palavras-estímulo. Em 2 min, observe como uma palavra pode tocar num ponto sensível e provocar uma reação.",
+        "emocao-complexo": "No PDF, busque «associação de palavras» e leia os parágrafos próximos em 3 min. Observe como uma palavra de estímulo pode mobilizar um conjunto de lembranças e afetos.",
         "pa-video-complexos": "Observe como Serbena relaciona uma personagem de sonho à organização de um complexo. Que elementos aparecem ligados pelo afeto?"
       },
       "parent": "complexos",
@@ -260,7 +274,7 @@
         "artivismos"
       ],
       "resourceGuides": {
-        "cultural-uel": "Localize a passagem de complexo individual a cultural. Ao fim do artigo, identifique uma dificuldade que os autores encontram no conceito.",
+        "cultural-uel": "Busque a seção que define complexos culturais. Em 3 min, localize o que permite passar de uma hipótese sobre experiência individual a uma hipótese sobre a vida de um grupo.",
         "artivismos": "Observe como a autora introduz a dimensão colonial na discussão de complexo cultural e quais relações de poder considera."
       },
       "parent": "complexos",
@@ -273,10 +287,12 @@
       "body": "Uma obra produzida em um movimento político permite investigar quem fala, a quem responde e que memória mobiliza. Uma leitura junguiana ganha precisão quando identifica tanto o contexto documentado quanto a interpretação que acrescenta.",
       "objective": "Descrever uma ação artística do texto e localizar a hipótese cultural formulada a partir dela.",
       "resources": [
+        "pa-artivismo-resumo",
         "artivismos",
         "cultural-uel"
       ],
       "resourceGuides": {
+        "pa-artivismo-resumo": "Leia o resumo de Julia Péret em 2 min. Localize o que a autora entende por artivismo e por que o aproxima de conflitos de memória e poder. Veja os exemplos no ensaio integral.",
         "artivismos": "Escolha uma das produções de artivismo discutidas. Separe uma característica da obra do significado que a autora propõe para ela.",
         "cultural-uel": "Retome a discussão de conflitos entre grupos. Que dados sobre a história do grupo seriam necessários para aplicar o conceito ao exemplo escolhido?"
       },
@@ -290,7 +306,7 @@
       "body": "Em Tipos psicológicos, Jung distingue duas atitudes, introversão e extroversão, e quatro funções, pensamento, sentimento, sensação e intuição. Nesse vocabulário, “sentimento” designa uma forma de atribuir valor. A tipologia também oferece uma pergunta a quem pesquisa ou interpreta uma imagem: que aspectos o próprio ponto de vista favorece?",
       "objective": "Compare sensação e intuição na descrição de uma cena. Indique o que cada descrição salienta, preservando a possibilidade de a mesma pessoa empregar ambas.",
       "resources": [
-        "pa-playlist-tipos",
+        "tipos-amostra",
         "silveira",
         "wahba"
       ],
@@ -298,7 +314,7 @@
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
-        "pa-playlist-tipos": "Comece pelo módulo 1, sobre as origens históricas e epistemológicas da tipologia. No módulo 2, Serbena discute a constituição da consciência. O módulo 3 aborda introversão, extroversão e unilateralidade.",
+        "tipos-amostra": "Em 3 min, leia a explicação de atitudes e funções que vem antes do método. Anote o que as atitudes orientam e como as funções entram nessa orientação.",
         "silveira": "Comece pela seção sobre os tipos. Observe por que as autoras distinguem a função sentimento do uso cotidiano de “sentimentalismo”.",
         "wahba": "Leia a apresentação da escola de Zurique. Depois procure “equação pessoal” e acompanhe como a autora relaciona a posição de quem observa ao conhecimento produzido."
       }
@@ -309,12 +325,12 @@
       "body": "As atitudes descrevem para onde a experiência se orienta preferencialmente. A distinção envolve o peso do objeto e da disposição subjetiva nas decisões e percepções, e vai além da frequência com que uma pessoa conversa em público.",
       "objective": "Comparar duas formas de orientar a atenção em uma mesma situação.",
       "resources": [
-        "pa-playlist-tipos",
-        "tipos-amostra"
+        "tipos-amostra",
+        "silveira"
       ],
       "resourceGuides": {
-        "pa-playlist-tipos": "Escolha o módulo 3, de Elisangela de Pádua, dedicado a introversão, extroversão e unilateralidade. Observe como a situação entra na comparação.",
-        "tipos-amostra": "Na introdução, compare as definições de atitude introvertida e extrovertida com a maneira como o estudo as operacionaliza."
+        "tipos-amostra": "Busque «atitudes» na introdução. Em 2 min, localize para onde se dirige a atenção na introversão e na extroversão.",
+        "silveira": "Na seção em que as autoras apresentam a tipologia, compare a orientação da atenção com exemplos educacionais. Veja como a situação dos estudantes participa dessa leitura."
       },
       "parent": "tipos",
       "relation": "related",
@@ -326,12 +342,12 @@
       "body": "Na tipologia de Jung, sensação e intuição designam modos de perceber. Pensamento e sentimento designam modos de avaliar. A mesma situação permite distinguir o que foi observado, que possibilidade surgiu e por qual critério se chegou a um juízo.",
       "objective": "Propor quatro perguntas sobre uma situação, uma para cada função.",
       "resources": [
-        "silveira",
-        "tipos-amostra"
+        "tipos-amostra",
+        "silveira"
       ],
       "resourceGuides": {
-        "silveira": "Na apresentação das funções, procure o contraste entre perceber e julgar. Use um dos exemplos educacionais para distinguir as duas operações.",
-        "tipos-amostra": "Compare as quatro definições no início do artigo com as categorias empregadas na descrição dos resultados."
+        "tipos-amostra": "Localize na introdução os dois pares de funções. Em 2 min, diga quais ajudam a perceber uma situação e quais ajudam a avaliá-la.",
+        "silveira": "Na apresentação das funções, procure o contraste entre perceber e julgar. Use um dos exemplos educacionais para distinguir as duas operações."
       },
       "parent": "tipos",
       "relation": "related",
@@ -343,10 +359,12 @@
       "body": "Na formulação junguiana, o pensamento avalia relações conceituais e o sentimento atribui valor. Alguém pode justificar uma escolha por sua coerência lógica e também ponderar o que considera importante preservar.",
       "objective": "Distinguir uma avaliação de valor de uma emoção momentânea em um exemplo de decisão.",
       "resources": [
+        "tipos-amostra",
         "silveira",
         "wahba"
       ],
       "resourceGuides": {
+        "tipos-amostra": "Busque «formam um par de opostos». Em 2 min, compare as definições de pensamento e sentimento e escreva dois modos de avaliar a mesma decisão.",
         "silveira": "Leia a passagem que diferencia a função sentimento de sentimentalismo. O que uma pessoa avalia quando usa essa função?",
         "wahba": "Na discussão da tipologia e do observador, examine como um critério de avaliação pode orientar a descrição de uma experiência."
       },
@@ -364,7 +382,7 @@
         "silveira"
       ],
       "resourceGuides": {
-        "tipos-amostra": "Retome as definições de sensação e intuição antes de ler os resultados. Identifique que pergunta distingue essas funções.",
+        "tipos-amostra": "Leia as definições de sensação e intuição na introdução, em 2 min. Descreva algo que uma pessoa percebe pelos sentidos e uma possibilidade que ela antecipa na mesma cena.",
         "silveira": "Na seção sobre as funções, acompanhe como as autoras descrevem a apreensão do que está presente e das possibilidades de uma situação."
       },
       "parent": "atitudes-funcoes",
@@ -377,11 +395,11 @@
       "body": "Uma preferência ganha importância quando restringe o repertório disponível para entender uma situação. Os estudos sobre tipologia usam tanto exemplos singulares quanto amostras de grupo, cada qual com seus limites.",
       "objective": "Distinguir a descrição de uma tendência da atribuição de um rótulo fixo a alguém.",
       "resources": [
-        "pa-playlist-tipos",
+        "tipos-amostra",
         "ufpr-dialogos"
       ],
       "resourceGuides": {
-        "pa-playlist-tipos": "O módulo 3 examina o problema da unilateralidade. Identifique qual mudança de perspectiva poderia ampliar a leitura de uma situação.",
+        "tipos-amostra": "Busque «menor sua rigidez». Em 2 min, localize o ponto em que o texto distingue a preferência pelo uso de uma função da dificuldade de usar as demais.",
         "ufpr-dialogos": "No capítulo 3, sobre o caso da Sra. B, examine como uma hipótese tipológica é ligada a dados de um caso particular."
       },
       "parent": "tipos",
@@ -402,9 +420,9 @@
       "relation": "prerequisite",
       "lane": "center",
       "resourceGuides": {
+        "serbena-inconsciente": "Na seção «Arquétipo», leia o trecho que começa com «Os arquétipos são estruturas básicas», em 2 min. Diferencie o padrão que Jung propõe da imagem em que ele aparece.",
         "urpia": "Acompanhe o percurso entre as noções de inconsciente pessoal, coletivo e ancestralidade. Identifique as ressalvas da autora sobre o olhar europeu para as Áfricas.",
-        "pa-video-arquetipos": "Use a apresentação de Magaldi para situar como Jung concebeu o arquétipo. Ao ler o texto do tópico, procure distinguir o conceito teórico das imagens concretas usadas para ilustrá-lo.",
-        "serbena-inconsciente": "Leia a seção “Arquétipo”. Separe a ideia de um padrão da imagem concreta pela qual ele aparece."
+        "pa-video-arquetipos": "Use a apresentação de Magaldi para situar como Jung concebeu o arquétipo. Ao ler o texto do tópico, procure distinguir o conceito teórico das imagens concretas usadas para ilustrá-lo."
       }
     },
     {
@@ -417,8 +435,8 @@
         "pa-video-arquetipos"
       ],
       "resourceGuides": {
-        "pa-video-arquetipos": "Após a introdução de Magaldi, escolha uma imagem mencionada e indique qual parte é exemplo e qual parte é uma proposição teórica.",
-        "serbena-inconsciente": "Compare o arquétipo em si com a imagem que toma forma em um sonho ou mito."
+        "serbena-inconsciente": "Busque «não é acessível diretamente». Em 2 min, acompanhe como o texto separa o padrão de suas manifestações em imagens, afetos ou comportamentos.",
+        "pa-video-arquetipos": "Após a introdução de Magaldi, escolha uma imagem mencionada e indique qual parte é exemplo e qual parte é uma proposição teórica."
       },
       "parent": "arquetipos",
       "relation": "related",
@@ -434,7 +452,7 @@
         "urpia"
       ],
       "resourceGuides": {
-        "serbena-inconsciente": "Na discussão de mito e símbolo, localize uma passagem sobre a relação entre imagens culturais e experiência individual.",
+        "serbena-inconsciente": "Busque a passagem sobre a lógica analógica. Em 3 min, identifique como a comparação com um mito pode mudar a pergunta feita a respeito de uma imagem individual.",
         "urpia": "Leia o diálogo com a obra de Kwasi Wiredu. Observe o que a autora questiona quando a teoria produzida na Europa se aproxima de tradições africanas."
       },
       "parent": "arquetipos",
@@ -447,17 +465,17 @@
       "body": "A persona nomeia, na teoria junguiana, as formas com que alguém se apresenta e participa de um meio social. A sombra reúne aspectos pouco reconhecidos de si, inclusive capacidades que a pessoa aprendeu a desvalorizar. Alguém conhecido por conciliar conflitos pode, por exemplo, ter dificuldade de reconhecer a própria firmeza.",
       "objective": "No exemplo da pessoa conciliadora, descreva a função de seu papel social e formule uma pergunta sobre a qualidade que ela tem dificuldade de admitir.",
       "resources": [
+        "pa-video-persona-sombra",
         "santos",
-        "duarte",
-        "pa-video-persona-sombra"
+        "duarte"
       ],
       "parent": "arquetipos",
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
+        "pa-video-persona-sombra": "Comece pelos primeiros 4 min. Observe como a aula relaciona o papel social que a pessoa assume ao que ela encontra dificuldade em reconhecer em si.",
         "santos": "Localize a relação entre papel social e características recusadas. Compare a ênfase na sombra com a leitura da individuação nas cartas estudadas por Vergueiro.",
-        "duarte": "Procure “persona” e compare a função que o autor lhe atribui nas relações sociais com a descrição da sombra no texto de Santos.",
-        "pa-video-persona-sombra": "Observe como o professor relaciona persona e sombra ao problema da relação entre o eu e o inconsciente. Pense em uma situação em que um papel social realça certos aspectos e deixa outros em segundo plano."
+        "duarte": "Procure “persona” e compare a função que o autor lhe atribui nas relações sociais com a descrição da sombra no texto de Santos."
       }
     },
     {
@@ -470,7 +488,7 @@
         "duarte"
       ],
       "resourceGuides": {
-        "formacao": "Na parte sobre o indivíduo como sujeito de uma função social, observe como Seibt relaciona persona, educação e exigências coletivas.",
+        "formacao": "Busque «função social». Em 3 min, observe como a noção de persona se liga ao papel que a pessoa exerce no grupo e à identidade que ela constrói a partir dele.",
         "duarte": "Procure o termo “persona” e reconstrua qual relação o texto estabelece entre a adaptação social e a experiência subjetiva."
       },
       "parent": "persona-sombra",
@@ -483,12 +501,14 @@
       "body": "A sombra reúne aspectos que a pessoa tem dificuldade de reconhecer como seus. A hipótese de projeção pergunta se uma avaliação dirigida a outra pessoa carrega também algo da história de quem avalia. A conduta efetiva do outro continua a exigir investigação.",
       "objective": "Distinguir a descrição de um comportamento alheio da participação de quem o interpreta.",
       "resources": [
+        "pa-glossario-vieira",
         "santos",
         "formacao",
         "pa-video-persona-sombra"
       ],
       "resourceGuides": {
-        "santos": "Na discussão da sombra, procure a passagem sobre reconhecer no outro características recusadas em si. Que condição tornaria a hipótese discutível?",
+        "pa-glossario-vieira": "No sumário, abra «Projeção» e leia os dois primeiros parágrafos, em 2 min. Separe o comportamento que alguém observou da qualidade que atribuiu à outra pessoa.",
+        "santos": "Busque «projeção» no PDF e leia a explicação do conceito em 3 min. Diferencie o que alguém observa no outro daquilo que atribui a ele.",
         "formacao": "Leia o trecho sobre o que acontece quando se acentua apenas o lado luminoso. Situe o exemplo no argumento educacional do autor.",
         "pa-video-persona-sombra": "Ao ouvir a explicação sobre a relação com o inconsciente, distinga o papel social visível do aspecto que ficaria fora dele."
       },
@@ -510,7 +530,7 @@
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
-        "genero": "Observe como os autores discutem cuidado e desenvolvimento moral e por que recorrem a revisões pós-junguianas de anima e animus.",
+        "genero": "Busque «anima e animus». Em 3 min, separe a formulação que o texto atribui a Jung das perguntas que as revisões de gênero fazem a ela.",
         "ramos": "Identifique o argumento do autor sobre a diferença entre função simbólica e categoria social. Coloque-o em diálogo com Silva e colegas.",
         "pa-video-anima-animus": "Depois de estudar a formulação de Jung, acompanhe a leitura feminista de Cristiane Amaral. Identifique quais pressupostos históricos sobre gênero entram em discussão quando ela retoma o ensaio."
       }
@@ -521,10 +541,12 @@
       "body": "Nas formulações clássicas, anima e animus foram ligados a imagens de feminino e masculino em uma sociedade determinada. A leitura histórica permite distinguir a descrição simbólica do que os textos supõem sobre homens e mulheres.",
       "objective": "Reconstruir uma formulação de época e identificar um pressuposto sobre gênero presente nela.",
       "resources": [
+        "genero",
         "pa-video-anima-animus",
         "ramos"
       ],
       "resourceGuides": {
+        "genero": "Localize o trecho que apresenta os conceitos de Jung, antes das releituras. Em 3 min, identifique uma expectativa histórica sobre homens ou mulheres que aparece nessa formulação.",
         "pa-video-anima-animus": "Acompanhe Cristiane Amaral na leitura de “A mulher na Europa”. Anote uma expectativa histórica que a palestrante põe em discussão.",
         "ramos": "Localize a pergunta sobre essencialismo e compare as passagens de Jung que o autor usa para discutir o problema."
       },
@@ -543,7 +565,7 @@
         "psique-genero"
       ],
       "resourceGuides": {
-        "genero": "Procure o debate sobre cuidado e desenvolvimento moral. Identifique o problema que motiva uma revisão dos conceitos clássicos.",
+        "genero": "Busque «ética do cuidado». Em 3 min, identifique a pergunta sobre gênero e desenvolvimento moral que leva os autores a rever os conceitos clássicos.",
         "ufpr-dialogos": "No capítulo 9, página 177, observe o que as praticantes de kung fu relatam e onde os pesquisadores introduzem a ideia de alteridade.",
         "psique-genero": "Na discussão de discursos do Sagrado Feminino, identifique como os autores elaboram a noção de psique andrógina."
       },
@@ -565,9 +587,9 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
+        "pa-video-simbolos": "Veja os primeiros 4 min da apresentação. Escolha uma imagem e descreva como ela pode expressar mais de um aspecto da experiência.",
         "penna": "Compare o que a pesquisadora considera diretamente observável com o sentido atribuído a uma imagem durante a investigação.",
-        "santanna": "Compare as perguntas que as três escolas fazem a uma imagem. Em seguida, observe como os profissionais entrevistados descrevem sua própria prática.",
-        "pa-video-simbolos": "Veja a explicação de como uma imagem pode ganhar sentido para quem a vive. Depois leia um exemplo nos textos abaixo."
+        "santanna": "Compare as perguntas que as três escolas fazem a uma imagem. Em seguida, observe como os profissionais entrevistados descrevem sua própria prática."
       }
     },
     {
@@ -576,12 +598,12 @@
       "body": "Um sinal pode remeter a um significado já estabelecido, como acontece em uma convenção de trânsito. Na leitura junguiana, uma imagem funciona como símbolo quando a relação com ela abre sentidos que ainda não foram inteiramente formulados.",
       "objective": "Identificar um uso convencional de uma imagem e uma questão que surge ao lê-la simbolicamente.",
       "resources": [
-        "penna",
-        "serbena-inconsciente"
+        "serbena-inconsciente",
+        "penna"
       ],
       "resourceGuides": {
-        "penna": "Na definição de símbolo e de atitude simbólica, identifique o que depende da posição de quem observa.",
-        "serbena-inconsciente": "Procure a discussão de signo e símbolo. Compare a relação que cada um estabelece com algo conhecido ou ainda indeterminado."
+        "serbena-inconsciente": "Leia o resumo em 2 min. Na passagem de símbolo a signo, localize o que acontece com os significados que uma imagem podia reunir para quem a vive.",
+        "penna": "Na definição de símbolo e de atitude simbólica, identifique o que depende da posição de quem observa."
       },
       "parent": "simbolo",
       "relation": "related",
@@ -598,7 +620,7 @@
         "pa-video-simbolos"
       ],
       "resourceGuides": {
-        "penna": "Procure “função transcendente”. Reconstrua como a autora relaciona o símbolo ao trânsito entre consciência e inconsciente.",
+        "penna": "Busque «função transcendente». Em 3 min, acompanhe como o texto liga a elaboração de um símbolo ao encontro de perspectivas conscientes e inconscientes.",
         "movimento": "Na apresentação da imaginação ativa, procure a discussão sobre os opostos e observe a participação da consciência na elaboração do material.",
         "pa-video-simbolos": "Acompanhe a passagem sobre a relação entre o símbolo e os opostos. Compare-a com o argumento de Penna."
       },
@@ -616,7 +638,7 @@
         "santanna"
       ],
       "resourceGuides": {
-        "movimento": "Na parte sobre Whitehouse, acompanhe a diferença entre mover-se e sentir-se movido. Localize onde a autora descreve o papel do eu nessa experiência.",
+        "movimento": "Na parte sobre Mary Whitehouse, busque «sentir-se movido». Em 3 min, identifique a diferença entre escolher um movimento e dar atenção ao gesto que surge.",
         "santanna": "Procure “imaginação ativa” no texto sobre as imagens psíquicas e compare a proposta de trabalho com a imagem à leitura de Whitehouse."
       },
       "parent": "funcao-transcendente",
@@ -637,7 +659,7 @@
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
-        "dornelas": "Leia a descrição do trabalho com um sonho e procure onde entram os significados trazidos por quem sonhou e os paralelos culturais.",
+        "dornelas": "Busque «amplificação» e leia os parágrafos sobre o método em 3 min. Observe quando entram os significados de quem sonhou e quando o estudo recorre a paralelos culturais.",
         "seminarios": "Acompanhe um exemplo discutido pelos autores e observe que perguntas surgem durante o diálogo em torno do sonho.",
         "pa-playlist-sonhos": "O link abre a aula de Maddi Damião (UFF) sobre a metodologia de análise e interpretação, com 56 minutos. Na mesma playlist, escolha a aula de Jéssica dos Santos sobre sonhos em grupos ou a de Carlos Serbena sobre vida coletiva."
       }
@@ -652,7 +674,7 @@
         "pa-playlist-sonhos"
       ],
       "resourceGuides": {
-        "dornelas": "Procure as perguntas usadas para estabelecer o contexto da imagem. Onde entra a participação de quem trouxe o sonho?",
+        "dornelas": "Leia a passagem sobre como estabelecer o contexto de um sonho. Em 3 min, escreva uma pergunta sobre a situação de vida que ajude a entender uma imagem.",
         "pa-playlist-sonhos": "A aula de Maddi Damião abre a playlist com a metodologia de análise e interpretação. Anote uma diferença entre reunir contexto e propor um sentido."
       },
       "parent": "sonhos",
@@ -669,8 +691,8 @@
         "seminarios"
       ],
       "resourceGuides": {
-        "seminarios": "Escolha um sonho discutido nos seminários e localize em que ponto o diálogo recorre ao contexto da vida consciente.",
-        "dornelas": "Procure a passagem que relaciona compensação e atitude consciente. Observe o que um sonho contrastante poderia tornar visível."
+        "dornelas": "Busque «quanto mais unilateral». Em 2 min, veja por que o texto relaciona a atitude durante o dia a imagens de sonho que trazem uma perspectiva diferente.",
+        "seminarios": "Escolha um sonho discutido nos seminários e localize em que ponto o diálogo recorre ao contexto da vida consciente."
       },
       "parent": "sonhos",
       "relation": "related",
@@ -686,7 +708,7 @@
         "caso-miguel"
       ],
       "resourceGuides": {
-        "serie-caso": "Leia a sequência de sonhos do estudo e escolha uma imagem que reaparece. Descreva primeiro a mudança e só depois a interpretação dos autores.",
+        "serie-caso": "Escolha em 3 min uma imagem que reaparece na série. Descreva o que mudou de um sonho para o outro e, depois, leia a interpretação dos autores.",
         "caso-miguel": "Compare a primeira e a última narrativa entre os seis sonhos de Miguel. Que mudança você consegue descrever antes de recorrer à interpretação do autor?"
       },
       "parent": "sonhos",
@@ -703,7 +725,7 @@
         "pa-playlist-sonhos"
       ],
       "resourceGuides": {
-        "ufpr-dialogos": "No capítulo 5, página 97, acompanhe a descrição dos grupos de estudantes que estavam entrando na faculdade. Como os autores passam dos relatos aos temas do grupo?",
+        "ufpr-dialogos": "Vá ao capítulo 5, página impressa 97. Em 3 min, veja como os pesquisadores passaram dos relatos dos estudantes a temas do grupo.",
         "pa-playlist-sonhos": "Na playlist “Sonhos na psicologia analítica”, escolha a aula de Jéssica dos Santos sobre o trabalho com grupos e compare-a com o capítulo da UFPR."
       },
       "parent": "sonhos",
@@ -724,7 +746,7 @@
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
-        "santanna": "Compare as perguntas que as três escolas fazem a uma imagem. Em seguida, observe como os profissionais entrevistados descrevem sua própria prática.",
+        "santanna": "Busque «Samuels» no texto. Em 3 min, leia os parágrafos que apresentam as três escolas e anote a pergunta sobre a imagem que cada uma prioriza.",
         "padua": "Procure o trecho que reúne as três escolas. Identifique um autor em cada vertente e compare o que investigam.",
         "hillman": "Na vertente arquetípica, anote o sentido metodológico de “ficar com a imagem” e compare-o com a classificação de Pádua e Serbena."
       }
@@ -735,12 +757,12 @@
       "body": "Na classificação histórica de Andrew Samuels, a vertente clássica atribui lugar central ao si-mesmo, à individuação e à leitura simbólica. Examinar seu modo de trabalhar com uma imagem torna a distinção entre vertentes mais concreta.",
       "objective": "Explicar que pergunta uma leitura clássica pode dirigir a uma imagem e localizar um autor associado à vertente.",
       "resources": [
-        "padua",
-        "santanna"
+        "santanna",
+        "padua"
       ],
       "resourceGuides": {
-        "padua": "Na apresentação das três escolas, identifique os autores ligados à escola clássica e a ênfase que lhes é atribuída.",
-        "santanna": "Comece pelo trecho dedicado à escola clássica. Compare o lugar do símbolo ali com a descrição da escola arquetípica."
+        "santanna": "Busque «A escola clássica em Psicologia Analítica». Em 2 min, veja como a escola entende a função das imagens na relação entre ego e si-mesmo.",
+        "padua": "Na apresentação das três escolas, identifique os autores ligados à escola clássica e a ênfase que lhes é atribuída."
       },
       "parent": "escolas",
       "relation": "related",
@@ -756,7 +778,7 @@
         "padua"
       ],
       "resourceGuides": {
-        "fordham": "Leia a parte sobre Fordham e Neumann. Identifique qual questão da infância cada autor acrescenta à teoria junguiana.",
+        "fordham": "Na seção sobre Fordham e Neumann, leia o início da discussão de cada autor, em 3 min. Identifique uma pergunta sobre a infância que cada um acrescenta à teoria.",
         "padua": "No panorama da escola desenvolvimentista, identifique a ênfase atribuída às relações iniciais e compare-a com outra vertente."
       },
       "parent": "escolas",
@@ -773,7 +795,7 @@
         "santanna"
       ],
       "resourceGuides": {
-        "fordham": "Na parte sobre Fordham, observe a sequência de deintegração e reintegração e o lugar da interação com o ambiente.",
+        "fordham": "Busque os termos «deintegração» e «reintegração». Em 3 min, siga o que Fordham propõe para a relação entre o bebê e o ambiente.",
         "santanna": "Na apresentação da escola desenvolvimentista, leia as passagens sobre Fordham e desenvolvimento do ego. Compare o vocabulário com o do artigo sobre o self primário."
       },
       "parent": "desenvolvimentista",
@@ -786,12 +808,12 @@
       "body": "James Hillman propõe demorar-se nos detalhes de uma imagem, em sua linguagem e em seu tom. Um detalhe que parecia dispensável pode mudar a leitura quando se investiga como a cena foi composta.",
       "objective": "Formular uma pergunta sobre um detalhe da imagem que não pressuponha uma explicação pronta.",
       "resources": [
-        "hillman",
-        "santanna"
+        "santanna",
+        "hillman"
       ],
       "resourceGuides": {
-        "hillman": "Leia a discussão de “ficar com a imagem” e da base poética da psique. Registre o que conta como descrição da imagem nessa perspectiva.",
-        "santanna": "Na seção sobre a escola arquetípica, compare como se descreve uma imagem com o procedimento apresentado para a escola clássica."
+        "santanna": "Busque «A escola arquetípica». Em 2 min, anote o que se ganha ao acompanhar os detalhes de uma imagem antes de explicá-la. Veja a discussão sobre Hillman a seguir.",
+        "hillman": "Leia a discussão de “ficar com a imagem” e da base poética da psique. Registre o que conta como descrição da imagem nessa perspectiva."
       },
       "parent": "escolas",
       "relation": "related",
@@ -803,6 +825,7 @@
       "body": "Jung usava si-mesmo (Self) para falar da totalidade psíquica, que inclui o campo consciente e o inconsciente. Chamava de individuação o processo de diferenciação em que alguém revê sua relação com essa totalidade, com os papéis coletivos e com os outros. As cartas de Jung permitem acompanhar como ele descrevia esse processo em resposta a interlocutores diferentes.",
       "objective": "Selecione duas passagens discutidas por Vergueiro. Compare o papel do ego em cada uma e explique por que o texto distingue individuação de individualismo.",
       "resources": [
+        "pa-intro-ijrj",
         "vergueiro",
         "santos",
         "formacao"
@@ -811,6 +834,7 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
+        "pa-intro-ijrj": "Em «O que é psicologia analítica?», leia a definição de individuação, em 1 min. Identifique o que muda na maneira de a pessoa se relacionar com diferentes partes de sua experiência.",
         "vergueiro": "Vá às seções sobre a definição da individuação e o relacionamento humano. Compare as diferentes formulações mobilizadas nas cartas.",
         "santos": "Localize a relação entre papel social e características recusadas. Compare a ênfase na sombra com a leitura da individuação nas cartas estudadas por Vergueiro.",
         "formacao": "Observe como a educação entra na tensão entre individuação e sociedade, e compare o argumento de Seibt com o estudo das cartas de Jung."
@@ -822,10 +846,14 @@
       "body": "O ego é apresentado como centro da consciência. O si-mesmo corresponde, na teoria de Jung, a uma totalidade que inclui aspectos conscientes e inconscientes. As cartas ajudam a observar como o autor usa a distinção ao responder a perguntas diferentes.",
       "objective": "Reconstruir a distinção entre os dois centros e identificar uma consequência para a ideia de individuação.",
       "resources": [
+        "pa-glossario-vieira",
+        "santanna",
         "vergueiro",
         "pa-video-ego"
       ],
       "resourceGuides": {
+        "pa-glossario-vieira": "Abra «Self / Si-Mesmo» no sumário. Leia os primeiros parágrafos em 2 min e desenhe como Jung situa o ego em relação à totalidade da psique.",
+        "santanna": "No parágrafo sobre a escola clássica, busque «eixo ego-self». Em 2 min, veja como uma imagem pode servir de ponte entre a consciência e o que ainda está fora dela.",
         "vergueiro": "No estudo das cartas de Jung, procure as categorias referentes ao ego e ao si-mesmo. Em que contexto aparece cada termo?",
         "pa-video-ego": "Retome a explicação sobre a abrangência do ego e formule uma pergunta sobre o que fica fora de seu campo. Compare-a com a leitura das cartas."
       },
@@ -843,7 +871,7 @@
         "vergueiro"
       ],
       "resourceGuides": {
-        "formacao": "Leia a discussão sobre a relação indivíduo–sociedade e identifique uma consequência que Seibt extrai para a educação.",
+        "formacao": "Busque a discussão sobre indivíduo e sociedade. Em 3 min, localize uma tensão entre as expectativas de um grupo e o desenvolvimento de um percurso próprio.",
         "vergueiro": "Na categoria sobre o relacionamento humano, procure uma passagem das cartas que permita discutir a importância dos vínculos para a individuação."
       },
       "parent": "individuacao",
@@ -865,7 +893,7 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
-        "santanna": "Compare as perguntas que as três escolas fazem a uma imagem. Em seguida, observe como os profissionais entrevistados descrevem sua própria prática.",
+        "santanna": "Vá à seção 6 e leia a descrição do estudo, em 3 min. Anote quem foi ouvido, o que os participantes descreveram e de quem faltaria ouvir o ponto de vista para ampliar a conclusão.",
         "penna": "Compare o que a pesquisadora considera diretamente observável com o sentido atribuído a uma imagem durante a investigação.",
         "roesler": "Procure “Levels of Evidence” e compare os desenhos de acompanhamento e suas limitações para atribuir uma mudança à intervenção.",
         "video-metodo": "A aula de Serbena apresenta princípios metodológicos para o campo. Use-os para avaliar que tipo de pergunta o artigo de Penna pode responder."
@@ -877,12 +905,12 @@
       "body": "Uma pergunta sobre a recorrência de uma imagem, outra sobre o sentido que alguém lhe atribui e outra sobre o efeito de uma intervenção exigem dados diferentes. Antes da coleta, é preciso definir o que vai contar como material observável.",
       "objective": "Escrever uma pergunta, definir o material correspondente e indicar uma conclusão que ele não sustentaria.",
       "resources": [
-        "video-metodo",
-        "penna"
+        "penna",
+        "video-metodo"
       ],
       "resourceGuides": {
-        "video-metodo": "Na aula 2, acompanhe os princípios apresentados para a pesquisa em Psicologia Analítica. Retome um deles ao definir a pergunta de um estudo.",
-        "penna": "Na parte sobre o desafio de investigar o inconsciente, identifique o que a autora considera acessível à observação e o que depende de interpretação."
+        "penna": "Leia o resumo e a descrição do método de investigação, em 3 min. Identifique o tipo de material que a autora usa para responder a perguntas sobre significados.",
+        "video-metodo": "Na aula 2, acompanhe os princípios apresentados para a pesquisa em Psicologia Analítica. Retome um deles ao definir a pergunta de um estudo."
       },
       "parent": "pesquisa",
       "relation": "related",
@@ -894,12 +922,12 @@
       "body": "Um trecho de entrevista é produzido por uma pessoa em uma situação. Ao transformá-lo em tema de análise, o pesquisador seleciona, compara e interpreta passagens. Tornar visível esse percurso ajuda o leitor a avaliar a interpretação.",
       "objective": "Reconstruir como uma fala de entrevista foi relacionada a um tema e discutir uma leitura alternativa.",
       "resources": [
-        "video-textos",
-        "santanna"
+        "santanna",
+        "video-textos"
       ],
       "resourceGuides": {
-        "video-textos": "Na aula 6, compare as operações de organizar o material e atribuir-lhe um sentido. O que precisaria ficar registrado para que outro leitor acompanhasse a análise?",
-        "santanna": "Na pesquisa com profissionais, procure o trecho que apresenta o material das entrevistas. Observe onde termina a fala citada e começa a interpretação do pesquisador."
+        "santanna": "Leia o início da seção 6.1 em 3 min. Escolha um tema e procure que evidência das entrevistas o texto apresenta para sustentá-lo.",
+        "video-textos": "Na aula 6, compare as operações de organizar o material e atribuir-lhe um sentido. O que precisaria ficar registrado para que outro leitor acompanhasse a análise?"
       },
       "parent": "pesquisa",
       "relation": "related",
@@ -915,7 +943,7 @@
         "ufpr-dialogos"
       ],
       "resourceGuides": {
-        "serie-caso": "Compare o objetivo, o material de uma participante e as conclusões do estudo sobre sonhos. Indique o que se pode afirmar sobre essa sequência específica.",
+        "serie-caso": "Leia o objetivo e o começo da discussão, em 3 min. Diga a qual participante se referem as conclusões e que dados seriam necessários para comparar outro caso.",
         "ufpr-dialogos": "Leia o caso da Sra. B no capítulo 3, página 55. Diferencie o que a participante trouxe da hipótese tipológica formulada no texto."
       },
       "parent": "pesquisa",
@@ -1044,13 +1072,13 @@
       "authors": "Ana de Oliveira Urpia",
       "institution": "Junguiana / Sociedade Brasileira de Psicologia Analítica",
       "year": 2023,
-      "url": "https://junguiana.sbpa.org.br/revista/article/download/26/17/31",
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S0103-08252023000100155&script=sci_arttext",
       "sourcePage": "https://junguiana.sbpa.org.br/revista/article/view/26",
       "language": "pt-BR",
-      "format": "Ensaio em PDF",
-      "access": "PDF integral gratuito no site da revista Junguiana.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o texto sobre memória pessoal e coletiva, a discussão da imagem ancestral e o diálogo com a obra de Kwasi Wiredu.",
+      "format": "Ensaio em texto integral",
+      "access": "Texto integral gratuito no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto integral e o diálogo da autora com interlocutores africanos sobre ancestralidade.",
       "rights": "A publicação disponibiliza consulta gratuita. A licença de reprodução deste item não foi verificada.",
       "caveat": "A autora propõe uma aproximação situada entre duas tradições de pensamento.",
       "relevance": "Acompanhe o percurso entre as noções de inconsciente pessoal, coletivo e ancestralidade. Identifique as ressalvas da autora sobre o olhar europeu para as Áfricas.",
@@ -1067,13 +1095,13 @@
       "authors": "Douglas Manoel Antonio de Abreu Pestana Santos",
       "institution": "Revista de Estudos Universitários / Universidade de Sorocaba",
       "year": 2022,
-      "url": "https://periodicos.uniso.br/reu/article/download/4807/4726/16519",
+      "url": "https://periodicos.uniso.br/reu/article/view/4807/4726/16519",
       "sourcePage": null,
       "language": "pt-BR",
       "format": "Revisão narrativa em PDF",
-      "access": "Artigo integral gratuito.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos autoria, ano, licença e as seções que articulam sombra, persona e individuação.",
+      "access": "Leitor de PDF gratuito no site do periódico, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o leitor de PDF e o título na página do periódico.",
       "rights": "A publicação declara licença CC BY 4.0.",
       "caveat": "As conclusões sobre integração da sombra expressam uma interpretação da literatura e não medem resultados de tratamento.",
       "relevance": "Localize a relação entre papel social e características recusadas. Compare a ênfase na sombra com a leitura da individuação nas cartas estudadas por Vergueiro.",
@@ -1094,13 +1122,14 @@
       "language": "pt-BR",
       "format": "Artigo teórico",
       "access": "HTML integral gratuito em português.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos a autoria, o texto em português e a discussão de anima e animus no contexto das teorias sobre gênero e moralidade.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto integral e a discussão de anima, animus e ética do cuidado.",
       "rights": "O periódico identifica o artigo como de acesso aberto sob licença Creative Commons.",
       "caveat": "O artigo responde a um debate específico sobre desenvolvimento moral.",
       "relevance": "Observe como os autores discutem cuidado e desenvolvimento moral e por que recorrem a revisões pós-junguianas de anima e animus.",
       "nodes": [
         "anima-animus",
+        "formulacao-historica",
         "releituras-genero"
       ]
     },
@@ -1131,13 +1160,13 @@
       "authors": "Paulo Afrânio Sant’Anna",
       "institution": "Psicologia USP / Universidade de São Paulo",
       "year": 2005,
-      "url": "https://www.redalyc.org/pdf/3051/305128452003.pdf",
+      "url": "https://www.scielo.br/j/pusp/a/5zPRytQhPB446kZQy8YjnmH/",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Artigo de pesquisa em PDF",
-      "access": "PDF integral gratuito na SciELO.",
+      "format": "Artigo de pesquisa em texto integral",
+      "access": "Texto integral gratuito no navegador, com opção de PDF no periódico.",
       "checkedAt": "2026-11-25",
-      "verification": "Conferido o PDF integral de Psicologia USP no repositório acadêmico Redalyc.",
+      "verification": "Conferidos o texto integral em português, a apresentação das três escolas e a descrição das entrevistas.",
       "rights": "A publicação disponibiliza consulta gratuita. A licença de reprodução deste item não foi verificada.",
       "caveat": "O artigo discute imagens por meio de três orientações e de depoimentos colhidos em um contexto específico.",
       "relevance": "Compare as perguntas que as três escolas fazem a uma imagem. Em seguida, observe como os profissionais entrevistados descrevem sua própria prática.",
@@ -1148,6 +1177,7 @@
         "classica",
         "self-primario",
         "arquetipica",
+        "ego-self",
         "pesquisa",
         "analisar-entrevistas"
       ]
@@ -1235,6 +1265,7 @@
       "relevance": "Comece pela seção sobre os tipos. Observe por que as autoras distinguem a função sentimento do uso cotidiano de “sentimentalismo”.",
       "nodes": [
         "tipos",
+        "orientacao",
         "atitudes-funcoes",
         "pensamento-sentimento",
         "sensacao-intuicao"
@@ -1347,28 +1378,6 @@
       ]
     },
     {
-      "id": "pa-playlist-tipos",
-      "title": "Tipos psicológicos: fundamentos, constituição do ego e possíveis implicações clínicas",
-      "authors": "Pablo de Assis, Carlos Augusto Serbena, Elisangela S. de Pádua e Maria do Desterro de Figueiredo",
-      "institution": "Estudos em Psicologia Analítica do Paraná",
-      "year": 2020,
-      "url": "https://www.youtube.com/watch?v=6mAK1Zyr9hU&list=PLXxhgyqLx6EGeTyyhdLdY8gT6kVLu4h-G",
-      "language": "pt-BR",
-      "format": "playlist · 4 módulos e 4 vídeos complementares",
-      "access": "Vídeo gratuito no YouTube, acessível pelo link direto.",
-      "verification": "Lista pública de aulas e página do episódio conferidas. O player do episódio estava disponível sem login.",
-      "rights": "Link para a publicação no canal responsável. Licença de reutilização não identificada na verificação.",
-      "caveat": "O minicurso ocupa os quatro primeiros vídeos da playlist.",
-      "checkedAt": "2026-11-15",
-      "relevance": "Comece pelo módulo 1, sobre as origens históricas e epistemológicas da tipologia. No módulo 2, Serbena discute a constituição da consciência. O módulo 3 aborda introversão, extroversão e unilateralidade.",
-      "sourcePage": "https://www.simposio2022.anpepp.org.br/trabalho/view?ID_TRABALHO=41",
-      "nodes": [
-        "tipos",
-        "orientacao",
-        "unilateralidade"
-      ]
-    },
-    {
       "id": "pa-video-arquetipos",
       "title": "Arquétipos",
       "authors": "Waldemar Magaldi Filho",
@@ -1399,10 +1408,10 @@
       "language": "pt-BR",
       "format": "videoaula · 9 min",
       "access": "Vídeo gratuito no YouTube, acessível pelo link direto.",
-      "verification": "Página e metadados do vídeo conferidos. O player estava disponível sem login.",
+      "verification": "Conferidos a publicação no canal do IJEP e o título retornado pelo serviço de incorporação do YouTube.",
       "rights": "Link para a publicação no canal responsável. Licença de reutilização não identificada na verificação.",
       "caveat": "Exposição inicial sobre os conceitos de persona e sombra.",
-      "checkedAt": "2026-11-15",
+      "checkedAt": "2026-11-25",
       "relevance": "Observe como o professor relaciona persona e sombra ao problema da relação entre o eu e o inconsciente. Pense em uma situação em que um papel social realça certos aspectos e deixa outros em segundo plano.",
       "sourcePage": "https://www.ijep.com.br/videos?page=6",
       "nodes": [
@@ -1480,13 +1489,13 @@
       "authors": "Carlos Augusto Serbena",
       "institution": "Revista da Abordagem Gestáltica",
       "year": 2010,
-      "url": "https://pepsic.scielo.org/pdf/rag/v16n1/v16n1a10.pdf",
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S1809-68672010000100010&script=sci_arttext",
       "sourcePage": null,
       "language": "pt-BR",
-      "format": "Artigo de introdução · PDF de 7 páginas",
-      "access": "Texto integral gratuito no PePSIC.",
+      "format": "Artigo de introdução em texto integral",
+      "access": "Texto integral gratuito no navegador, com opção de PDF no periódico.",
       "checkedAt": "2026-11-25",
-      "verification": "Conferidos o PDF do periódico em português e os trechos sobre história, arquétipos e símbolos.",
+      "verification": "Conferidos o texto integral no PePSIC e os trechos sobre arquétipo, imagem e signo.",
       "rights": "O artigo está disponível para leitura no periódico. A licença de reprodução não foi verificada.",
       "caveat": "O autor apresenta essas distinções a partir do referencial de Jung.",
       "relevance": "Na introdução, procure “inconsciente pessoal”. Leia desde o parágrafo anterior até a discussão da consciência do ego. Que parte de uma experiência pode escapar à percepção imediata de quem a vive?",
@@ -1592,15 +1601,15 @@
       "authors": "Cauan Esplugues Silva e Carlos Augusto Serbena",
       "institution": "Estudos Interdisciplinares em Psicologia / UEL",
       "year": 2021,
-      "url": "https://ojs.uel.br/revistas/uel/index.php/eip/article/download/39663/29797/220969",
+      "url": "https://pepsic.scielo.org/scielo.php?pid=S2236-64072021000100009&script=sci_arttext",
       "sourcePage": "https://ojs.uel.br/revistas/uel/index.php/eip/article/view/39663/0",
       "language": "pt-BR",
-      "format": "Revisão conceitual · PDF",
-      "access": "PDF integral de acesso gratuito.",
-      "verification": "Conferidos o artigo, a discussão de Singer e Kimbles e o trecho sobre críticas e limites do conceito.",
+      "format": "Revisão conceitual em texto integral",
+      "access": "Texto integral gratuito no navegador, sem cadastro.",
+      "verification": "Conferidos o texto integral, a passagem de complexo individual a cultural e a discussão de críticas ao conceito.",
       "rights": "Consulta gratuita na fonte de publicação. A licença de reutilização não foi confirmada.",
       "caveat": "Apresenta e discute uma construção teórica sobre conflitos entre grupos.",
-      "checkedAt": "2026-11-15",
+      "checkedAt": "2026-11-25",
       "relevance": "Leia como Singer e Kimbles deslocam a análise para grupos e como os autores situam as críticas ao conceito.",
       "nodes": [
         "complexos-culturais",
@@ -1639,15 +1648,18 @@
       "language": "pt-BR",
       "format": "Pesquisa empírica",
       "access": "Texto integral de acesso gratuito.",
-      "verification": "Conferidos o texto integral, as definições das atitudes e funções, o método e a descrição da amostra.",
+      "verification": "Conferidos a página em texto integral e os trechos da introdução que expõem as atitudes, as funções e a diferença entre preferência e rigidez.",
       "rights": "Consulta gratuita na fonte de publicação. A licença de reutilização não foi confirmada.",
       "caveat": "Os resultados se referem aos participantes estudados e ao instrumento utilizado.",
-      "checkedAt": "2026-11-15",
+      "checkedAt": "2026-11-25",
       "relevance": "Compare as definições das atitudes e das funções com as características da amostra de estudantes.",
       "nodes": [
+        "tipos",
         "orientacao",
         "atitudes-funcoes",
-        "sensacao-intuicao"
+        "pensamento-sentimento",
+        "sensacao-intuicao",
+        "unilateralidade"
       ]
     },
     {
@@ -1828,15 +1840,15 @@
       "authors": "Guilherme Silva Gonçalves",
       "institution": "Self / Instituto Junguiano de São Paulo",
       "year": 2023,
-      "url": "https://self.ijusp.org.br/self/article/download/194/411/2131",
+      "url": "https://self.ijusp.org.br/self/article/view/194/411/2131",
       "sourcePage": "https://self.ijusp.org.br/self/article/view/194",
       "language": "pt-BR",
       "format": "Artigo de reflexão · PDF",
-      "access": "PDF integral de acesso gratuito.",
-      "verification": "Conferidos o PDF, a referência aos estudos de associação e o argumento que relaciona afetos e complexos.",
+      "access": "Leitor de PDF gratuito no site do periódico, sem cadastro.",
+      "verification": "Conferidos o leitor de PDF e o título na página do periódico.",
       "rights": "Consulta gratuita na fonte de publicação. A licença de reutilização não foi confirmada.",
       "caveat": "As aproximações com a neurociência são uma proposta teórica do autor.",
-      "checkedAt": "2026-11-15",
+      "checkedAt": "2026-11-25",
       "relevance": "No trecho sobre estudos de associação, localize o papel atribuído aos afetos na organização de um complexo.",
       "nodes": [
         "constelacao"
@@ -1880,6 +1892,74 @@
       "relevance": "Leia os seis relatos de Miguel e as interpretações que os acompanham. Observe que imagens mudam quando os relatos são lidos em sequência.",
       "nodes": [
         "serie-sonhos"
+      ]
+    },
+    {
+      "id": "pa-intro-ijrj",
+      "title": "Jung e a Psicologia Analítica",
+      "authors": "Instituto Junguiano do Rio de Janeiro",
+      "institution": "Instituto Junguiano do Rio de Janeiro",
+      "year": null,
+      "url": "https://institutojunguianorj.org.br/jung-e-a-psicologia-analitica/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Introdução institucional",
+      "access": "Leitura gratuita no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto integral no site do instituto, a biografia de Jung e as passagens sobre Burghölzli, complexos e individuação.",
+      "rights": "O mapa aponta para a publicação original.",
+      "caveat": "Apresentação da história e da teoria na perspectiva da Psicologia Analítica.",
+      "relevance": "Apresenta a pesquisa inicial de Jung em Zurique e os conceitos de inconsciente pessoal, arquétipo e individuação.",
+      "nodes": [
+        "origens",
+        "burgholzli",
+        "pessoal-coletivo",
+        "complexos",
+        "associacao-palavras",
+        "individuacao"
+      ]
+    },
+    {
+      "id": "pa-artivismo-resumo",
+      "title": "Os complexos culturais e os artivismos · resumo",
+      "authors": "Julia Péret",
+      "institution": "Junguiana · Sociedade Brasileira de Psicologia Analítica",
+      "year": 2022,
+      "url": "https://junguiana.sbpa.org.br/revista/article/view/213",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Resumo de ensaio",
+      "access": "Leitura gratuita no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o resumo em HTML, a credencial da autora e o link para o ensaio integral em português.",
+      "rights": "O mapa aponta para a publicação original.",
+      "caveat": "A autora aproxima a psicologia analítica de perspectivas decoloniais. Os exemplos estão no ensaio integral.",
+      "relevance": "Introduz o conceito de artivismo e a pergunta sobre conflitos culturais que orienta o ensaio.",
+      "nodes": [
+        "arte-politica"
+      ]
+    },
+    {
+      "id": "pa-glossario-vieira",
+      "title": "Glossário Junguiano: Conceitos de Jung Explicados com Exemplos",
+      "authors": "Jordan Vieira",
+      "institution": "Site do psicólogo Jordan Vieira",
+      "year": null,
+      "url": "https://psicologojordanvieira.com.br/glossario-junguiano/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Glossário em texto integral",
+      "access": "Leitura gratuita no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto aberto, o crédito profissional apresentado pelo autor e os verbetes Complexo, Projeção e Self / Si-Mesmo.",
+      "rights": "O mapa aponta para a publicação original.",
+      "caveat": "Introdução aos conceitos na perspectiva junguiana. Use o material acadêmico da ficha para estudar como cada hipótese é formulada e discutida.",
+      "relevance": "O sumário leva aos verbetes sobre a teoria dos complexos, a atribuição de conteúdos ao outro e a relação entre ego e si-mesmo.",
+      "nodes": [
+        "tempo-reacao",
+        "constelacao",
+        "projecao",
+        "ego-self"
       ]
     }
   ]

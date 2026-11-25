@@ -16,7 +16,7 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
-        "castilho": "Na parte histórica, siga o deslocamento da investigação de uma pessoa isolada para as relações observadas durante a comunicação familiar.",
+        "castilho": "Leia os três primeiros parágrafos. Observe que problemas clínicos levaram profissionais a incluir as interações familiares no que estudavam.",
         "panorama": "Localize o objetivo do levantamento brasileiro e compare a caracterização dos terapeutas com a história de formação do campo.",
         "serie-escolas": "Comece pelo encontro sobre fundamentos. Volte à lista da série para ouvir a aula da escola que você quiser comparar."
       }
@@ -30,11 +30,13 @@
       "relation": "related",
       "lane": "left",
       "resources": [
+        "gl-cibernetica",
         "hist",
         "aula-cibernetica",
         "castilho"
       ],
       "resourceGuides": {
+        "gl-cibernetica": "Comece em “Do leme à família”. Identifique o que passou da investigação de sistemas para o estudo da comunicação.",
         "hist": "Encontre as referências a Bateson e às Conferências Macy. Anote uma ideia que passou de um campo de pesquisa para o outro.",
         "aula-cibernetica": "No encontro de Girlaine Peres, reconheça as perguntas sobre organização e regulação que aproximam a cibernética das relações humanas.",
         "castilho": "Compare a narrativa histórica da autora com a de Vogel e identifique um ponto de convergência."
@@ -49,10 +51,12 @@
       "relation": "related",
       "lane": "left",
       "resources": [
+        "gl-retroalimentacao",
         "hist",
         "aula-cibernetica"
       ],
       "resourceGuides": {
+        "gl-retroalimentacao": "Comece em “Retroalimentação negativa e positiva”. Em cada exemplo, indique qual resposta amplia o desvio e qual ajuda a reduzi-lo.",
         "hist": "Compare as passagens sobre feedback negativo, amplificação de desvios e morfogênese. Procure o efeito de cada processo sobre o sistema.",
         "aula-cibernetica": "Acompanhe a ideia de regulação. Imagine uma sequência em que a resposta de uma pessoa intensifica a mudança inicial."
       }
@@ -66,10 +70,12 @@
       "relation": "related",
       "lane": "right",
       "resources": [
+        "gl-cibernetica",
         "hist",
         "aula-pensamento"
       ],
       "resourceGuides": {
+        "gl-cibernetica": "Vá a “Primeira e segunda ordem”. Localize o que muda na descrição quando o observador passa a fazer parte dela.",
         "hist": "Na passagem para a segunda ordem, localize a mudança na relação entre o observador e o sistema observado.",
         "aula-pensamento": "Na exposição de Vasconcellos, procure como a autora situa o conhecimento de quem observa na produção das descrições."
       }
@@ -83,10 +89,12 @@
       "relation": "related",
       "lane": "right",
       "resources": [
+        "linha-tempo-br",
         "panorama",
         "entrevista-brasil"
       ],
       "resourceGuides": {
+        "linha-tempo-br": "Leia as entradas dos anos 1980 e 1990. Encontre um instituto de formação, uma publicação e uma associação.",
         "panorama": "Localize os participantes do levantamento. Compare as trajetórias de formação e as orientações teóricas declaradas por eles.",
         "entrevista-brasil": "Ouça o relato de Féres-Carneiro e identifique um episódio que aproxima pesquisa acadêmica e trabalho com casais ou famílias."
       }
@@ -104,7 +112,7 @@
         "terapias"
       ],
       "resourceGuides": {
-        "costa": "Leia separadamente os trechos sobre Palo Alto e sobre a Escola Estratégica. Anote quais nomes e conceitos a autora situa em cada grupo.",
+        "costa": "Vá ao trecho sobre as diferentes escolas. Leia os parágrafos sobre Palo Alto e a Escola Estratégica, marcando o foco de cada grupo.",
         "terapias": "Localize a apresentação de Haley. Identifique como Féres-Carneiro caracteriza a posição do terapeuta na proposta estratégica."
       }
     },
@@ -121,7 +129,7 @@
         "entrevista"
       ],
       "resourceGuides": {
-        "protocolo": "Na discussão sobre o MRI, localize as tentativas de solução e compare com as perguntas sobre a queixa propostas no protocolo.",
+        "protocolo": "Busque “tentativas de solução” no texto. Em uma frase, diga como uma resposta repetida pode manter a queixa inicial.",
         "entrevista": "Procure o trecho sobre investigar as soluções tentadas. Liste quais dados sobre a sequência faltam quando se registra apenas a queixa inicial."
       }
     },
@@ -134,11 +142,13 @@
       "relation": "related",
       "lane": "right",
       "resources": [
+        "momentos",
         "protocolo",
         "entrevista"
       ],
       "resourceGuides": {
-        "protocolo": "Compare as questões sobre quem pediu o atendimento e o que foi dito a respeito dele. Veja como isso participa da construção da queixa.",
+        "momentos": "No início de “Método”, procure quem encaminhou a família e como os pais descreveram a queixa. Compare essa descrição com o que a família disse na última sessão.",
+        "protocolo": "Vá às perguntas sobre quem pediu atendimento. Separe o que motivou o encaminhamento e o que cada pessoa quer mudar.",
         "entrevista": "Na parte sobre os primeiros contatos com a família, identifique de quem vêm as primeiras informações e como são retomadas na entrevista."
       }
     },
@@ -148,6 +158,7 @@
       "body": "Imagine que, durante uma conversa sobre dinheiro, uma pessoa insiste em pedir detalhes e a outra vai ficando mais quieta. O silêncio leva a novas perguntas. Circularidade descreve como uma resposta passa a fazer parte do contexto da ação seguinte. A hipótese muda conforme se conhece o significado desse silêncio para cada participante.",
       "objective": "Desenhe a sequência de respostas no exemplo e indique que informação falta para interpretar o silêncio.",
       "resources": [
+        "gl-circularidade",
         "entrevista",
         "nagem",
         "costa"
@@ -156,6 +167,7 @@
       "relation": "prerequisite",
       "lane": "center",
       "resourceGuides": {
+        "gl-circularidade": "Comece em “Da causalidade linear à circular”. Escolha uma ação e descreva como ela responde ao que aconteceu antes e afeta o que vem depois.",
         "nagem": "No relato de Carlos, acompanhe a mudança na conversa quando o profissional ouve outras versões de uma relação familiar.",
         "entrevista": "Leia a parte sobre perguntas circulares. Escolha uma pergunta e observe de quem ela pede o ponto de vista e sobre qual relação.",
         "costa": "Procure a discussão da Escola de Palo Alto e anote o que muda quando o foco da explicação é uma sequência de comunicação."
@@ -170,10 +182,12 @@
       "relation": "related",
       "lane": "left",
       "resources": [
+        "gl-estrutura",
         "autoridade",
         "costa"
       ],
       "resourceGuides": {
+        "gl-estrutura": "Vá a “Hierarquia e os três eixos”. Identifique uma decisão que pode ser compreendida a partir da distribuição das responsabilidades.",
         "autoridade": "No artigo de Corsini, encontre uma mudança histórica na maneira de pensar autoridade e relacione-a à atuação do terapeuta.",
         "costa": "Compare os usos de hierarquia nas escolas estrutural e estratégica. Identifique que pergunta cada uma faria sobre quem decide."
       }
@@ -184,6 +198,7 @@
       "body": "Na escola estrutural associada a Salvador Minuchin, um subsistema é um conjunto de relações organizado em torno de uma função, como cuidar de uma criança. Fronteiras regulam quem participa de uma decisão e de que maneira. Duas famílias com a mesma composição podem distribuir de modos distintos as responsabilidades pelo cuidado.",
       "objective": "Em uma família fictícia, descreva quem cuida de uma criança no dia a dia e quem participa de uma decisão escolar.",
       "resources": [
+        "gl-fronteiras",
         "costa",
         "jovem",
         "aula-estrutural"
@@ -192,6 +207,7 @@
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
+        "gl-fronteiras": "Comece em “O que são fronteiras”. Escolha um exemplo de interação e observe quem pode participar e de que maneira.",
         "costa": "Leia a apresentação da Escola Estrutural e diferencie o papel desempenhado na família de uma posição desenhada no organograma.",
         "jovem": "Compare as decisões tomadas por Gabriel e por sua mãe ao longo do atendimento, observando o que os autores chamam de fronteiras.",
         "aula-estrutural": "O link abre a aula sobre Minuchin. Procure como o grupo apresenta subsistemas e limites entre eles; compare com o caso de Gabriel."
@@ -206,10 +222,12 @@
       "relation": "related",
       "lane": "left",
       "resources": [
+        "gl-subsistema",
         "aula-estrutural",
         "protocolo"
       ],
       "resourceGuides": {
+        "gl-subsistema": "Leia “Os três subsistemas clássicos”. Pense em uma pessoa que exerce duas funções e dê um exemplo de quando cada uma aparece.",
         "aula-estrutural": "Na apresentação da escola estrutural, anote um exemplo de subsistema e a função em torno da qual se organiza.",
         "protocolo": "Na parte de estrutura familiar, examine como as perguntas permitem conhecer funções e relações entre subsistemas."
       }
@@ -223,10 +241,12 @@
       "relation": "related",
       "lane": "right",
       "resources": [
+        "gl-fronteiras",
         "jovem",
         "protocolo"
       ],
       "resourceGuides": {
+        "gl-fronteiras": "Vá a “Um espectro de permeabilidade”. Compare os exemplos de fronteiras rígidas, difusas e claras.",
         "jovem": "No atendimento a Gabriel e Joana, localize quando os autores descrevem a delimitação de fronteiras e quais observações sustentam essa leitura.",
         "protocolo": "Leia a discussão sobre fronteiras na estrutura familiar. Anote que dados seriam necessários para descrever um limite como rígido ou difuso."
       }
@@ -237,6 +257,7 @@
       "body": "A escola de Milão explorou perguntas que convidam alguém a falar de diferenças, relações e mudanças. Uma pergunta como “Quem costuma perceber primeiro que a conversa está ficando difícil?” abre espaço para comparar perspectivas. O modo de perguntar já influencia as descrições que passam a circular na conversa.",
       "objective": "Compare o que seria possível ouvir ao perguntar quando uma conversa mudou e ao perguntar quem percebeu essa mudança primeiro.",
       "resources": [
+        "gl-circularidade",
         "entrevista",
         "nagem"
       ],
@@ -244,6 +265,7 @@
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
+        "gl-circularidade": "Vá a “A pergunta circular na clínica”. No exemplo, identifique quem responde e de qual relação se fala.",
         "entrevista": "Na discussão das perguntas na entrevista, compare o que se conhece ao ouvir uma pessoa falar de si e ao ouvi-la descrever uma relação.",
         "nagem": "Procure o exemplo em que o profissional recorre às vozes de outros familiares. Note o que se torna possível dizer sobre Carlos."
       }
@@ -257,10 +279,12 @@
       "relation": "related",
       "lane": "left",
       "resources": [
+        "milao-introducao",
         "costa",
         "autoridade"
       ],
       "resourceGuides": {
+        "milao-introducao": "Comece por “Origens e evolução do modelo de Milão”. Depois escolha um conceito para comparar com a apresentação de Costa.",
         "costa": "Procure a descrição da Escola de Milão e dos princípios organizadores de suas entrevistas.",
         "autoridade": "Localize a referência a Cecchin. Compare o sentido de neutralidade com o de curiosidade na releitura do modelo."
       }
@@ -278,7 +302,7 @@
         "entrevista"
       ],
       "resourceGuides": {
-        "costa": "Na apresentação de Milão, localize a função das hipóteses ao conduzir a entrevista.",
+        "costa": "Busque “hipotetização” na apresentação de Milão. Observe por que a hipótese orienta perguntas e pode ser revista.",
         "entrevista": "Procure a hipótese formulada a partir do contato inicial. Observe que informações da primeira sessão podem modificá-la."
       }
     },
@@ -291,10 +315,12 @@
       "relation": "related",
       "lane": "right",
       "resources": [
+        "milao-introducao",
         "autoridade",
         "narvaz"
       ],
       "resourceGuides": {
+        "milao-introducao": "Comece na seção sobre a equipe e a neutralidade. Depois use os artigos seguintes para comparar a releitura de Cecchin e a crítica feminista.",
         "autoridade": "Leia a discussão de Corsini sobre Cecchin e a impossibilidade de uma fala inteiramente neutra.",
         "narvaz": "Use a crítica feminista para identificar o limite de uma posição de neutralidade numa situação de violência."
       }
@@ -308,10 +334,12 @@
       "relation": "related",
       "lane": "right",
       "resources": [
+        "gl-circularidade",
         "nagem",
         "entrevista"
       ],
       "resourceGuides": {
+        "gl-circularidade": "Vá a “A pergunta circular na clínica”. Escolha uma pergunta e diga quem descreve a relação de quem.",
         "nagem": "Acompanhe a participação de outras vozes no relato sobre Carlos e reconheça quem é descrito por quem.",
         "entrevista": "Releia as perguntas sobre interações e compare o que elas revelam com uma pergunta dirigida a uma pessoa sobre seu próprio estado."
       }
@@ -322,6 +350,7 @@
       "body": "Mudanças de cidade, separações, nascimentos e perdas podem reorganizar quem oferece apoio e como se transmite uma história. Uma leitura entre gerações investiga continuidades e rupturas. Quando dois parentes recordam de forma diferente a mesma mudança de casa, cada versão informa algo sobre a experiência de quem a conta.",
       "objective": "Escolha um acontecimento fictício e escreva dois relatos breves, um do ponto de vista de uma avó e outro do ponto de vista de um neto.",
       "resources": [
+        "gl-transgeracionalidade",
         "bowen",
         "kruger",
         "aula-bowen"
@@ -330,6 +359,7 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
+        "gl-transgeracionalidade": "Comece pela definição. Escolha um papel, regra ou história de família que valeria acompanhar em duas gerações.",
         "bowen": "No caso descrito, siga uma relação familiar através de pelo menos duas gerações e localize uma mudança entre elas.",
         "kruger": "Em uma das duas histórias clínicas, identifique uma lembrança de perda que passa a ter significados diferentes na conversa.",
         "aula-bowen": "Assista à apresentação de Monica Gonçalves e anote qual pergunta sobre a família de origem ajuda a situar um vínculo atual."
@@ -348,7 +378,7 @@
         "aula-bowen"
       ],
       "resourceGuides": {
-        "contrib": "Procure como as autoras organizam os conceitos centrais de Bowen e localize os que dizem respeito a mais de uma geração.",
+        "contrib": "Comece pela lista dos conceitos de Bowen. Escolha um deles para explicar como uma relação atual pode envolver a história da família de origem.",
         "aula-bowen": "Acompanhe o raciocínio da professora ao passar de um vínculo atual para perguntas sobre a família de origem."
       }
     },
@@ -361,10 +391,12 @@
       "relation": "related",
       "lane": "left",
       "resources": [
+        "gl-diferenciacao",
         "jovem",
         "contrib"
       ],
       "resourceGuides": {
+        "gl-diferenciacao": "Leia “Um contínuo, não uma categoria”. Procure como o texto diferencia ter uma posição própria de se afastar das pessoas próximas.",
         "jovem": "Acompanhe a apresentação da queixa pela mãe e pelo filho. Localize uma decisão em que aparece a possibilidade de um posicionamento próprio.",
         "contrib": "Encontre a diferença entre funcionar de modo reativo e sustentar uma posição própria. Compare com a decisão observada no estudo de caso."
       }
@@ -378,10 +410,12 @@
       "relation": "related",
       "lane": "right",
       "resources": [
+        "gl-triangulacao",
         "bowen",
         "contrib"
       ],
       "resourceGuides": {
+        "gl-triangulacao": "Comece em “Como o mecanismo opera”. Observe o que muda quando uma terceira pessoa entra na sequência.",
         "bowen": "Localize a discussão dos triângulos entrelaçados e depois um exemplo da família de Ana Maria.",
         "contrib": "Leia o trecho que explica o alívio de tensão pela entrada de uma terceira pessoa. Distinga alívio momentâneo de mudança no problema."
       }
@@ -395,10 +429,12 @@
       "relation": "related",
       "lane": "left",
       "resources": [
+        "gl-transgeracionalidade",
         "contrib",
         "bowen"
       ],
       "resourceGuides": {
+        "gl-transgeracionalidade": "Leia a definição e a distinção entre os termos. Depois, compare a transmissão discutida no verbete com o processo multigeracional descrito por Bowen.",
         "contrib": "Localize o processo de transmissão multigeracional e como se articula ao de diferenciação.",
         "bowen": "No estudo de caso, percorra duas gerações e observe quais relações os autores usam para sustentar sua hipótese."
       }
@@ -412,12 +448,12 @@
       "relation": "related",
       "lane": "right",
       "resources": [
-        "ciclo",
-        "video-ciclo"
+        "video-ciclo",
+        "ciclo"
       ],
       "resourceGuides": {
-        "ciclo": "Compare duas transições nas figuras do ensaio. Procure como se alteram os vínculos e as fronteiras representados.",
-        "video-ciclo": "Compare o que o vídeo chama de estressores verticais e horizontais. Dê um exemplo de como os dois podem se encontrar."
+        "video-ciclo": "No vídeo de quatro minutos, anote uma transição e uma situação em que se combinam mudanças atuais e questões de outras gerações.",
+        "ciclo": "Compare duas transições nas figuras do ensaio. Procure como se alteram os vínculos e as fronteiras representados."
       }
     },
     {
@@ -429,10 +465,12 @@
       "relation": "related",
       "lane": "left",
       "resources": [
+        "gl-transicoes",
         "transicao",
         "ensino"
       ],
       "resourceGuides": {
+        "gl-transicoes": "Em “Ciclo de vida familiar”, localize a entrada na escola. Pense no que muda para a criança, para quem cuida dela e para a escola.",
         "transicao": "Veja como as mães foram entrevistadas e como se usou o genograma para investigar a adaptação escolar.",
         "ensino": "Compare a descrição das etapas do ciclo vital na atividade de ensino com as informações sobre contexto que o estudo da entrada na escola recolheu."
       }
@@ -446,10 +484,12 @@
       "relation": "related",
       "lane": "right",
       "resources": [
+        "legados-perda",
         "kruger",
         "transicao"
       ],
       "resourceGuides": {
+        "legados-perda": "Leia o resumo e escolha uma mudança nos papéis dos filhos após a perda. Compare com uma situação descrita no artigo seguinte.",
         "kruger": "Acompanhe uma das duas histórias organizadas em torno de morte e morrer. Localize a pergunta que ajuda a ampliar a narrativa.",
         "transicao": "Na análise dos eventos familiares, observe como perdas e separações aparecem nos relatos sobre a passagem para a escola."
       }
@@ -467,7 +507,7 @@
         "ecomapa"
       ],
       "resourceGuides": {
-        "migracao": "Na síntese dos estudos latino-americanos, identifique uma mudança de papéis ou de vínculo entre membros da família migrante.",
+        "migracao": "Comece pelo resumo. Identifique uma mudança relatada nas relações entre gerações ou nas redes de apoio após a migração.",
         "ecomapa": "Adapte o desenho da rede usado com as duas famílias para representar apoios que permanecem em outro território."
       }
     },
@@ -477,6 +517,7 @@
       "body": "O genograma permite desenhar pessoas, acontecimentos e vínculos ao longo das gerações. Ao construir o desenho junto com uma família, surgem perguntas sobre quem foi incluído, quais relações tiveram importância e como cada pessoa gostaria de representá-las. Uma linha desenhada entre duas pessoas precisa de uma história para ganhar significado.",
       "objective": "Desenhe um genograma fictício de três gerações e anote uma pergunta sobre um vínculo que o desenho, sozinho, deixa em aberto.",
       "resources": [
+        "gl-genograma",
         "genograma-aula",
         "kruger",
         "estrutura"
@@ -485,6 +526,7 @@
       "relation": "related",
       "lane": "left",
       "resourceGuides": {
+        "gl-genograma": "Leia a definição e identifique duas informações que o desenho registra além do parentesco.",
         "genograma-aula": "Acompanhe a demonstração do desenho e diferencie os vínculos familiares das conexões com a comunidade representadas no ecomapa.",
         "kruger": "Observe o que uma pergunta provoca quando membros da família comentam as linhas do desenho.",
         "estrutura": "Localize as convenções gráficas e compare o que o desenho informa com o que os pesquisadores precisaram perguntar."
@@ -503,7 +545,7 @@
         "genograma-aula"
       ],
       "resourceGuides": {
-        "estrutura": "Na seção sobre aplicação e análise do genograma, localize os símbolos e as informações que os pesquisadores precisaram acrescentar.",
+        "estrutura": "Vá direto à figura e à legenda do genograma. Escolha duas marcas e veja que informação cada uma dá sobre as relações.",
         "genograma-aula": "Acompanhe a representação das relações no desenho e confira que marcas precisam ser traduzidas por uma legenda."
       }
     },
@@ -520,7 +562,7 @@
         "estrutura"
       ],
       "resourceGuides": {
-        "kruger": "Em uma das histórias clínicas, identifique um novo sentido que surge enquanto a família comenta o genograma.",
+        "kruger": "Escolha uma das duas histórias clínicas. Observe como o desenho abre espaço para perguntar o sentido de um vínculo.",
         "estrutura": "Observe em que momento do procedimento os participantes fornecem informações que o pesquisador não poderia inferir apenas dos símbolos."
       }
     },
@@ -538,7 +580,7 @@
         "genograma-aula"
       ],
       "resourceGuides": {
-        "ecomapa": "Compare os ecomapas das duas famílias e localize um vínculo externo que não seria visível apenas no genograma.",
+        "ecomapa": "Leia no resumo a diferença entre genograma e ecomapa. Para observar o mapa de apoio de cada família, abra o PDF no periódico.",
         "ensino": "Veja como o ecomapa entra na atividade com os casos didáticos. Identifique o que o desenho acrescenta à caracterização da família.",
         "genograma-aula": "Acompanhe a passagem do genograma para o ecomapa e observe o que se passa a representar fora do núcleo familiar."
       }
@@ -549,6 +591,7 @@
       "body": "Nas vertentes construcionistas, importa como os sentidos se produzem nas conversas. Uma família que se descreve como “sempre desunida” pode lembrar de um período em que seus membros dividiram o cuidado de um parente. Investigar o que possibilitou aquela cooperação amplia as histórias que podem contar de si.",
       "objective": "Compare duas descrições de uma mesma família fictícia e mostre qual experiência cada uma torna mais visível.",
       "resources": [
+        "narrativa-introducao",
         "morgan",
         "narrativa-br",
         "aula-construcionismo"
@@ -557,6 +600,7 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
+        "narrativa-introducao": "Leia os primeiros parágrafos. Observe que decisões uma pessoa toma ao organizar acontecimentos numa história.",
         "morgan": "No capítulo 1, que começa na página 4 do PDF, veja como acontecimentos dispersos ganham sentido ao serem ligados num enredo.",
         "narrativa-br": "Na descrição da sessão, identifique um acontecimento recuperado durante a conversa que amplia a história inicialmente contada.",
         "aula-construcionismo": "No encontro com Ana Paula Risson, procure como a linguagem participa da construção do que passa a contar como um problema."
@@ -571,10 +615,12 @@
       "relation": "related",
       "lane": "left",
       "resources": [
+        "narrativa-introducao",
         "morgan",
         "intervencoes"
       ],
       "resourceGuides": {
+        "narrativa-introducao": "Comece no parágrafo sobre selecionar o que contar. Dê um exemplo de acontecimento que poderia ficar fora do enredo dominante.",
         "morgan": "No capítulo 1, a partir da página 4 do PDF, acompanhe o exemplo usado para explicar a construção de uma história dominante.",
         "intervencoes": "Na apresentação de White e Epston, localize o papel da narrativa na produção de sentidos para a experiência."
       }
@@ -588,10 +634,12 @@
       "relation": "related",
       "lane": "left",
       "resources": [
+        "gl-externalizacao",
         "narrativa-br",
         "vivencia"
       ],
       "resourceGuides": {
+        "gl-externalizacao": "Vá a “Como uma conversa de externalização se constrói”. Escolha uma pergunta e observe como ela muda quem ou o que ocupa o lugar de problema.",
         "narrativa-br": "Localize a descrição externalizada do problema e a exploração de seus efeitos na proposta de sessão única.",
         "vivencia": "Acompanhe a análise das conversas com Daniel. Identifique uma formulação que muda a relação entre ele e o problema."
       }
@@ -605,10 +653,12 @@
       "relation": "related",
       "lane": "right",
       "resources": [
+        "narrativa-introducao",
         "vivencia",
         "morgan"
       ],
       "resourceGuides": {
+        "narrativa-introducao": "Leia os parágrafos sobre a seleção do que se conta. No estudo seguinte, observe o que acontece quando o grupo retoma um episódio antes deixado de fora.",
         "vivencia": "Leia a sequência em que Daniel conta uma iniciativa e o grupo recupera o sentido desse acontecimento nas sessões seguintes.",
         "morgan": "No capítulo 2, a partir da página 10 do PDF, procure como a autora relaciona histórias alternativas a acontecimentos que haviam ficado de fora."
       }
@@ -622,10 +672,12 @@
       "relation": "related",
       "lane": "left",
       "resources": [
+        "cartas-pratica",
         "vivencia",
         "intervencoes"
       ],
       "resourceGuides": {
+        "cartas-pratica": "Busque “White e Epston”. Escolha uma finalidade atribuída às cartas e identifique que acontecimento a escrita poderia ajudar a retomar.",
         "vivencia": "Na descrição do caso Daniel, relacione o trecho sobre a carta ao que ele conta numa sessão posterior.",
         "intervencoes": "Localize a discussão dos documentos e cartas na prática narrativa. Compare a finalidade apresentada com a do exemplo de Daniel."
       }
@@ -639,10 +691,12 @@
       "relation": "related",
       "lane": "right",
       "resources": [
+        "gl-colaborativas",
         "desafios",
         "grandesso-encontro"
       ],
       "resourceGuides": {
+        "gl-colaborativas": "Comece em “O cliente como especialista”. Pense em uma pergunta que permita à pessoa corrigir a interpretação de quem a atende.",
         "desafios": "No trecho dedicado a Anderson e Goolishian, procure a noção de não saber e o que ela pede de quem escuta.",
         "grandesso-encontro": "Ouça como Grandesso apresenta o encontro. Relacione uma observação da entrevista à curiosidade diante dos sentidos de uma palavra."
       }
@@ -656,10 +710,12 @@
       "relation": "related",
       "lane": "left",
       "resources": [
+        "gl-equipe-reflexiva",
         "desafios",
         "colaborativa"
       ],
       "resourceGuides": {
+        "gl-equipe-reflexiva": "Vá a “Trocar de lugar com a família”. Identifique o que muda quando a família pode ouvir e comentar a conversa da equipe.",
         "desafios": "Localize a apresentação de Andersen e a passagem em que a equipe partilha seus pensamentos com a família.",
         "colaborativa": "Observe no atendimento com criança em quais momentos a equipe reflexiva participa e o que acontece depois."
       }
@@ -677,7 +733,7 @@
         "grandesso-diversidade"
       ],
       "resourceGuides": {
-        "colaborativa": "Comece pelos trechos de conversa reproduzidos pelas autoras. Observe como a criança responde quando a pergunta se dirige a ela.",
+        "colaborativa": "Leia o resumo sobre a participação infantil. Para encontrar uma fala da criança na sessão, abra o PDF do relato.",
         "grandesso-diversidade": "Ouça a discussão sobre acolher perspectivas distintas. Volte ao relato e procure um momento em que uma versão recebe mais espaço."
       }
     },
@@ -694,7 +750,7 @@
         "colaborativa"
       ],
       "resourceGuides": {
-        "grupo": "Localize as etapas em que os participantes propõem manchetes e elegem um tema. Siga a passagem de uma história individual à conversa entre famílias.",
+        "grupo": "Leia o resumo e escolha uma contribuição relatada. Para saber como ela apareceu nas conversas dos encontros, abra o PDF da revista.",
         "colaborativa": "Compare o papel da equipe no atendimento de uma família com o papel da equipe reflexiva no grupo multifamiliar de Gelain e Waldow."
       }
     },
@@ -712,7 +768,7 @@
       "relation": "related",
       "lane": "right",
       "resourceGuides": {
-        "narvaz": "Procure a crítica ao uso da circularidade em situações de violência. Aponte o que se perde quando as posições de poder são tratadas como equivalentes.",
+        "narvaz": "Vá ao trecho sobre a crítica feminista à terapia de família. Escolha um pressuposto que possa esconder uma desigualdade.",
         "cuidar": "No relato, examine a organização cotidiana do cuidado e quais mudanças se tornaram possíveis para quem cuidava dos demais.",
         "genero-formacao": "Compare como as autoras pesquisaram a presença de gênero em cursos de formação e em publicações da área."
       }
@@ -730,7 +786,7 @@
         "narvaz"
       ],
       "resourceGuides": {
-        "cuidar": "Na descrição da intervenção, acompanhe quem assume o cuidado e o que muda para a pessoa que se dedica aos demais.",
+        "cuidar": "No relato, localize a apresentação da família e identifique quem concentrava as tarefas de cuidado antes da primeira sessão.",
         "narvaz": "Localize como as autoras relacionam trabalho, gênero e poder na família. Procure o que essa leitura acrescenta ao relato de cuidado."
       }
     },
@@ -743,12 +799,12 @@
       "relation": "related",
       "lane": "right",
       "resources": [
-        "violencia",
-        "narvaz"
+        "narvaz",
+        "violencia"
       ],
       "resourceGuides": {
-        "violencia": "Leia a discussão da violência contra a mulher e identifique como a perspectiva feminista situa os atos no contexto de desigualdade.",
-        "narvaz": "Procure a crítica às leituras que distribuem a responsabilidade pela violência igualmente entre as pessoas. Explique o limite que as autoras identificam."
+        "narvaz": "Localize a discussão sobre violência de gênero. Compare a responsabilidade pela violência com a ideia de influência mútua nas relações.",
+        "violencia": "Leia a discussão da violência contra a mulher e identifique como a perspectiva feminista situa os atos no contexto de desigualdade."
       }
     },
     {
@@ -760,10 +816,12 @@
       "relation": "related",
       "lane": "left",
       "resources": [
+        "arranjos-crp",
         "diversidade-spier",
         "afirmativa"
       ],
       "resourceGuides": {
+        "arranjos-crp": "Leia a abertura e o parágrafo que descreve a diversidade dos lares. Pense em quem seria incluído se cada pessoa definisse a própria família.",
         "diversidade-spier": "Procure no levantamento a discussão sobre família de origem e família escolhida. Compare o que essas expressões tornam visível sobre os vínculos que cada pessoa reconhece.",
         "afirmativa": "Use uma das vinhetas para identificar que dúvida o terapeuta precisa esclarecer com a pessoa, em vez de deduzir pela composição da família."
       }
@@ -781,7 +839,7 @@
         "diversidade-spier"
       ],
       "resourceGuides": {
-        "afirmativa": "Compare as vinhetas e localize como as formas de descoberta ou revelação da orientação sexual mudam as necessidades de escuta.",
+        "afirmativa": "Escolha uma das vinhetas. Observe como a equipe responde a um pressuposto sobre orientação sexual ou arranjo familiar.",
         "diversidade-spier": "Leia a discussão sobre preconceito por orientação sexual. Compare as lacunas encontradas na busca de 2013 com as vinhetas de Leite e Catelan na outra leitura."
       }
     },
@@ -798,7 +856,7 @@
       "relation": "sequence",
       "lane": "center",
       "resourceGuides": {
-        "fisher": "Na síntese em português da Cochrane, identifique a população, uma comparação e o grau de confiança nas conclusões da revisão.",
+        "fisher": "Leia a síntese em linguagem simples e anote o que foi comparado, quais resultados foram medidos e onde a certeza foi limitada.",
         "cuidar": "Compare a evidência apresentada no relato de intervenção com a da revisão. Identifique que pergunta o relato permite explorar em detalhe."
       }
     },
@@ -815,7 +873,7 @@
         "sem-mudanca"
       ],
       "resourceGuides": {
-        "momentos": "Leia a introdução e um trecho de sessão. Identifique a pergunta sobre o processo e a passagem usada pelos autores para respondê-la.",
+        "momentos": "Comece pelo resumo e leia um dos momentos marcantes na seção de resultados. Localize o que passou a ser dito de outro modo.",
         "sem-mudanca": "Na seção de método, veja como a equipe definiu um resultado insatisfatório e que avaliações das famílias entraram nesse critério."
       }
     },
@@ -828,12 +886,12 @@
       "body": "Uma família atendida e o grupo de pessoas que participa de uma pesquisa podem ter composições diferentes. Entrevistar cada adulto separadamente pode tornar visíveis experiências distintas do mesmo atendimento.",
       "objective": "Identifique de quem vem cada interpretação e quais perspectivas ficaram fora da pesquisa.",
       "resources": [
-        "sentidos-familiares",
-        "momentos"
+        "momentos",
+        "sentidos-familiares"
       ],
       "resourceGuides": {
-        "sentidos-familiares": "Compare a descrição dos participantes com a das famílias atendidas. Localize por que as autoras escolheram entrevistas individuais e quais pessoas ficaram fora delas.",
-        "momentos": "Na apresentação do caso e em um diálogo transcrito, observe quem fala e como os pesquisadores justificam a escolha daquele momento."
+        "momentos": "Compare quem aparece na descrição da família com as pessoas citadas na análise da última sessão. Anote quais vozes o estudo destaca nesse trecho.",
+        "sentidos-familiares": "Comece pela tabela com os participantes. Compare quem esteve na terapia e quem foi ouvido na pesquisa."
       }
     },
     {
@@ -845,12 +903,12 @@
       "body": "Um diálogo pode abrir uma possibilidade que ganha espaço depois ou desaparece nas sessões seguintes. Acompanhar a sequência das conversas ajuda a distinguir um momento significativo de um resultado duradouro.",
       "objective": "Compare um episódio de mudança com a trajetória do caso e marque até quando há observações.",
       "resources": [
-        "sem-mudanca",
-        "momentos"
+        "momentos",
+        "sem-mudanca"
       ],
       "resourceGuides": {
-        "sem-mudanca": "Compare os registros das famílias A e B ao longo das sessões. Identifique onde surge uma maneira diferente de contar a história e o que acontece com ela depois.",
-        "momentos": "Acompanhe a passagem da descrição de um problema individual para uma responsabilidade compartilhada. Identifique quais trocas de fala sustentam essa interpretação."
+        "momentos": "Na seção de resultados, compare dois momentos marcantes. Identifique em que ponto do atendimento cada um ocorreu e o que a família disse sobre a mudança.",
+        "sem-mudanca": "Compare os registros das famílias A e B ao longo das sessões. Identifique onde surge uma maneira diferente de contar a história e o que acontece com ela depois."
       }
     }
   ],
@@ -861,13 +919,13 @@
       "authors": "Vânia Bastos Fonseca de Castilho",
       "institution": "Revista Brasileira de Terapia Familiar / ABRATEF",
       "year": 2009,
-      "url": "https://revbrasterapiafamiliar.abratef.org.br/revista/article/download/130/120/237",
+      "url": "https://app.complexe-systemique.com/pt_BR/artigos/historia-fundamentos-e-novas-tendencias-da-terapia-familiar-sistemica",
       "sourcePage": "https://revbrasterapiafamiliar.abratef.org.br/revista/article/view/130",
       "language": "pt-BR",
-      "format": "Artigo histórico em PDF",
-      "access": "PDF integral gratuito, sem cadastro na consulta.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos a página editorial, o PDF, o título, a autoria e o texto sobre as origens do campo.",
+      "format": "Artigo histórico",
+      "access": "Texto integral aberto no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos a autoria, o texto integral em HTML e a indicação de republicação sob CC BY 4.0.",
       "rights": "A página do artigo informa CC BY 4.0.",
       "caveat": "A referência sugerida pelo periódico usa 2009. O cabeçalho do PDF identifica a edição de janeiro/junho de 2008. O panorama corresponde àquele período.",
       "relevance": "Comece pela origem dos estudos sobre comunicação familiar. Em seguida, acompanhe a passagem do estudo de interações observáveis às questões sobre o papel de quem observa.",
@@ -1366,13 +1424,13 @@
       "authors": "Lilian de Almeida Guimarães · Sandra Aparecida de Lima · Adriana Bellodi Costa César",
       "institution": "Nova Perspectiva Sistêmica",
       "year": 2012,
-      "url": "https://revistanps.emnuvens.com.br/nps/article/download/271/263",
+      "url": "https://www.revistanps.com.br/nps/article/view/271",
       "sourcePage": "https://revistanps.emnuvens.com.br/nps/article/view/271",
       "language": "pt-BR",
-      "format": "Relato clínico em PDF",
-      "access": "PDF integral e gratuito disponibilizado pelo periódico.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o registro editorial, a autoria, o PDF completo e o trecho indicado.",
+      "format": "Resumo e relato clínico",
+      "access": "Resumo aberto no navegador. O texto integral está no botão PDF do periódico.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o resumo, a autoria e a opção de texto integral no site do periódico.",
       "rights": "Consulta na publicação que disponibiliza a obra. O mapa remete à fonte.",
       "caveat": "O trabalho relata um atendimento de família com criança em um contexto de formação.",
       "relevance": "Leia os diálogos do atendimento e identifique uma ocasião em que a criança passa a ocupar outro lugar na conversa.",
@@ -1430,16 +1488,16 @@
       "authors": "Denise Gelain · Doris Waldow",
       "institution": "Nova Perspectiva Sistêmica",
       "year": 2012,
-      "url": "https://revistanps.com.br/nps/article/download/225/213",
+      "url": "https://www.revistanps.com.br/nps/article/view/225",
       "sourcePage": "https://revistanps.com.br/nps/article/view/225",
       "language": "pt-BR",
-      "format": "Estudo de caso em PDF",
-      "access": "PDF integral e gratuito disponibilizado pelo periódico.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o registro editorial, a autoria, o PDF completo e o trecho indicado.",
+      "format": "Resumo de estudo de caso",
+      "access": "Resumo aberto no navegador. O texto integral está no botão PDF do periódico.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o resumo, a autoria e o link para o texto integral na revista.",
       "rights": "Consulta na publicação que disponibiliza a obra. O mapa remete à fonte.",
       "caveat": "Os relatos foram produzidos em um grupo específico e descrevem a experiência de seus participantes.",
-      "relevance": "Procure a sequência de encontros e veja como os autores relacionam a fala de uma família à reação das outras.",
+      "relevance": "O resumo apresenta o funcionamento do grupo e as contribuições relatadas pelas famílias. O PDF detalha os encontros.",
       "nodes": [
         "grupo-multifamiliar"
       ]
@@ -1450,13 +1508,13 @@
       "authors": "Débora F. de Mello · Cláudia S. Vieira · Érica Simpionato · Zélia M.M Biasoli-Alves · Lucila C. Nascimento",
       "institution": "Revista Brasileira de Crescimento e Desenvolvimento Humano",
       "year": 2005,
-      "url": "https://pepsic.scielo.org/scielo.php?pid=S0104-12822005000100009&script=sci_arttext",
+      "url": "https://revistas.usp.br/jhgd/pt_BR/article/view/19751",
       "sourcePage": "https://pepsic.scielo.org/scielo.php?pid=S0104-12822005000100009&script=sci_arttext",
       "language": "pt-BR",
-      "format": "Estudo de caso",
-      "access": "Texto integral em português no periódico, com acesso aberto.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o título, a autoria e o texto integral em português na plataforma do periódico.",
+      "format": "Resumo de estudo de caso",
+      "access": "Resumo aberto no navegador. Os desenhos estão no PDF disponível no periódico.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos a autoria, o resumo e o PDF com os exemplos na página do periódico da USP.",
       "rights": "Consulta na publicação que disponibiliza a obra. O mapa remete à fonte.",
       "caveat": "Estudo na atenção primária. As figuras são exemplos produzidos com famílias concretas.",
       "relevance": "Compare os registros das duas famílias acompanhadas em Ribeirão Preto e o que os desenhos revelam sobre as redes de apoio.",
@@ -1789,12 +1847,12 @@
       "institution": "Psicologia Clínica · PUC-Rio",
       "year": 2015,
       "url": "https://pepsic.scielo.org/scielo.php?pid=S0103-56652015000200002&script=sci_arttext",
-      "sourcePage": null,
+      "sourcePage": "https://www.psi.puc-rio.br/site/images/psi_puc/publicacoes/psi2702.pdf#page=15",
       "language": "pt-BR",
       "format": "Artigo de pesquisa qualitativa",
-      "access": "Artigo integral gratuito em português, acessível pelo link.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidas as entrevistas individuais, a composição das quatro famílias e a análise temática do texto integral.",
+      "access": "Texto integral aberto no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto no PePSIC, a tabela de participantes e o fascículo integral no site da PUC-Rio.",
       "rights": "A publicação oferece acesso público ao artigo. Consulte a fonte para as condições de reprodução.",
       "caveat": "Foram ouvidos sete adultos que frequentaram um serviço-escola. As crianças atendidas não participaram das entrevistas de pesquisa.",
       "relevance": "Compare as expectativas de cada participante com os sentidos que atribui ao trabalho da equipe.",
@@ -1808,20 +1866,21 @@
       "authors": "Emerson F. Rasera e Carla Guanaes",
       "institution": "Psicologia: Teoria e Pesquisa · Universidade de Brasília",
       "year": 2010,
-      "url": "https://periodicos.unb.br/index.php/revistaptp/article/download/17803/16300/29854",
+      "url": "https://www.scielo.br/j/ptp/a/7tVfCRw7q7R5bxznGtXqdLL/?lang=pt",
       "sourcePage": "https://periodicos.unb.br/index.php/revistaptp/article/view/17803",
       "language": "pt-BR",
-      "format": "Artigo de pesquisa · PDF",
-      "access": "Artigo integral gratuito em português, acessível pelo link.",
-      "checkedAt": "2026-11-15",
-      "verification": "Conferidos o método, os trechos das sessões e a discussão do caso no PDF do periódico.",
+      "format": "Artigo de pesquisa",
+      "access": "Texto integral aberto no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos a autoria, o método e os trechos das sessões no texto integral em HTML no SciELO.",
       "rights": "A publicação oferece acesso público ao artigo. Consulte a fonte para as condições de reprodução.",
       "caveat": "Os autores examinam conversas de uma família. A análise permite investigar um processo situado.",
       "relevance": "Escolha um trecho de conversa e identifique como a descrição do problema muda entre uma fala e a seguinte.",
       "nodes": [
         "mudanca-em-terapia",
         "vozes-da-familia",
-        "trajetoria-das-sessoes"
+        "trajetoria-das-sessoes",
+        "queixa-compartilhada"
       ]
     },
     {
@@ -1843,6 +1902,414 @@
       "nodes": [
         "mudanca-em-terapia",
         "trajetoria-das-sessoes"
+      ]
+    },
+    {
+      "id": "gl-cibernetica",
+      "title": "Cibernética",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas · Glossário",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/glossario/cibernetica",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o acesso aberto, o título e a explicação no glossário da publicação.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O verbete introduz a terminologia. Os artigos da ficha desenvolvem o tema com mais contexto.",
+      "relevance": "Apresenta o estudo da regulação e da comunicação e sua chegada ao estudo das famílias.",
+      "nodes": [
+        "cibernetica",
+        "observador"
+      ]
+    },
+    {
+      "id": "gl-retroalimentacao",
+      "title": "Retroalimentação",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas · Glossário",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/glossario/retroalimentacao",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o acesso aberto, o título e a explicação no glossário da publicação.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O verbete introduz a terminologia. Os artigos da ficha desenvolvem o tema com mais contexto.",
+      "relevance": "Compara sequências que amortecem uma mudança às que a amplificam.",
+      "nodes": [
+        "retroalimentacao"
+      ]
+    },
+    {
+      "id": "linha-tempo-br",
+      "title": "Linha do tempo da terapia familiar no Brasil",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/linha-do-tempo",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Cronologia ilustrada",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos os marcos por década e as referências à história da ABRATEF e de outras instituições.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "A cronologia seleciona marcos nacionais e institucionais.",
+      "relevance": "Situa associações, cursos, revistas e trabalhos que contribuíram para a formação do campo no país.",
+      "nodes": [
+        "historia-brasil"
+      ]
+    },
+    {
+      "id": "gl-circularidade",
+      "title": "Circularidade",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas · Glossário",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/glossario/circularidade",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o acesso aberto, o título e a explicação no glossário da publicação.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O verbete introduz a terminologia. Os artigos da ficha desenvolvem o tema com mais contexto.",
+      "relevance": "Explica como ações sucessivas participam da manutenção ou da mudança de uma sequência de interação.",
+      "nodes": [
+        "circularidade",
+        "perguntas",
+        "perguntar-relacoes"
+      ]
+    },
+    {
+      "id": "gl-estrutura",
+      "title": "Estrutura familiar",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas · Glossário",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/glossario/estrutura-familiar",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o acesso aberto, o título e a explicação no glossário da publicação.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "A leitura apresenta a hierarquia no sentido estrutural. O artigo de Corsini discute a relação com autoridade e poder.",
+      "relevance": "Relaciona hierarquia, subsistemas e fronteiras à maneira como as pessoas organizam decisões e responsabilidades.",
+      "nodes": [
+        "autoridade"
+      ]
+    },
+    {
+      "id": "gl-fronteiras",
+      "title": "Fronteiras",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas · Glossário",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/glossario/fronteiras",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o acesso aberto, o título e a explicação no glossário da publicação.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O verbete introduz a terminologia. Os artigos da ficha desenvolvem o tema com mais contexto.",
+      "relevance": "Explica como as fronteiras regulam a participação e a autonomia em diferentes relações familiares.",
+      "nodes": [
+        "fronteiras",
+        "limites"
+      ]
+    },
+    {
+      "id": "gl-subsistema",
+      "title": "Subsistema",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas · Glossário",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/glossario/subsistema",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o acesso aberto, o título e a explicação no glossário da publicação.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O verbete introduz a terminologia. Os artigos da ficha desenvolvem o tema com mais contexto.",
+      "relevance": "Distingue subsistemas conjugais, parentais e fraternos por suas funções.",
+      "nodes": [
+        "subsistemas"
+      ]
+    },
+    {
+      "id": "milao-introducao",
+      "title": "A escola de Milão na terapia familiar sistêmica",
+      "authors": "Complexe Systémique",
+      "institution": "Complexe Systémique",
+      "year": 2025,
+      "url": "https://app.complexe-systemique.com/pt_BR/artigos/a-escola-de-milao-na-terapia-familiar-sistemica",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo introdutório",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos a página integral em português, o histórico da equipe e as seções sobre neutralidade e perguntas circulares.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O texto apresenta o modelo em perspectiva histórica; as práticas se transformaram entre os grupos que sucederam à equipe original.",
+      "relevance": "Resume a formação da equipe de Milão e apresenta princípios como neutralidade e questionamento circular.",
+      "nodes": [
+        "milao",
+        "curiosidade"
+      ]
+    },
+    {
+      "id": "gl-diferenciacao",
+      "title": "Diferenciação do self",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas · Glossário",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/glossario/diferenciacao-do-self",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o acesso aberto, o título e a explicação no glossário da publicação.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O verbete introduz a terminologia. Os artigos da ficha desenvolvem o tema com mais contexto.",
+      "relevance": "Apresenta a diferenciação como possibilidade de sustentar posições próprias em relações próximas.",
+      "nodes": [
+        "diferenciacao"
+      ]
+    },
+    {
+      "id": "gl-triangulacao",
+      "title": "Triangulação",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas · Glossário",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/glossario/triangulacao",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o acesso aberto, o título e a explicação no glossário da publicação.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O verbete introduz a terminologia. Os artigos da ficha desenvolvem o tema com mais contexto.",
+      "relevance": "Explica como a tensão entre duas pessoas pode envolver uma terceira e modificar a relação entre elas.",
+      "nodes": [
+        "triangulos"
+      ]
+    },
+    {
+      "id": "gl-transgeracionalidade",
+      "title": "Transgeracionalidade",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas · Glossário",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/glossario/transgeracionalidade",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o acesso aberto, o título e a explicação no glossário da publicação.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O verbete compara usos de transgeracional e intergeracional que variam entre tradições. O texto de Bowen na ficha trata de seu modelo específico.",
+      "relevance": "Apresenta a transmissão de papéis, regras e histórias por diferentes gerações.",
+      "nodes": [
+        "geracoes",
+        "transmissao"
+      ]
+    },
+    {
+      "id": "gl-transicoes",
+      "title": "Transições familiares",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas · Glossário",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/glossario/transicoes-familiares",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o acesso aberto, o título e a explicação no glossário da publicação.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O verbete introduz a terminologia. Os artigos da ficha desenvolvem o tema com mais contexto.",
+      "relevance": "Explica como mudanças esperadas ou inesperadas podem reorganizar papéis e vínculos familiares.",
+      "nodes": [
+        "entrada-escola"
+      ]
+    },
+    {
+      "id": "legados-perda",
+      "title": "Legados da Perda",
+      "authors": "Ivânia Jann Luna",
+      "institution": "Revista Brasileira de Terapia Familiar · ABRATEF",
+      "year": 2010,
+      "url": "https://revbrasterapiafamiliar.abratef.org.br/revista/article/view/115",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Resumo de estudo de caso",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos a autoria, os instrumentos e os resultados apresentados no resumo editorial.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O resumo reúne relatos de duas famílias, ouvidas a partir da perspectiva de um integrante de cada uma. O PDF integral está no periódico.",
+      "relevance": "Apresenta mudanças nos papéis familiares e nas experiências de autonomia depois de perdas repentinas.",
+      "nodes": [
+        "perdas"
+      ]
+    },
+    {
+      "id": "gl-genograma",
+      "title": "Genograma",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas · Glossário",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/glossario/genograma",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o acesso aberto, o título e a explicação no glossário da publicação.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O verbete introduz a terminologia. Os artigos da ficha desenvolvem o tema com mais contexto.",
+      "relevance": "Define o instrumento e explica o que pode ser registrado no desenho, das pessoas aos vínculos entre gerações.",
+      "nodes": [
+        "genograma"
+      ]
+    },
+    {
+      "id": "narrativa-introducao",
+      "title": "O que é terapia narrativa? Uma introdução de fácil leitura",
+      "authors": "Vanessa Pereira de Lima",
+      "institution": "Núcleo Contemporâneo de Psicoterapia",
+      "year": 2025,
+      "url": "https://ncontemporaneopsi.com.br/2025/05/27/o-que-e-terapia-narrativa-uma-introducao-de-facil-leitura/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo introdutório",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto integral no site do núcleo, a autoria e a formação em Psicologia da autora.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "A autora comenta o texto de Alice Morgan. A tradução publicada pelo Dulwich Centre está entre os recursos da ficha.",
+      "relevance": "Explica com linguagem direta como uma história se torna dominante e como outras seleções de acontecimentos abrem novos sentidos.",
+      "nodes": [
+        "narrativas",
+        "historias",
+        "acontecimentos-singulares"
+      ]
+    },
+    {
+      "id": "gl-externalizacao",
+      "title": "Externalização",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas · Glossário",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/glossario/externalizacao",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o acesso aberto, o título e a explicação no glossário da publicação.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O verbete introduz a terminologia. Os artigos da ficha desenvolvem o tema com mais contexto.",
+      "relevance": "Mostra como uma conversa pode distinguir a pessoa dos efeitos que o problema tem em sua vida.",
+      "nodes": [
+        "externalizacao"
+      ]
+    },
+    {
+      "id": "cartas-pratica",
+      "title": "O uso das cartas terapêuticas na prática clínica",
+      "authors": "Ludoana Pousa Corrêa de Paiva e Emerson Fernando Rasera",
+      "institution": "Psicologia Clínica · SciELO",
+      "year": 2012,
+      "url": "https://www.scielo.br/j/pc/a/d66df8rmxy9pYCrFvhVP9ww/?lang=pt",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Artigo com exemplos de prática",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos a autoria, o texto integral no SciELO e as passagens sobre cartas narrativas.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O artigo compara usos da carta em diferentes tradições. O recorte indicado na ficha é a terapia narrativa.",
+      "relevance": "Distingue finalidades das cartas terapêuticas e descreve como a escrita pode acompanhar a construção de outras histórias.",
+      "nodes": [
+        "cartas"
+      ]
+    },
+    {
+      "id": "gl-colaborativas",
+      "title": "Práticas colaborativas e dialógicas",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas · Glossário",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/glossario/praticas-colaborativas-e-dialogicas",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o acesso aberto, o título e a explicação no glossário da publicação.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O verbete introduz a terminologia. Os artigos da ficha desenvolvem o tema com mais contexto.",
+      "relevance": "Apresenta a conversa terapêutica como lugar compartilhado de produção de sentidos.",
+      "nodes": [
+        "conversas-colaborativas"
+      ]
+    },
+    {
+      "id": "gl-equipe-reflexiva",
+      "title": "Equipe reflexiva",
+      "authors": "Práticas Sistêmicas",
+      "institution": "Práticas Sistêmicas · Glossário",
+      "year": 2026,
+      "url": "https://praticassistemicas.psc.br/glossario/equipe-reflexiva",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Verbete didático",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o acesso aberto, o título e a explicação no glossário da publicação.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O verbete introduz a terminologia. Os artigos da ficha desenvolvem o tema com mais contexto.",
+      "relevance": "Descreve como a família escuta as reflexões de uma equipe e depois retoma a palavra.",
+      "nodes": [
+        "equipe-reflexiva"
+      ]
+    },
+    {
+      "id": "arranjos-crp",
+      "title": "Dia Internacional da Família: CRP-03 destaca diversidade dos lares",
+      "authors": "Conselho Regional de Psicologia da Bahia",
+      "institution": "CRP-03",
+      "year": null,
+      "url": "https://www.crp03.org.br/dia-internacional-da-familia-crp-03-destaca-diversidade-dos-lares/",
+      "sourcePage": null,
+      "language": "pt-BR",
+      "format": "Texto institucional",
+      "access": "Leitura aberta no navegador, sem cadastro.",
+      "checkedAt": "2026-11-25",
+      "verification": "Conferidos o texto integral e a abordagem da diversidade de arranjos no site do CRP-03.",
+      "rights": "O mapa remete à publicação original.",
+      "caveat": "O texto apresenta a diversidade das famílias. Os próximos artigos abordam as implicações para a clínica.",
+      "relevance": "Oferece exemplos de composição familiar e põe em discussão noções únicas de família.",
+      "nodes": [
+        "arranjos"
       ]
     }
   ]
